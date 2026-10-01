@@ -14,6 +14,10 @@ async function readJson(file) {
   }
 }
 
+export async function loadSeenText() {
+  return readFile(path.join(DATA_DIR, "seen.jsonl"), "utf8");
+}
+
 export async function loadDataset() {
   const [programs, cycles] = await Promise.all([readJson("programs.json"), readJson("cycles.json")]);
   return { programs, cycles };

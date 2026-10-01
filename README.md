@@ -17,8 +17,8 @@ _Cập nhật dữ liệu: 01/10/2026 · 11 chương trình · 0 đang mở_
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
-| [FPT Software](https://techjobs.vn/companies/fpt-software?utm_source=github&utm_medium=vn-tech-programs) | [FPT Software Fresher (FSOFT Academy)](https://career.fpt-software.com/employer/fpt-software-academy/) | Fresher | ⚪ Chưa rõ | — | — | — |
-| [FPT Software](https://techjobs.vn/companies/fpt-software?utm_source=github&utm_medium=vn-tech-programs) | [FPT Software Global Internship (TalentSphere)](https://fptsoftware.com/pages/global-internship) | Thực tập | ⚪ Chưa rõ | — | — | — |
+| [FPT Software](https://techjobs.vn/companies/fpt-software?utm_source=github&utm_medium=vn-tech-programs) | [FPT Software Fresher \(FSOFT Academy\)](https://career.fpt-software.com/employer/fpt-software-academy/) | Fresher | ⚪ Chưa rõ | — | — | — |
+| [FPT Software](https://techjobs.vn/companies/fpt-software?utm_source=github&utm_medium=vn-tech-programs) | [FPT Software Global Internship \(TalentSphere\)](https://fptsoftware.com/pages/global-internship) | Thực tập | ⚪ Chưa rõ | — | — | — |
 | [KMS Technology](https://techjobs.vn/companies/kms-technology?utm_source=github&utm_medium=vn-tech-programs) | [KMS Fresher](https://careers.kms-technology.com/fresher/) | Fresher | ⚪ Chưa rõ | — | — | — |
 | [NashTech](https://techjobs.vn/companies/nashtech?utm_source=github&utm_medium=vn-tech-programs) | [NashTech Rookie To Engineer](https://careers.nashtechglobal.com/fresher-program/) | Fresher | ⚪ Chưa rõ | — | — | — |
 

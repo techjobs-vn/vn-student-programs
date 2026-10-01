@@ -15,7 +15,16 @@ const NON_OFFICIAL_HOSTS = [
   "youtube.com",
   "lnkd.in",
   "bit.ly",
+  "tinyurl.com",
+  "forms.gle",
+  "docs.google.com",
+  "zalo.me",
+  "t.me",
 ];
+
+// Characters that would let a URL break out of the README's markdown link syntax.
+const URL_SAFE_RE = /^[^\s()<>\[\]"'`]+$/;
+export const SEEN_VERDICTS = ["added", "rejected", "duplicate"];
 
 const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
@@ -44,7 +53,7 @@ function isHttpsUrl(value) {
 }
 
 function isOfficialHost(value) {
-  const host = new URL(value).hostname.toLowerCase();
+  const host = new URL(value).hostname.toLowerCase().replace(/\.+$/, "");
   return !NON_OFFICIAL_HOSTS.some((h) => host === h || host.endsWith(`.${h}`));
 }
 
@@ -80,8 +89,8 @@ function validateProgram(p) {
     errors.push(`${label}: company.slug must be kebab-case or null`);
   }
 
-  if (!isHttpsUrl(p.official_url)) {
-    errors.push(`${label}: official_url must be an https URL`);
+  if (!isHttpsUrl(p.official_url) || !URL_SAFE_RE.test(p.official_url)) {
+    errors.push(`${label}: official_url must be an https URL without spaces, quotes, brackets or parentheses`);
   } else if (!isOfficialHost(p.official_url)) {
     errors.push(`${label}: official_url must be the company/ATS site, not social media (put that in cycle sources)`);
   }
@@ -109,7 +118,10 @@ function validateCycle(c, programSlugs) {
   }
   if (c.status !== undefined && !STATUSES.includes(c.status)) {
     errors.push(`${label}: status must be one of ${STATUSES.join(", ")}`);
+  } else if (c.status !== undefined && (c.opens_at || c.deadline)) {
+    errors.push(`${label}: status is only for cycles without dates (dates decide the status)`);
   }
+  errors.push(...checkYear(c, label));
 
   const sources = c.sources ?? [];
   if (!Array.isArray(sources) || !sources.every(isHttpsUrl)) {
@@ -120,6 +132,29 @@ function validateCycle(c, programSlugs) {
 
   if (!isValidDate(c.updated_at)) errors.push(`${label}: updated_at must be a real YYYY-MM-DD date`);
   return errors;
+}
+
+// `year` is the year applications open; with only a deadline it may be that year or the one before.
+function checkYear(c, label) {
+  if (!Number.isInteger(c.year)) return [];
+  if (isValidDate(c.opens_at)) {
+    return Number(c.opens_at.slice(0, 4)) === c.year ? [] : [`${label}: year must equal the opens_at year`];
+  }
+  if (isValidDate(c.deadline)) {
+    const deadlineYear = Number(c.deadline.slice(0, 4));
+    return [deadlineYear, deadlineYear - 1].includes(c.year)
+      ? []
+      : [`${label}: year must be the deadline year or the year before`];
+  }
+  return [];
+}
+
+function isPlainObject(value) {
+  return typeof value === "object" && value !== null && !Array.isArray(value);
+}
+
+function nonObjectErrors(list, name) {
+  return list.flatMap((x, i) => (isPlainObject(x) ? [] : [`${name}[${i}] must be an object`]));
 }
 
 function findDuplicates(values) {
@@ -135,6 +170,8 @@ function findDuplicates(values) {
 export function validateDataset({ programs, cycles }) {
   if (!Array.isArray(programs)) return ["programs.json must be an array"];
   if (!Array.isArray(cycles)) return ["cycles.json must be an array"];
+  const shapeErrors = [...nonObjectErrors(programs, "programs"), ...nonObjectErrors(cycles, "cycles")];
+  if (shapeErrors.length) return shapeErrors;
 
   const errors = programs.flatMap(validateProgram);
   errors.push(...findDuplicates(programs.map((p) => p.slug)).map((s) => `duplicate slug "${s}"`));
@@ -149,5 +186,35 @@ export function validateDataset({ programs, cycles }) {
   errors.push(
     ...findDuplicates(cycles.map((c) => `${c.program_slug}/${c.year}`)).map((k) => `duplicate cycle "${k}"`),
   );
+  return errors;
+}
+
+export function validateSeen(text) {
+  const errors = [];
+  const urls = [];
+  text.split("\n").forEach((raw, i) => {
+    const label = `seen.jsonl line ${i + 1}`;
+    if (!raw.trim()) return;
+    let row;
+    try {
+      row = JSON.parse(raw);
+    } catch {
+      errors.push(`${label}: invalid JSON`);
+      return;
+    }
+    if (!isPlainObject(row)) {
+      errors.push(`${label}: must be a JSON object`);
+      return;
+    }
+    if (!isHttpsUrl(row.url)) errors.push(`${label}: url must be an https URL`);
+    else urls.push(row.url);
+    if (!isValidDate(row.first_seen)) errors.push(`${label}: first_seen must be a real YYYY-MM-DD date`);
+    if (!SEEN_VERDICTS.includes(row.verdict)) {
+      errors.push(`${label}: verdict must be one of ${SEEN_VERDICTS.join(", ")}`);
+    } else if (row.verdict === "rejected" && !(typeof row.reason === "string" && row.reason.trim())) {
+      errors.push(`${label}: rejected rows need a reason`);
+    }
+  });
+  errors.push(...findDuplicates(urls).map((u) => `seen.jsonl: duplicate url "${u}"`));
   return errors;
 }

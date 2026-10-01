@@ -53,7 +53,7 @@ Không cần cài package nào, chỉ cần Node.js ≥ 22.
 
 | Trường | Bắt buộc | Ghi chú |
 | --- | :---: | --- |
-| `slug` | ✓ | kebab-case, duy nhất, không chứa năm |
+| `slug` | ✓ | kebab-case, duy nhất; nên không chứa năm vì chương trình lặp lại hằng năm |
 | `name` | ✓ | Tên chính thức của chương trình |
 | `type` | ✓ | `internship` · `fresher` · `graduate` · `management_trainee` · `ambassador` |
 | `company.name` | ✓ | |
@@ -75,7 +75,7 @@ Mỗi chương trình có thể có nhiều đợt, một đợt mỗi năm (`pr
 {
   "program_slug": "viettel-digital-talent",
   "year": 2026,
-  "opens_at": "2026-02-23",
+  "opens_at": "2026-02-12",
   "deadline": "2026-03-15",
   "sources": ["https://viettelfamily.com/news/viettel-talent-2026-chinh-thuc-mo-cong-dang-ky"],
   "updated_at": "2026-10-01"
@@ -83,7 +83,9 @@ Mỗi chương trình có thể có nhiều đợt, một đợt mỗi năm (`pr
 ```
 
 - `opens_at`, `deadline`: `YYYY-MM-DD` hoặc `null` nếu chưa rõ.
-- `status` (tuỳ chọn): `open` · `upcoming` · `closed` · `unknown` — **chỉ dùng khi không có ngày**. Khi có ngày, trạng thái luôn được tính từ ngày.
+- `status` (tuỳ chọn): `open` · `upcoming` · `closed` · `unknown` — **chỉ dùng khi không có ngày** (validate báo lỗi nếu có cả hai). Khi có ngày, trạng thái luôn được tính từ ngày.
+- `year` phải khớp năm của `opens_at`; nếu chỉ biết `deadline` thì là năm đó hoặc năm trước.
+- Khi một chương trình có nhiều đợt, README ưu tiên đợt mới nhất **có ngày**.
 - `sources`: bắt buộc khi có ngày hoặc `status` — link nơi bạn thấy thông tin.
 
 ### `data/seen.jsonl`

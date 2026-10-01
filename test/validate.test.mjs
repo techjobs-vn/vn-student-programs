@@ -111,3 +111,50 @@ test("rejects unexpected fields to catch typos", () => {
   const errors = validateDataset({ programs: [program({ deadlin: "2026-01-01" })], cycles: [] });
   assert.ok(errors.some((e) => e.includes("unexpected field")));
 });
+
+test("rejects official_url containing markdown-breaking characters", () => {
+  const errors = validateDataset({
+    programs: [program({ official_url: "https://a.com/x)[click](https://evil.example" })],
+    cycles: [],
+  });
+  assert.ok(errors.some((e) => e.includes("official_url")));
+});
+
+test("rejects social hosts written with a trailing dot", () => {
+  const errors = validateDataset({
+    programs: [program({ official_url: "https://facebook.com./x" })],
+    cycles: [],
+  });
+  assert.ok(errors.some((e) => e.includes("official_url")));
+});
+
+test("rejects form and shortlink hosts as official_url", () => {
+  for (const url of ["https://forms.gle/abc", "https://docs.google.com/forms/d/x", "https://zalo.me/g/abc"]) {
+    const errors = validateDataset({ programs: [program({ official_url: url })], cycles: [] });
+    assert.ok(errors.some((e) => e.includes("official_url")), url);
+  }
+});
+
+test("reports non-object entries instead of throwing", () => {
+  const errors = validateDataset({ programs: [null], cycles: [null] });
+  assert.ok(errors.some((e) => e.includes("programs[0]")));
+  assert.ok(errors.some((e) => e.includes("cycles[0]")));
+});
+
+test("rejects year that does not match opens_at", () => {
+  const errors = validateDataset({ programs: [program()], cycles: [cycle({ year: 2025 })] });
+  assert.ok(errors.some((e) => e.includes("year")));
+});
+
+test("accepts year one before deadline year when opens_at is unknown", () => {
+  const errors = validateDataset({
+    programs: [program()],
+    cycles: [cycle({ year: 2026, opens_at: null, deadline: "2027-01-10" })],
+  });
+  assert.deepEqual(errors, []);
+});
+
+test("rejects manual status alongside dates since it would be ignored", () => {
+  const errors = validateDataset({ programs: [program()], cycles: [cycle({ status: "open" })] });
+  assert.ok(errors.some((e) => e.includes("status")));
+});

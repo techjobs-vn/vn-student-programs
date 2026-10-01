@@ -1,10 +1,10 @@
 #!/usr/bin/env node
-import { loadDataset } from "./lib/data.mjs";
-import { validateDataset } from "./lib/validate.mjs";
+import { loadDataset, loadSeenText } from "./lib/data.mjs";
+import { validateDataset, validateSeen } from "./lib/validate.mjs";
 
 try {
   const dataset = await loadDataset();
-  const errors = validateDataset(dataset);
+  const errors = [...validateDataset(dataset), ...validateSeen(await loadSeenText())];
   if (errors.length) {
     console.error(`✗ ${errors.length} lỗi dữ liệu:`);
     for (const e of errors) console.error(`  - ${e}`);

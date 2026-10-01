@@ -83,6 +83,39 @@ test("header date is the latest data update, not today, so the README only chang
   assert.ok(!md.includes("25/12/2026"));
 });
 
+test("escapes markdown link syntax in names so rows cannot inject links", () => {
+  const md = renderTables({
+    programs: [{ ...programs[0], name: "x](https://evil.example) [y", company: { name: "C [z](https://e.x)", slug: null } }],
+    cycles: [cycles[0]],
+    today: TODAY,
+  });
+  assert.ok(!md.includes("](https://evil.example)"));
+  assert.ok(!md.includes("](https://e.x)"));
+});
+
+test("prefers the latest dated cycle over a newer placeholder without dates", () => {
+  const md = renderTables({
+    programs: [programs[0]],
+    cycles: [cycles[0], { program_slug: "a-open", year: 2027, opens_at: null, deadline: null, sources: [], updated_at: TODAY }],
+    today: TODAY,
+  });
+  assert.ok(md.includes("🟢 Đang mở"));
+  assert.ok(md.includes("31/10/2026"));
+});
+
+test("sorts upcoming programs by opening date", () => {
+  const p = (slug, name) => ({ ...programs[3], slug, name, official_url: `https://${slug}.example` });
+  const md = renderTables({
+    programs: [p("late", "Opens Late"), p("early", "Opens Early")],
+    cycles: [
+      { program_slug: "late", year: 2026, opens_at: "2026-12-01", deadline: "2026-12-10", sources: ["https://s.example/l"], updated_at: TODAY },
+      { program_slug: "early", year: 2026, opens_at: "2026-11-01", deadline: "2026-12-31", sources: ["https://s.example/e"], updated_at: TODAY },
+    ],
+    today: TODAY,
+  });
+  assert.ok(md.indexOf("Opens Early") < md.indexOf("Opens Late"));
+});
+
 test("escapes pipe characters in names", () => {
   const md = renderTables({
     programs: [{ ...programs[0], name: "A | B" }],

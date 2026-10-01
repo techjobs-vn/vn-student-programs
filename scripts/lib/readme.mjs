@@ -22,8 +22,11 @@ const TYPE_LABEL = {
   ambassador: "Đại sứ sinh viên",
 };
 
+// Escape markdown/HTML syntax so data cannot inject links or markup into the README.
 function escapeCell(text) {
-  return String(text ?? "").replace(/\|/g, "\\|").replace(/\r?\n/g, " ");
+  return String(text ?? "")
+    .replace(/\r?\n/g, " ")
+    .replace(/[\\`*_[\]()<>|]/g, (ch) => `\\${ch}`);
 }
 
 export function formatDate(iso) {
@@ -32,11 +35,15 @@ export function formatDate(iso) {
   return `${d}/${m}/${y}`;
 }
 
+// Latest cycle per program, preferring one with dates so a dateless placeholder
+// for next year cannot hide a cycle that is still open.
 function latestCycleBySlug(cycles) {
+  const hasDates = (c) => Boolean(c.opens_at || c.deadline);
+  const better = (a, b) => (hasDates(a) !== hasDates(b) ? hasDates(a) : a.year > b.year);
   const latest = new Map();
   for (const c of cycles) {
     const prev = latest.get(c.program_slug);
-    if (!prev || c.year > prev.year) latest.set(c.program_slug, c);
+    if (!prev || better(c, prev)) latest.set(c.program_slug, c);
   }
   return latest;
 }
@@ -46,9 +53,12 @@ function companyCell(company) {
   return company.slug ? `[${name}](${SITE}/companies/${company.slug}?${UTM})` : name;
 }
 
+// Date used to order rows within a status group; rows without dates sort last.
 function sortKey(row) {
-  // Within a status group: soonest deadline/opening first, unknown dates last.
-  return row.cycle?.deadline ?? row.cycle?.opens_at ?? "9999-12-31";
+  const c = row.cycle;
+  if (row.status === "upcoming") return c?.opens_at ?? "9999-12-31";
+  if (row.status === "closed") return c?.deadline ?? c?.opens_at ?? "0000-01-01";
+  return c?.deadline ?? c?.opens_at ?? "9999-12-31";
 }
 
 function toRows(programs, cycles, today) {
