@@ -13,7 +13,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 01/10/2026 · 23 chương trình · 5 đang mở_
+_Cập nhật dữ liệu: 01/10/2026 · 25 chương trình · 5 đang mở_
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -31,7 +31,7 @@ _Cập nhật dữ liệu: 01/10/2026 · 23 chương trình · 5 đang mở_
 | [TMA Tech Group](https://techjobs.vn/companies/tma-solutions?utm_source=github&utm_medium=vn-tech-programs) | [TMA Foundation Training \(Talent Fresher\)](https://www.tma.vn/tuyen-dung/moi-tot-nghiep) | Fresher | ⚪ Chưa rõ | — | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (11) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (13) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -45,6 +45,8 @@ _Cập nhật dữ liệu: 01/10/2026 · 23 chương trình · 5 đang mở_
 | [FPT Telecom](https://techjobs.vn/companies/fpt-telecom?utm_source=github&utm_medium=vn-tech-programs) | [FPT Telecom Sinh viên Công nghệ Tập sự](https://fptjobs.com/SVCNTS2026) | Thực tập | 🔴 Đã đóng | 2026 | 12/05/2026 | 26/05/2026 |
 | [Viettel](https://techjobs.vn/companies/viettel?utm_source=github&utm_medium=vn-tech-programs) | [Viettel Digital Talent](https://tuyendung.viettel.vn/page/page-digitalTalent) | Thực tập | 🔴 Đã đóng | 2026 | 12/02/2026 | 15/03/2026 |
 | [Viettel](https://techjobs.vn/companies/viettel?utm_source=github&utm_medium=vn-tech-programs) | [Viettel Future Changemakers](https://tuyendung.viettel.vn/viettel-talent-2026) | Quản trị viên tập sự | 🔴 Đã đóng | 2026 | 12/02/2026 | 15/03/2026 |
+| [VinUni \(Vingroup\)](https://techjobs.vn/companies/vinuni?utm_source=github&utm_medium=vn-tech-programs) | [Đào tạo Nhân tài AI thực chiến](https://vingroup.net/tin-tuc-su-kien/bai-viet/3800/vingroup-dao-tao-20000-nhan-tai-ai-thuc-chien-phu-cap-8-trieu-dongthang) | Graduate | 🔴 Đã đóng | 2026 | 01/02/2026 | 10/02/2026 |
+| VinBigdata \(Vingroup\) | [Chương trình Đào tạo Kỹ sư AI Vingroup](https://institute.vinbigdata.org/programs/chuong-trinh-dao-tao-ky-su-ai-vingroup/) | Thực tập | 🔴 Đã đóng | 2025 | 01/04/2025 | 15/05/2025 |
 | [Grab](https://techjobs.vn/companies/grab?utm_source=github&utm_medium=vn-tech-programs) | [Grab Tech Bootcamp & Internship Vietnam](https://www.grab.careers/en/vietnam-grab-bootcamp-2025/) | Thực tập | 🔴 Đã đóng | 2025 | 01/03/2025 | 31/03/2025 |
 
 </details>

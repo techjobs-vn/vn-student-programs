@@ -560,5 +560,51 @@
     "added_at": "2026-10-01",
     "updated_at": "2026-10-01",
     "notes": "Mỗi lượt đăng ký hợp lệ được $5 cho cả hai bên. Làm bounty để nhận gift card. Đạt 50 lượt đăng ký hợp lệ trong một quý thì lên Advocate; Regional Ambassador chỉ theo lời mời. Sinh viên đã tốt nghiệp chuyển từ Student Program sang và giữ nguyên thành tích."
+  },
+  {
+    "slug": "vingroup-ai-engineer",
+    "name": "Chương trình Đào tạo Kỹ sư AI Vingroup",
+    "type": "internship",
+    "company": {
+      "name": "VinBigdata (Vingroup)",
+      "slug": null
+    },
+    "official_url": "https://institute.vinbigdata.org/programs/chuong-trinh-dao-tao-ky-su-ai-vingroup/",
+    "tracks": [
+      "AI",
+      "Data Science",
+      "Machine Learning"
+    ],
+    "duration": "4 tháng đào tạo + 6 tháng thực tập",
+    "eligibility": "Sinh viên và người mới tốt nghiệp có nền tảng công nghệ từ các trường đại học; đào tạo miễn phí.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Do VinBigdata tổ chức hằng năm; giai đoạn 2 thực tập tại các công ty công nghệ của Vingroup. Năm 2025 (mùa 6) tuyển 70 học viên."
+  },
+  {
+    "slug": "vingroup-ai-talent",
+    "name": "Đào tạo Nhân tài AI thực chiến",
+    "type": "graduate",
+    "company": {
+      "name": "VinUni (Vingroup)",
+      "slug": "vinuni"
+    },
+    "official_url": "https://vingroup.net/tin-tuc-su-kien/bai-viet/3800/vingroup-dao-tao-20000-nhan-tai-ai-thuc-chien-phu-cap-8-trieu-dongthang",
+    "tracks": [
+      "AI"
+    ],
+    "duration": "12 tuần",
+    "eligibility": "Người đã tốt nghiệp đại học, cao đẳng hoặc trung cấp ngành gần với AI; học miễn phí, phụ cấp 8 triệu đồng/tháng.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Vingroup đặt mục tiêu đào tạo tới 20.000 học viên trong 2 năm, tuyển sinh liên tục nhiều khoá."
   }
 ]
