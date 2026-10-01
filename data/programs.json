@@ -587,25 +587,27 @@
   },
   {
     "slug": "vingroup-ai-talent",
-    "name": "Đào tạo Nhân tài AI thực chiến",
-    "type": "graduate",
+    "name": "Đào tạo Nhân tài AI thực chiến (Vingroup × VinUni)",
+    "type": "fresher",
     "company": {
       "name": "VinUni (Vingroup)",
       "slug": "vinuni"
     },
-    "official_url": "https://vingroup.net/tin-tuc-su-kien/bai-viet/3800/vingroup-dao-tao-20000-nhan-tai-ai-thuc-chien-phu-cap-8-trieu-dongthang",
+    "official_url": "https://vinuni.edu.vn/aithucchien/",
     "tracks": [
-      "AI"
+      "AI Business and Product",
+      "AI and Data Infrastructure",
+      "AI Applications"
     ],
-    "duration": "12 tuần",
-    "eligibility": "Người đã tốt nghiệp đại học, cao đẳng hoặc trung cấp ngành gần với AI; học miễn phí, phụ cấp 8 triệu đồng/tháng.",
+    "duration": "12 tuần full-time",
+    "eligibility": "Sinh viên năm cuối hoặc đã tốt nghiệp ĐH, CĐ, trung cấp ngành CNTT, KHMT, AI, ATTT, phân tích dữ liệu hoặc ngành gần; ngành khác cần nền tảng toán, lập trình hoặc dữ liệu.",
     "recurring": "multiple",
     "active": true,
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
     "updated_at": "2026-10-01",
-    "notes": "Vingroup đặt mục tiêu đào tạo tới 20.000 học viên trong 2 năm, tuyển sinh liên tục nhiều khoá."
+    "notes": "Miễn học phí, phụ cấp 8 triệu/tháng; 3 tuần nền tảng + 3 tuần chuyên sâu tại VinUni + 6 tuần thực chiến ở doanh nghiệp. Học viên có cơ hội được tuyển vào các công ty Vingroup (lương 20–50 triệu/tháng). Tuyển sinh nhiều khoá mỗi năm."
   },
   {
     "slug": "zalo-tech-fresher",
