@@ -25,7 +25,9 @@
     "year": 2026,
     "opens_at": null,
     "deadline": "2026-06-05",
-    "sources": ["https://hr.vpbank.com.vn/ta/VPBankYoungTalents2026/index.html"],
+    "sources": [
+      "https://hr.vpbank.com.vn/ta/VPBankYoungTalents2026/index.html"
+    ],
     "updated_at": "2026-10-01",
     "notes": "05/06/2026 là hạn sàng lọc CV."
   },
@@ -57,7 +59,9 @@
     "year": 2025,
     "opens_at": "2025-03-01",
     "deadline": "2025-03-31",
-    "sources": ["https://www.grab.careers/en/vietnam-grab-bootcamp-2025/"],
+    "sources": [
+      "https://www.grab.careers/en/vietnam-grab-bootcamp-2025/"
+    ],
     "updated_at": "2026-10-01"
   },
   {
@@ -70,5 +74,108 @@
       "https://tuyendung.vietinbank.vn/tuyendung/thong-tin-tuyen-dung/TSC202606530T00596"
     ],
     "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "aws-student-builder-group-leader",
+    "year": 2026,
+    "opens_at": "2026-08-26",
+    "deadline": "2026-10-04",
+    "sources": [
+      "https://builder.aws.com/content/3ITldzpQS7bvgVN01IkU2rFJn1o/applications-are-open-become-an-aws-student-builder-group-leader"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Hạn 23:59 ngày 04/10 giờ PST, tức khoảng 14:59 ngày 05/10 giờ Việt Nam."
+  },
+  {
+    "program_slug": "google-student-ambassador-vietnam",
+    "year": 2026,
+    "opens_at": "2026-08-25",
+    "deadline": "2026-09-30",
+    "sources": [
+      "https://googlestudentambassador.vn/",
+      "https://www.hoasen.edu.vn/event/google-student-ambassador-mua-2-chinh-thuc-tro-lai/",
+      "https://grow.google/intl/vi_vn/rise-together-with-google-ai/"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "claude-campus-ambassador",
+    "year": 2026,
+    "opens_at": "2026-09-01",
+    "deadline": "2026-09-12",
+    "sources": [
+      "https://claude.com/programs/campus"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "dai-su-momo-student",
+    "year": 2026,
+    "opens_at": "2026-08-13",
+    "deadline": "2026-09-05",
+    "sources": [
+      "https://www.momo.vn/student-pass/dai-su-momo-student"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "microsoft-student-ambassadors",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "open",
+    "sources": [
+      "https://mvp.microsoft.com/studentambassadors"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Đăng ký liên tục, không có hạn nộp."
+  },
+  {
+    "program_slug": "fpt-frontier-innovators",
+    "year": 2026,
+    "opens_at": "2026-09-11",
+    "deadline": "2026-10-07",
+    "sources": [
+      "https://soict.hust.edu.vn/qaci-x-soict-gioi-thieu-chuong-trinh-fpt-frontier-innovators-2026.html",
+      "https://vnexpress.net/fpt-tim-kiem-tai-nang-tre-nghien-cuu-ai-dien-toan-luong-tu-5126544.html",
+      "https://fpt.com/en/news/fpt-frontier-innovators-a-new-program-for-young-talent-pioneering-emerging-technologies"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "fpt.com và SoICT ghi hạn 30/09; VnExpress (30/09) ghi nhận đơn đến 07/10."
+  },
+  {
+    "program_slug": "faraday-vietnam-internship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-08-14",
+    "sources": [
+      "https://fetel.hcmus.edu.vn/thong-tin-tuyen-thuc-tap-sinh-nam-2026-cong-ty-faraday-technology-vietnam/"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Đợt thực tập tháng 10/2026 tại Cần Thơ."
+  },
+  {
+    "program_slug": "tinyfish-student-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "open",
+    "sources": [
+      "https://www.tinyfish.ai/students"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Đăng ký liên tục, không cần nộp đơn; ra mắt cuối tháng 9/2026."
+  },
+  {
+    "program_slug": "tinyfish-ambassador-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "open",
+    "sources": [
+      "https://www.tinyfish.ai/ambassadors"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Đăng ký liên tục, không cần nộp đơn."
   }
 ]
