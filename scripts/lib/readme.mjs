@@ -85,7 +85,9 @@ export function renderTables({ programs, cycles, today }) {
   const rows = toRows(programs, cycles, today).sort((a, b) => {
     const byStatus = STATUS_ORDER.indexOf(a.status) - STATUS_ORDER.indexOf(b.status);
     if (byStatus !== 0) return byStatus;
-    return sortKey(a).localeCompare(sortKey(b)) || a.program.name.localeCompare(b.program.name);
+    // Closed: most recently closed first. Others: soonest first.
+    const byDate = sortKey(a).localeCompare(sortKey(b)) * (a.status === "closed" ? -1 : 1);
+    return byDate || a.program.name.localeCompare(b.program.name);
   });
 
   const active = rows.filter((r) => r.status !== "closed");

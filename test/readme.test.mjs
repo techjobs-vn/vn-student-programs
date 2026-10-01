@@ -41,6 +41,18 @@ test("lists open programs before upcoming and closed ones", () => {
   assert.ok(iOpen > -1 && iUpcoming > iOpen && iClosed > iUpcoming);
 });
 
+test("lists most recently closed programs first", () => {
+  const md = renderTables({
+    programs: [programs[0], programs[1]],
+    cycles: [
+      { ...cycles[0], deadline: "2026-05-01", opens_at: null },
+      { ...cycles[1], deadline: "2026-09-01" },
+    ],
+    today: TODAY,
+  });
+  assert.ok(md.indexOf("B Closed") < md.indexOf("A Open"));
+});
+
 test("links company to techjobs.vn only when slug is known", () => {
   const md = renderTables({ programs, cycles, today: TODAY });
   assert.ok(md.includes("https://techjobs.vn/companies/alpha"));

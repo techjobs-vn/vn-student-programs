@@ -69,7 +69,7 @@ Không cần cài package nào, chỉ cần Node.js ≥ 22.
 
 ### `data/cycles.json`
 
-Mỗi chương trình có thể có nhiều đợt, một đợt mỗi năm (`program_slug` + `year` là duy nhất). README dùng đợt có `year` lớn nhất.
+Mỗi chương trình có thể có nhiều đợt, một đợt mỗi năm (`program_slug` + `year` là duy nhất). `year` là **năm mở đơn** (ví dụ Techcombank Future Gen tuyển năm 2026 cho khoá "TFG 2027" → `year: 2026`). README dùng đợt có `year` lớn nhất.
 
 ```json
 {

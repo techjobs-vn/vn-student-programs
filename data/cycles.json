@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "program_slug": "viettel-digital-talent",
+    "year": 2026,
+    "opens_at": "2026-02-12",
+    "deadline": "2026-03-15",
+    "sources": [
+      "https://vietnamnet.vn/nhan-tai-tre-o-at-chon-viettel-voi-gan-12-000-ung-vien-chi-trong-1-thang-2499939.html",
+      "https://viettelfamily.com/news/viettel-talent-2026-chinh-thuc-mo-cong-dang-ky"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "viettel-future-changemakers",
+    "year": 2026,
+    "opens_at": "2026-02-12",
+    "deadline": "2026-03-15",
+    "sources": [
+      "https://vietnamnet.vn/nhan-tai-tre-o-at-chon-viettel-voi-gan-12-000-ung-vien-chi-trong-1-thang-2499939.html"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "vpbank-young-talents",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-05",
+    "sources": ["https://hr.vpbank.com.vn/ta/VPBankYoungTalents2026/index.html"],
+    "updated_at": "2026-10-01",
+    "notes": "05/06/2026 là hạn sàng lọc CV."
+  },
+  {
+    "program_slug": "fpt-telecom-sinh-vien-cong-nghe-tap-su",
+    "year": 2026,
+    "opens_at": "2026-05-12",
+    "deadline": "2026-05-26",
+    "sources": [
+      "https://fet.uet.vnu.edu.vn/2026/05/13/fpt-telecom-tim-kiem-tai-nang-gia-nhap-sinh-vien-cong-nghe-tap-su-2026/",
+      "https://www.cake.me/companies/fpt-telecom/jobs/fpt-telecom-technology-student-internship-2026?locale=vi"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "techcombank-future-gen",
+    "year": 2026,
+    "opens_at": "2026-07-24",
+    "deadline": "2026-09-30",
+    "sources": [
+      "https://tuyendung.techcombankjobs.com/techcombank-future-gen",
+      "https://www.linkedin.com/posts/techcombank_techcombankfuturegen2027-techcombank-techcombankcareers-activity-7490972448658747392-6nIw"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Trang chính thức ghi 24/07–30/09; bài LinkedIn ghi 30/07–30/09."
+  },
+  {
+    "program_slug": "grab-tech-bootcamp-vietnam",
+    "year": 2025,
+    "opens_at": "2025-03-01",
+    "deadline": "2025-03-31",
+    "sources": ["https://www.grab.careers/en/vietnam-grab-bootcamp-2025/"],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "vietinbank-it-internship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-21",
+    "sources": [
+      "https://tuyendung.vietinbank.vn/tuyendung/thong-tin-tuyen-dung/TSC202606531T00597",
+      "https://tuyendung.vietinbank.vn/tuyendung/thong-tin-tuyen-dung/TSC202606530T00596"
+    ],
+    "updated_at": "2026-10-01"
+  }
+]

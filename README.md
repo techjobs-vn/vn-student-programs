@@ -13,9 +13,29 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật: 01/10/2026 · 0 chương trình · 0 đang mở_
+_Cập nhật dữ liệu: 01/10/2026 · 11 chương trình · 0 đang mở_
 
-_Chưa có chương trình nào đang mở hoặc sắp mở._
+| Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
+| --- | --- | --- | --- | :---: | :---: | :---: |
+| [FPT Software](https://techjobs.vn/companies/fpt-software?utm_source=github&utm_medium=vn-tech-programs) | [FPT Software Fresher (FSOFT Academy)](https://career.fpt-software.com/employer/fpt-software-academy/) | Fresher | ⚪ Chưa rõ | — | — | — |
+| [FPT Software](https://techjobs.vn/companies/fpt-software?utm_source=github&utm_medium=vn-tech-programs) | [FPT Software Global Internship (TalentSphere)](https://fptsoftware.com/pages/global-internship) | Thực tập | ⚪ Chưa rõ | — | — | — |
+| [KMS Technology](https://techjobs.vn/companies/kms-technology?utm_source=github&utm_medium=vn-tech-programs) | [KMS Fresher](https://careers.kms-technology.com/fresher/) | Fresher | ⚪ Chưa rõ | — | — | — |
+| [NashTech](https://techjobs.vn/companies/nashtech?utm_source=github&utm_medium=vn-tech-programs) | [NashTech Rookie To Engineer](https://careers.nashtechglobal.com/fresher-program/) | Fresher | ⚪ Chưa rõ | — | — | — |
+
+<details>
+<summary>Đã đóng đợt gần nhất (7) — thường mở lại hằng năm</summary>
+
+| Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
+| --- | --- | --- | --- | :---: | :---: | :---: |
+| [Techcombank](https://techjobs.vn/companies/techcombank?utm_source=github&utm_medium=vn-tech-programs) | [Techcombank Future Gen](https://tuyendung.techcombankjobs.com/techcombank-future-gen) | Quản trị viên tập sự | 🔴 Đã đóng | 2026 | 24/07/2026 | 30/09/2026 |
+| [VietinBank](https://techjobs.vn/companies/vietinbank?utm_source=github&utm_medium=vn-tech-programs) | [VietinBank Thực tập sinh CNTT & Dữ liệu](https://tuyendung.vietinbank.vn/tuyendung/thong-tin-tuyen-dung/TSC202606531T00597) | Thực tập | 🔴 Đã đóng | 2026 | — | 21/06/2026 |
+| [VPBank](https://techjobs.vn/companies/vpbank?utm_source=github&utm_medium=vn-tech-programs) | [VPBank Young Talents](https://hr.vpbank.com.vn/ta/VPBankYoungTalents2026/index.html) | Graduate | 🔴 Đã đóng | 2026 | — | 05/06/2026 |
+| [FPT Telecom](https://techjobs.vn/companies/fpt-telecom?utm_source=github&utm_medium=vn-tech-programs) | [FPT Telecom Sinh viên Công nghệ Tập sự](https://fptjobs.com/SVCNTS2026) | Thực tập | 🔴 Đã đóng | 2026 | 12/05/2026 | 26/05/2026 |
+| [Viettel](https://techjobs.vn/companies/viettel?utm_source=github&utm_medium=vn-tech-programs) | [Viettel Digital Talent](https://tuyendung.viettel.vn/page/page-digitalTalent) | Thực tập | 🔴 Đã đóng | 2026 | 12/02/2026 | 15/03/2026 |
+| [Viettel](https://techjobs.vn/companies/viettel?utm_source=github&utm_medium=vn-tech-programs) | [Viettel Future Changemakers](https://tuyendung.viettel.vn/viettel-talent-2026) | Quản trị viên tập sự | 🔴 Đã đóng | 2026 | 12/02/2026 | 15/03/2026 |
+| [Grab](https://techjobs.vn/companies/grab?utm_source=github&utm_medium=vn-tech-programs) | [Grab Tech Bootcamp & Internship Vietnam](https://www.grab.careers/en/vietnam-grab-bootcamp-2025/) | Thực tập | 🔴 Đã đóng | 2025 | 01/03/2025 | 31/03/2025 |
+
+</details>
 <!-- PROGRAMS:END -->
 
 ## Chú thích
