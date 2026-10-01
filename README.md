@@ -13,13 +13,14 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 01/10/2026 · 22 chương trình · 4 đang mở_
+_Cập nhật dữ liệu: 01/10/2026 · 23 chương trình · 5 đang mở_
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
 | Amazon Web Services | [AWS Student Builder Group Leader](https://builder.aws.com/content/3ITldzpQS7bvgVN01IkU2rFJn1o/applications-are-open-become-an-aws-student-builder-group-leader) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | 26/08/2026 | 04/10/2026 |
 | FPT \(Viện QACI\) | [FPT Frontier Innovators](https://fpt.com/en/news/fpt-frontier-innovators-a-new-program-for-young-talent-pioneering-emerging-technologies) | Graduate | 🟢 Đang mở | 2026 | 11/09/2026 | 07/10/2026 |
 | Microsoft | [Microsoft Student Ambassadors](https://mvp.microsoft.com/studentambassadors) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | — | — |
+| TinyFish | [TinyFish Ambassador Program](https://www.tinyfish.ai/ambassadors) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | — | — |
 | TinyFish | [TinyFish Student Program](https://www.tinyfish.ai/students) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | — | — |
 | [FPT Software](https://techjobs.vn/companies/fpt-software?utm_source=github&utm_medium=vn-tech-programs) | [FPT Software Fresher \(FSOFT Academy\)](https://career.fpt-software.com/employer/fpt-software-academy/) | Fresher | ⚪ Chưa rõ | — | — | — |
 | [FPT Software](https://techjobs.vn/companies/fpt-software?utm_source=github&utm_medium=vn-tech-programs) | [FPT Software Global Internship \(TalentSphere\)](https://fptsoftware.com/pages/global-internship) | Thực tập | ⚪ Chưa rõ | — | — | — |

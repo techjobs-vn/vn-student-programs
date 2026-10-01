@@ -47,4 +47,4 @@
 {"url": "https://jobs.neu.edu.vn/jobs/phuc-long-leaf-to-lead-2026-program-cong-ty-co-phan-phuc-long-heritage-1202609221500", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Ngành F&B, không có nhánh công nghệ"}
 {"url": "https://career.vng.com.vn/en/job-search/detail/6901-ai-intern-greennode", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Tin tuyển thực tập lẻ, không phải chương trình theo đợt"}
 {"url": "https://www.tinyfish.ai/students", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "tinyfish-student-program"}
-{"url": "https://www.tinyfish.ai/ambassadors", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Chương trình referral cho mọi người dùng, không riêng cho sinh viên; sinh viên vào qua Student Program"}
+{"url": "https://www.tinyfish.ai/ambassadors", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "tinyfish-ambassador-program"}

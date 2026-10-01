@@ -536,5 +536,29 @@
     "added_at": "2026-10-01",
     "updated_at": "2026-10-01",
     "notes": "Nhánh campus của chương trình ambassador. Làm bounty hằng tháng để nhận gift card ($10–$50 mỗi bài được duyệt); người đứng đầu bảng xếp hạng được mời làm Campus Lead."
+  },
+  {
+    "slug": "tinyfish-ambassador-program",
+    "name": "TinyFish Ambassador Program",
+    "type": "ambassador",
+    "company": {
+      "name": "TinyFish",
+      "slug": null
+    },
+    "official_url": "https://www.tinyfish.ai/ambassadors",
+    "tracks": [
+      "AI agents",
+      "Referral",
+      "Community events",
+      "Bounties"
+    ],
+    "eligibility": "Bất kỳ ai dùng TinyFish ở mọi quốc gia, kể cả sinh viên và người đã tốt nghiệp.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Mỗi lượt đăng ký hợp lệ được $5 cho cả hai bên. Làm bounty để nhận gift card. Đạt 50 lượt đăng ký hợp lệ trong một quý thì lên Advocate; Regional Ambassador chỉ theo lời mời. Sinh viên đã tốt nghiệp chuyển từ Student Program sang và giữ nguyên thành tích."
   }
 ]

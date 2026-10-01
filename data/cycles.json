@@ -165,5 +165,17 @@
     ],
     "updated_at": "2026-10-01",
     "notes": "Đăng ký liên tục, không cần nộp đơn; ra mắt cuối tháng 9/2026."
+  },
+  {
+    "program_slug": "tinyfish-ambassador-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "open",
+    "sources": [
+      "https://www.tinyfish.ai/ambassadors"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Đăng ký liên tục, không cần nộp đơn."
   }
 ]
