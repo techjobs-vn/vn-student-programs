@@ -277,7 +277,7 @@
     "type": "ambassador",
     "company": {
       "name": "Amazon Web Services",
-      "slug": null
+      "slug": "amazon"
     },
     "official_url": "https://builder.aws.com/content/3ITldzpQS7bvgVN01IkU2rFJn1o/applications-are-open-become-an-aws-student-builder-group-leader",
     "tracks": [
@@ -301,7 +301,7 @@
     "type": "ambassador",
     "company": {
       "name": "Google",
-      "slug": null
+      "slug": "google"
     },
     "official_url": "https://googlestudentambassador.vn/",
     "tracks": [
@@ -395,7 +395,7 @@
     "type": "ambassador",
     "company": {
       "name": "Microsoft",
-      "slug": null
+      "slug": "microsoft"
     },
     "official_url": "https://mvp.microsoft.com/studentambassadors",
     "tracks": [
@@ -443,7 +443,7 @@
     "type": "fresher",
     "company": {
       "name": "NAB Innovation Centre Vietnam",
-      "slug": null
+      "slug": "nab-vietnam"
     },
     "official_url": "https://www.nab.com.au/about-us/careers/nabvietnam",
     "tracks": [
@@ -492,7 +492,7 @@
     "type": "fresher",
     "company": {
       "name": "TMA Tech Group",
-      "slug": null
+      "slug": "tma-solutions"
     },
     "official_url": "https://www.tma.vn/tuyen-dung/moi-tot-nghiep",
     "tracks": [
@@ -519,7 +519,7 @@
     "type": "ambassador",
     "company": {
       "name": "TinyFish",
-      "slug": null
+      "slug": "tinyfish"
     },
     "official_url": "https://www.tinyfish.ai/students",
     "tracks": [
@@ -543,7 +543,7 @@
     "type": "ambassador",
     "company": {
       "name": "TinyFish",
-      "slug": null
+      "slug": "tinyfish"
     },
     "official_url": "https://www.tinyfish.ai/ambassadors",
     "tracks": [

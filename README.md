@@ -17,25 +17,25 @@ _Cập nhật dữ liệu: 01/10/2026 · 23 chương trình · 5 đang mở_
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
-| Amazon Web Services | [AWS Student Builder Group Leader](https://builder.aws.com/content/3ITldzpQS7bvgVN01IkU2rFJn1o/applications-are-open-become-an-aws-student-builder-group-leader) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | 26/08/2026 | 04/10/2026 |
+| [Amazon Web Services](https://techjobs.vn/companies/amazon?utm_source=github&utm_medium=vn-tech-programs) | [AWS Student Builder Group Leader](https://builder.aws.com/content/3ITldzpQS7bvgVN01IkU2rFJn1o/applications-are-open-become-an-aws-student-builder-group-leader) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | 26/08/2026 | 04/10/2026 |
 | FPT \(Viện QACI\) | [FPT Frontier Innovators](https://fpt.com/en/news/fpt-frontier-innovators-a-new-program-for-young-talent-pioneering-emerging-technologies) | Graduate | 🟢 Đang mở | 2026 | 11/09/2026 | 07/10/2026 |
-| Microsoft | [Microsoft Student Ambassadors](https://mvp.microsoft.com/studentambassadors) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | — | — |
-| TinyFish | [TinyFish Ambassador Program](https://www.tinyfish.ai/ambassadors) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | — | — |
-| TinyFish | [TinyFish Student Program](https://www.tinyfish.ai/students) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | — | — |
+| [Microsoft](https://techjobs.vn/companies/microsoft?utm_source=github&utm_medium=vn-tech-programs) | [Microsoft Student Ambassadors](https://mvp.microsoft.com/studentambassadors) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | — | — |
+| [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-tech-programs) | [TinyFish Ambassador Program](https://www.tinyfish.ai/ambassadors) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | — | — |
+| [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-tech-programs) | [TinyFish Student Program](https://www.tinyfish.ai/students) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | — | — |
 | [FPT Software](https://techjobs.vn/companies/fpt-software?utm_source=github&utm_medium=vn-tech-programs) | [FPT Software Fresher \(FSOFT Academy\)](https://career.fpt-software.com/employer/fpt-software-academy/) | Fresher | ⚪ Chưa rõ | — | — | — |
 | [FPT Software](https://techjobs.vn/companies/fpt-software?utm_source=github&utm_medium=vn-tech-programs) | [FPT Software Global Internship \(TalentSphere\)](https://fptsoftware.com/pages/global-internship) | Thực tập | ⚪ Chưa rõ | — | — | — |
 | GitHub | [GitHub Campus Experts](https://docs.github.com/en/education/about-github-education/use-github-at-your-educational-institution/applying-to-be-a-github-campus-expert) | Đại sứ sinh viên | ⚪ Chưa rõ | — | — | — |
 | [KMS Technology](https://techjobs.vn/companies/kms-technology?utm_source=github&utm_medium=vn-tech-programs) | [KMS Fresher](https://careers.kms-technology.com/fresher/) | Fresher | ⚪ Chưa rõ | — | — | — |
 | [NashTech](https://techjobs.vn/companies/nashtech?utm_source=github&utm_medium=vn-tech-programs) | [NashTech Rookie To Engineer](https://careers.nashtechglobal.com/fresher-program/) | Fresher | ⚪ Chưa rõ | — | — | — |
-| NAB Innovation Centre Vietnam | [StarCamp by NAB Tech Academy](https://www.nab.com.au/about-us/careers/nabvietnam) | Fresher | ⚪ Chưa rõ | — | — | — |
-| TMA Tech Group | [TMA Foundation Training \(Talent Fresher\)](https://www.tma.vn/tuyen-dung/moi-tot-nghiep) | Fresher | ⚪ Chưa rõ | — | — | — |
+| [NAB Innovation Centre Vietnam](https://techjobs.vn/companies/nab-vietnam?utm_source=github&utm_medium=vn-tech-programs) | [StarCamp by NAB Tech Academy](https://www.nab.com.au/about-us/careers/nabvietnam) | Fresher | ⚪ Chưa rõ | — | — | — |
+| [TMA Tech Group](https://techjobs.vn/companies/tma-solutions?utm_source=github&utm_medium=vn-tech-programs) | [TMA Foundation Training \(Talent Fresher\)](https://www.tma.vn/tuyen-dung/moi-tot-nghiep) | Fresher | ⚪ Chưa rõ | — | — | — |
 
 <details>
 <summary>Đã đóng đợt gần nhất (11) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
-| Google | [Google Student Ambassador Việt Nam](https://googlestudentambassador.vn/) | Đại sứ sinh viên | 🔴 Đã đóng | 2026 | 25/08/2026 | 30/09/2026 |
+| [Google](https://techjobs.vn/companies/google?utm_source=github&utm_medium=vn-tech-programs) | [Google Student Ambassador Việt Nam](https://googlestudentambassador.vn/) | Đại sứ sinh viên | 🔴 Đã đóng | 2026 | 25/08/2026 | 30/09/2026 |
 | [Techcombank](https://techjobs.vn/companies/techcombank?utm_source=github&utm_medium=vn-tech-programs) | [Techcombank Future Gen](https://tuyendung.techcombankjobs.com/techcombank-future-gen) | Quản trị viên tập sự | 🔴 Đã đóng | 2026 | 24/07/2026 | 30/09/2026 |
 | Anthropic | [Claude Campus Ambassador](https://claude.com/programs/campus) | Đại sứ sinh viên | 🔴 Đã đóng | 2026 | 01/09/2026 | 12/09/2026 |
 | [MoMo](https://techjobs.vn/companies/momo?utm_source=github&utm_medium=vn-tech-programs) | [Đại sứ MoMo Student](https://www.momo.vn/student-pass/dai-su-momo-student) | Đại sứ sinh viên | 🔴 Đã đóng | 2026 | 13/08/2026 | 05/09/2026 |
