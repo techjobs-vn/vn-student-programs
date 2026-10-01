@@ -14,12 +14,32 @@ general:
   - "chương trình đại sứ sinh viên công nghệ {year}"
   - "student ambassador {year} Vietnam tech company"
   - "early careers Vietnam {year} engineering intern"
+  # Nhiều tập đoàn gọi chương trình là "đào tạo" chứ không phải "thực tập"
+  - "chương trình đào tạo kỹ sư {year} miễn phí công nghệ"
+  - "chương trình đào tạo nhân tài công nghệ {year} tuyển sinh"
+  - "academy {year} đào tạo và tuyển dụng IT"
 
 # Trang việc làm của trường: repost chương trình kèm hạn nộp.
 university_boards:
   - https://jobs.neu.edu.vn/
   - https://httt.uit.edu.vn/category/viec-lam-thuc-tap/
   - https://forum.uit.edu.vn/c/viec-lam-thuc-tap/
+
+# Tập đoàn lớn hay có chương trình riêng nhưng chưa có trong data/programs.json: quét mỗi lần chạy.
+extra_companies:
+  - Vingroup
+  - VinBigdata
+  - VinUni
+  - VinFast
+  - VinAI
+  - Viettel
+  - VNPT
+  - CMC
+  - MISA
+  - Samsung Việt Nam
+  - LG Việt Nam
+  - Bosch Việt Nam
+  - Masan Technology
 
 # Query theo công ty: xoay vòng, mỗi lần chạy lấy ~1/7 danh sách (theo thứ tự, tiếp nối lần trước).
 per_company_template: "\"{company}\" (internship OR \"thực tập\" OR fresher OR \"graduate program\") {year}"

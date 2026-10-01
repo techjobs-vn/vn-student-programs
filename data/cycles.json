@@ -177,5 +177,28 @@
     ],
     "updated_at": "2026-10-01",
     "notes": "Đăng ký liên tục, không cần nộp đơn."
+  },
+  {
+    "program_slug": "vingroup-ai-engineer",
+    "year": 2025,
+    "opens_at": "2025-04-01",
+    "deadline": "2025-05-15",
+    "sources": [
+      "https://vnexpress.net/vinbigdata-mo-dang-ky-khoa-ky-su-ai-mien-phi-mua-6-4868427.html",
+      "https://doanhnghiephoinhap.vn/vinbigdata-mo-dang-ky-khoa-ky-su-ai-mien-phi-mua-6-99931.html"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Mùa 6. Chưa thấy thông báo mùa 7 (2026)."
+  },
+  {
+    "program_slug": "vingroup-ai-talent",
+    "year": 2026,
+    "opens_at": "2026-02-01",
+    "deadline": "2026-02-10",
+    "sources": [
+      "https://vingroup.net/tin-tuc-su-kien/bai-viet/3800/vingroup-dao-tao-20000-nhan-tai-ai-thuc-chien-phu-cap-8-trieu-dongthang"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Khoá đầu tiên, tối đa 500 học viên."
   }
 ]
