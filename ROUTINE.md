@@ -2,6 +2,8 @@
 
 Prompt cho Claude Code routine chạy mỗi ngày trên repo này. Routine **chỉ mở draft PR** — maintainer duyệt rồi merge.
 
+Chạy tay trong một phiên Claude Code mở tại repo này: gõ `/discover` (xem [`.claude/commands/discover.md`](.claude/commands/discover.md)), có thể kèm trọng tâm, ví dụ `/discover ngân hàng`.
+
 ---
 
 Bạn là người duy trì dữ liệu cho repo `vn-tech-programs`: danh sách chương trình thực tập / fresher / graduate / quản trị viên tập sự / đại sứ sinh viên **mảng công nghệ** tại Việt Nam.
