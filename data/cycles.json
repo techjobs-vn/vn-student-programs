@@ -147,12 +147,12 @@
     "program_slug": "faraday-vietnam-internship",
     "year": 2026,
     "opens_at": null,
-    "deadline": "2026-08-14",
+    "deadline": "2026-08-20",
     "sources": [
       "https://fetel.hcmus.edu.vn/thong-tin-tuyen-thuc-tap-sinh-nam-2026-cong-ty-faraday-technology-vietnam/"
     ],
     "updated_at": "2026-10-01",
-    "notes": "Đợt thực tập tháng 10/2026 tại Cần Thơ."
+    "notes": "Đợt thực tập tháng 10/2026 tại Cần Thơ; hạn được dời từ 14/08 sang 20/08."
   },
   {
     "program_slug": "tinyfish-student-program",
@@ -193,12 +193,309 @@
   {
     "program_slug": "vingroup-ai-talent",
     "year": 2026,
-    "opens_at": "2026-02-01",
-    "deadline": "2026-02-10",
+    "opens_at": null,
+    "deadline": "2026-10-15",
     "sources": [
-      "https://vingroup.net/tin-tuc-su-kien/bai-viet/3800/vingroup-dao-tao-20000-nhan-tai-ai-thuc-chien-phu-cap-8-trieu-dongthang"
+      "https://vinuni.edu.vn/aithucchien/",
+      "https://www.facebook.com/DaotaoNhantaiAIthucchien/"
     ],
     "updated_at": "2026-10-01",
-    "notes": "Khoá đầu tiên, tối đa 500 học viên."
+    "notes": "Khoá V. Các khoá trước mở 02/04, 28/05, 23/07 và 10/09/2026."
+  },
+  {
+    "program_slug": "zalo-tech-fresher",
+    "year": 2026,
+    "opens_at": "2026-05-04",
+    "deadline": "2026-05-22",
+    "sources": [
+      "https://zalo.careers/techfresher"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "zalo-product-management-trainee",
+    "year": 2026,
+    "opens_at": "2026-05-04",
+    "deadline": "2026-05-22",
+    "sources": [
+      "https://zalo.careers/pmt"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "cmc-global-fresher-techie",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "open",
+    "sources": [
+      "https://fresher.cmcglobal.com.vn/"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Xét hồ sơ liên tục."
+  },
+  {
+    "program_slug": "bosch-bgsv-internship-program",
+    "year": 2026,
+    "opens_at": "2026-08-07",
+    "deadline": "2026-09-23",
+    "sources": [
+      "https://jobs.smartrecruiters.com/BoschGroup/744000142038898",
+      "https://jobs.smartrecruiters.com/BoschGroup/744000149236759"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Đợt Q4/2026. Ngày mở/đóng là lúc techjobs.vn thấy tin xuất hiện/gỡ trên ATS, không phải hạn chính thức."
+  },
+  {
+    "program_slug": "vnggames-nextgen",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-03-30",
+    "sources": [
+      "https://career.vng.com.vn/danh-cho-sinh-vien/vnggames-next-gen"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "masan-mye-tech",
+    "year": 2026,
+    "opens_at": "2026-03-16",
+    "deadline": "2026-04-03",
+    "sources": [
+      "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=891&id=17262"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "vinrobotics-talent-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "closed",
+    "sources": [
+      "https://vinrobotics.net/career/internship-vin-robotics-talent-program"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Trang chính thức ghi tạm đóng vì đã đủ chỉ tiêu."
+  },
+  {
+    "program_slug": "vinmotion-talent-internship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-22",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/vinmotion-talent-internship-program-2026-vinmotion-1202605251724"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "qualcomm-ai-residency",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "upcoming",
+    "sources": [
+      "https://www.qualcomm.com/research/artificial-intelligence/ai-residency-program"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Trang chính thức dự kiến mở đợt tiếp theo vào tháng 12/2026, onboard tháng 3/2027."
+  },
+  {
+    "program_slug": "fpt-futuretech-talents",
+    "year": 2026,
+    "opens_at": "2026-03-26",
+    "deadline": "2026-04-10",
+    "sources": [
+      "https://fpt.com/vi/tin-tuc/fpt-khoi-dong-chuong-trinh-uom-mam-tai-nang-cong-nghe-tre-mua-3",
+      "https://futuretechtalents.fpt.com/"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "axon-active-java-fresher",
+    "year": 2025,
+    "opens_at": null,
+    "deadline": "2025-12-31",
+    "sources": [
+      "https://www.edu.axonactive.com/axon-active-career-day"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Đăng ký Career Day 10/01/2026, đi làm từ 03/2026."
+  },
+  {
+    "program_slug": "manulife-future-leaders-it",
+    "year": 2026,
+    "opens_at": "2026-02-02",
+    "deadline": "2026-04-30",
+    "sources": [
+      "https://www.manulife.com.vn/vi/ve-chung-toi/manulife-future-leaders.html"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "nab-wecamp",
+    "year": 2026,
+    "opens_at": "2026-07-30",
+    "deadline": null,
+    "sources": [
+      "https://nab.wd3.myworkdayjobs.com/en-US/NAB_Careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/NAB-WeCamp-Training-Program---Batch-13--Open-for-female-talents-_JR120469"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Batch 13. Ngày mở/đóng là lúc techjobs.vn thấy tin xuất hiện/gỡ trên ATS, không phải hạn chính thức."
+  },
+  {
+    "program_slug": "tma-industry-internship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-09-20",
+    "sources": [
+      "https://fit.huflit.edu.vn/tma-industry-internship-tuyen-thuc-tap-sinh-khoa-53-thang-07-2026/"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Khoá 53."
+  },
+  {
+    "program_slug": "rikkei-tech-internship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-09-30",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/rikkei-tech-internship-program-2026-rikkeisoft-1202608261652"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Các nguồn ghi hạn khác nhau (30/08, 18/09, 30/09)."
+  },
+  {
+    "program_slug": "bioturing-b-gens",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-04-19",
+    "sources": [
+      "https://bioturing.com/blog/b-gens-2026-bioturing-trainee-program-2026/"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "marvell-vietnam-excellence-scholarship",
+    "year": 2025,
+    "opens_at": "2025-11-17",
+    "deadline": "2026-02-22",
+    "sources": [
+      "https://www.hocbongchosinhvien.com/2026/01/hoc-bong-marvell-vietnam-excellence.html",
+      "https://www.marvell.com/company/careers/university-recruiting.html"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "renesas-campus-ambassador",
+    "year": 2025,
+    "opens_at": null,
+    "deadline": "2026-01-25",
+    "sources": [
+      "https://jobs.renesas.com/campus-ambassador"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "opswat-cybersecurity-fellowship",
+    "year": 2026,
+    "opens_at": "2026-08-26",
+    "deadline": "2026-09-17",
+    "sources": [
+      "https://www.opswat.com/jobs/4652337005?gh_jid=4652337005"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Tin tuyển cho đợt SWAT 3. Ngày mở/đóng là lúc techjobs.vn thấy tin xuất hiện/gỡ trên ATS, không phải hạn chính thức."
+  },
+  {
+    "program_slug": "optisigns-the-next-alpha",
+    "year": 2026,
+    "opens_at": "2026-09-15",
+    "deadline": "2026-09-29",
+    "sources": [
+      "https://apply.workable.com/j/4E0138572C",
+      "https://startup.jobs/the-next-alpha-training-program-for-qc-intern-optisigns-inc-10078634"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Khoá 2026 học 05/10–27/11. Ngày mở/đóng là lúc techjobs.vn thấy tin xuất hiện/gỡ trên ATS, không phải hạn chính thức."
+  },
+  {
+    "program_slug": "mb-trainee-it",
+    "year": 2026,
+    "opens_at": "2026-08-02",
+    "deadline": null,
+    "sources": [
+      "https://careers.mbbank.com.vn/vi"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Ngày mở/đóng là lúc techjobs.vn thấy tin xuất hiện/gỡ trên ATS, không phải hạn chính thức."
+  },
+  {
+    "program_slug": "tpbank-tap-su-tiem-nang",
+    "year": 2026,
+    "opens_at": "2026-09-15",
+    "deadline": null,
+    "sources": [
+      "https://tuyendung.tpb.vn/vi/jobs/RkV54P"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Ngày mở/đóng là lúc techjobs.vn thấy tin xuất hiện/gỡ trên ATS, không phải hạn chính thức."
+  },
+  {
+    "program_slug": "binance-accelerator-program",
+    "year": 2026,
+    "opens_at": "2026-08-02",
+    "deadline": null,
+    "sources": [
+      "https://jobs.lever.co/binance/ae1a07c1-c971-403c-906b-79d8c16e4f2d"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Ngày mở/đóng là lúc techjobs.vn thấy tin xuất hiện/gỡ trên ATS, không phải hạn chính thức."
+  },
+  {
+    "program_slug": "hitachi-vantara-talented-ai-intern",
+    "year": 2026,
+    "opens_at": "2026-08-04",
+    "deadline": "2026-09-04",
+    "sources": [
+      "https://careers.hitachi.com/jobs/18154842",
+      "https://careers.hitachi.com/jobs/17986954"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Ngày mở/đóng là lúc techjobs.vn thấy tin xuất hiện/gỡ trên ATS, không phải hạn chính thức."
+  },
+  {
+    "program_slug": "hitachi-vantara-graduate-engineering-trainee",
+    "year": 2026,
+    "opens_at": "2026-08-04",
+    "deadline": "2026-09-30",
+    "sources": [
+      "https://careers.hitachi.com/jobs/17767847"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Ngày mở/đóng là lúc techjobs.vn thấy tin xuất hiện/gỡ trên ATS, không phải hạn chính thức."
+  },
+  {
+    "program_slug": "shopeefood-associate-product-management",
+    "year": 2026,
+    "opens_at": "2026-08-03",
+    "deadline": "2026-09-01",
+    "sources": [
+      "https://careers.shopee.vn/job-detail/135654"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Ngày mở/đóng là lúc techjobs.vn thấy tin xuất hiện/gỡ trên ATS, không phải hạn chính thức."
+  },
+  {
+    "program_slug": "momo-talent",
+    "year": 2026,
+    "opens_at": "2026-07-29",
+    "deadline": null,
+    "sources": [
+      "https://momo.careers/momo-talent",
+      "https://www.cake.me/companies/momo-mservice/jobs/product-trainee-payment-platform"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Ngày mở/đóng là lúc techjobs.vn thấy tin xuất hiện/gỡ trên ATS, không phải hạn chính thức."
   }
 ]
