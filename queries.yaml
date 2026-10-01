@@ -21,9 +21,60 @@ general:
 
 # Trang việc làm của trường: repost chương trình kèm hạn nộp.
 university_boards:
-  - https://jobs.neu.edu.vn/
+  # Hà Nội
+  - https://fit.uet.vnu.edu.vn/nguoi-hoc/thong-tin-viec-lam/
+  - https://fet.uet.vnu.edu.vn/category/co-hoi-viec-lam/
+  - https://fet.uet.vnu.edu.vn/category/hoc-bong/
+  - https://vieclam.uet.vnu.edu.vn/co-hoi-nghe-nghiep
+  - https://soict.hust.edu.vn/tuyen-dung/viec-lam-cho-sinh-vien
+  - https://fami.hust.edu.vn/thong-bao-sinh-vien/
+  - https://tel.ptit.edu.vn/tuyen-dung/
+  - https://sict.haui.edu.vn/vn/tuyen-dung
+  - https://sict.haui.edu.vn/vn/thong-bao
+  - https://actvn.edu.vn/News/ArticleByCategory?idCategory=180
+  - https://mim.hus.vnu.edu.vn/vi/thuctap
+  # Khối kinh tế (lọc track công nghệ/dữ liệu)
+  - https://jobs.neu.edu.vn/jobs?typeJob%5B%5D=3
+  - https://youth.neu.edu.vn/vi/thong-tin-tuyen-dung-2657
+  - https://hcmc.ftu.edu.vn/category/nguoi-hoc/thuc-tap-viec-lam/
+  - https://cepm.ftu.edu.vn/category/sinh-vien-va-hoc-vien/thuc-tap-tuyen-dung/
+  - https://hvnh.edu.vn/ctsv/vn/cohoivieclam
+  - https://vieclam.hub.edu.vn/portal/danh-sach-viec-lam.htm?kinhnghiem=1
+  - https://vieclam.tmu.edu.vn/
+  - https://vieclam.ueh.edu.vn/cong-viec/danh-sach-cong-viec?search=program
+  # TP.HCM, Cần Thơ
+  - https://forum.uit.edu.vn/c/ho-tro-doi-song/viec-lam-thuc-tap/32
   - https://httt.uit.edu.vn/category/viec-lam-thuc-tap/
-  - https://forum.uit.edu.vn/c/viec-lam-thuc-tap/
+  - https://se.uit.edu.vn/vi/tin-tuc/hoc-bong-tuyen-dung
+  - https://fit.uit.edu.vn/index.php/tin-tuc/tin-tuyen-dung
+  - https://www.fit.hcmus.edu.vn/tin-tuc/c/thong-tin-tuyen-dung
+  - https://fetel.hcmus.edu.vn/thong-bao-tuyen-dung-thuc-tap/
+  - https://internship.cse.hcmut.edu.vn/
+  - https://ssc.hcmut.edu.vn/vieclam
+  - https://it.tdtu.edu.vn/tin-tuc/tuyen-dung
+  - https://fit.iuh.edu.vn/news.html@104@Thuc-tap-Viec-lam
+  - https://fit.hcmute.edu.vn/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd
+  - https://fit.huflit.edu.vn/sinh-vien/thuc-tap/
+  - https://coe.ctu.edu.vn/dtvt/vi/tin-tuc/hoc-bong-viec-lam.html
+  - https://www.cit.ctu.edu.vn/index.php/ban-tin/tuy-n-d-ng-vi-c-lam
+  # Đà Nẵng
+  - https://dut.udn.vn/KhoaCNTT/Thongbao
+  - https://dut.udn.vn/Tintuc/Thongbaods/gid/all
+  - https://vku.udn.vn/vi/notice/
+  - https://daotao.vku.udn.vn/vku-thong-bao-ctsv
+  - https://is.duytan.edu.vn/faculty-news
+  - https://kcntt.duytan.edu.vn/thong-bao-mdw
+  - https://cntt.donga.edu.vn/sinh-vien/viec-lam
+  - https://tt.ued.udn.vn/
+
+# Trang tổng hợp chương trình: chỉ dùng để phát hiện, luôn tìm trang chính thức trên domain công ty.
+aggregator_queries:
+  - "site:ybox.vn fresher program {year}"
+  - "site:ybox.vn \"Internship Program\" {year} software engineer chương trình"
+  - "site:ybox.vn \"Talent Program\" {year} công nghệ chương trình tuyển dụng"
+  - "chương trình academy tuyển dụng IT {year} miễn phí có lương"
+  - "\"Internship Program {year}\" Vietnam software company"
+  - "site:hocbongchosinhvien.com học bổng {year} thực tập công nghệ"
 
 # Tập đoàn lớn hay có chương trình riêng nhưng chưa có trong data/programs.json: quét mỗi lần chạy.
 extra_companies:

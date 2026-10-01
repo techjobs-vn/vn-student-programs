@@ -200,7 +200,7 @@
       "https://www.facebook.com/DaotaoNhantaiAIthucchien/"
     ],
     "updated_at": "2026-10-01",
-    "notes": "Khoá V. Các khoá trước mở 02/04, 28/05, 23/07 và 10/09/2026."
+    "notes": "Khoá V; hạn 15/10 lấy từ fanpage chương trình. Khoá I–IV khai giảng 02/04, 28/05, 23/07 và 10/09/2026."
   },
   {
     "program_slug": "zalo-tech-fresher",
@@ -560,6 +560,348 @@
     "deadline": "2025-01-07",
     "sources": [
       "https://ybox.vn/tuyen-dung/hn-cong-ty-cong-nghe-gem-vietnam-tuyen-dung-thuc-tap-sinh-it-chuong-trinh-gem-internship-program-full-time-2025-6853f36f2b07f204bb50a1f1"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "zalopay-tech-fresher",
+    "year": 2025,
+    "opens_at": null,
+    "deadline": "2025-05-13",
+    "sources": [
+      "https://career.vng.com.vn/danh-cho-sinh-vien/zalopay-tech-fresher-2025"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "vng-game-innovation-fresher",
+    "year": 2025,
+    "opens_at": "2025-03-10",
+    "deadline": "2025-03-31",
+    "sources": [
+      "https://forum.uit.edu.vn/t/vng-mo-tuyen-game-development-fresher-chuong-trinh-vng-game-innovation-fresher-2025/155636",
+      "https://career.vng.com.vn/danh-cho-sinh-vien/game-innovation-fresher-2025"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "svtech-system-engineer-trainee",
+    "year": 2026,
+    "opens_at": "2026-07-20",
+    "deadline": "2026-08-15",
+    "sources": [
+      "https://svtech.com.vn/tuyen-dung/system-engineer-trainee-2026-2/",
+      "https://vieclam.uet.vnu.edu.vn/system-engineer-trainee-2026-jxi6622115"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "dts-super-intern",
+    "year": 2025,
+    "opens_at": "2025-04-18",
+    "deadline": "2025-05-20",
+    "sources": [
+      "https://vieclam.uet.vnu.edu.vn/thuc-tap-sinh-tai-nang-super-intern-2025-tich-hop-he-thong-jxi5756952"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "samsung-talent-program-stp",
+    "year": 2026,
+    "opens_at": "2026-06-12",
+    "deadline": "2026-07-12",
+    "sources": [
+      "https://actvn.edu.vn/News/Detail?NewsId=28539",
+      "https://sict.haui.edu.vn/vn/thong-bao/mo-dang-ky-hoc-bong-samsung-stp-dai-hoc-2026-danh-cho-sinh-vien/71830"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "vietcombank-sinh-vien-tai-nang-cntt",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-30",
+    "sources": [
+      "https://ptit.edu.vn/thong-bao-tuyen-dung-thuc-tap-sinh-tai-nang-tai-tru-so-chinh-vietcombank-nam-2026/"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "handshakes-internship-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "open",
+    "sources": [
+      "https://www.handshakes.ai/careers/",
+      "https://jobs.neu.edu.vn/jobs/product-management-intern-handshakes-1202606261519"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "samsung-srv-internship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "closed",
+    "sources": [
+      "https://actvn.edu.vn/News/Detail?NewsId=28526"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Đợt 2026 học vào tháng 6, 7, 8; hỗ trợ 3,5 triệu/khoá."
+  },
+  {
+    "program_slug": "zodinet-talent-internship",
+    "year": 2026,
+    "opens_at": "2026-06-08",
+    "deadline": "2026-06-19",
+    "sources": [
+      "https://zodinet.com/job/%f0%9f%9a%80-chuong-trinh-thuc-tap-sinh-tai-nang-zodinet-2026-%f0%9f%9a%80/",
+      "https://forum.uit.edu.vn/t/chuong-trinh-thuc-tap-sinh-tai-nang-2026/161315"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "geek-up-geek-internship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "closed",
+    "sources": [
+      "https://forum.uit.edu.vn/t/hcm-product-backend-intern-geek-internship-autumn-2026/161457"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "sun-studio-sun-riser",
+    "year": 2026,
+    "opens_at": "2026-04-22",
+    "deadline": "2026-05-08",
+    "sources": [
+      "https://sunriser-internship-2026.sun.studio/",
+      "https://forum.uit.edu.vn/t/tp-hcm-sun-studio-thuc-tap-sinh-tai-nang-sun-riser-2026-game-designer-unity-developer-game-ua-marketing-game-qa-data-analyst-ai-engineer-hr/160902",
+      "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=891&id=17357"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "ban-vien-bv-internship-program",
+    "year": 2026,
+    "opens_at": "2026-04-24",
+    "deadline": "2026-05-09",
+    "sources": [
+      "https://career.banvien.com.vn/internship-program",
+      "https://internship.cse.hcmut.edu.vn/sponsor/b%E1%BA%A3n-vi%C3%AAn"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "kyanon-k-fresh-trainee-program",
+    "year": 2026,
+    "opens_at": "2026-03-03",
+    "deadline": "2026-03-27",
+    "sources": [
+      "https://kyanon.digital/careers/k-fresh-trainee-program/",
+      "https://fit.hcmute.edu.vn/?ArticleId=ce42f7e4-33e1-41bb-b9f0-59063ccf5562",
+      "https://dut.udn.vn/KhoaCNTT/Thongbao/id/11797"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "globee-globeex-talent-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "closed",
+    "sources": [
+      "https://globee.hk/globeex-talent-program/",
+      "https://www.fit.hcmus.edu.vn/tin-tuc/d/globeex-talent-program-2026-buoc-dau-su-nghiep-cong-nghe-cua-ban"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "sap-star-program-vietnam",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-04-27",
+    "sources": [
+      "https://www.fit.hcmus.edu.vn/tin-tuc/d/sap-internship-join-our-student-training-rotation-program-star-17184",
+      "https://jobs.sap.com/job/Ho-Chi-Minh-STAR-Program-Vietnam-Tech-Track-700000/1284804901/"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "hanwha-finance-global-internship-program",
+    "year": 2025,
+    "opens_at": "2025-12-30",
+    "deadline": "2026-01-26",
+    "sources": [
+      "https://www.hanwhafinancetalent.com/en/gip",
+      "https://www.fit.hcmus.edu.vn/tin-tuc/d/hanwha-finance-global-internship-program-2026"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "home-credit-home-racer",
+    "year": 2026,
+    "opens_at": "2026-06-15",
+    "deadline": "2026-07-31",
+    "sources": [
+      "https://career.homecredit.vn/vn/article/Home-Racer-Program-2026/",
+      "https://jobs.neu.edu.vn/jobs/home-racer-program-2026-home-credit-viet-nam-1202606171653",
+      "https://vieclam.ueh.edu.vn/cong-viec/home-racer-2025-young-talent-program_155040"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "topcv-next-gen",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-05-17",
+    "sources": [
+      "https://youngtalent.topcv.vn/",
+      "https://jobs.neu.edu.vn/jobs/topcv-next-gen-2026-fuel-your-first-steps-cong-ty-co-phan-topcv-viet-nam-1202604021432"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "appota-the-nextgen",
+    "year": 2026,
+    "opens_at": "2026-04-20",
+    "deadline": "2026-05-09",
+    "sources": [
+      "https://nextgen2026.appota.com/",
+      "https://appota.com/careers/jobs/6298",
+      "https://appota.com/careers/jobs/6304",
+      "https://jobs.neu.edu.vn/jobs/the-nextgen-appota-2026-appota-group-1202604211402"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "sacombank-thuc-tap-vien-tiem-nang",
+    "year": 2025,
+    "opens_at": null,
+    "deadline": null,
+    "status": "closed",
+    "sources": [
+      "https://www.sacombank.com.vn/trang-chu/tin-tuc/tin-sacombank/2025/sacombank-khoi-dong-thuc-tap-vien-tiem-nang-2026.html",
+      "https://jobs.neu.edu.vn/jobs/thuc-tap-sinh-tiem-nang-2025-sacombank-1202510271255",
+      "https://endacc.ufm.edu.vn/-thuc-tap-vien-tiem-nang-sacombank-2026-tai-ufm-hon-500-sinh-vien-tham-du-gan-150-ho-so-phong-van-truc-tiep--109.html"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "msb-management-trainee",
+    "year": 2025,
+    "opens_at": "2025-05-19",
+    "deadline": "2025-06-21",
+    "sources": [
+      "https://talent.msb.com.vn/",
+      "https://jobs.neu.edu.vn/jobs/msb-management-trainee-2025-ngan-hang-tmcp-hang-hai-viet-nam-1202505191612"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "prudential-the-strivers",
+    "year": 2025,
+    "opens_at": "2025-02-10",
+    "deadline": "2025-03-10",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/chuong-trinh-quan-tri-vien-tap-su-the-strivers-management-trainee-functional-trainee-2025-prudential-1202502121507",
+      "https://www.prudential.com.vn/vi/co-hoi-nghe-nghiep/tai-prudential/chuong-trinh-quan-tri-vien-tap-su/"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "ipag-management-associate-next-gen",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-08-31",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/ipag-management-associate-next-gen-2026-vndirect-1202608051401",
+      "https://vndirectcareers.com/chuyen-vndirect/tin-tuc-su-kien/ipa-group-khoi-dong-chuong-trinh-management-associate-2026-next-gen.35A55D39/vi",
+      "https://jobs.neu.edu.vn/jobs/chuong-trinh-management-associate-ma-next-gen-2026-ipa-group-1202510311025"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "xbrain-aws-accelerator-internship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-03-10",
+    "sources": [
+      "https://dut.udn.vn/KhoaCNTT/Thongbao/id/11765",
+      "https://vku.udn.vn/vi/notice/thong-bao-dang-ky-tham-gia-chuong-trinh-thuc-tap-tai-cong-ty-co-phan-techx/",
+      "https://sca.duytan.edu.vn/thong-tin-tuyen-dung-0ui/cong-ty-techx-xbrain-tuyen-sinh-vien-internship-tuyen-dung-sau-thuc-tapns6f2",
+      "https://vku.udn.vn/vku-signs-mou-with-xbrain-23-outstanding-students-selected-for-the-xbrain-x-aws-accelerator-internship-program/"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "axon-active-part-time-internship",
+    "year": 2025,
+    "opens_at": null,
+    "deadline": null,
+    "status": "closed",
+    "sources": [
+      "https://www.edu.axonactive.com/part-time-internship-program"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "endava-vietnam-internship-programme",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "closed",
+    "sources": [
+      "https://www.endava.com/careers/early-careers/internship-programmes/vietnam"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "f88-it-freshers",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-03-05",
+    "sources": [
+      "https://nhansu.f88.vn/itfreshers2026",
+      "https://ybox.vn/tuyen-dung/hn-chuong-trinh-tuyen-dung-va-phat-trien-nhan-tai-cong-nghe-tre-it-freshers-2026-tai-cong-ty-he-thong-dich-vu-tai-chinh-f88-developer-system-and-platform-business-analyst-data-ui-ux-tester-6971e6f80c774205b64de8a3"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "luvina-academy",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "open",
+    "sources": [
+      "https://la.luvina.net/"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "rikkei-future-leader",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-14",
+    "sources": [
+      "https://ybox.vn/tuyen-dung/toan-quoc-cong-ty-rikkei-tuyen-dung-chuong-trinh-dao-tao-tai-nang-tre-and-lanh-dao-ke-can-part-time-full-time-2026-6a1e64f98bd4aa728d02df0d",
+      "https://jobs.neu.edu.vn/jobs/rikkei-future-leader-2026-rikkeisoft-1202605191428",
+      "https://daihoc.fpt.edu.vn/hcm/rikkeisoft-tuyen-chon-tai-nang-tre-cho-chuong-trinh-rikkei-future-leader-2026/"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Các nguồn ghi hạn khác nhau (12/06 và 14/06/2026)."
+  },
+  {
+    "program_slug": "gotymex-internship-program",
+    "year": 2026,
+    "opens_at": "2026-04-23",
+    "deadline": "2026-05-15",
+    "sources": [
+      "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=891&id=17387",
+      "https://www.threads.com/@tramvieclam/post/DXf3_QDExiN/gotymex-internship-program-2026start-your-ascent-t%E1%BB%AB-backend-mobile-%C4%91%E1%BA%BFn-ai-data-b"
     ],
     "updated_at": "2026-10-01"
   }
