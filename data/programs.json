@@ -1284,26 +1284,6 @@
     "updated_at": "2026-10-01"
   },
   {
-    "slug": "hitachi-vantara-graduate-engineering-trainee",
-    "name": "Hitachi Vantara Graduate Engineering Trainee",
-    "type": "graduate",
-    "company": {
-      "name": "Hitachi Vantara Việt Nam",
-      "slug": "hitachi-vantara-vn"
-    },
-    "official_url": "https://careers.hitachi.com/jobs/17767847",
-    "tracks": [
-      "Engineering"
-    ],
-    "eligibility": "Người mới tốt nghiệp ngành kỹ thuật, CNTT.",
-    "recurring": "unknown",
-    "active": true,
-    "is_visible": true,
-    "source": "routine",
-    "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
-  },
-  {
     "slug": "shopeefood-associate-product-management",
     "name": "ShopeeFood Associate Product Management Program",
     "type": "graduate",
@@ -1348,5 +1328,191 @@
     "added_at": "2026-10-01",
     "updated_at": "2026-10-01",
     "notes": "Đi làm full-time từ tháng 8/2026."
+  },
+  {
+    "slug": "katalon-internship-program",
+    "name": "Katalon Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "Katalon",
+      "slug": "katalon"
+    },
+    "official_url": "https://katalon.com/careers/internship",
+    "tracks": [
+      "AI Engineering",
+      "Product Management",
+      "Product Support Engineering"
+    ],
+    "duration": "6 tháng",
+    "eligibility": "Sinh viên Việt Nam (học trong nước hoặc du học), thực tập full-time 6 tháng tại TP.HCM.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Các khoá trước có tên The Next Gen K."
+  },
+  {
+    "slug": "geocomply-internship-program",
+    "name": "GeoComply Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "GeoComply",
+      "slug": "geocomply"
+    },
+    "official_url": "https://www.geocomply.com/careers/internship/",
+    "tracks": [
+      "Software Engineering",
+      "Mobile Security",
+      "Security Software",
+      "Data Science/ML"
+    ],
+    "eligibility": "Sinh viên hoặc mới tốt nghiệp ngành Kỹ thuật phần mềm, KHMT, vững cấu trúc dữ liệu, tiếng Anh tốt, làm hybrid tại TP.HCM.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Chương trình toàn cầu, hơn 100 suất thực tập mỗi năm, có văn phòng TP.HCM."
+  },
+  {
+    "slug": "ivc-fresher-training-program",
+    "name": "IVC Fresher Training Program (IFTP)",
+    "type": "fresher",
+    "company": {
+      "name": "IVC (ISB Vietnam)",
+      "slug": "ivc-isb-vietnam"
+    },
+    "official_url": "https://isb-vietnam.com.vn/jobs/iftp",
+    "tracks": [
+      "Lập trình phần mềm"
+    ],
+    "duration": "8 tuần",
+    "eligibility": "Sinh viên CNTT năm cuối có kiến thức lập trình, nộp CV tiếng Anh kèm bảng điểm.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "2 tuần đào tạo và 6 tuần làm dự án thật, sau đó được nhận full-time."
+  },
+  {
+    "slug": "canonical-early-careers",
+    "name": "Canonical Early Careers",
+    "type": "graduate",
+    "company": {
+      "name": "Canonical",
+      "slug": "canonical"
+    },
+    "official_url": "https://canonical.com/careers/early-careers",
+    "tracks": [
+      "Software Engineering (Open Source, Linux)"
+    ],
+    "eligibility": "Người mới tốt nghiệp đại học hoặc thạc sĩ, làm remote từ bất kỳ đâu, kể cả Việt Nam.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Lộ trình Graduate → Associate → Prof I; chương trình remote toàn cầu."
+  },
+  {
+    "slug": "greennode-internship-program",
+    "name": "GreenNode Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "VNG (GreenNode)",
+      "slug": "vng"
+    },
+    "official_url": "https://career.vng.com.vn/en",
+    "tracks": [
+      "System",
+      "Network",
+      "Software",
+      "Applied AI",
+      "AI Research",
+      "QC"
+    ],
+    "eligibility": "Sinh viên năm 3–4 ngành CNTT, Kỹ thuật máy tính, An ninh mạng, GPA từ 2.8/4, tiếng Anh tối thiểu B2.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Chương trình thực tập AI Cloud của GreenNode (VNG); chưa có trang chương trình riêng."
+  },
+  {
+    "slug": "dnse-talent-program",
+    "name": "DNSE Talent Program – Tech Pioneer",
+    "type": "fresher",
+    "company": {
+      "name": "DNSE",
+      "slug": "dnse"
+    },
+    "official_url": "https://talent.dnse.com.vn/happy-dnse/tin-tuc/dnse-talent-program",
+    "tracks": [
+      "Frontend (ReactJS)",
+      "Backend (Java, Golang)",
+      "Mobile (Flutter)"
+    ],
+    "duration": "6 tháng",
+    "eligibility": "Sinh viên năm 3–4 hoặc mới tốt nghiệp ngành CNTT, GPA từ 3.6, làm full-time tại Hà Nội.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "gem-internship-program",
+    "name": "GEM Internship Program (GIP)",
+    "type": "internship",
+    "company": {
+      "name": "GEM Corporation",
+      "slug": "gem-corp"
+    },
+    "official_url": "https://gem-corp.tech/event/gem-internship-program-2022/",
+    "tracks": [
+      "Java",
+      "ServiceNow",
+      "Python",
+      "Automation QC",
+      ".NET"
+    ],
+    "eligibility": "Sinh viên năm cuối ngành CNTT, tiếng Anh tốt (khoảng IELTS 6.0), thực tập full-time tại Hà Nội.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "ntq-uom-mam-tai-nang-cong-nghe",
+    "name": "NTQ Ươm mầm Tài năng Công nghệ",
+    "type": "fresher",
+    "company": {
+      "name": "NTQ Solution",
+      "slug": "ntq-solution"
+    },
+    "official_url": "https://career.ntq.com.vn/career/student",
+    "tracks": [
+      "Developer",
+      "Tester"
+    ],
+    "eligibility": "Fresher ngành công nghệ mới ra trường muốn được đào tạo bài bản trong môi trường quốc tế.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Đào tạo 70% dự án thật, 20% lớp học, 10% tự học; có cơ hội nhận full-time."
   }
 ]
