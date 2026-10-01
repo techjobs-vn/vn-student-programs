@@ -512,5 +512,29 @@
     "added_at": "2026-10-01",
     "updated_at": "2026-10-01",
     "notes": "Hưởng 100% lương trong thời gian đào tạo; tuyển theo batch quanh năm."
+  },
+  {
+    "slug": "tinyfish-student-program",
+    "name": "TinyFish Student Program",
+    "type": "ambassador",
+    "company": {
+      "name": "TinyFish",
+      "slug": null
+    },
+    "official_url": "https://www.tinyfish.ai/students",
+    "tracks": [
+      "AI agents",
+      "Web automation",
+      "Bounties",
+      "Campus Lead"
+    ],
+    "eligibility": "Sinh viên đang theo học ở bất kỳ trường, quốc gia, ngành nào; email .edu.vn được tặng credit khi đăng ký.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Nhánh campus của chương trình ambassador. Làm bounty hằng tháng để nhận gift card ($10–$50 mỗi bài được duyệt); người đứng đầu bảng xếp hạng được mời làm Campus Lead."
   }
 ]
