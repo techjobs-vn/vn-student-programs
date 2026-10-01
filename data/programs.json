@@ -3,9 +3,21 @@
     "slug": "viettel-digital-talent",
     "name": "Viettel Digital Talent",
     "type": "internship",
-    "company": { "name": "Viettel", "slug": "viettel" },
+    "company": {
+      "name": "Viettel",
+      "slug": "viettel"
+    },
     "official_url": "https://tuyendung.viettel.vn/page/page-digitalTalent",
-    "tracks": ["Semiconductor", "Aerospace", "Cyber Security", "Data Science & AI", "Software Engineering", "Cloud", "5G", "IoT"],
+    "tracks": [
+      "Semiconductor",
+      "Aerospace",
+      "Cyber Security",
+      "Data Science & AI",
+      "Software Engineering",
+      "Cloud",
+      "5G",
+      "IoT"
+    ],
     "eligibility": "Sinh viên muốn theo đuổi các lĩnh vực công nghệ lõi của Viettel.",
     "recurring": "yearly",
     "active": true,
@@ -19,9 +31,16 @@
     "slug": "viettel-future-changemakers",
     "name": "Viettel Future Changemakers",
     "type": "management_trainee",
-    "company": { "name": "Viettel", "slug": "viettel" },
+    "company": {
+      "name": "Viettel",
+      "slug": "viettel"
+    },
     "official_url": "https://tuyendung.viettel.vn/viettel-talent-2026",
-    "tracks": ["Quản lý sản phẩm số", "Quản lý dự án công nghệ", "Quản lý chuỗi cung ứng"],
+    "tracks": [
+      "Quản lý sản phẩm số",
+      "Quản lý dự án công nghệ",
+      "Quản lý chuỗi cung ứng"
+    ],
     "eligibility": "Người đã tốt nghiệp, ưu tiên có kinh nghiệm làm việc.",
     "recurring": "yearly",
     "active": true,
@@ -34,9 +53,19 @@
     "slug": "vpbank-young-talents",
     "name": "VPBank Young Talents",
     "type": "graduate",
-    "company": { "name": "VPBank", "slug": "vpbank" },
+    "company": {
+      "name": "VPBank",
+      "slug": "vpbank"
+    },
     "official_url": "https://hr.vpbank.com.vn/ta/VPBankYoungTalents2026/index.html",
-    "tracks": ["AI Factory", "Data Platform", "Business Analytics", "DevOps", "System Analysis", "Data Analyst"],
+    "tracks": [
+      "AI Factory",
+      "Data Platform",
+      "Business Analytics",
+      "DevOps",
+      "System Analysis",
+      "Data Analyst"
+    ],
     "duration": "15 tháng",
     "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc dưới 1 năm kinh nghiệm; ưu tiên ngành CNTT, Khoa học dữ liệu.",
     "recurring": "yearly",
@@ -51,9 +80,16 @@
     "slug": "fpt-software-global-internship",
     "name": "FPT Software Global Internship (TalentSphere)",
     "type": "internship",
-    "company": { "name": "FPT Software", "slug": "fpt-software" },
+    "company": {
+      "name": "FPT Software",
+      "slug": "fpt-software"
+    },
     "official_url": "https://fptsoftware.com/pages/global-internship",
-    "tracks": ["Software Engineering", "AI Engineering", "Cyber Security"],
+    "tracks": [
+      "Software Engineering",
+      "AI Engineering",
+      "Cyber Security"
+    ],
     "duration": "8–10 tuần",
     "eligibility": "Sinh viên từ năm 2 (cử nhân hoặc thạc sĩ) ngành CNTT, tiếng Anh tương đương B2.",
     "recurring": "yearly",
@@ -68,9 +104,14 @@
     "slug": "fpt-software-fresher-academy",
     "name": "FPT Software Fresher (FSOFT Academy)",
     "type": "fresher",
-    "company": { "name": "FPT Software", "slug": "fpt-software" },
+    "company": {
+      "name": "FPT Software",
+      "slug": "fpt-software"
+    },
     "official_url": "https://career.fpt-software.com/employer/fpt-software-academy/",
-    "tracks": ["Fullstack ReactJS/NodeJS"],
+    "tracks": [
+      "Fullstack ReactJS/NodeJS"
+    ],
     "duration": "4 tháng đào tạo",
     "eligibility": "Sinh viên năm cuối hoặc đã tốt nghiệp ngành CNTT, GPA từ 2.8, tiếng Anh khoảng B2.",
     "recurring": "multiple",
@@ -85,9 +126,19 @@
     "slug": "fpt-telecom-sinh-vien-cong-nghe-tap-su",
     "name": "FPT Telecom Sinh viên Công nghệ Tập sự",
     "type": "internship",
-    "company": { "name": "FPT Telecom", "slug": "fpt-telecom" },
+    "company": {
+      "name": "FPT Telecom",
+      "slug": "fpt-telecom"
+    },
     "official_url": "https://fptjobs.com/SVCNTS2026",
-    "tracks": ["Công nghệ thông tin", "Dữ liệu & AI", "Viễn thông", "An toàn thông tin", "Điện & tự động hoá", "Thiết kế vi mạch & phần cứng"],
+    "tracks": [
+      "Công nghệ thông tin",
+      "Dữ liệu & AI",
+      "Viễn thông",
+      "An toàn thông tin",
+      "Điện & tự động hoá",
+      "Thiết kế vi mạch & phần cứng"
+    ],
     "eligibility": "Sinh viên năm 3 hoặc năm cuối ngành CNTT, Điện tử viễn thông, GPA từ 7.0/10 (2.8/4), làm việc tại Hà Nội hoặc TP.HCM.",
     "recurring": "yearly",
     "active": true,
@@ -101,9 +152,19 @@
     "slug": "techcombank-future-gen",
     "name": "Techcombank Future Gen",
     "type": "management_trainee",
-    "company": { "name": "Techcombank", "slug": "techcombank" },
+    "company": {
+      "name": "Techcombank",
+      "slug": "techcombank"
+    },
     "official_url": "https://tuyendung.techcombankjobs.com/techcombank-future-gen",
-    "tracks": ["Software Development", "IT Security", "IT Infrastructure", "Business Analysis", "Project Management", "Data & AI"],
+    "tracks": [
+      "Software Development",
+      "IT Security",
+      "IT Infrastructure",
+      "Business Analysis",
+      "Project Management",
+      "Data & AI"
+    ],
     "duration": "24 tháng",
     "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm; nhánh Technology yêu cầu ngành CNTT/KHMT và tiếng Anh tốt.",
     "recurring": "yearly",
@@ -118,9 +179,15 @@
     "slug": "grab-tech-bootcamp-vietnam",
     "name": "Grab Tech Bootcamp & Internship Vietnam",
     "type": "internship",
-    "company": { "name": "Grab", "slug": "grab" },
+    "company": {
+      "name": "Grab",
+      "slug": "grab"
+    },
     "official_url": "https://www.grab.careers/en/vietnam-grab-bootcamp-2025/",
-    "tracks": ["Software Engineering", "Data Science"],
+    "tracks": [
+      "Software Engineering",
+      "Data Science"
+    ],
     "duration": "4 tuần bootcamp + 6 tháng thực tập",
     "eligibility": "Sinh viên năm cuối hoặc tốt nghiệp trong vòng 1 năm ngành CNTT/KHMT/Toán, quốc tịch Việt Nam, ở TP.HCM.",
     "recurring": "yearly",
@@ -135,9 +202,16 @@
     "slug": "nashtech-rookie-to-engineer",
     "name": "NashTech Rookie To Engineer",
     "type": "fresher",
-    "company": { "name": "NashTech", "slug": "nashtech" },
+    "company": {
+      "name": "NashTech",
+      "slug": "nashtech"
+    },
     "official_url": "https://careers.nashtechglobal.com/fresher-program/",
-    "tracks": [".NET", "Java", "Python"],
+    "tracks": [
+      ".NET",
+      "Java",
+      "Python"
+    ],
     "duration": "3 tháng",
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, học full-time 3 tháng, có tiếng Anh.",
     "recurring": "multiple",
@@ -152,9 +226,19 @@
     "slug": "vietinbank-it-internship",
     "name": "VietinBank Thực tập sinh CNTT & Dữ liệu",
     "type": "internship",
-    "company": { "name": "VietinBank", "slug": "vietinbank" },
+    "company": {
+      "name": "VietinBank",
+      "slug": "vietinbank"
+    },
     "official_url": "https://tuyendung.vietinbank.vn/tuyendung/thong-tin-tuyen-dung/TSC202606531T00597",
-    "tracks": ["Data Scientist", "AI Engineer", "Data Engineer", "Software Engineer", "Business Analyst", "SOC/Security"],
+    "tracks": [
+      "Data Scientist",
+      "AI Engineer",
+      "Data Engineer",
+      "Software Engineer",
+      "Business Analyst",
+      "SOC/Security"
+    ],
     "duration": "6 tháng",
     "eligibility": "Sinh viên chính quy năm 3–4 ngành CNTT, KHMT, Khoa học dữ liệu/AI hoặc liên quan.",
     "recurring": "unknown",
@@ -169,9 +253,15 @@
     "slug": "kms-fresher",
     "name": "KMS Fresher",
     "type": "fresher",
-    "company": { "name": "KMS Technology", "slug": "kms-technology" },
+    "company": {
+      "name": "KMS Technology",
+      "slug": "kms-technology"
+    },
     "official_url": "https://careers.kms-technology.com/fresher/",
-    "tracks": ["Software Engineer", "Software Tester"],
+    "tracks": [
+      "Software Engineer",
+      "Software Tester"
+    ],
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp có nền tảng CNTT tốt, tiếng Anh tốt, làm full-time.",
     "recurring": "multiple",
     "active": true,
@@ -180,5 +270,247 @@
     "added_at": "2026-10-01",
     "updated_at": "2026-10-01",
     "notes": "Tuyển fresher quanh năm, bắt đầu bằng bootcamp."
+  },
+  {
+    "slug": "aws-student-builder-group-leader",
+    "name": "AWS Student Builder Group Leader",
+    "type": "ambassador",
+    "company": {
+      "name": "Amazon Web Services",
+      "slug": null
+    },
+    "official_url": "https://builder.aws.com/content/3ITldzpQS7bvgVN01IkU2rFJn1o/applications-are-open-become-an-aws-student-builder-group-leader",
+    "tracks": [
+      "Cloud",
+      "AI",
+      "Community"
+    ],
+    "duration": "12 tháng",
+    "eligibility": "Sinh viên từ 18 tuổi đang học ĐH/CĐ, còn ít nhất 12 tháng trước khi ra trường, cam kết tổ chức ít nhất 6 sự kiện.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Trước đây là AWS Cloud Club Captain; không giới hạn quốc gia."
+  },
+  {
+    "slug": "google-student-ambassador-vietnam",
+    "name": "Google Student Ambassador Việt Nam",
+    "type": "ambassador",
+    "company": {
+      "name": "Google",
+      "slug": null
+    },
+    "official_url": "https://googlestudentambassador.vn/",
+    "tracks": [
+      "AI",
+      "Gemini",
+      "Community"
+    ],
+    "eligibility": "Sinh viên Việt Nam từ 18 tuổi đang học CĐ/ĐH tại Việt Nam, mọi ngành, chưa tốt nghiệp trước 31/03/2027.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Phối hợp với Trung tâm Đổi mới Sáng tạo Quốc gia (NIC); trang được dẫn từ grow.google. Năm 2026 là mùa 2."
+  },
+  {
+    "slug": "claude-campus-ambassador",
+    "name": "Claude Campus Ambassador",
+    "type": "ambassador",
+    "company": {
+      "name": "Anthropic",
+      "slug": null
+    },
+    "official_url": "https://claude.com/programs/campus",
+    "tracks": [
+      "Claude Builder Club",
+      "Claude Campus Conversations",
+      "Claude Science"
+    ],
+    "duration": "09/2026 – 06/2027",
+    "eligibility": "Sinh viên mọi quốc gia từ 18 tuổi, có quyền làm việc tại nước đang học.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Chương trình toàn cầu, mở cho sinh viên tại Việt Nam."
+  },
+  {
+    "slug": "dai-su-momo-student",
+    "name": "Đại sứ MoMo Student",
+    "type": "ambassador",
+    "company": {
+      "name": "MoMo",
+      "slug": "momo"
+    },
+    "official_url": "https://www.momo.vn/student-pass/dai-su-momo-student",
+    "tracks": [
+      "Content creation",
+      "Community",
+      "AI skills"
+    ],
+    "duration": "1 năm",
+    "eligibility": "Sinh viên Việt Nam 18–25 tuổi tại các trường ĐH/CĐ, đã xác thực MoMo Student Pass và có hoạt động trên mạng xã hội.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Năm 2026 là mùa 2, tuyển 50 đại sứ."
+  },
+  {
+    "slug": "github-campus-experts",
+    "name": "GitHub Campus Experts",
+    "type": "ambassador",
+    "company": {
+      "name": "GitHub",
+      "slug": null
+    },
+    "official_url": "https://docs.github.com/en/education/about-github-education/use-github-at-your-educational-institution/applying-to-be-a-github-campus-expert",
+    "tracks": [
+      "Developer community",
+      "Open source",
+      "Events"
+    ],
+    "eligibility": "Sinh viên đại học từ 18 tuổi, còn ít nhất 1 năm trước khi tốt nghiệp, có GitHub Student Developer Pack.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Theo GitHub Docs, mở đơn mỗi năm một lần vào tháng 7, trong một tháng."
+  },
+  {
+    "slug": "microsoft-student-ambassadors",
+    "name": "Microsoft Student Ambassadors",
+    "type": "ambassador",
+    "company": {
+      "name": "Microsoft",
+      "slug": null
+    },
+    "official_url": "https://mvp.microsoft.com/studentambassadors",
+    "tracks": [
+      "AI",
+      "Microsoft technologies",
+      "Community"
+    ],
+    "eligibility": "Sinh viên ĐH/CĐ mọi ngành trên toàn cầu có thể tự đăng ký tham gia, có một số giới hạn.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Từ 04/2026 không còn vòng xét đơn; đăng ký tham gia bất kỳ lúc nào."
+  },
+  {
+    "slug": "fpt-frontier-innovators",
+    "name": "FPT Frontier Innovators",
+    "type": "graduate",
+    "company": {
+      "name": "FPT (Viện QACI)",
+      "slug": null
+    },
+    "official_url": "https://fpt.com/en/news/fpt-frontier-innovators-a-new-program-for-young-talent-pioneering-emerging-technologies",
+    "tracks": [
+      "Agentic AI",
+      "Physical AI",
+      "AI for Science",
+      "Quantum computing",
+      "Cybersecurity"
+    ],
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ĐH/ThS ngành Toán, STEM, vững toán, machine learning và lập trình.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Chương trình nghiên cứu có lương cho người trẻ."
+  },
+  {
+    "slug": "nab-starcamp",
+    "name": "StarCamp by NAB Tech Academy",
+    "type": "fresher",
+    "company": {
+      "name": "NAB Innovation Centre Vietnam",
+      "slug": null
+    },
+    "official_url": "https://www.nab.com.au/about-us/careers/nabvietnam",
+    "tracks": [
+      "Back-end (Java)",
+      "Full-stack (JavaScript)",
+      "Quality Engineering"
+    ],
+    "duration": "12 tuần full-time, có lương",
+    "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc người chuyển ngành có nền tảng CNTT.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Tuyển theo batch; batch 24 tuyển khoảng tháng 8–9/2026."
+  },
+  {
+    "slug": "faraday-vietnam-internship",
+    "name": "Faraday Vietnam Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "Faraday Technology Vietnam",
+      "slug": null
+    },
+    "official_url": "https://www.faraday-tech.com/en/content/Careers/InternshipProgramVietnam",
+    "tracks": [
+      "RTL Design",
+      "Design Verification",
+      "Physical Design",
+      "DFT/STA"
+    ],
+    "duration": "288 giờ",
+    "eligibility": "Sinh viên năm cuối ngành thiết kế vi mạch, điện tử viễn thông, kỹ thuật máy tính hoặc KHMT, GPA từ 7.5/10.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Thiết kế vi mạch; tuyển nhiều đợt mỗi năm."
+  },
+  {
+    "slug": "tma-foundation-training",
+    "name": "TMA Foundation Training (Talent Fresher)",
+    "type": "fresher",
+    "company": {
+      "name": "TMA Tech Group",
+      "slug": null
+    },
+    "official_url": "https://www.tma.vn/tuyen-dung/moi-tot-nghiep",
+    "tracks": [
+      "Back-end",
+      "Front-end",
+      "Full-stack",
+      "Mobile",
+      "DevOps",
+      "AI Engineer",
+      "Automation Tester"
+    ],
+    "eligibility": "Tốt nghiệp CNTT, Toán-Tin, KHMT hoặc ĐTVT, GPA từ 8.0/10 và TOEIC từ 650.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Hưởng 100% lương trong thời gian đào tạo; tuyển theo batch quanh năm."
   }
 ]
