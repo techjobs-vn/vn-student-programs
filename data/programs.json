@@ -606,5 +606,747 @@
     "added_at": "2026-10-01",
     "updated_at": "2026-10-01",
     "notes": "Vingroup đặt mục tiêu đào tạo tới 20.000 học viên trong 2 năm, tuyển sinh liên tục nhiều khoá."
+  },
+  {
+    "slug": "zalo-tech-fresher",
+    "name": "Zalo Tech Fresher",
+    "type": "fresher",
+    "company": {
+      "name": "Zalo",
+      "slug": "zalo"
+    },
+    "official_url": "https://zalo.careers/techfresher",
+    "tracks": [
+      "Data & AI",
+      "Mobile, Frontend",
+      "Backend, QC"
+    ],
+    "duration": "12 tuần",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp dưới 1 năm ngành CNTT, GPA từ 7.5/10 hoặc 3.0/4.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Lương 15 triệu/tháng trong chương trình, làm việc tại TP.HCM."
+  },
+  {
+    "slug": "zalo-product-management-trainee",
+    "name": "Zalo Product Management Trainee",
+    "type": "management_trainee",
+    "company": {
+      "name": "Zalo",
+      "slug": "zalo"
+    },
+    "official_url": "https://zalo.careers/pmt",
+    "tracks": [
+      "Product Management"
+    ],
+    "duration": "4 tháng",
+    "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, ưu tiên nền tảng CNTT.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "cmc-global-fresher-techie",
+    "name": "CMC Global Fresher Techie",
+    "type": "fresher",
+    "company": {
+      "name": "CMC Global",
+      "slug": null
+    },
+    "official_url": "https://fresher.cmcglobal.com.vn/",
+    "tracks": [
+      "Software Engineer",
+      "Software Tester",
+      "AI Engineer",
+      "Data Engineer",
+      "Business Analyst"
+    ],
+    "duration": "3–6 tháng",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, GPA từ 3.0/4, tiếng Anh tương đương TOEIC 650 hoặc JLPT N3.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Tuyển theo squad, không có hạn nộp cố định."
+  },
+  {
+    "slug": "vnpt-thuc-tap-sinh",
+    "name": "VNPT Thực tập sinh",
+    "type": "internship",
+    "company": {
+      "name": "VNPT",
+      "slug": "vnpt"
+    },
+    "official_url": "https://tuyendung.vnpt.vn/tin-thuc-tap-sinh.html",
+    "tracks": [
+      "Lập trình .NET/Java/Python/Mobile",
+      "Tester",
+      "AI/Data",
+      "An toàn thông tin",
+      "DevOps"
+    ],
+    "eligibility": "Sinh viên năm cuối hoặc cận cuối ngành CNTT, làm được tối thiểu 5 buổi/tuần.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Chương trình tuyển thực tập lớn nhất hằng năm của VNPT; thực tập sinh được thi tuyển vào VNPT Fresher."
+  },
+  {
+    "slug": "vnpt-fresher",
+    "name": "VNPT Fresher",
+    "type": "fresher",
+    "company": {
+      "name": "VNPT",
+      "slug": "vnpt"
+    },
+    "official_url": "https://tuyendung.vnpt.vn/tin-fresher.html",
+    "tracks": [
+      "Lập trình",
+      "Dữ liệu",
+      "AI"
+    ],
+    "eligibility": "Sinh viên năm cuối chính quy ngành CNTT hoặc tốt nghiệp không quá 1 năm, GPA từ khá.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Thu nhập tới 10 triệu/tháng trong thời gian đào tạo."
+  },
+  {
+    "slug": "viettel-cyber-security-vcs-passport",
+    "name": "VCS Passport (Viettel Cyber Security)",
+    "type": "internship",
+    "company": {
+      "name": "Viettel Cyber Security",
+      "slug": "viettel"
+    },
+    "official_url": "https://tuyendung.viettelsecurity.com/vi/program/vcs-passport-2/",
+    "tracks": [
+      "System Programming, Backend, SRE",
+      "Pentest, Red Team, Incident Response",
+      "Threat Hunting, Network Security"
+    ],
+    "eligibility": "Sinh viên năm 4 trở lên hoặc mới tốt nghiệp ngành ATTT, CNTT, ĐTVT, KHMT.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Chương trình tuyển thực tập hằng năm của Viettel Cyber Security; chưa thấy ngày đợt 2026."
+  },
+  {
+    "slug": "bosch-bgsv-internship-program",
+    "name": "Bosch Internship Program (BGSV)",
+    "type": "internship",
+    "company": {
+      "name": "Bosch Global Software Technologies Vietnam",
+      "slug": "bosch"
+    },
+    "official_url": "https://careers.smartrecruiters.com/BoschGroup/vietnam",
+    "tracks": [
+      "Embedded",
+      "AI",
+      "DevOps",
+      "Software Testing",
+      "Fullstack"
+    ],
+    "duration": "6 tháng full-time",
+    "eligibility": "Sinh viên năm 3, năm cuối hoặc mới tốt nghiệp, tiếng Anh tốt và cam kết thực tập 6 tháng.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Tuyển theo quý (Q1–Q4)."
+  },
+  {
+    "slug": "vnggames-nextgen",
+    "name": "VNGGames NextGen",
+    "type": "fresher",
+    "company": {
+      "name": "VNGGames",
+      "slug": "vnggames"
+    },
+    "official_url": "https://career.vng.com.vn/danh-cho-sinh-vien/vnggames-next-gen",
+    "tracks": [
+      "Software Engineer",
+      "Game Developer",
+      "Game Designer"
+    ],
+    "duration": "3 tháng đào tạo",
+    "eligibility": "Sinh viên tốt nghiệp trong năm hoặc dưới 2 năm kinh nghiệm, GPA từ 3.0/4, làm full-time tại TP.HCM.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Có cả nhánh không thuộc kỹ thuật (vận hành game, marketing)."
+  },
+  {
+    "slug": "samsung-srv-internship",
+    "name": "Samsung SRV Internship",
+    "type": "internship",
+    "company": {
+      "name": "Samsung R&D Center Vietnam",
+      "slug": "samsung-rd-vietnam"
+    },
+    "official_url": "https://www.samsungcareers.com.vn/",
+    "tracks": [
+      "Software C/C++/Java/Android",
+      "Phần cứng điện tử, viễn thông"
+    ],
+    "duration": "4 tuần full-time",
+    "eligibility": "Sinh viên CNTT, ĐTVT sắp tốt nghiệp, GPA từ 2.5/4, chưa từng thực tập tại SRV.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Năm 2026 có 3 đợt vào tháng 6, 7, 8 (theo thông báo của trường)."
+  },
+  {
+    "slug": "masan-mye-tech",
+    "name": "Masan Young Entrepreneur – Technology (MYE-Tech)",
+    "type": "management_trainee",
+    "company": {
+      "name": "Masan Group",
+      "slug": "masan"
+    },
+    "official_url": "https://www.masangroup.com/news/masan-news/people-a-strategic-investment-for-masans-next-phase-of-growth/",
+    "tracks": [
+      "Data",
+      "Cloud Infrastructure",
+      "Software Development",
+      "Cybersecurity"
+    ],
+    "duration": "6 tháng",
+    "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc dưới 1 năm kinh nghiệm ngành CNTT, làm full-time tại TP.HCM.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "vinrobotics-talent-program",
+    "name": "VinRobotics Talent Program",
+    "type": "internship",
+    "company": {
+      "name": "VinRobotics",
+      "slug": "vinrobotics"
+    },
+    "official_url": "https://vinrobotics.net/career/internship-vin-robotics-talent-program",
+    "tracks": [
+      "Robotic perception",
+      "SLAM, Navigation",
+      "Robotic foundation models",
+      "RL, Imitation Learning",
+      "Robotic software, Control"
+    ],
+    "eligibility": "Sinh viên năm 3–4 hoặc mới tốt nghiệp ngành Robotics, Cơ điện tử, KHMT, AI hoặc liên quan, lập trình tốt.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Có 3 nhánh: Internship, Fresh Graduate và Residency."
+  },
+  {
+    "slug": "vinmotion-talent-internship",
+    "name": "VinMotion Talent Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "VinMotion",
+      "slug": "vinmotion"
+    },
+    "official_url": "https://vinmotion.net/career/engineering-internship",
+    "tracks": [
+      "AI (NLP, CV, GenAI)",
+      "Robot control",
+      "Embedded software",
+      "Simulation"
+    ],
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành KHMT, AI, Robotics, Cơ điện tử, Điện tử, Kỹ thuật phần mềm.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "qualcomm-ai-residency",
+    "name": "Qualcomm AI Residency Program (Việt Nam)",
+    "type": "graduate",
+    "company": {
+      "name": "Qualcomm AI Research Vietnam",
+      "slug": "qualcomm"
+    },
+    "official_url": "https://www.qualcomm.com/research/artificial-intelligence/ai-residency-program",
+    "tracks": [
+      "Research Residency (ML, CV, NLP)",
+      "Engineering Residency (Efficient AI, Embedded, Agentic AI)"
+    ],
+    "duration": "12–24 tháng",
+    "eligibility": "Sinh viên năm cuối hoặc tốt nghiệp trong vòng 2 năm ngành KHMT, GPA từ 3.2/4, tiếng Anh tốt.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Kế thừa VinAI Residency; thường có 2 đợt mỗi năm."
+  },
+  {
+    "slug": "fpt-futuretech-talents",
+    "name": "FPT FutureTech Talents",
+    "type": "internship",
+    "company": {
+      "name": "FPT Smart Cloud & Viện QACI",
+      "slug": "fpt-ai"
+    },
+    "official_url": "https://futuretechtalents.fpt.com/",
+    "tracks": [
+      "AI",
+      "Cloud",
+      "Cyber Security",
+      "Quantum"
+    ],
+    "duration": "6 tháng",
+    "eligibility": "Sinh viên giỏi từ năm 3 đến năm cuối ngành CNTT, KHMT, AI, ATTT, Toán tin tại Hà Nội, GPA từ 3.2/4.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Trước đây là FPT Smart Cloud Young Talent; năm 2026 là mùa 3."
+  },
+  {
+    "slug": "axon-active-java-fresher",
+    "name": "Axon Active Java Fresher Program",
+    "type": "fresher",
+    "company": {
+      "name": "Axon Active",
+      "slug": "axon-active"
+    },
+    "official_url": "https://www.edu.axonactive.com/software-fresher-program",
+    "tracks": [
+      "Java"
+    ],
+    "duration": "4 tháng",
+    "eligibility": "Sinh viên năm 4 hoặc mới tốt nghiệp ngành CNTT, giao tiếp tiếng Anh tốt, làm full-time.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Miễn học phí và có lương trong thời gian đào tạo; ứng tuyển qua Career Day."
+  },
+  {
+    "slug": "manulife-future-leaders-it",
+    "name": "Manulife Future Leaders – Khối Công nghệ thông tin",
+    "type": "management_trainee",
+    "company": {
+      "name": "Manulife Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://www.manulife.com.vn/vi/ve-chung-toi/manulife-future-leaders.html",
+    "tracks": [
+      "Information Technology",
+      "Data",
+      "AI",
+      "Digital Platform"
+    ],
+    "duration": "3 năm",
+    "eligibility": "Đã tốt nghiệp ĐH hoặc ThS ngành CNTT, KHMT, HTTT, Data, GPA từ 7.0/10, dưới 1 năm kinh nghiệm.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "nab-wecamp",
+    "name": "NAB WeCamp Training Program",
+    "type": "internship",
+    "company": {
+      "name": "NAB Innovation Centre Vietnam",
+      "slug": "nab-vietnam"
+    },
+    "official_url": "https://nab.wd3.myworkdayjobs.com/en-US/NAB_Careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/NAB-WeCamp-Training-Program---Batch-13--Open-for-female-talents-_JR120469",
+    "tracks": [
+      "Software Engineering"
+    ],
+    "duration": "10 tuần",
+    "eligibility": "Nữ sinh viên năm 3, năm cuối hoặc người muốn chuyển sang ngành IT.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Dành cho nữ; học viên WeCamp được vào tiếp StarCamp."
+  },
+  {
+    "slug": "tma-industry-internship",
+    "name": "TMA Industry Internship",
+    "type": "internship",
+    "company": {
+      "name": "TMA Tech Group",
+      "slug": "tma-solutions"
+    },
+    "official_url": "https://www.tma.vn/tuyen-dung/thuc-tap",
+    "tracks": [
+      "Tester",
+      "AI Engineer",
+      "Full Stack",
+      "Mobile",
+      "Java, .NET, Python",
+      "DevOps"
+    ],
+    "duration": "Tối thiểu 3 tháng",
+    "eligibility": "Sinh viên từ năm 3 ngành CNTT, thực tập full-time tối thiểu 3 tháng, GPA từ 7.0.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Tuyển theo khoá nhiều lần mỗi năm."
+  },
+  {
+    "slug": "rikkei-tech-internship",
+    "name": "Rikkei Tech Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "Rikkeisoft",
+      "slug": "rikkeisoft"
+    },
+    "official_url": "https://tuyendung.rikkeisoft.com/recruitment/detail/2058-rikkei-tech-internship-program-20261773310702",
+    "tracks": [
+      "Developer (Frontend, Backend, Mobile)",
+      "Tester",
+      "Business Analyst"
+    ],
+    "duration": "6 tháng",
+    "eligibility": "Sinh viên năm 3 trở lên hoặc mới tốt nghiệp không quá 1 năm ngành CNTT.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "systemexe-fresher-training",
+    "name": "SystemEXE Fresher Training Program",
+    "type": "fresher",
+    "company": {
+      "name": "SystemEXE Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://fresher.system-exe.com.vn/",
+    "tracks": [
+      "Lập trình phần mềm",
+      "Kiểm thử phần mềm"
+    ],
+    "duration": "2 tháng",
+    "eligibility": "Sinh viên sắp tốt nghiệp hoặc tốt nghiệp dưới 1 năm ngành CNTT, học full-time tại TP.HCM.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Nhận 10 triệu/tháng trong thời gian đào tạo."
+  },
+  {
+    "slug": "bioturing-b-gens",
+    "name": "B-GENS BioTuring Trainee Program",
+    "type": "fresher",
+    "company": {
+      "name": "BioTuring",
+      "slug": "bioturing"
+    },
+    "official_url": "https://bioturing.com/blog/b-gens-2026-bioturing-trainee-program-2026/",
+    "tracks": [
+      "Bioinformatics",
+      "Software Engineer",
+      "Product Management"
+    ],
+    "duration": "3 tháng ươm tạo + 2 tháng thử việc",
+    "eligibility": "Mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm ngành KHMT, Bioinformatics, Data, Toán, Lý, GPA từ 3.0/4.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Công ty mô tả là chương trình tổ chức 2 năm một lần."
+  },
+  {
+    "slug": "marvell-vietnam-excellence-scholarship",
+    "name": "Marvell Vietnam Excellence Scholarship",
+    "type": "internship",
+    "company": {
+      "name": "Marvell Technology Vietnam",
+      "slug": "marvell"
+    },
+    "official_url": "https://www.marvell.com/company/careers/university-recruiting.html",
+    "tracks": [
+      "Semiconductor Engineering"
+    ],
+    "eligibility": "Sinh viên năm 2–4 ngành Điện tử, Viễn thông, Kỹ thuật máy tính, CNTT, GPA từ 7.0.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Học bổng; người nhận được ưu tiên thực tập tại Marvell Việt Nam (tháng 6–9)."
+  },
+  {
+    "slug": "renesas-campus-ambassador",
+    "name": "Renesas Campus Ambassador",
+    "type": "ambassador",
+    "company": {
+      "name": "Renesas Design Vietnam",
+      "slug": "renesas"
+    },
+    "official_url": "https://jobs.renesas.com/campus-ambassador",
+    "tracks": [
+      "Employer Branding",
+      "Community"
+    ],
+    "duration": "12 tháng",
+    "eligibility": "Sinh viên năm 2–4 ngành Kỹ thuật, KHMT, CNTT hoặc liên quan.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "opswat-cybersecurity-fellowship",
+    "name": "OPSWAT Cybersecurity Graduate Fellowship",
+    "type": "internship",
+    "company": {
+      "name": "OPSWAT",
+      "slug": "opswat"
+    },
+    "official_url": "https://www.opswat.com/careers/cybersecurity-fellowship-program",
+    "tracks": [
+      "Cybersecurity",
+      "Vulnerability Research",
+      "OT/ICS Security"
+    ],
+    "duration": "Khoảng 10 tuần mỗi đợt SWAT",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành ATTT, CNTT, KHMT, tiếng Anh tốt.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Năm 2026 có 3 đợt SWAT (3–5, 6–8, 9–11); phụ cấp 6 triệu/tháng."
+  },
+  {
+    "slug": "optisigns-the-next-alpha",
+    "name": "OptiSigns “The Next Alpha” QC Training Program",
+    "type": "fresher",
+    "company": {
+      "name": "OptiSigns",
+      "slug": "optisigns"
+    },
+    "official_url": "https://apply.workable.com/j/4E0138572C",
+    "tracks": [
+      "QA/QC"
+    ],
+    "duration": "8 tuần full-time",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, KHMT, làm full-time 8 tuần tại TP.HCM.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Phụ cấp 5 triệu/tháng; hoàn thành có cơ hội lên nhân viên chính thức."
+  },
+  {
+    "slug": "mb-trainee-it",
+    "name": "MB Trainee – Khối Công nghệ thông tin",
+    "type": "fresher",
+    "company": {
+      "name": "MB Bank",
+      "slug": "mbbank"
+    },
+    "official_url": "https://careers.mbbank.com.vn/vi",
+    "tracks": [
+      "AI Engineer",
+      "Information Security GRC"
+    ],
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp (Fresher, Intern) cho các trung tâm thuộc Khối CNTT của MB.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "tpbank-tap-su-tiem-nang",
+    "name": "TPBank Tập sự tiềm năng (Công nghệ)",
+    "type": "fresher",
+    "company": {
+      "name": "TPBank",
+      "slug": "tpbank"
+    },
+    "official_url": "https://tuyendung.tpb.vn/vi/jobs/RkV54P",
+    "tracks": [
+      "AI Engineer",
+      "AIOps, DevOps",
+      "Data Engineer"
+    ],
+    "eligibility": "Sinh viên mới tốt nghiệp cho các vị trí công nghệ của TPBank.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "binance-accelerator-program",
+    "name": "Binance Accelerator Program",
+    "type": "graduate",
+    "company": {
+      "name": "Binance",
+      "slug": "binance"
+    },
+    "official_url": "https://jobs.lever.co/binance/ae1a07c1-c971-403c-906b-79d8c16e4f2d",
+    "tracks": [
+      "Data Science",
+      "AI Agent",
+      "Web & Mobile Engineering",
+      "Risk"
+    ],
+    "eligibility": "Sinh viên và người mới tốt nghiệp; địa điểm làm việc khác nhau theo từng vị trí.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Mỗi nhánh là một tin tuyển riêng trên Lever; kiểm tra địa điểm trước khi nộp."
+  },
+  {
+    "slug": "hitachi-vantara-talented-ai-intern",
+    "name": "Hitachi Vantara Talented AI Engineer Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "Hitachi Vantara Việt Nam",
+      "slug": "hitachi-vantara-vn"
+    },
+    "official_url": "https://careers.hitachi.com/jobs/18154842",
+    "tracks": [
+      "AI Engineering"
+    ],
+    "eligibility": "Sinh viên ngành CNTT, KHMT, AI tại TP.HCM và Hà Nội.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "hitachi-vantara-graduate-engineering-trainee",
+    "name": "Hitachi Vantara Graduate Engineering Trainee",
+    "type": "graduate",
+    "company": {
+      "name": "Hitachi Vantara Việt Nam",
+      "slug": "hitachi-vantara-vn"
+    },
+    "official_url": "https://careers.hitachi.com/jobs/17767847",
+    "tracks": [
+      "Engineering"
+    ],
+    "eligibility": "Người mới tốt nghiệp ngành kỹ thuật, CNTT.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "shopeefood-associate-product-management",
+    "name": "ShopeeFood Associate Product Management Program",
+    "type": "graduate",
+    "company": {
+      "name": "Shopee",
+      "slug": "shopee"
+    },
+    "official_url": "https://careers.shopee.vn/job-detail/135654",
+    "tracks": [
+      "Product Management"
+    ],
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp muốn làm quản lý sản phẩm.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "momo-talent",
+    "name": "MoMo Talent (Product Trainee)",
+    "type": "graduate",
+    "company": {
+      "name": "MoMo",
+      "slug": "momo"
+    },
+    "official_url": "https://momo.careers/momo-talent",
+    "tracks": [
+      "Payment Platform",
+      "Credit Tech Product",
+      "Expense Management",
+      "User Engagement",
+      "Product Growth"
+    ],
+    "duration": "8 tháng",
+    "eligibility": "Người mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, GPA từ 3.2/4, tiếng Anh B2.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-01",
+    "updated_at": "2026-10-01",
+    "notes": "Đi làm full-time từ tháng 8/2026."
   }
 ]

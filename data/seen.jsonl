@@ -16,7 +16,7 @@
 {"url": "https://www.linkedin.com/posts/techcombank_techcombankfuturegen2027-techcombank-techcombankcareers-activity-7490972448658747392-6nIw", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "techcombank-future-gen"}
 {"url": "https://tuyendung.vietinbank.vn/tuyendung/thong-tin-tuyen-dung/TSC202606530T00596", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "vietinbank-it-internship"}
 {"url": "https://careers.shopee.vn/apprenticeprogram", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Shopee Apprentice: không có nhánh kỹ thuật"}
-{"url": "https://momo.careers/momo-talent", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "MoMo Talent 2026: chỉ có Product/Growth trainee trên trang chính thức"}
+{"url": "https://momo.careers/momo-talent", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "momo-talent"}
 {"url": "https://careers.abbank.vn/", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "ABBank thực tập 2026: chỉ khối kinh tế/vận hành"}
 {"url": "https://builder.aws.com/content/3ITldzpQS7bvgVN01IkU2rFJn1o/applications-are-open-become-an-aws-student-builder-group-leader", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "aws-student-builder-group-leader"}
 {"url": "https://googlestudentambassador.vn/", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "google-student-ambassador-vietnam"}
@@ -53,3 +53,66 @@
 {"url": "https://doanhnghiephoinhap.vn/vinbigdata-mo-dang-ky-khoa-ky-su-ai-mien-phi-mua-6-99931.html", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "vingroup-ai-engineer"}
 {"url": "https://vingroup.net/tin-tuc-su-kien/bai-viet/3800/vingroup-dao-tao-20000-nhan-tai-ai-thuc-chien-phu-cap-8-trieu-dongthang", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "vingroup-ai-talent"}
 {"url": "https://fami.hust.edu.vn/thong-bao-sinh-vien/thong-tin-chuong-trinh-thuc-tap-sinh-lac-hong-2026/", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "VinFast Lạc Hồng: thực tập kỹ thuật ô tô và sản xuất, không có nhánh phần mềm rõ ràng"}
+{"url": "https://zalo.careers/techfresher", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "zalo-tech-fresher"}
+{"url": "https://zalo.careers/pmt", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "zalo-product-management-trainee"}
+{"url": "https://fresher.cmcglobal.com.vn/", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "cmc-global-fresher-techie"}
+{"url": "https://tuyendung.vnpt.vn/tin-thuc-tap-sinh.html", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "vnpt-thuc-tap-sinh"}
+{"url": "https://tuyendung.vnpt.vn/tin-fresher.html", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "vnpt-fresher"}
+{"url": "https://tuyendung.viettelsecurity.com/vi/program/vcs-passport-2/", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "viettel-cyber-security-vcs-passport"}
+{"url": "https://careers.smartrecruiters.com/BoschGroup/vietnam", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "bosch-bgsv-internship-program"}
+{"url": "https://career.vng.com.vn/danh-cho-sinh-vien/vnggames-next-gen", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "vnggames-nextgen"}
+{"url": "https://www.samsungcareers.com.vn/", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "samsung-srv-internship"}
+{"url": "https://www.masangroup.com/news/masan-news/people-a-strategic-investment-for-masans-next-phase-of-growth/", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "masan-mye-tech"}
+{"url": "https://vinrobotics.net/career/internship-vin-robotics-talent-program", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "vinrobotics-talent-program"}
+{"url": "https://vinmotion.net/career/engineering-internship", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "vinmotion-talent-internship"}
+{"url": "https://www.qualcomm.com/research/artificial-intelligence/ai-residency-program", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "qualcomm-ai-residency"}
+{"url": "https://futuretechtalents.fpt.com/", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "fpt-futuretech-talents"}
+{"url": "https://www.edu.axonactive.com/software-fresher-program", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "axon-active-java-fresher"}
+{"url": "https://www.manulife.com.vn/vi/ve-chung-toi/manulife-future-leaders.html", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "manulife-future-leaders-it"}
+{"url": "https://nab.wd3.myworkdayjobs.com/en-US/NAB_Careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/NAB-WeCamp-Training-Program---Batch-13--Open-for-female-talents-_JR120469", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "nab-wecamp"}
+{"url": "https://www.tma.vn/tuyen-dung/thuc-tap", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "tma-industry-internship"}
+{"url": "https://tuyendung.rikkeisoft.com/recruitment/detail/2058-rikkei-tech-internship-program-20261773310702", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "rikkei-tech-internship"}
+{"url": "https://fresher.system-exe.com.vn/", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "systemexe-fresher-training"}
+{"url": "https://bioturing.com/blog/b-gens-2026-bioturing-trainee-program-2026/", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "bioturing-b-gens"}
+{"url": "https://www.marvell.com/company/careers/university-recruiting.html", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "marvell-vietnam-excellence-scholarship"}
+{"url": "https://jobs.renesas.com/campus-ambassador", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "renesas-campus-ambassador"}
+{"url": "https://www.opswat.com/careers/cybersecurity-fellowship-program", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "opswat-cybersecurity-fellowship"}
+{"url": "https://apply.workable.com/j/4E0138572C", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "optisigns-the-next-alpha"}
+{"url": "https://careers.mbbank.com.vn/vi", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "mb-trainee-it"}
+{"url": "https://tuyendung.tpb.vn/vi/jobs/RkV54P", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "tpbank-tap-su-tiem-nang"}
+{"url": "https://jobs.lever.co/binance/ae1a07c1-c971-403c-906b-79d8c16e4f2d", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "binance-accelerator-program"}
+{"url": "https://careers.hitachi.com/jobs/18154842", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "hitachi-vantara-talented-ai-intern"}
+{"url": "https://careers.hitachi.com/jobs/17767847", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "hitachi-vantara-graduate-engineering-trainee"}
+{"url": "https://careers.shopee.vn/job-detail/135654", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "shopeefood-associate-product-management"}
+{"url": "https://vinuni.edu.vn/aithucchien/", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "vingroup-ai-talent"}
+{"url": "https://www.facebook.com/DaotaoNhantaiAIthucchien/", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "vingroup-ai-talent"}
+{"url": "https://jobs.smartrecruiters.com/BoschGroup/744000142038898", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "bosch-bgsv-internship-program"}
+{"url": "https://jobs.smartrecruiters.com/BoschGroup/744000149236759", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "bosch-bgsv-internship-program"}
+{"url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=891&id=17262", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "masan-mye-tech"}
+{"url": "https://jobs.neu.edu.vn/jobs/vinmotion-talent-internship-program-2026-vinmotion-1202605251724", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "vinmotion-talent-internship"}
+{"url": "https://fpt.com/vi/tin-tuc/fpt-khoi-dong-chuong-trinh-uom-mam-tai-nang-cong-nghe-tre-mua-3", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "fpt-futuretech-talents"}
+{"url": "https://www.edu.axonactive.com/axon-active-career-day", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "axon-active-java-fresher"}
+{"url": "https://fit.huflit.edu.vn/tma-industry-internship-tuyen-thuc-tap-sinh-khoa-53-thang-07-2026/", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "tma-industry-internship"}
+{"url": "https://jobs.neu.edu.vn/jobs/rikkei-tech-internship-program-2026-rikkeisoft-1202608261652", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "rikkei-tech-internship"}
+{"url": "https://www.hocbongchosinhvien.com/2026/01/hoc-bong-marvell-vietnam-excellence.html", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "marvell-vietnam-excellence-scholarship"}
+{"url": "https://www.opswat.com/jobs/4652337005?gh_jid=4652337005", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "opswat-cybersecurity-fellowship"}
+{"url": "https://startup.jobs/the-next-alpha-training-program-for-qc-intern-optisigns-inc-10078634", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "optisigns-the-next-alpha"}
+{"url": "https://careers.hitachi.com/jobs/17986954", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "hitachi-vantara-talented-ai-intern"}
+{"url": "https://www.cake.me/companies/momo-mservice/jobs/product-trainee-payment-platform", "first_seen": "2026-10-01", "verdict": "added", "program_slug": "momo-talent"}
+{"url": "https://www.vinai.io/vinai-residency-program-batch-13/", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Đợt cũ; chương trình nay là Qualcomm AI Residency"}
+{"url": "https://vinmotion.net/career/residency", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Dành cho chuyên gia, không phải sinh viên"}
+{"url": "https://ptit.edu.vn/samsung-viet-nam-tuyen-dung-sinh-vien-tot-nghiep-dai-hoc-thuc-tap-sinh/", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Nhà máy sản xuất tuyển mọi ngành, không phải chương trình tech"}
+{"url": "https://vietnamnews.vn/Sci-Tech/1779451/samsung-rolls-out-sic-2026-programme-to-train-2-200-tech-students.html", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Khoá đào tạo CSR, không phải chương trình tuyển dụng"}
+{"url": "https://careers.masanconsumer.com.vn/", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "MYE Sales là chương trình kinh doanh"}
+{"url": "https://www.anz.com.au/careers/career-programs/graduate-program/", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Chương trình tại Úc"}
+{"url": "https://lifeattiktok.com/search/7670922017126074677", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Vận hành thương mại điện tử, không có nhánh công nghệ"}
+{"url": "https://psvfresher.vn/", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Không có nhánh IT"}
+{"url": "https://tuyendung.techcombankjobs.com/fresher-2026", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Trang gom tin tuyển lẻ, không phải chương trình"}
+{"url": "https://tuyendung.techcombankjobs.com/techcombank-ambassador-2026", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Đại sứ thương hiệu ngân hàng, không có nhánh IT"}
+{"url": "https://career.vng.com.vn/danh-cho-sinh-vien/business-development-fresher-2026/", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Mảng kinh doanh"}
+{"url": "https://www.pwc.com/vn/vn/careers/campus-careers/internship-programme.html", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Kiểm toán, tư vấn; không có nhánh công nghệ rõ ràng"}
+{"url": "https://teachforvietnam.org/mo-don-ung-tuyen-dai-su-sinh-vien-2026-chuong-trinh-leadership-development-fellowship-batch-10/", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Tổ chức giáo dục, không phải công nghệ"}
+{"url": "https://www.maivenpoint.com/programmes/maivenpoint-academy/tech-talent-training", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Khoá đào tạo có học phí (trả sau khi nhận offer)"}
+{"url": "https://vnchip.edu.vn/news/official-launch-vnchip-talent-program-2026-ic-design-training", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Khoá đào tạo, không phải chương trình tuyển dụng của doanh nghiệp"}
+{"url": "https://itviec.com/viec-lam-it/internship-it-program-dekon-2333", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Chỉ có tin trên job board, không có trang chính thức"}
+{"url": "https://itviec.com/viec-lam-it/internship-fresher-program-web-developer-hn-dn-hcm-zigexn-v", "first_seen": "2026-10-01", "verdict": "rejected", "reason": "Chỉ có tin trên job board, không có trang chính thức"}
