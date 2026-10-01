@@ -486,5 +486,81 @@
     ],
     "updated_at": "2026-10-01",
     "notes": "Ngày mở/đóng là lúc techjobs.vn thấy tin xuất hiện/gỡ trên ATS, không phải hạn chính thức."
+  },
+  {
+    "program_slug": "katalon-internship-program",
+    "year": 2026,
+    "opens_at": "2026-08-18",
+    "deadline": null,
+    "sources": [
+      "https://katalon.com/careers/internship",
+      "https://www.facebook.com/KatalonCareers/posts/1456037449878791/"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Khoá bắt đầu 09/2026; xét hồ sơ liên tục."
+  },
+  {
+    "program_slug": "geocomply-internship-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "open",
+    "sources": [
+      "https://www.geocomply.com/careers/internship/"
+    ],
+    "updated_at": "2026-10-01",
+    "notes": "Tuyển quanh năm."
+  },
+  {
+    "program_slug": "ivc-fresher-training-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "open",
+    "sources": [
+      "https://isb-vietnam.com.vn/jobs/iftp"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "canonical-early-careers",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "open",
+    "sources": [
+      "https://canonical.com/careers/early-careers"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "greennode-internship-program",
+    "year": 2026,
+    "opens_at": "2026-03-12",
+    "deadline": "2026-03-29",
+    "sources": [
+      "https://www.fit.hcmus.edu.vn/tin-tuc/d/06-vi-tri-tuyen-dung-tai-greennode-internship-program-2026-ban-thuoc-team-nao-17264"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "dnse-talent-program",
+    "year": 2025,
+    "opens_at": "2025-06-18",
+    "deadline": "2025-06-30",
+    "sources": [
+      "https://talent.dnse.com.vn/happy-dnse/tin-tuc/dnse-talent-program"
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "program_slug": "gem-internship-program",
+    "year": 2025,
+    "opens_at": null,
+    "deadline": "2025-01-07",
+    "sources": [
+      "https://ybox.vn/tuyen-dung/hn-cong-ty-cong-nghe-gem-vietnam-tuyen-dung-thuc-tap-sinh-it-chuong-trinh-gem-internship-program-full-time-2025-6853f36f2b07f204bb50a1f1"
+    ],
+    "updated_at": "2026-10-01"
   }
 ]
