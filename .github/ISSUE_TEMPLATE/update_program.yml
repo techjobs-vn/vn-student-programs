@@ -1,0 +1,40 @@
+name: Báo cập nhật
+description: Chương trình mở đợt mới, đổi hạn nộp, đã đóng, link hỏng hoặc thông tin sai
+title: "[Cập nhật] "
+labels: ["update-program"]
+body:
+  - type: input
+    id: program
+    attributes:
+      label: Chương trình
+      description: Tên hoặc link trang chính thức như trong danh sách
+    validations:
+      required: true
+  - type: dropdown
+    id: change
+    attributes:
+      label: Thay đổi
+      multiple: true
+      options:
+        - Mở đợt mới
+        - Đổi ngày mở đơn / hạn nộp
+        - Đã đóng sớm
+        - Link chính thức đổi hoặc hỏng
+        - Chương trình ngừng hẳn
+        - Thông tin khác sai
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Chi tiết
+      placeholder: "Đợt 2027 mở đơn từ 2027-02-15, hạn 2027-03-20"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Nguồn
+      description: Link xác nhận thông tin, mỗi link một dòng
+    validations:
+      required: true

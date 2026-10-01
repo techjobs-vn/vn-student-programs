@@ -1,0 +1,15 @@
+{
+  "name": "vn-tech-programs",
+  "private": true,
+  "type": "module",
+  "description": "Danh sách chương trình thực tập, fresher, graduate cho sinh viên công nghệ tại Việt Nam",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test \"test/*.test.mjs\"",
+    "validate": "node scripts/validate.mjs",
+    "readme": "node scripts/render-readme.mjs",
+    "readme:check": "node scripts/render-readme.mjs --check"
+  }
+}

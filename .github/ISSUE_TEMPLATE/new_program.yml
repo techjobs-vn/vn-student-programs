@@ -1,0 +1,68 @@
+name: Gửi chương trình
+description: Đề xuất một chương trình thực tập / fresher / graduate mảng công nghệ chưa có trong danh sách
+title: "[Chương trình mới] "
+labels: ["new-program"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cảm ơn bạn! Chỉ nhận chương trình **công nghệ** hoặc có **nhánh công nghệ** rõ ràng. Tin tuyển một vị trí lẻ hãy xem trên techjobs.vn.
+  - type: input
+    id: company
+    attributes:
+      label: Công ty / tổ chức
+      placeholder: Viettel
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Tên chương trình
+      placeholder: Viettel Digital Talent
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Loại
+      options:
+        - Thực tập (internship)
+        - Fresher
+        - Graduate
+        - Quản trị viên tập sự (management trainee)
+        - Đại sứ sinh viên (ambassador)
+    validations:
+      required: true
+  - type: input
+    id: official_url
+    attributes:
+      label: Link trang chính thức
+      description: Trang trên domain công ty hoặc hệ thống tuyển dụng (không phải Facebook)
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: tracks
+    attributes:
+      label: Các nhánh / lĩnh vực
+      placeholder: Software Engineering, Data & AI, Cloud
+  - type: input
+    id: opens_at
+    attributes:
+      label: Ngày mở đơn đợt gần nhất (nếu biết)
+      placeholder: 2026-02-23
+  - type: input
+    id: deadline
+    attributes:
+      label: Hạn nộp đợt gần nhất (nếu biết)
+      placeholder: 2026-03-15
+  - type: textarea
+    id: sources
+    attributes:
+      label: Nguồn cho ngày tháng
+      description: Link bài thông báo, bài đăng của trường, Facebook… mỗi link một dòng
+  - type: textarea
+    id: notes
+    attributes:
+      label: Ghi chú thêm
+      description: Đối tượng, thời lượng, lương thực tập… (tóm tắt ngắn)

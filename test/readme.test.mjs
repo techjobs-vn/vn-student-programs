@@ -1,0 +1,91 @@
+import { test } from "node:test";
+import assert from "node:assert/strict";
+import { renderTables, replaceBetweenMarkers, MARKER_START, MARKER_END } from "../scripts/lib/readme.mjs";
+
+const TODAY = "2026-10-01";
+
+const base = {
+  type: "internship",
+  tracks: [],
+  recurring: "yearly",
+  active: true,
+  is_visible: true,
+  source: "manual",
+  added_at: "2026-10-01",
+  updated_at: "2026-10-01",
+};
+
+const programs = [
+  { ...base, slug: "a-open", name: "A Open", company: { name: "Alpha", slug: "alpha" }, official_url: "https://a.example/p" },
+  { ...base, slug: "b-closed", name: "B Closed", company: { name: "Beta", slug: null }, official_url: "https://b.example/p" },
+  { ...base, slug: "c-hidden", name: "C Hidden", company: { name: "Gamma", slug: null }, official_url: "https://c.example/p", is_visible: false },
+  { ...base, slug: "d-upcoming", name: "D Upcoming", type: "fresher", company: { name: "Delta", slug: null }, official_url: "https://d.example/p" },
+];
+
+const cycles = [
+  { program_slug: "a-open", year: 2026, opens_at: "2026-09-01", deadline: "2026-10-31", sources: ["https://s.example/1"], updated_at: TODAY },
+  { program_slug: "b-closed", year: 2026, opens_at: null, deadline: "2026-03-15", sources: ["https://s.example/2"], updated_at: TODAY },
+  { program_slug: "d-upcoming", year: 2027, opens_at: "2027-02-01", deadline: null, sources: ["https://s.example/3"], updated_at: TODAY },
+];
+
+test("hides programs with is_visible=false", () => {
+  const md = renderTables({ programs, cycles, today: TODAY });
+  assert.ok(!md.includes("C Hidden"));
+});
+
+test("lists open programs before upcoming and closed ones", () => {
+  const md = renderTables({ programs, cycles, today: TODAY });
+  const iOpen = md.indexOf("A Open");
+  const iUpcoming = md.indexOf("D Upcoming");
+  const iClosed = md.indexOf("B Closed");
+  assert.ok(iOpen > -1 && iUpcoming > iOpen && iClosed > iUpcoming);
+});
+
+test("links company to techjobs.vn only when slug is known", () => {
+  const md = renderTables({ programs, cycles, today: TODAY });
+  assert.ok(md.includes("https://techjobs.vn/companies/alpha"));
+  assert.ok(!md.includes("techjobs.vn/companies/null"));
+});
+
+test("formats dates as dd/mm/yyyy", () => {
+  const md = renderTables({ programs, cycles, today: TODAY });
+  assert.ok(md.includes("31/10/2026"));
+});
+
+test("uses the latest cycle per program", () => {
+  const md = renderTables({
+    programs: [programs[0]],
+    cycles: [
+      cycles[0],
+      { program_slug: "a-open", year: 2025, opens_at: null, deadline: "2025-03-01", sources: ["https://s.example/0"], updated_at: TODAY },
+    ],
+    today: TODAY,
+  });
+  assert.ok(md.includes("31/10/2026"));
+  assert.ok(!md.includes("01/03/2025"));
+});
+
+test("header date is the latest data update, not today, so the README only changes with data or status", () => {
+  const md = renderTables({ programs, cycles, today: "2026-12-25" });
+  assert.ok(md.includes("Cập nhật dữ liệu: 01/10/2026"));
+  assert.ok(!md.includes("25/12/2026"));
+});
+
+test("escapes pipe characters in names", () => {
+  const md = renderTables({
+    programs: [{ ...programs[0], name: "A | B" }],
+    cycles: [cycles[0]],
+    today: TODAY,
+  });
+  assert.ok(md.includes("A \\| B"));
+});
+
+test("replaceBetweenMarkers swaps only the generated block", () => {
+  const doc = `intro\n${MARKER_START}\nold\n${MARKER_END}\noutro\n`;
+  const out = replaceBetweenMarkers(doc, "new");
+  assert.equal(out, `intro\n${MARKER_START}\nnew\n${MARKER_END}\noutro\n`);
+});
+
+test("replaceBetweenMarkers throws when markers are missing", () => {
+  assert.throws(() => replaceBetweenMarkers("no markers", "x"));
+});

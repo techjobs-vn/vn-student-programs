@@ -1,0 +1,35 @@
+# Bộ query cố định cho routine discover hằng ngày (xem ROUTINE.md).
+# {year} = năm hiện tại và năm sau. Giữ ổn định để kết quả so sánh được giữa các lần chạy.
+
+general:
+  - "chương trình thực tập sinh công nghệ {year}"
+  - "chương trình thực tập IT {year} sinh viên năm cuối"
+  - "fresher program {year} Vietnam software"
+  - "chương trình fresher {year} công nghệ thông tin"
+  - "graduate program {year} Vietnam technology"
+  - "management trainee {year} công nghệ ngân hàng"
+  - "tech talent program {year} Việt Nam sinh viên"
+  - "thực tập sinh tài năng {year} công nghệ"
+  - "internship program {year} Vietnam data AI"
+  - "chương trình đại sứ sinh viên công nghệ {year}"
+  - "student ambassador {year} Vietnam tech company"
+  - "early careers Vietnam {year} engineering intern"
+
+# Trang việc làm của trường: repost chương trình kèm hạn nộp.
+university_boards:
+  - https://jobs.neu.edu.vn/
+  - https://httt.uit.edu.vn/category/viec-lam-thuc-tap/
+  - https://forum.uit.edu.vn/c/viec-lam-thuc-tap/
+
+# Query theo công ty: xoay vòng, mỗi lần chạy lấy ~1/7 danh sách (theo thứ tự, tiếp nối lần trước).
+per_company_template: "\"{company}\" (internship OR \"thực tập\" OR fresher OR \"graduate program\") {year}"
+
+# Loại khỏi kết quả: job board tổng hợp tin lẻ, không phải trang chương trình.
+exclude_domains:
+  - topcv.vn
+  - careerviet.vn
+  - vn.indeed.com
+  - jobs.vn.indeed.com
+  - glassdoor.com
+  - vietnamworks.com
+  - itviec.com
