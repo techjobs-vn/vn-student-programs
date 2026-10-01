@@ -1284,26 +1284,6 @@
     "updated_at": "2026-10-01"
   },
   {
-    "slug": "hitachi-vantara-graduate-engineering-trainee",
-    "name": "Hitachi Vantara Graduate Engineering Trainee",
-    "type": "graduate",
-    "company": {
-      "name": "Hitachi Vantara Việt Nam",
-      "slug": "hitachi-vantara-vn"
-    },
-    "official_url": "https://careers.hitachi.com/jobs/17767847",
-    "tracks": [
-      "Engineering"
-    ],
-    "eligibility": "Người mới tốt nghiệp ngành kỹ thuật, CNTT.",
-    "recurring": "unknown",
-    "active": true,
-    "is_visible": true,
-    "source": "routine",
-    "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
-  },
-  {
     "slug": "shopeefood-associate-product-management",
     "name": "ShopeeFood Associate Product Management Program",
     "type": "graduate",

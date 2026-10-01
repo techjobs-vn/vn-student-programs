@@ -13,7 +13,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 01/10/2026 · 57 chương trình · 12 đang mở_
+_Cập nhật dữ liệu: 01/10/2026 · 56 chương trình · 12 đang mở_
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -44,12 +44,11 @@ _Cập nhật dữ liệu: 01/10/2026 · 57 chương trình · 12 đang mở_
 | [VNPT](https://techjobs.vn/companies/vnpt?utm_source=github&utm_medium=vn-tech-programs) | [VNPT Thực tập sinh](https://tuyendung.vnpt.vn/tin-thuc-tap-sinh.html) | Thực tập | ⚪ Chưa rõ | — | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (32) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (31) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
 | [Google](https://techjobs.vn/companies/google?utm_source=github&utm_medium=vn-tech-programs) | [Google Student Ambassador Việt Nam](https://googlestudentambassador.vn/) | Đại sứ sinh viên | 🔴 Đã đóng | 2026 | 25/08/2026 | 30/09/2026 |
-| [Hitachi Vantara Việt Nam](https://techjobs.vn/companies/hitachi-vantara-vn?utm_source=github&utm_medium=vn-tech-programs) | [Hitachi Vantara Graduate Engineering Trainee](https://careers.hitachi.com/jobs/17767847) | Graduate | 🔴 Đã đóng | 2026 | 04/08/2026 | 30/09/2026 |
 | [Rikkeisoft](https://techjobs.vn/companies/rikkeisoft?utm_source=github&utm_medium=vn-tech-programs) | [Rikkei Tech Internship Program](https://tuyendung.rikkeisoft.com/recruitment/detail/2058-rikkei-tech-internship-program-20261773310702) | Thực tập | 🔴 Đã đóng | 2026 | — | 30/09/2026 |
 | [Techcombank](https://techjobs.vn/companies/techcombank?utm_source=github&utm_medium=vn-tech-programs) | [Techcombank Future Gen](https://tuyendung.techcombankjobs.com/techcombank-future-gen) | Quản trị viên tập sự | 🔴 Đã đóng | 2026 | 24/07/2026 | 30/09/2026 |
 | [OptiSigns](https://techjobs.vn/companies/optisigns?utm_source=github&utm_medium=vn-tech-programs) | [OptiSigns “The Next Alpha” QC Training Program](https://apply.workable.com/j/4E0138572C) | Fresher | 🔴 Đã đóng | 2026 | 15/09/2026 | 29/09/2026 |
