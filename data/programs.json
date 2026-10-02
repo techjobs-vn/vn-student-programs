@@ -2387,5 +2387,50 @@
     "added_at": "2026-10-02",
     "updated_at": "2026-10-02",
     "notes": "Các mảng khác của chương trình (không đưa vào tracks): Agency, Bancassurance, Corporate Strategy, Finance, Operations, Human Resources, Marketing, Governance (Legal, Compliance & Risk), Internal Audit. Trang chính thức có phần nhìn lại đợt 2025 nên chương trình chạy hằng năm. Bài YBOX ghi hạn chót 23:59 ngày 21/05/2026 ở nút ứng tuyển; lịch tuyển dụng ghi 15/04–20/05/2026."
+  },
+  {
+    "slug": "algotrade-internship-program",
+    "name": "Algotrade Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "Algotrade",
+      "slug": null
+    },
+    "official_url": "https://www.algotrade.vn/vi/internship",
+    "tracks": [
+      "Giao dịch thuật toán (quant)",
+      "Phát triển chiến lược định lượng"
+    ],
+    "duration": "5 tháng, tối thiểu 20 giờ/tuần, hybrid tại TP.HCM",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành Khoa học máy tính, CNTT, Công nghệ tài chính hoặc ngành định lượng, có nền tảng về giao dịch.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-03",
+    "updated_at": "2026-10-03",
+    "notes": "Cuối chương trình hoàn thiện một thuật toán giao dịch theo chuẩn Plutus Open Source Framework; thực tập sinh xuất sắc có cơ hội thành nhân viên chính thức. Nộp thư ứng tuyển, CV và code mẫu qua email career@algotrade.vn."
+  },
+  {
+    "slug": "worldquant-brain-research-consultant",
+    "name": "WorldQuant BRAIN Research Consultant Program",
+    "type": "internship",
+    "company": {
+      "name": "WorldQuant",
+      "slug": "worldquant"
+    },
+    "official_url": "https://worldquantbrain.com/consultant",
+    "tracks": [
+      "Quantitative Research (alpha)"
+    ],
+    "duration": "Không cố định, làm từ xa",
+    "eligibility": "Người dùng nền tảng WorldQuant BRAIN đạt 10.000 điểm (mức Gold) được mời tham gia; chương trình mở cho người ở Việt Nam.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-03",
+    "updated_at": "2026-10-03",
+    "notes": "Không phải thực tập theo đợt: cộng tác nghiên cứu từ xa có trả phí theo quý (mức Master từ khoảng 2.000 USD, Grandmaster từ khoảng 8.000 USD), được xét cho vị trí intern hoặc chính thức tại WorldQuant (văn phòng Hà Nội, TP.HCM). Cuộc thi International Quant Championship hằng năm (vòng loại khoảng tháng 3–5) cũng là đường vào."
   }
 ]
