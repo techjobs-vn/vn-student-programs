@@ -13,7 +13,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 01/10/2026 · 93 chương trình · 18 đang mở_
+_Cập nhật dữ liệu: 02/10/2026 · 94 chương trình · 18 đang mở_
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -50,7 +50,7 @@ _Cập nhật dữ liệu: 01/10/2026 · 93 chương trình · 18 đang mở_
 | [VNPT](https://techjobs.vn/companies/vnpt?utm_source=github&utm_medium=vn-tech-programs) | [VNPT Thực tập sinh](https://tuyendung.vnpt.vn/tin-thuc-tap-sinh.html) | Thực tập | ⚪ Chưa rõ | — | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (62) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (63) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -58,6 +58,7 @@ _Cập nhật dữ liệu: 01/10/2026 · 93 chương trình · 18 đang mở_
 | [Rikkeisoft](https://techjobs.vn/companies/rikkeisoft?utm_source=github&utm_medium=vn-tech-programs) | [Rikkei Tech Internship Program](https://tuyendung.rikkeisoft.com/recruitment/detail/2058-rikkei-tech-internship-program-20261773310702) | Thực tập | 🔴 Đã đóng | 2026 | — | 30/09/2026 |
 | [Techcombank](https://techjobs.vn/companies/techcombank?utm_source=github&utm_medium=vn-tech-programs) | [Techcombank Future Gen](https://tuyendung.techcombankjobs.com/techcombank-future-gen) | Quản trị viên tập sự | 🔴 Đã đóng | 2026 | 24/07/2026 | 30/09/2026 |
 | [OptiSigns](https://techjobs.vn/companies/optisigns?utm_source=github&utm_medium=vn-tech-programs) | [OptiSigns “The Next Alpha” QC Training Program](https://apply.workable.com/j/4E0138572C) | Fresher | 🔴 Đã đóng | 2026 | 15/09/2026 | 29/09/2026 |
+| [OnPoint](https://techjobs.vn/companies/onpoint?utm_source=github&utm_medium=vn-tech-programs) | [OnPoint Trailblazers \(Management Trainee\)](https://www.onpoint.vn/management-trainee-program/) | Quản trị viên tập sự | 🔴 Đã đóng | 2026 | 24/08/2026 | 25/09/2026 |
 | [Bosch Global Software Technologies Vietnam](https://techjobs.vn/companies/bosch?utm_source=github&utm_medium=vn-tech-programs) | [Bosch Internship Program \(BGSV\)](https://careers.smartrecruiters.com/BoschGroup/vietnam) | Thực tập | 🔴 Đã đóng | 2026 | 07/08/2026 | 23/09/2026 |
 | [TMA Tech Group](https://techjobs.vn/companies/tma-solutions?utm_source=github&utm_medium=vn-tech-programs) | [TMA Industry Internship](https://www.tma.vn/tuyen-dung/thuc-tap) | Thực tập | 🔴 Đã đóng | 2026 | — | 20/09/2026 |
 | [OPSWAT](https://techjobs.vn/companies/opswat?utm_source=github&utm_medium=vn-tech-programs) | [OPSWAT Cybersecurity Graduate Fellowship](https://www.opswat.com/careers/cybersecurity-fellowship-program) | Thực tập | 🔴 Đã đóng | 2026 | 26/08/2026 | 17/09/2026 |

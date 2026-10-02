@@ -2182,5 +2182,28 @@
     "source": "routine",
     "added_at": "2026-10-01",
     "updated_at": "2026-10-01"
+  },
+  {
+    "slug": "onpoint-trailblazers",
+    "name": "OnPoint Trailblazers (Management Trainee)",
+    "type": "management_trainee",
+    "company": {
+      "name": "OnPoint",
+      "slug": "onpoint"
+    },
+    "official_url": "https://www.onpoint.vn/management-trainee-program/",
+    "tracks": [
+      "Back Office: Công nghệ",
+      "Back Office: Dữ liệu & Phân tích"
+    ],
+    "duration": "24 tháng; năm đầu luân chuyển 3 vị trí, mỗi vị trí 4 tháng",
+    "eligibility": "Sinh viên năm 3, năm 4 hoặc mới tốt nghiệp dưới 2 năm kinh nghiệm, tiếng Anh tương đương IELTS 6.5, làm việc tại TP.HCM.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-02",
+    "updated_at": "2026-10-02",
+    "notes": "Ngoài khối Back Office còn có Commercial và Social Commerce (không thuộc công nghệ). Đợt 2026 onboard tháng 01/2027."
   }
 ]
