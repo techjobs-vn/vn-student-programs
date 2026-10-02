@@ -2205,5 +2205,187 @@
     "added_at": "2026-10-02",
     "updated_at": "2026-10-02",
     "notes": "Ngoài khối Back Office còn có Commercial và Social Commerce (không thuộc công nghệ). Đợt 2026 onboard tháng 01/2027."
+  },
+  {
+    "slug": "fpt-telecom-embedded-bootcamp",
+    "name": "FPT Telecom Embedded Bootcamp",
+    "type": "internship",
+    "company": {
+      "name": "FPT Telecom",
+      "slug": "fpt-telecom"
+    },
+    "official_url": "https://fptjobs.com/su-kien-khao-sat/fpt-telecom-embedded-bootcamp-2026-tu-zero-den-tu-tay-viet-he-dieu-hanh-rtos-90",
+    "tracks": [
+      "Lập trình nhúng (Embedded)",
+      "Embedded Linux",
+      "Hệ điều hành thời gian thực RTOS (AK-mOS)"
+    ],
+    "duration": "3 tháng",
+    "eligibility": "Sinh viên khối CNTT, Điện – Điện tử, Tự động hóa và người đi làm quan tâm đến lập trình nhúng.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-02",
+    "updated_at": "2026-10-02",
+    "notes": "Bootcamp đào tạo và tuyển dụng miễn phí, học sáng thứ Bảy (buổi đầu 07/03/2026); top 20 học viên được tuyển thẳng làm thực tập sinh tài năng có lương hoặc nhân viên chính thức."
+  },
+  {
+    "slug": "fpt-telecom-internship",
+    "name": "FPT Telecom Internship",
+    "type": "internship",
+    "company": {
+      "name": "FPT Telecom",
+      "slug": "fpt-telecom"
+    },
+    "official_url": "https://fptjobs.com/Internship",
+    "tracks": [
+      "Công nghệ thông tin – Khoa học máy tính (Backend, Frontend, Vận hành, Quản lý dự án)",
+      "Điện tử – Viễn thông / Điện / Cơ điện (Khảo sát, thiết kế hạ tầng, kỹ sư quang, điện tử)"
+    ],
+    "eligibility": "Sinh viên năm 3, năm 4 các ngành CNTT, Điện tử – Viễn thông và một số khối ngành khác.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-02",
+    "updated_at": "2026-10-02",
+    "notes": "Có cả nhánh Kinh tế và Marketing (ngoài phạm vi); phỏng vấn từ 11/05 đến 31/05/2026. Đợt 2025 hạn 15/10/2025, đăng ký qua FPTJobs. Khác với chương trình Sinh viên Công nghệ Tập sự (SVCNTS) đã có trong dataset."
+  },
+  {
+    "slug": "lat-semiconductor-ic-design-training-program",
+    "name": "LAT Semiconductor IC Design Training Program",
+    "type": "internship",
+    "company": {
+      "name": "LAT Semiconductor",
+      "slug": null
+    },
+    "official_url": "https://latsemi.com/",
+    "tracks": [
+      "Thiết kế vi mạch analog",
+      "Layout",
+      "Thiết kế block IC / IP"
+    ],
+    "duration": "6 tháng mỗi cấp (Basic, Mid-Level); Advanced 12 tháng",
+    "eligibility": "Sinh viên năm 3 ngành Điện tử, Kỹ thuật điện, Kỹ thuật máy tính, Tự động hóa hoặc ngành liên quan, GPA từ 3.0/4.0, đọc viết tiếng Anh tốt.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-02",
+    "updated_at": "2026-10-02",
+    "notes": "Đào tạo miễn phí 100%; cấp Mid và Advanced có trợ cấp và cơ hội làm việc tại LAT (Đà Nẵng). Đợt 2026 tuyển qua ĐH KHTN TP.HCM, nộp hồ sơ qua email giảng viên. Website ghi đối tượng là sinh viên năm cuối và mới tốt nghiệp, mâu thuẫn với thông báo 2026 (loại trừ sinh viên năm cuối). Nguồn chưa thống nhất về đối tượng; kiểm tra trên trang chính thức trước khi nộp."
+  },
+  {
+    "slug": "vinamilk-graduate-talent-program",
+    "name": "Vinamilk Graduate Talent Program",
+    "type": "graduate",
+    "company": {
+      "name": "Vinamilk",
+      "slug": null
+    },
+    "official_url": "https://careers.vinamilk.com.vn/graduatetalent-program",
+    "tracks": [
+      "Tech & Data"
+    ],
+    "duration": "12 tháng",
+    "eligibility": "Sinh viên năm cuối hoặc người mới tốt nghiệp có dưới 2 năm kinh nghiệm toàn thời gian, GPA từ 7/10 trở lên, có thể đi làm toàn thời gian từ tháng 10/2026 tại trụ sở chính ở TP.HCM.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-02",
+    "updated_at": "2026-10-02",
+    "notes": "Chương trình có 10 lĩnh vực. Ngoài Tech & Data còn có Brand Design, Brand Management, E-commerce, Modern Trade, Retail Chain, Finance, Internal Control & Audit, Manufacturing Excellence và R&D. Các lĩnh vực này không thuộc phạm vi dataset. Làm việc tại trụ sở chính Vinamilk ở TP.HCM. Lịch: làm bài test online tháng 7, phỏng vấn tháng 8–9, nhận việc tháng 10/2026."
+  },
+  {
+    "slug": "pmax-tome-trainee-program",
+    "name": "PMAX T.O.M.E – Trainee Program (Total Marketing Elite)",
+    "type": "management_trainee",
+    "company": {
+      "name": "PMAX",
+      "slug": "pmax"
+    },
+    "official_url": "https://pmax.com.vn/careers/management-trainee-pmax-to-me-trainee-program-2026/",
+    "tracks": [
+      "Engineering & Data Trainee",
+      "Business & Product Trainee"
+    ],
+    "eligibility": "Sinh viên tốt nghiệp năm 2026 hoặc người có dưới 1 năm kinh nghiệm, GPA từ 3.0/4 hoặc 7/10, tiếng Anh tốt.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-02",
+    "updated_at": "2026-10-02",
+    "notes": "PMAX là agency digital marketing. Chương trình có 7 nhóm track: Management Trainee, Media, Strategy, Influencer Management, Creative, Account và Tech. Chỉ track Tech (Engineering & Data, Business & Product) thuộc phạm vi. Các trang JD riêng của hai track này hiện trả về 404, nên tên track lấy từ trang NEU. Làm việc tại TP.HCM và Hà Nội."
+  },
+  {
+    "slug": "apero-fipo-fresher-product-owner",
+    "name": "17FIPO – Fresher Product Owner Program",
+    "type": "fresher",
+    "company": {
+      "name": "Apero Technologies Group",
+      "slug": null
+    },
+    "official_url": "https://17fipo.apero.vn/",
+    "tracks": [
+      "Product Owner"
+    ],
+    "duration": "4 tháng (2 tháng thực chiến tập trung + 2 tháng dự án thực tế)",
+    "eligibility": "Sinh viên năm cuối hoặc người đã tốt nghiệp đại học dưới 1 năm, không cần kinh nghiệm Product, làm toàn thời gian tại Hà Nội.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-02",
+    "updated_at": "2026-10-02",
+    "notes": "Chương trình đào tạo có lương (hỗ trợ 6–8 triệu/tháng) và tuyển theo batch. Trang chính thức đang ở 'FIPO Batch 3', ghi lịch nộp hồ sơ 29/01–03/03 nhưng không ghi năm. Hạn 24/02/2026 lấy từ YBOX."
+  },
+  {
+    "slug": "sapo-internship-future-tech-talent",
+    "name": "Sapo Internship: Future Tech Talent",
+    "type": "internship",
+    "company": {
+      "name": "Sapo Technology",
+      "slug": "sapo"
+    },
+    "official_url": "https://tuyendung.sapo.vn/co-hoi-viec-lam/sapo-internship-future-tech-talent-2026-a3807.html",
+    "tracks": [
+      "Fullstack Developer",
+      "Tester",
+      "Data Analyst"
+    ],
+    "duration": "Tối thiểu 3–4 tháng",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, Khoa học máy tính, Hệ thống thông tin quản lý, Toán tin, Thống kê hoặc ngành liên quan, có thể thực tập từ 8 buổi/tuần tại Hà Nội.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-02",
+    "updated_at": "2026-10-02",
+    "notes": "Kỳ 1 tuyển Fullstack Developer và Tester, hạn 10/03/2026. Sau đó Sapo đăng thêm các vị trí cùng nhãn 'Sapo Internship 2026': Data Analyst (hạn 15/05/2026), Business Analyst và Tester mảng AI, AI Engineer. Trường 'Thời gian ứng tuyển' trên trang được hiểu là hạn nộp. Các trang hiện ghi đã dừng tuyển."
+  },
+  {
+    "slug": "fwd-summer-internship",
+    "name": "FWD Summer Internship",
+    "type": "internship",
+    "company": {
+      "name": "FWD Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://www.fwd.com.vn/en/about-us/careers/fwd-summer-internship/",
+    "tracks": [
+      "Công nghệ thông tin (IT Governance & Security, IT Business Analysis, IT Quality Control)"
+    ],
+    "duration": "Khoảng 3 tháng toàn thời gian (tháng 6 – tháng 8)",
+    "eligibility": "Sinh viên năm 3–4 hoặc mới tốt nghiệp (ưu tiên ngành CNTT, Khoa học máy tính, AI), GPA từ 7.0/10 và có thể làm toàn thời gian từ tháng 6 đến tháng 8 tại TP.HCM.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-02",
+    "updated_at": "2026-10-02",
+    "notes": "Các mảng khác của chương trình (không đưa vào tracks): Agency, Bancassurance, Corporate Strategy, Finance, Operations, Human Resources, Marketing, Governance (Legal, Compliance & Risk), Internal Audit. Trang chính thức có phần nhìn lại đợt 2025 nên chương trình chạy hằng năm. Bài YBOX ghi hạn chót 23:59 ngày 21/05/2026 ở nút ứng tuyển; lịch tuyển dụng ghi 15/04–20/05/2026."
   }
 ]

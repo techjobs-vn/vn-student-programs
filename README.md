@@ -13,7 +13,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 02/10/2026 · 94 chương trình · 18 đang mở_
+_Cập nhật dữ liệu: 02/10/2026 · 102 chương trình · 18 đang mở_
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -50,7 +50,7 @@ _Cập nhật dữ liệu: 02/10/2026 · 94 chương trình · 18 đang mở_
 | [VNPT](https://techjobs.vn/companies/vnpt?utm_source=github&utm_medium=vn-tech-programs) | [VNPT Thực tập sinh](https://tuyendung.vnpt.vn/tin-thuc-tap-sinh.html) | Thực tập | ⚪ Chưa rõ | — | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (63) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (71) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -67,9 +67,11 @@ _Cập nhật dữ liệu: 02/10/2026 · 94 chương trình · 18 đang mở_
 | [Hitachi Vantara Việt Nam](https://techjobs.vn/companies/hitachi-vantara-vn?utm_source=github&utm_medium=vn-tech-programs) | [Hitachi Vantara Talented AI Engineer Internship Program](https://careers.hitachi.com/jobs/18154842) | Thực tập | 🔴 Đã đóng | 2026 | 04/08/2026 | 04/09/2026 |
 | [Shopee](https://techjobs.vn/companies/shopee?utm_source=github&utm_medium=vn-tech-programs) | [ShopeeFood Associate Product Management Program](https://careers.shopee.vn/job-detail/135654) | Graduate | 🔴 Đã đóng | 2026 | 03/08/2026 | 01/09/2026 |
 | IPA Group \(VNDIRECT\) | [IPAG Management Associate – Next Gen](https://nextgen.ipa.com.vn/) | Quản trị viên tập sự | 🔴 Đã đóng | 2026 | — | 31/08/2026 |
+| [PMAX](https://techjobs.vn/companies/pmax?utm_source=github&utm_medium=vn-tech-programs) | [PMAX T.O.M.E – Trainee Program \(Total Marketing Elite\)](https://pmax.com.vn/careers/management-trainee-pmax-to-me-trainee-program-2026/) | Quản trị viên tập sự | 🔴 Đã đóng | 2026 | — | 24/08/2026 |
 | Faraday Technology Vietnam | [Faraday Vietnam Internship Program](https://www.faraday-tech.com/en/content/Careers/InternshipProgramVietnam) | Thực tập | 🔴 Đã đóng | 2026 | — | 20/08/2026 |
 | SVTECH | [SVTECH System Engineer Trainee](https://svtech.com.vn/tuyen-dung/system-engineer-trainee-2026-2/) | Thực tập | 🔴 Đã đóng | 2026 | 20/07/2026 | 15/08/2026 |
 | Home Credit Việt Nam | [Home Racer Program](https://career.homecredit.vn/vn/article/Home-Racer-Program-2026/) | Graduate | 🔴 Đã đóng | 2026 | 15/06/2026 | 31/07/2026 |
+| Vinamilk | [Vinamilk Graduate Talent Program](https://careers.vinamilk.com.vn/graduatetalent-program) | Graduate | 🔴 Đã đóng | 2026 | 27/06/2026 | 26/07/2026 |
 | [Samsung R&D Center Vietnam](https://techjobs.vn/companies/samsung-rd-vietnam?utm_source=github&utm_medium=vn-tech-programs) | [Samsung Talent Program \(STP\)](https://www.samsungcareers.com.vn/#/jobs-list?job_type_code=ZFS) | Thực tập | 🔴 Đã đóng | 2026 | 12/06/2026 | 12/07/2026 |
 | [Vietcombank](https://techjobs.vn/companies/vietcombank?utm_source=github&utm_medium=vn-tech-programs) | [Vietcombank Sinh viên tài năng – Khối CNTT & Dữ liệu](https://tuyendung.vietcombank.com.vn/job/H%C3%A0-N%E1%BB%99i-2026_SVXS_CNTT-DL_Sinh-vi%C3%AAn-t%C3%A0i-n%C4%83ng-Kh%E1%BB%91i-C%C3%B4ng-ngh%E1%BB%87-th%C3%B4ng-tin%2C-D%E1%BB%AF-li%E1%BB%87u/56850044/) | Thực tập | 🔴 Đã đóng | 2026 | — | 30/06/2026 |
 | [VinMotion](https://techjobs.vn/companies/vinmotion?utm_source=github&utm_medium=vn-tech-programs) | [VinMotion Talent Internship Program](https://vinmotion.net/career/engineering-internship) | Thực tập | 🔴 Đã đóng | 2026 | — | 22/06/2026 |
@@ -80,8 +82,11 @@ _Cập nhật dữ liệu: 02/10/2026 · 94 chương trình · 18 đang mở_
 | [FPT Telecom](https://techjobs.vn/companies/fpt-telecom?utm_source=github&utm_medium=vn-tech-programs) | [FPT Telecom Sinh viên Công nghệ Tập sự](https://fptjobs.com/SVCNTS2026) | Thực tập | 🔴 Đã đóng | 2026 | 12/05/2026 | 26/05/2026 |
 | [Zalo](https://techjobs.vn/companies/zalo?utm_source=github&utm_medium=vn-tech-programs) | [Zalo Product Management Trainee](https://zalo.careers/pmt) | Quản trị viên tập sự | 🔴 Đã đóng | 2026 | 04/05/2026 | 22/05/2026 |
 | [Zalo](https://techjobs.vn/companies/zalo?utm_source=github&utm_medium=vn-tech-programs) | [Zalo Tech Fresher](https://zalo.careers/techfresher) | Fresher | 🔴 Đã đóng | 2026 | 04/05/2026 | 22/05/2026 |
+| [FPT Telecom](https://techjobs.vn/companies/fpt-telecom?utm_source=github&utm_medium=vn-tech-programs) | [FPT Telecom Internship](https://fptjobs.com/Internship) | Thực tập | 🔴 Đã đóng | 2026 | — | 20/05/2026 |
+| FWD Việt Nam | [FWD Summer Internship](https://www.fwd.com.vn/en/about-us/careers/fwd-summer-internship/) | Thực tập | 🔴 Đã đóng | 2026 | 15/04/2026 | 20/05/2026 |
 | TopCV Việt Nam | [TopCV Next Gen \(Young Talent\)](https://youngtalent.topcv.vn/) | Fresher | 🔴 Đã đóng | 2026 | — | 17/05/2026 |
 | GoTymeX \(Tyme Group\) | [GoTymeX Internship Program](https://vietnam.tyme.com/category-type/intern/) | Thực tập | 🔴 Đã đóng | 2026 | 23/04/2026 | 15/05/2026 |
+| LAT Semiconductor | [LAT Semiconductor IC Design Training Program](https://latsemi.com/) | Thực tập | 🔴 Đã đóng | 2026 | — | 15/05/2026 |
 | Ban Vien Corporation \(Bản Viên\) | [BV Internship Program](https://career.banvien.com.vn/internship-program) | Thực tập | 🔴 Đã đóng | 2026 | 24/04/2026 | 09/05/2026 |
 | Appota Group | [The NextGen Appota](https://nextgen2026.appota.com/) | Thực tập | 🔴 Đã đóng | 2026 | 20/04/2026 | 09/05/2026 |
 | SUN.STUDIO | [SUN.RISER Internship Program \(Thực tập sinh Tài năng SUN.RISER\)](https://sunriser-internship-2026.sun.studio/) | Thực tập | 🔴 Đã đóng | 2026 | 22/04/2026 | 08/05/2026 |
@@ -95,9 +100,12 @@ _Cập nhật dữ liệu: 02/10/2026 · 94 chương trình · 18 đang mở_
 | Kyanon Digital | [K-Fresh Trainee Program](https://kyanon.digital/careers/k-fresh-trainee-program/) | Fresher | 🔴 Đã đóng | 2026 | 03/03/2026 | 27/03/2026 |
 | [Viettel](https://techjobs.vn/companies/viettel?utm_source=github&utm_medium=vn-tech-programs) | [Viettel Digital Talent](https://tuyendung.viettel.vn/page/page-digitalTalent) | Thực tập | 🔴 Đã đóng | 2026 | 12/02/2026 | 15/03/2026 |
 | [Viettel](https://techjobs.vn/companies/viettel?utm_source=github&utm_medium=vn-tech-programs) | [Viettel Future Changemakers](https://tuyendung.viettel.vn/viettel-talent-2026) | Quản trị viên tập sự | 🔴 Đã đóng | 2026 | 12/02/2026 | 15/03/2026 |
+| [Sapo Technology](https://techjobs.vn/companies/sapo?utm_source=github&utm_medium=vn-tech-programs) | [Sapo Internship: Future Tech Talent](https://tuyendung.sapo.vn/co-hoi-viec-lam/sapo-internship-future-tech-talent-2026-a3807.html) | Thực tập | 🔴 Đã đóng | 2026 | — | 10/03/2026 |
 | XBrain \(TechX\) | [Xbrain x AWS Accelerator Internship Program](https://xbrain.com.vn/program) | Thực tập | 🔴 Đã đóng | 2026 | — | 10/03/2026 |
 | F88 | [F88 IT Freshers](https://nhansu.f88.vn/itfreshers2026) | Fresher | 🔴 Đã đóng | 2026 | — | 05/03/2026 |
+| Apero Technologies Group | [17FIPO – Fresher Product Owner Program](https://17fipo.apero.vn/) | Fresher | 🔴 Đã đóng | 2026 | — | 24/02/2026 |
 | [Marvell Technology Vietnam](https://techjobs.vn/companies/marvell?utm_source=github&utm_medium=vn-tech-programs) | [Marvell Vietnam Excellence Scholarship](https://www.marvell.com/company/careers/university-recruiting.html) | Thực tập | 🔴 Đã đóng | 2025 | 17/11/2025 | 22/02/2026 |
+| [FPT Telecom](https://techjobs.vn/companies/fpt-telecom?utm_source=github&utm_medium=vn-tech-programs) | [FPT Telecom Embedded Bootcamp](https://fptjobs.com/su-kien-khao-sat/fpt-telecom-embedded-bootcamp-2026-tu-zero-den-tu-tay-viet-he-dieu-hanh-rtos-90) | Thực tập | 🔴 Đã đóng | 2026 | — | 06/02/2026 |
 | Hanwha Finance \(Hanwha Life / Pinetree Securities\) | [Hanwha Finance Global Internship Program \(GIP\)](https://www.hanwhafinancetalent.com/en/gip) | Thực tập | 🔴 Đã đóng | 2025 | 30/12/2025 | 26/01/2026 |
 | [Renesas Design Vietnam](https://techjobs.vn/companies/renesas?utm_source=github&utm_medium=vn-tech-programs) | [Renesas Campus Ambassador](https://jobs.renesas.com/campus-ambassador) | Đại sứ sinh viên | 🔴 Đã đóng | 2025 | — | 25/01/2026 |
 | [Axon Active](https://techjobs.vn/companies/axon-active?utm_source=github&utm_medium=vn-tech-programs) | [Axon Active Java Fresher Program](https://www.edu.axonactive.com/software-fresher-program) | Fresher | 🔴 Đã đóng | 2025 | — | 31/12/2025 |
