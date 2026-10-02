@@ -9,12 +9,24 @@ Cảm ơn bạn đã muốn bổ sung! Cách nhanh nhất là **mở issue** —
 
 Chương trình được nhận khi:
 
-- Là chương trình **công nghệ**, hoặc có **nhánh công nghệ rõ ràng** (ví dụ ngân hàng có track IT/Data).
+- Thuộc **phạm vi** bên dưới: là chương trình công nghệ, hoặc có **nhánh công nghệ rõ ràng** (ví dụ ngân hàng có track IT/Data).
 - Do công ty/tổ chức tổ chức cho sinh viên hoặc người mới tốt nghiệp tại Việt Nam: thực tập, fresher, graduate, quản trị viên tập sự, đại sứ sinh viên của công ty công nghệ.
 - Có **trang chính thức** trên domain của công ty hoặc ATS (Workday, SuccessFactors, Greenhouse…). Bài Facebook, LinkedIn hoặc bài đăng lại của trường được dùng làm **nguồn cho ngày tháng**, không dùng làm link chính.
 - Chưa có trong danh sách.
 
-Không nhận: tin tuyển một vị trí lẻ (hãy xem trên [techjobs.vn](https://techjobs.vn)), khoá học thu phí, chương trình ngoài mảng công nghệ.
+Không nhận: tin tuyển một vị trí lẻ (hãy xem trên [techjobs.vn](https://techjobs.vn)), khoá học thu phí, chương trình ngoài phạm vi.
+
+### Phạm vi
+
+| Nhận | Không nhận |
+| --- | --- |
+| Phần mềm, dữ liệu/AI, bảo mật, cloud và hạ tầng | Sales, marketing, tài chính, kiểm toán, nhân sự, chuỗi cung ứng thuần |
+| Vi mạch, phần cứng điện tử, nhúng, viễn thông | Kỹ thuật cơ khí, ô tô, HVAC, quy trình sản xuất |
+| Product (PM/PO), UX/UI design | Thiết kế đồ hoạ, marketing creative thuần |
+| Data analytics / BI, kể cả ở công ty không phải công nghệ | |
+| Fintech, ngân hàng, chứng khoán, bảo hiểm: chỉ khi có track công nghệ, dữ liệu hoặc product | |
+
+Với chương trình quản trị viên tập sự (MT) nhiều nhánh ở công ty ngoài ngành công nghệ, `tracks` chỉ ghi các nhánh thuộc phạm vi; các nhánh còn lại ghi trong `notes`.
 
 ## Báo cập nhật
 
