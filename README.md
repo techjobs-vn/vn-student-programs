@@ -8,12 +8,12 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 - ➕ **Biết một chương trình chưa có trong danh sách?** [Gửi chương trình](https://github.com/techjobs-vn/vn-tech-programs/issues/new?template=new_program.yml)
 - ✏️ **Thông tin sai hoặc chương trình đã đóng?** [Báo cập nhật](https://github.com/techjobs-vn/vn-tech-programs/issues/new?template=update_program.yml)
 
-**Phạm vi:** chương trình công nghệ và gần công nghệ: phần mềm, dữ liệu/AI, bảo mật, hạ tầng, vi mạch và phần cứng điện tử, product, UX/UI design, data analytics; chương trình ngân hàng, fintech hay MT ngành khác chỉ khi có nhánh công nghệ rõ ràng ([chi tiết](CONTRIBUTING.md#phạm-vi)). Trạng thái được tính tự động từ ngày mở đơn/hạn nộp mỗi ngày.
+**Phạm vi:** chương trình công nghệ và gần công nghệ: phần mềm, dữ liệu/AI, bảo mật, hạ tầng, vi mạch và phần cứng điện tử, product, UX/UI design, data analytics, quant; chương trình ngân hàng, fintech hay MT ngành khác chỉ khi có nhánh công nghệ rõ ràng ([chi tiết](CONTRIBUTING.md#phạm-vi)). Trạng thái được tính tự động từ ngày mở đơn/hạn nộp mỗi ngày.
 
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 02/10/2026 · 102 chương trình · 18 đang mở_
+_Cập nhật dữ liệu: 03/10/2026 · 104 chương trình · 19 đang mở_
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -35,6 +35,7 @@ _Cập nhật dữ liệu: 02/10/2026 · 102 chương trình · 18 đang mở_
 | [Microsoft](https://techjobs.vn/companies/microsoft?utm_source=github&utm_medium=vn-tech-programs) | [Microsoft Student Ambassadors](https://mvp.microsoft.com/studentambassadors) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | — | — |
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-tech-programs) | [TinyFish Ambassador Program](https://www.tinyfish.ai/ambassadors) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | — | — |
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-tech-programs) | [TinyFish Student Program](https://www.tinyfish.ai/students) | Đại sứ sinh viên | 🟢 Đang mở | 2026 | — | — |
+| [WorldQuant](https://techjobs.vn/companies/worldquant?utm_source=github&utm_medium=vn-tech-programs) | [WorldQuant BRAIN Research Consultant Program](https://worldquantbrain.com/consultant) | Thực tập | 🟢 Đang mở | 2026 | — | — |
 | [Qualcomm AI Research Vietnam](https://techjobs.vn/companies/qualcomm?utm_source=github&utm_medium=vn-tech-programs) | [Qualcomm AI Residency Program \(Việt Nam\)](https://www.qualcomm.com/research/artificial-intelligence/ai-residency-program) | Graduate | 🟡 Sắp mở | 2026 | — | — |
 | [FPT Software](https://techjobs.vn/companies/fpt-software?utm_source=github&utm_medium=vn-tech-programs) | [FPT Software Fresher \(FSOFT Academy\)](https://career.fpt-software.com/employer/fpt-software-academy/) | Fresher | ⚪ Chưa rõ | — | — | — |
 | [FPT Software](https://techjobs.vn/companies/fpt-software?utm_source=github&utm_medium=vn-tech-programs) | [FPT Software Global Internship \(TalentSphere\)](https://fptsoftware.com/pages/global-internship) | Thực tập | ⚪ Chưa rõ | — | — | — |
@@ -50,7 +51,7 @@ _Cập nhật dữ liệu: 02/10/2026 · 102 chương trình · 18 đang mở_
 | [VNPT](https://techjobs.vn/companies/vnpt?utm_source=github&utm_medium=vn-tech-programs) | [VNPT Thực tập sinh](https://tuyendung.vnpt.vn/tin-thuc-tap-sinh.html) | Thực tập | ⚪ Chưa rõ | — | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (71) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (72) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -118,6 +119,7 @@ _Cập nhật dữ liệu: 02/10/2026 · 102 chương trình · 18 đang mở_
 | [VNG ZingPlay Game Studios](https://techjobs.vn/companies/vng?utm_source=github&utm_medium=vn-tech-programs) | [VNG Game Innovation Fresher](https://career.vng.com.vn/danh-cho-sinh-vien/game-innovation-fresher-2025) | Fresher | 🔴 Đã đóng | 2025 | 10/03/2025 | 31/03/2025 |
 | Prudential Việt Nam | [The Strivers – Management Trainee & Functional Trainee](https://www.prudential.com.vn/vi/co-hoi-nghe-nghiep/tai-prudential/chuong-trinh-quan-tri-vien-tap-su/) | Quản trị viên tập sự | 🔴 Đã đóng | 2025 | 10/02/2025 | 10/03/2025 |
 | [GEM Corporation](https://techjobs.vn/companies/gem-corp?utm_source=github&utm_medium=vn-tech-programs) | [GEM Internship Program \(GIP\)](https://gem-corp.tech/event/gem-internship-program-2022/) | Thực tập | 🔴 Đã đóng | 2025 | — | 07/01/2025 |
+| Algotrade | [Algotrade Internship Program](https://www.algotrade.vn/vi/internship) | Thực tập | 🔴 Đã đóng | 2026 | — | — |
 | Endava \(DEK Technologies\) | [Endava Internship Programme: Vietnam](https://www.endava.com/careers/early-careers/internship-programmes/vietnam) | Thực tập | 🔴 Đã đóng | 2026 | — | — |
 | GEEK Up | [Geek Internship](https://geekadventure.vn/internship) | Thực tập | 🔴 Đã đóng | 2026 | — | — |
 | Globee \(Globee Software & E-commerce\) | [GlobeeX Talent Program](https://globee.hk/globeex-talent-program/) | Fresher | 🔴 Đã đóng | 2026 | — | — |

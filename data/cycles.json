@@ -1004,5 +1004,29 @@
       "https://www.fwd.com.vn/en/about-us/careers/fwd-summer-internship/"
     ],
     "updated_at": "2026-10-02"
+  },
+  {
+    "program_slug": "algotrade-internship-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "closed",
+    "sources": [
+      "https://www.algotrade.vn/vi/internship"
+    ],
+    "updated_at": "2026-10-03",
+    "notes": "Kỳ thực tập tháng 06/2026 nhận hồ sơ từ 15/04/2026; trang chưa công bố kỳ tiếp theo."
+  },
+  {
+    "program_slug": "worldquant-brain-research-consultant",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "open",
+    "sources": [
+      "https://worldquantbrain.com/consultant"
+    ],
+    "updated_at": "2026-10-03",
+    "notes": "Nhận liên tục: được mời khi đạt mức Gold trên BRAIN."
   }
 ]

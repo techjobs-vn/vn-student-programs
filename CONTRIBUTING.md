@@ -24,6 +24,7 @@ Không nhận: tin tuyển một vị trí lẻ (hãy xem trên [techjobs.vn](ht
 | Vi mạch, phần cứng điện tử, nhúng, viễn thông | Kỹ thuật cơ khí, ô tô, HVAC, quy trình sản xuất |
 | Product (PM/PO), UX/UI design | Thiết kế đồ hoạ, marketing creative thuần |
 | Data analytics / BI, kể cả ở công ty không phải công nghệ | |
+| Quant (nghiên cứu, giao dịch, phát triển định lượng) | Môi giới, tư vấn đầu tư, phân tích cổ phiếu cơ bản |
 | Fintech, ngân hàng, chứng khoán, bảo hiểm: chỉ khi có track công nghệ, dữ liệu hoặc product | |
 
 Với chương trình quản trị viên tập sự (MT) nhiều nhánh ở công ty ngoài ngành công nghệ, `tracks` chỉ ghi các nhánh thuộc phạm vi; các nhánh còn lại ghi trong `notes`.
