@@ -79,12 +79,12 @@
     "program_slug": "aws-student-builder-group-leader",
     "year": 2026,
     "opens_at": "2026-08-26",
-    "deadline": "2026-10-04",
+    "deadline": "2026-10-05",
     "sources": [
       "https://builder.aws.com/content/3ITldzpQS7bvgVN01IkU2rFJn1o/applications-are-open-become-an-aws-student-builder-group-leader"
     ],
     "updated_at": "2026-10-01",
-    "notes": "Hạn 23:59 ngày 04/10 giờ PST, tức khoảng 14:59 ngày 05/10 giờ Việt Nam."
+    "notes": "AWS ghi hạn 23:59 ngày 04/10 giờ PST (Thái Bình Dương); tức khoảng 13:59 ngày 05/10 giờ Việt Nam (14:59 nếu tính PST thuần). Ngày deadline lưu theo giờ Việt Nam."
   },
   {
     "program_slug": "google-student-ambassador-vietnam",
