@@ -8,7 +8,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 - ➕ **Biết một chương trình chưa có trong danh sách?** [Gửi chương trình](https://github.com/techjobs-vn/vn-tech-programs/issues/new?template=new_program.yml)
 - ✏️ **Thông tin sai hoặc chương trình đã đóng?** [Báo cập nhật](https://github.com/techjobs-vn/vn-tech-programs/issues/new?template=update_program.yml)
 
-**Phạm vi:** chỉ chương trình công nghệ (phần mềm, dữ liệu/AI, bảo mật, hạ tầng, bán dẫn, sản phẩm…) hoặc chương trình có nhánh công nghệ rõ ràng. Trạng thái được tính tự động từ ngày mở đơn/hạn nộp mỗi ngày.
+**Phạm vi:** chương trình công nghệ và gần công nghệ: phần mềm, dữ liệu/AI, bảo mật, hạ tầng, vi mạch và phần cứng điện tử, product, UX/UI design, data analytics; chương trình ngân hàng, fintech hay MT ngành khác chỉ khi có nhánh công nghệ rõ ràng ([chi tiết](CONTRIBUTING.md#phạm-vi)). Trạng thái được tính tự động từ ngày mở đơn/hạn nộp mỗi ngày.
 
 ## Danh sách
 

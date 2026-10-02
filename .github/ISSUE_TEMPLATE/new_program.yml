@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Cảm ơn bạn! Chỉ nhận chương trình **công nghệ** hoặc có **nhánh công nghệ** rõ ràng. Tin tuyển một vị trí lẻ hãy xem trên techjobs.vn.
+        Cảm ơn bạn! Nhận chương trình công nghệ và gần công nghệ (vi mạch/phần cứng, product, UX/UI, data analytics), hoặc chương trình ngành khác có **nhánh công nghệ** rõ ràng. Xem [phạm vi](https://github.com/techjobs-vn/vn-tech-programs/blob/main/CONTRIBUTING.md#phạm-vi). Tin tuyển một vị trí lẻ hãy xem trên techjobs.vn.
   - type: input
     id: company
     attributes:

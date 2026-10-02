@@ -18,6 +18,17 @@ general:
   - "chương trình đào tạo kỹ sư {year} miễn phí công nghệ"
   - "chương trình đào tạo nhân tài công nghệ {year} tuyển sinh"
   - "academy {year} đào tạo và tuyển dụng IT"
+  # Gần công nghệ: vi mạch/phần cứng, product, UX/UI, data analytics, ngân hàng/fintech có nhánh công nghệ
+  - "chương trình thực tập thiết kế vi mạch {year}"
+  - "IC design internship program {year} Vietnam"
+  - "embedded hardware internship program {year} Việt Nam"
+  - "associate product manager program {year} Vietnam"
+  - "product trainee {year} Việt Nam"
+  - "UX UI design internship program {year} Việt Nam"
+  - "data analyst trainee program {year} Việt Nam"
+  - "chương trình thực tập phân tích dữ liệu {year}"
+  - "chương trình thực tập sinh khối công nghệ ngân hàng {year}"
+  - "technology graduate programme {year} Vietnam bank"
 
 # Trang việc làm của trường: repost chương trình kèm hạn nộp.
 university_boards:
