@@ -366,7 +366,8 @@
     "type": "ambassador",
     "company": {
       "name": "Anthropic",
-      "slug": null
+      "slug": null,
+      "domain": "anthropic.com"
     },
     "official_url": "https://claude.com/programs/campus",
     "tracks": [
@@ -384,7 +385,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01",
+    "updated_at": "2026-10-04",
     "notes": "Chương trình toàn cầu, mở cho sinh viên tại Việt Nam."
   },
   {
@@ -420,7 +421,8 @@
     "type": "ambassador",
     "company": {
       "name": "GitHub",
-      "slug": null
+      "slug": null,
+      "domain": "github.com"
     },
     "official_url": "https://docs.github.com/en/education/about-github-education/use-github-at-your-educational-institution/applying-to-be-a-github-campus-expert",
     "tracks": [
@@ -437,7 +439,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01",
+    "updated_at": "2026-10-04",
     "notes": "Theo GitHub Docs, mở đơn mỗi năm một lần vào tháng 7, trong một tháng."
   },
   {
@@ -527,7 +529,8 @@
     "type": "internship",
     "company": {
       "name": "Faraday Technology Vietnam",
-      "slug": null
+      "slug": null,
+      "domain": "faraday-tech.com"
     },
     "official_url": "https://www.faraday-tech.com/en/content/Careers/InternshipProgramVietnam",
     "tracks": [
@@ -546,7 +549,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01",
+    "updated_at": "2026-10-04",
     "notes": "Thiết kế vi mạch; tuyển nhiều đợt mỗi năm."
   },
   {
@@ -639,7 +642,8 @@
     "type": "internship",
     "company": {
       "name": "VinBigdata (Vingroup)",
-      "slug": null
+      "slug": null,
+      "domain": "vinbigdata.com"
     },
     "official_url": "https://institute.vinbigdata.org/programs/chuong-trinh-dao-tao-ky-su-ai-vingroup/",
     "tracks": [
@@ -657,7 +661,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01",
+    "updated_at": "2026-10-04",
     "notes": "Do VinBigdata tổ chức hằng năm; giai đoạn 2 thực tập tại các công ty công nghệ của Vingroup. Năm 2025 (mùa 6) tuyển 70 học viên."
   },
   {
@@ -744,7 +748,8 @@
     "type": "fresher",
     "company": {
       "name": "CMC Global",
-      "slug": null
+      "slug": null,
+      "domain": "cmcglobal.com.vn"
     },
     "official_url": "https://fresher.cmcglobal.com.vn/",
     "tracks": [
@@ -764,7 +769,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01",
+    "updated_at": "2026-10-04",
     "notes": "Tuyển theo squad, không có hạn nộp cố định."
   },
   {
@@ -1095,7 +1100,7 @@
     "type": "management_trainee",
     "company": {
       "name": "Manulife Việt Nam",
-      "slug": null
+      "slug": "manulife-vietnam"
     },
     "official_url": "https://www.manulife.com.vn/vi/ve-chung-toi/manulife-future-leaders.html",
     "tracks": [
@@ -1114,7 +1119,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "nab-wecamp",
@@ -1203,7 +1208,7 @@
     "type": "fresher",
     "company": {
       "name": "SystemEXE Việt Nam",
-      "slug": null
+      "slug": "systemexe-viet-nam"
     },
     "official_url": "https://fresher.system-exe.com.vn/",
     "tracks": [
@@ -1220,7 +1225,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01",
+    "updated_at": "2026-10-04",
     "notes": "Nhận 10 triệu/tháng trong thời gian đào tạo."
   },
   {
@@ -1768,7 +1773,8 @@
     "type": "internship",
     "company": {
       "name": "SVTECH",
-      "slug": null
+      "slug": null,
+      "domain": "svtech.com.vn"
     },
     "official_url": "https://svtech.com.vn/tuyen-dung/system-engineer-trainee-2026-2/",
     "tracks": [
@@ -1785,7 +1791,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01",
+    "updated_at": "2026-10-04",
     "notes": "Đào tạo miễn phí, phụ cấp 2–6 triệu/tháng, chuyển chính thức sau chương trình; năm 2026 có 2 đợt."
   },
   {
@@ -1794,7 +1800,7 @@
     "type": "internship",
     "company": {
       "name": "DTS",
-      "slug": null
+      "slug": "dts-software-vietnam"
     },
     "official_url": "https://dts.com.vn/tin-tuc/chuong-trinh-thuc-tap-sinh-tai-nang---super-intern-2024-da-quay-tro-lai",
     "tracks": [
@@ -1812,7 +1818,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "samsung-talent-program-stp",
@@ -1873,7 +1879,8 @@
     "type": "internship",
     "company": {
       "name": "Handshakes",
-      "slug": null
+      "slug": null,
+      "domain": "handshakes.ai"
     },
     "official_url": "https://www.handshakes.ai/careers/",
     "tracks": [
@@ -1891,7 +1898,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01",
+    "updated_at": "2026-10-04",
     "notes": "Có văn phòng Hà Nội; trụ sở ở Singapore."
   },
   {
@@ -1900,7 +1907,8 @@
     "type": "internship",
     "company": {
       "name": "Zodinet Technology",
-      "slug": null
+      "slug": null,
+      "domain": "zodinet.com"
     },
     "official_url": "https://zodinet.com/job/%f0%9f%9a%80-chuong-trinh-thuc-tap-sinh-tai-nang-zodinet-2026-%f0%9f%9a%80/",
     "tracks": [
@@ -1916,7 +1924,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "geek-up-geek-internship",
@@ -1924,7 +1932,7 @@
     "type": "internship",
     "company": {
       "name": "GEEK Up",
-      "slug": null
+      "slug": "geek-up"
     },
     "official_url": "https://geekadventure.vn/internship",
     "tracks": [
@@ -1943,7 +1951,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "sun-studio-sun-riser",
@@ -1951,7 +1959,7 @@
     "type": "internship",
     "company": {
       "name": "SUN.STUDIO",
-      "slug": null
+      "slug": "sunstudio"
     },
     "official_url": "https://sunriser-internship-2026.sun.studio/",
     "tracks": [
@@ -1972,7 +1980,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "ban-vien-bv-internship-program",
@@ -1980,7 +1988,7 @@
     "type": "internship",
     "company": {
       "name": "Ban Vien Corporation (Bản Viên)",
-      "slug": null
+      "slug": "ban-vien"
     },
     "official_url": "https://career.banvien.com.vn/internship-program",
     "tracks": [
@@ -1996,7 +2004,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "kyanon-k-fresh-trainee-program",
@@ -2004,7 +2012,8 @@
     "type": "fresher",
     "company": {
       "name": "Kyanon Digital",
-      "slug": null
+      "slug": null,
+      "domain": "kyanon.digital"
     },
     "official_url": "https://kyanon.digital/careers/k-fresh-trainee-program/",
     "tracks": [
@@ -2025,7 +2034,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "globee-globeex-talent-program",
@@ -2033,7 +2042,8 @@
     "type": "fresher",
     "company": {
       "name": "Globee (Globee Software & E-commerce)",
-      "slug": null
+      "slug": null,
+      "domain": "globee.hk"
     },
     "official_url": "https://globee.hk/globeex-talent-program/",
     "tracks": [
@@ -2049,7 +2059,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "sap-star-program-vietnam",
@@ -2057,7 +2067,7 @@
     "type": "internship",
     "company": {
       "name": "SAP (SAP Labs Vietnam)",
-      "slug": null
+      "slug": "sap"
     },
     "official_url": "https://jobs.sap.com/en/students-and-graduates/students/star-program/",
     "tracks": [
@@ -2076,7 +2086,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "hanwha-finance-global-internship-program",
@@ -2084,7 +2094,8 @@
     "type": "internship",
     "company": {
       "name": "Hanwha Finance (Hanwha Life / Pinetree Securities)",
-      "slug": null
+      "slug": null,
+      "domain": "hanwhalife.com.vn"
     },
     "official_url": "https://www.hanwhafinancetalent.com/en/gip",
     "tracks": [
@@ -2101,7 +2112,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "home-credit-home-racer",
@@ -2109,7 +2120,7 @@
     "type": "graduate",
     "company": {
       "name": "Home Credit Việt Nam",
-      "slug": null
+      "slug": "home-credit"
     },
     "official_url": "https://career.homecredit.vn/vn/article/Home-Racer-Program-2026/",
     "tracks": [
@@ -2125,7 +2136,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "topcv-next-gen",
@@ -2133,7 +2144,8 @@
     "type": "fresher",
     "company": {
       "name": "TopCV Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "topcv.vn"
     },
     "official_url": "https://youngtalent.topcv.vn/",
     "tracks": [
@@ -2152,7 +2164,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "appota-the-nextgen",
@@ -2160,7 +2172,7 @@
     "type": "internship",
     "company": {
       "name": "Appota Group",
-      "slug": null
+      "slug": "appota"
     },
     "official_url": "https://nextgen2026.appota.com/",
     "tracks": [
@@ -2179,7 +2191,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "sacombank-thuc-tap-vien-tiem-nang",
@@ -2187,7 +2199,7 @@
     "type": "internship",
     "company": {
       "name": "Sacombank",
-      "slug": null
+      "slug": "sacombank"
     },
     "official_url": "https://www.sacombank.com.vn/trang-chu/tin-tuc/tin-sacombank/2025/sacombank-khoi-dong-thuc-tap-vien-tiem-nang-2026.html",
     "tracks": [
@@ -2204,7 +2216,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "msb-management-trainee",
@@ -2212,7 +2224,7 @@
     "type": "management_trainee",
     "company": {
       "name": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)",
-      "slug": null
+      "slug": "msb"
     },
     "official_url": "https://talent.msb.com.vn/",
     "tracks": [
@@ -2232,7 +2244,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "prudential-the-strivers",
@@ -2240,7 +2252,7 @@
     "type": "management_trainee",
     "company": {
       "name": "Prudential Việt Nam",
-      "slug": null
+      "slug": "prudential"
     },
     "official_url": "https://www.prudential.com.vn/vi/co-hoi-nghe-nghiep/tai-prudential/chuong-trinh-quan-tri-vien-tap-su/",
     "tracks": [
@@ -2257,7 +2269,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "ipag-management-associate-next-gen",
@@ -2265,7 +2277,7 @@
     "type": "management_trainee",
     "company": {
       "name": "IPA Group (VNDIRECT)",
-      "slug": null
+      "slug": "vndirect"
     },
     "official_url": "https://nextgen.ipa.com.vn/",
     "tracks": [
@@ -2282,7 +2294,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "xbrain-aws-accelerator-internship",
@@ -2290,7 +2302,8 @@
     "type": "internship",
     "company": {
       "name": "XBrain (TechX)",
-      "slug": null
+      "slug": null,
+      "domain": "xbrain.com.vn"
     },
     "official_url": "https://xbrain.com.vn/program",
     "tracks": [
@@ -2308,7 +2321,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "axon-active-part-time-internship",
@@ -2340,7 +2353,7 @@
     "type": "internship",
     "company": {
       "name": "Endava (DEK Technologies)",
-      "slug": null
+      "slug": "endava"
     },
     "official_url": "https://www.endava.com/careers/early-careers/internship-programmes/vietnam",
     "tracks": [
@@ -2358,7 +2371,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "f88-it-freshers",
@@ -2366,7 +2379,7 @@
     "type": "fresher",
     "company": {
       "name": "F88",
-      "slug": null
+      "slug": "f88"
     },
     "official_url": "https://nhansu.f88.vn/itfreshers2026",
     "tracks": [
@@ -2384,7 +2397,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "luvina-academy",
@@ -2392,7 +2405,8 @@
     "type": "fresher",
     "company": {
       "name": "Luvina Software",
-      "slug": null
+      "slug": null,
+      "domain": "luvina.net"
     },
     "official_url": "https://la.luvina.net/",
     "tracks": [
@@ -2410,7 +2424,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "rikkei-future-leader",
@@ -2445,7 +2459,7 @@
     "type": "internship",
     "company": {
       "name": "GoTymeX (Tyme Group)",
-      "slug": null
+      "slug": "tyme"
     },
     "official_url": "https://vietnam.tyme.com/category-type/intern/",
     "tracks": [
@@ -2463,7 +2477,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01"
+    "updated_at": "2026-10-04"
   },
   {
     "slug": "onpoint-trailblazers",
@@ -2551,7 +2565,8 @@
     "type": "internship",
     "company": {
       "name": "LAT Semiconductor",
-      "slug": null
+      "slug": null,
+      "domain": "latsemi.com"
     },
     "official_url": "https://latsemi.com/",
     "tracks": [
@@ -2569,7 +2584,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-02",
-    "updated_at": "2026-10-02",
+    "updated_at": "2026-10-04",
     "notes": "Đào tạo miễn phí 100%; cấp Mid và Advanced có trợ cấp và cơ hội làm việc tại LAT (Đà Nẵng). Đợt 2026 tuyển qua ĐH KHTN TP.HCM, nộp hồ sơ qua email giảng viên. Website ghi đối tượng là sinh viên năm cuối và mới tốt nghiệp, mâu thuẫn với thông báo 2026 (loại trừ sinh viên năm cuối). Nguồn chưa thống nhất về đối tượng; kiểm tra trên trang chính thức trước khi nộp."
   },
   {
@@ -2578,7 +2593,8 @@
     "type": "graduate",
     "company": {
       "name": "Vinamilk",
-      "slug": null
+      "slug": null,
+      "domain": "vinamilk.com.vn"
     },
     "official_url": "https://careers.vinamilk.com.vn/graduatetalent-program",
     "tracks": [
@@ -2598,7 +2614,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-02",
-    "updated_at": "2026-10-02",
+    "updated_at": "2026-10-04",
     "notes": "Chương trình có 10 lĩnh vực. Ngoài Tech & Data còn có Brand Design, Brand Management, E-commerce, Modern Trade, Retail Chain, Finance, Internal Control & Audit, Manufacturing Excellence và R&D. Các lĩnh vực này không thuộc phạm vi dataset. Làm việc tại trụ sở chính Vinamilk ở TP.HCM. Lịch: làm bài test online tháng 7, phỏng vấn tháng 8–9, nhận việc tháng 10/2026."
   },
   {
@@ -2632,7 +2648,8 @@
     "type": "fresher",
     "company": {
       "name": "Apero Technologies Group",
-      "slug": null
+      "slug": null,
+      "domain": "apero.vn"
     },
     "official_url": "https://17fipo.apero.vn/",
     "tracks": [
@@ -2648,7 +2665,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-02",
-    "updated_at": "2026-10-02",
+    "updated_at": "2026-10-04",
     "notes": "Chương trình đào tạo có lương (hỗ trợ 6–8 triệu/tháng) và tuyển theo batch. Trang chính thức đang ở 'FIPO Batch 3', ghi lịch nộp hồ sơ 29/01–03/03 nhưng không ghi năm. Hạn 24/02/2026 lấy từ YBOX."
   },
   {
@@ -2684,7 +2701,8 @@
     "type": "internship",
     "company": {
       "name": "FWD Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "fwd.com.vn"
     },
     "official_url": "https://www.fwd.com.vn/en/about-us/careers/fwd-summer-internship/",
     "tracks": [
@@ -2705,7 +2723,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-02",
-    "updated_at": "2026-10-02",
+    "updated_at": "2026-10-04",
     "notes": "Các mảng khác của chương trình (không đưa vào tracks): Agency, Bancassurance, Corporate Strategy, Finance, Operations, Human Resources, Marketing, Governance (Legal, Compliance & Risk), Internal Audit. Trang chính thức có phần nhìn lại đợt 2025 nên chương trình chạy hằng năm. Bài YBOX ghi hạn chót 23:59 ngày 21/05/2026 ở nút ứng tuyển; lịch tuyển dụng ghi 15/04–20/05/2026."
   },
   {
@@ -2714,7 +2732,8 @@
     "type": "internship",
     "company": {
       "name": "Algotrade",
-      "slug": null
+      "slug": null,
+      "domain": "algotrade.vn"
     },
     "official_url": "https://www.algotrade.vn/vi/internship",
     "tracks": [
@@ -2731,7 +2750,7 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-03",
-    "updated_at": "2026-10-03",
+    "updated_at": "2026-10-04",
     "notes": "Cuối chương trình hoàn thiện một thuật toán giao dịch theo chuẩn Plutus Open Source Framework; thực tập sinh xuất sắc có cơ hội thành nhân viên chính thức. Nộp thư ứng tuyển, CV và code mẫu qua email career@algotrade.vn."
   },
   {
@@ -2765,7 +2784,7 @@
     "type": "internship",
     "company": {
       "name": "Ngân hàng TMCP An Bình (ABBANK)",
-      "slug": null
+      "slug": "abbank"
     },
     "official_url": "https://careers.abbank.vn/job/chuong-trinh-thuc-tap-sinh-thuc-tien-nam-2026-10121",
     "tracks": [
@@ -2795,7 +2814,7 @@
     "type": "management_trainee",
     "company": {
       "name": "Sea (Shopee / Monee / Garena)",
-      "slug": null
+      "slug": "shopee"
     },
     "official_url": "https://seagmap.sea.com/",
     "tracks": [
@@ -2822,7 +2841,7 @@
     "type": "internship",
     "company": {
       "name": "VinFast",
-      "slug": null
+      "slug": "vinfast"
     },
     "official_url": "https://vinfast.zohorecruit.com/jobs/Careers/789504000030114866/2026-INTERNSHIP-PROGRAM-%E2%80%93-ENGINEERING-AUTOMOTIVE-DEVELOPMENT",
     "tracks": [
@@ -2849,7 +2868,7 @@
     "type": "management_trainee",
     "company": {
       "name": "Masan Consumer",
-      "slug": null
+      "slug": "masan"
     },
     "official_url": "https://careers.masanconsumer.com/content/Masan-Young-Entrepreneur---Sales-Program-/?locale=vi_VN",
     "tracks": [
@@ -2875,7 +2894,8 @@
     "type": "graduate",
     "company": {
       "name": "TikTok Shop",
-      "slug": null
+      "slug": null,
+      "domain": "tiktok.com"
     },
     "official_url": "https://lifeattiktok.com/search/7670922017126074677",
     "tracks": [
@@ -2903,7 +2923,8 @@
     "type": "internship",
     "company": {
       "name": "Panasonic Sales Vietnam",
-      "slug": null
+      "slug": null,
+      "domain": "panasonic.com"
     },
     "official_url": "https://psvfresher.vn/2026-fresher/",
     "tracks": [
@@ -2932,7 +2953,7 @@
     "type": "ambassador",
     "company": {
       "name": "Techcombank",
-      "slug": null
+      "slug": "techcombank"
     },
     "official_url": "https://tuyendung.techcombankjobs.com/techcombank-ambassador-2026",
     "tracks": [
@@ -2960,7 +2981,7 @@
     "type": "fresher",
     "company": {
       "name": "VNG ZingPlay Game Studios (VNG)",
-      "slug": null
+      "slug": "vng"
     },
     "official_url": "https://career.vng.com.vn/danh-cho-sinh-vien/business-development-fresher-2026/",
     "tracks": [
@@ -2984,7 +3005,7 @@
     "type": "internship",
     "company": {
       "name": "PwC Việt Nam",
-      "slug": null
+      "slug": "pwc-vietnam"
     },
     "official_url": "https://www.pwc.com/vn/vn/careers/campus-careers/internship-programme.html",
     "tracks": [
@@ -3008,7 +3029,8 @@
     "type": "ambassador",
     "company": {
       "name": "Giảng dạy vì Việt Nam (Teach For Viet Nam)",
-      "slug": null
+      "slug": null,
+      "domain": "teachforvietnam.org"
     },
     "official_url": "https://teachforvietnam.org/mo-don-ung-tuyen-dai-su-sinh-vien-2026-chuong-trinh-leadership-development-fellowship-batch-10/",
     "fields": [
@@ -3031,7 +3053,7 @@
     "type": "internship",
     "company": {
       "name": "Ngân hàng TMCP Á Châu (ACB)",
-      "slug": null
+      "slug": "acb"
     },
     "official_url": "https://www.acbjobs.com.vn/pages/the-next-banker",
     "tracks": [
@@ -3059,7 +3081,7 @@
     "type": "internship",
     "company": {
       "name": "Ngân hàng TMCP Quốc tế Việt Nam (VIB)",
-      "slug": null
+      "slug": "vib"
     },
     "official_url": "https://careers.vib.com.vn/careers/job/31667",
     "tracks": [
@@ -3085,7 +3107,7 @@
     "type": "management_trainee",
     "company": {
       "name": "Central Retail Việt Nam",
-      "slug": null
+      "slug": "central-retail"
     },
     "official_url": "https://www.ma-centralretailvn.com/",
     "tracks": [
@@ -3112,7 +3134,7 @@
     "type": "management_trainee",
     "company": {
       "name": "F88",
-      "slug": null
+      "slug": "f88"
     },
     "official_url": "https://nhansu.f88.vn/f88nextgen",
     "tracks": [
@@ -3148,7 +3170,8 @@
     "type": "management_trainee",
     "company": {
       "name": "FPT Digital",
-      "slug": null
+      "slug": null,
+      "domain": "digital.fpt.com"
     },
     "official_url": "https://digital.fpt.com/leaders-program",
     "tracks": [
@@ -3175,7 +3198,8 @@
     "type": "management_trainee",
     "company": {
       "name": "HEINEKEN Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "theheinekencompany.com"
     },
     "official_url": "https://careers.theheinekencompany.com/English/HEINEKEN-Vietnam",
     "tracks": [
@@ -3201,7 +3225,8 @@
     "type": "graduate",
     "company": {
       "name": "Carlsberg Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "carlsbergvietnam.vn"
     },
     "official_url": "https://carlsbergvietnam.vn/vi/nghe-nghiep/carlsbergasiagtp26/",
     "tracks": [
@@ -3234,7 +3259,8 @@
     "type": "management_trainee",
     "company": {
       "name": "Suntory PepsiCo Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "suntorypepsico.vn"
     },
     "official_url": "https://careers.suntorypepsico.vn/intro?id=171&meta_title=MT2026",
     "tracks": [
@@ -3266,7 +3292,8 @@
     "type": "internship",
     "company": {
       "name": "EPI Technologies (Công ty CP Tập đoàn Công nghệ EPI Việt Nam)",
-      "slug": null
+      "slug": null,
+      "domain": "epi-tech.com.vn"
     },
     "official_url": "https://epi-tech.com.vn/en/careers/epi-internship-program-2026/",
     "tracks": [
@@ -3304,7 +3331,7 @@
     "type": "graduate",
     "company": {
       "name": "Jabil Việt Nam",
-      "slug": null
+      "slug": "jabil"
     },
     "official_url": "https://jobs.jabil.com/en/job/ho-chi-minh-city/eit-hr-generalist-talent-acquisition/626/100115212976",
     "tracks": [
@@ -3333,7 +3360,8 @@
     "type": "internship",
     "company": {
       "name": "Techtronic Industries (TTI) Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "ttigroup.com"
     },
     "official_url": "https://www.ttigroup.com/en/careers/ecp",
     "tracks": [
@@ -3363,7 +3391,8 @@
     "type": "fresher",
     "company": {
       "name": "Hyosung & HS Hyosung Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "hyosung.com"
     },
     "official_url": "https://hyosungjobs.com/gongchae-program",
     "tracks": [
@@ -3427,7 +3456,8 @@
     "type": "internship",
     "company": {
       "name": "DKSH Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "dksh.com"
     },
     "official_url": "https://www.dksh.com/vn-vi/home/careers/early-careers",
     "tracks": [
@@ -3462,7 +3492,7 @@
     "type": "internship",
     "company": {
       "name": "EY Việt Nam",
-      "slug": null
+      "slug": "ey"
     },
     "official_url": "https://careers.ey.com/ey/job/Ho-Chi-Minh-City-EY-Compass-2026-Scholarship-Program-HCMC-Office/1439857133/",
     "fields": [
@@ -3485,7 +3515,7 @@
     "type": "internship",
     "company": {
       "name": "EY Việt Nam",
-      "slug": null
+      "slug": "ey"
     },
     "official_url": "https://careers.ey.com/ey/job/Ha-Noi-Pathway-to-Strategic-Business-Leader-2026-2027/1442864833/",
     "fields": [
@@ -3508,7 +3538,8 @@
     "type": "internship",
     "company": {
       "name": "Swire Coca-Cola Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "swirecocacola.com"
     },
     "official_url": "https://careersvn.app.swirecocacola.com/job/Ch%C6%B0%C6%A1ng-Tr%C3%ACnh-Th%E1%BB%B1c-T%E1%BA%ADp-Coca-Cola-STEMX-2026-Nh%C3%A0-M%C3%A1y-Mi%E1%BB%81n-B%E1%BA%AFc-%28H%C3%A0-N%E1%BB%99i%29/1283-vi_VN/",
     "tracks": [
@@ -3535,7 +3566,8 @@
     "type": "fresher",
     "company": {
       "name": "Chứng khoán Bảo Việt (BVSC)",
-      "slug": null
+      "slug": null,
+      "domain": "bvsc.com.vn"
     },
     "official_url": "https://www.bvsc.com.vn/danhsachbaiviet/next-gen-2026-tu-chung-khoan-bao-viet-chinh-thuc-quay-tro-lai-voi-pham-vi-tuyen-dung-rong-hon/",
     "tracks": [
@@ -3561,7 +3593,8 @@
     "type": "internship",
     "company": {
       "name": "Ngân hàng Bản Việt (BVBank)",
-      "slug": null
+      "slug": null,
+      "domain": "bvbank.net.vn"
     },
     "official_url": "https://bvbank.talent.vn/job/thuc-tap-sinh-tiem-nang-new-plus-banker-53374",
     "tracks": [
@@ -3588,7 +3621,8 @@
     "type": "management_trainee",
     "company": {
       "name": "UpBase",
-      "slug": null
+      "slug": null,
+      "domain": "upbase.asia"
     },
     "official_url": "https://upbase.asia/careers",
     "tracks": [
@@ -3618,7 +3652,7 @@
     "type": "management_trainee",
     "company": {
       "name": "UOB Việt Nam",
-      "slug": null
+      "slug": "uob-vietnam"
     },
     "official_url": "https://www.uobgroup.com/careers-vn/early-careers/index.page",
     "tracks": [
@@ -3643,7 +3677,8 @@
     "type": "management_trainee",
     "company": {
       "name": "Generali Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "generali.vn"
     },
     "official_url": "https://generali.talent.vn/job/genext-2025-management-trainee-program-generali-vietnam-2025-8268",
     "tracks": [
@@ -3672,7 +3707,7 @@
     "type": "internship",
     "company": {
       "name": "EY Việt Nam",
-      "slug": null
+      "slug": "ey"
     },
     "official_url": "https://careers.ey.com/ey/job/Ho-Chi-Minh-City-EY-Internship-Program-2027-Core-Assurance-Services-HCMC-Office/1405470733/",
     "tracks": [
@@ -3699,7 +3734,8 @@
     "type": "internship",
     "company": {
       "name": "KPMG Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "kpmg.com"
     },
     "official_url": "https://kpmg.com/vn/en/careers/internship.html",
     "tracks": [
@@ -3727,7 +3763,8 @@
     "type": "graduate",
     "company": {
       "name": "KPMG Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "kpmg.com"
     },
     "official_url": "https://kpmg.com/vn/en/careers/graduate.html",
     "tracks": [
@@ -3755,7 +3792,8 @@
     "type": "internship",
     "company": {
       "name": "Grant Thornton Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "grantthornton.com.vn"
     },
     "official_url": "https://www.grantthornton.com.vn/careers/Internship-program-2027/",
     "tracks": [
@@ -3782,7 +3820,7 @@
     "type": "internship",
     "company": {
       "name": "Deloitte Việt Nam",
-      "slug": null
+      "slug": "deloitte-vietnam"
     },
     "official_url": "https://jobs.sea.deloitte.com/job/Ho-Chi-Minh-City-VN-A&A-Deloitte-Passport-FY27-Audit-&-Assurance-HCMC-4th-Year-Student-Ho-C/1362761666/",
     "tracks": [
@@ -3811,7 +3849,7 @@
     "type": "internship",
     "company": {
       "name": "Deloitte Đông Nam Á (Việt Nam)",
-      "slug": null
+      "slug": "deloitte-vietnam"
     },
     "official_url": "https://www.deloitte.com/southeast-asia/en/careers/explore-your-fit/students/amplify-programme.html",
     "tracks": [
@@ -3841,7 +3879,8 @@
     "type": "fresher",
     "company": {
       "name": "Forvis Mazars Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "forvismazars.com"
     },
     "official_url": "https://careers-asia.forvismazars.com/news/audit-freshgraduate-program-2026/",
     "tracks": [
@@ -3865,7 +3904,8 @@
     "type": "ambassador",
     "company": {
       "name": "Forvis Mazars Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "forvismazars.com"
     },
     "official_url": "https://careers-asia.forvismazars.com/news/forvismazars-student-brand-ambassador-2026/",
     "tracks": [
@@ -3890,7 +3930,8 @@
     "type": "internship",
     "company": {
       "name": "Crowe Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "crowevietnam.vn"
     },
     "official_url": "https://brochure.crowevietnam.vn/en/careers/internship-program-2026-2027/",
     "tracks": [
@@ -3915,7 +3956,8 @@
     "type": "internship",
     "company": {
       "name": "Hãng Kiểm toán AASC",
-      "slug": null
+      "slug": null,
+      "domain": "aasc.com.vn"
     },
     "official_url": "https://aasc.com.vn/web/index.php/tuyen-dung/thong-tin-thuc-tap/item/952-chuong-trinh-sinh-vien-thuc-tap-nam-2026-2027-cua-hang-kiem-toan-aasc",
     "tracks": [
@@ -3940,7 +3982,8 @@
     "type": "internship",
     "company": {
       "name": "Công ty TNHH Kiểm toán VACO",
-      "slug": null
+      "slug": null,
+      "domain": "vaco.com.vn"
     },
     "official_url": "https://vaco.com.vn/vi/tuyen-dung/co-hoi-nghe-nghiep/chuong-trinh-thuc-tap-sinh-nam-2027-n31",
     "tracks": [
@@ -3971,7 +4014,8 @@
     "type": "internship",
     "company": {
       "name": "RSM Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "rsm.global"
     },
     "official_url": "https://rsmvietnamhcm.talent.vn/job/internship-program-2026-2027-audit-assurance-intern-55783",
     "tracks": [
@@ -3996,7 +4040,7 @@
     "type": "fresher",
     "company": {
       "name": "PwC Việt Nam",
-      "slug": null
+      "slug": "pwc-vietnam"
     },
     "official_url": "https://www.pwc.com/vn/en/careers/campus-careers/graduate-programme.html",
     "tracks": [
@@ -4021,7 +4065,8 @@
     "type": "graduate",
     "company": {
       "name": "HSBC Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "hsbc.com.vn"
     },
     "official_url": "https://hsbc.eightfold.ai/events/candidate/landing?plannedEventId=RB0E6qjm1D",
     "tracks": [
@@ -4051,7 +4096,8 @@
     "type": "internship",
     "company": {
       "name": "Ngân hàng Shinhan Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "shinhan.com.vn"
     },
     "official_url": "https://shinhancareer.com/job/northern-shinhan-internship-2026.35ac0205.html",
     "tracks": [
@@ -4076,7 +4122,7 @@
     "type": "fresher",
     "company": {
       "name": "Ngân hàng TMCP Phương Đông (OCB)",
-      "slug": null
+      "slug": "ocb"
     },
     "official_url": "https://ocb.com.vn/vi/co-hoi-nghe-nghiep-ocb/chuong-trinh-tuyen-dung",
     "tracks": [
@@ -4100,7 +4146,7 @@
     "type": "internship",
     "company": {
       "name": "Công ty Chứng khoán SSI",
-      "slug": null
+      "slug": "ssi"
     },
     "official_url": "https://www.ssi.com.vn/tin-tuc/tin-tuc-chung/khoi-dong-chuong-trinh-thuc-tap-sinh-lon-nhat-nam-ssi-internship-2025",
     "tracks": [
@@ -4126,7 +4172,8 @@
     "type": "graduate",
     "company": {
       "name": "Suntory PepsiCo Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "suntorypepsico.vn"
     },
     "official_url": "https://careers.suntorypepsico.vn/intro?id=173&meta_title=gst2026",
     "tracks": [
@@ -4154,7 +4201,8 @@
     "type": "fresher",
     "company": {
       "name": "Suntory PepsiCo Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "suntorypepsico.vn"
     },
     "official_url": "https://careers.suntorypepsico.vn/home",
     "tracks": [
@@ -4179,7 +4227,7 @@
     "type": "management_trainee",
     "company": {
       "name": "L'Oréal Việt Nam",
-      "slug": null
+      "slug": "loreal"
     },
     "official_url": "https://careers.loreal.com/en_US/content/Vietnam",
     "tracks": [
@@ -4210,7 +4258,8 @@
     "type": "graduate",
     "company": {
       "name": "Vinamilk",
-      "slug": null
+      "slug": null,
+      "domain": "vinamilk.com.vn"
     },
     "official_url": "https://careers.vinamilk.com.vn/salestrainee-program",
     "tracks": [
@@ -4235,7 +4284,8 @@
     "type": "graduate",
     "company": {
       "name": "Milwaukee Tool Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "milwaukeetool.com"
     },
     "official_url": "https://www.milwaukeetool.com.vn/leadership-development-program",
     "tracks": [
@@ -4262,7 +4312,8 @@
     "type": "management_trainee",
     "company": {
       "name": "Highlands Coffee",
-      "slug": null
+      "slug": null,
+      "domain": "highlandscoffee.com.vn"
     },
     "official_url": "https://careers.highlandscoffee.com.vn/store-manager-trainee/",
     "tracks": [
@@ -4288,7 +4339,7 @@
     "type": "management_trainee",
     "company": {
       "name": "Tập đoàn Golden Gate",
-      "slug": null
+      "slug": "golden-gate"
     },
     "official_url": "https://tuyendung.ggg.com.vn/restaurant-manager-trainee/",
     "tracks": [
@@ -4314,7 +4365,8 @@
     "type": "internship",
     "company": {
       "name": "Honda Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "honda.com.vn"
     },
     "official_url": "https://www.honda.com.vn/tuyen-dung/chi-tiet-co-hoi-nghe-nghiep?id=1086",
     "tracks": [
@@ -4341,7 +4393,8 @@
     "type": "graduate",
     "company": {
       "name": "Công ty CP Nhà ga Quốc tế Đà Nẵng (AHT)",
-      "slug": null
+      "slug": null,
+      "domain": "danangairport.vn"
     },
     "official_url": "https://danangairport.vn/aht/aht-graduate-program-2026",
     "tracks": [
@@ -4371,7 +4424,8 @@
     "type": "graduate",
     "company": {
       "name": "Marriott International",
-      "slug": null
+      "slug": null,
+      "domain": "marriott.com"
     },
     "official_url": "https://careers.marriott.com/career-journeys/early-careers/",
     "tracks": [
@@ -4399,7 +4453,8 @@
     "type": "management_trainee",
     "company": {
       "name": "Crystal International Group (Việt Nam)",
-      "slug": null
+      "slug": null,
+      "domain": "crystalgroup.com"
     },
     "official_url": "https://crystalcareers.vn/",
     "tracks": [
@@ -4427,7 +4482,7 @@
     "type": "management_trainee",
     "company": {
       "name": "WinCommerce (Masan Group)",
-      "slug": null
+      "slug": "masan"
     },
     "official_url": "https://tuyendung.winmart.vn/careers/job/54390",
     "tracks": [
@@ -4453,7 +4508,8 @@
     "type": "fresher",
     "company": {
       "name": "Tập đoàn Sun Group (Khối Hàng không)",
-      "slug": null
+      "slug": null,
+      "domain": "sungroup.com.vn"
     },
     "official_url": "https://tuyendung.sungroup.com.vn/job/tech-gen-2026-tai-nang-tre-ky-thuat-hang-khong-aircraft-maintenance-management-trainee-program-10759",
     "tracks": [
@@ -4478,7 +4534,8 @@
     "type": "management_trainee",
     "company": {
       "name": "Tổng công ty Hàng hải Việt Nam (VIMC)",
-      "slug": null
+      "slug": null,
+      "domain": "vimc.co"
     },
     "official_url": "https://vimc-lines.com/thong-bao-khoi-dong-chuong-trinh-vimc-management-trainee-hai-trinh-thu-linh-tre-vimc-2026/",
     "tracks": [
