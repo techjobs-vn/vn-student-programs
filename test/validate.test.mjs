@@ -187,3 +187,12 @@ test("accepts an optional bare company domain for logos", () => {
     assert.ok(errors.some((e) => e.includes("company.domain")), String(domain));
   }
 });
+
+test("accepts a short description and rejects empty or overlong ones", () => {
+  const ok = validateDataset({ programs: [program({ description: "Chương trình thực tập 3 tháng cho sinh viên năm cuối ngành CNTT." })], cycles: [cycle()] });
+  assert.deepEqual(ok, []);
+  for (const description of ["", "   ", "x".repeat(281), 42]) {
+    const errors = validateDataset({ programs: [program({ description })], cycles: [cycle()] });
+    assert.ok(errors.some((e) => e.includes("description")), JSON.stringify(description).slice(0, 20));
+  }
+});

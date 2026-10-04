@@ -39,11 +39,13 @@ export const SEEN_VERDICTS = ["added", "rejected", "duplicate"];
 
 const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
+// Short summary shown under the program name on listing pages.
+const MAX_DESCRIPTION = 280;
 // Bare hostname of the company website, used to fetch a logo when the company has no techjobs.vn slug.
 const DOMAIN_RE = /^(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z]{2,}$/;
 
 const PROGRAM_FIELDS = new Set([
-  "slug", "name", "type", "company", "official_url", "tracks", "fields", "duration",
+  "slug", "name", "type", "company", "official_url", "description", "tracks", "fields", "duration",
   "eligibility", "recurring", "active", "is_visible", "source", "added_at",
   "updated_at", "notes",
 ]);
@@ -113,6 +115,10 @@ function validateProgram(p) {
 
   if (p.tracks !== undefined && !(Array.isArray(p.tracks) && p.tracks.every((t) => typeof t === "string"))) {
     errors.push(`${label}: tracks must be an array of strings`);
+  }
+
+  if (p.description !== undefined && !(typeof p.description === "string" && p.description.trim() && p.description.length <= MAX_DESCRIPTION)) {
+    errors.push(`${label}: description must be a non-empty string of at most ${MAX_DESCRIPTION} characters`);
   }
 
   if (!Array.isArray(p.fields) || p.fields.length === 0) {
