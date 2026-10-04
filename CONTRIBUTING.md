@@ -77,6 +77,7 @@ Không cần cài package nào, chỉ cần Node.js ≥ 22.
 | `type` | ✓ | `internship` · `fresher` · `graduate` · `management_trainee` · `ambassador` |
 | `company.name` | ✓ | |
 | `company.slug` | ✓ | Slug công ty trên techjobs.vn (`techjobs.vn/companies/<slug>`), hoặc `null` |
+| `company.domain` | | Domain website công ty, không có `https://` (ví dụ `ey.com`); dùng để lấy logo khi công ty chưa có trên techjobs.vn |
 | `official_url` | ✓ | https, domain công ty/ATS; không nhận mạng xã hội |
 | `tracks` | | Tên các nhánh/vị trí trong chương trình |
 | `fields` | ✓ | Lĩnh vực, một hoặc nhiều: `tech` · `finance` · `audit-consulting` · `business` · `operations` · `engineering` · `hr` · `general` (xem [phạm vi](#phạm-vi)) |

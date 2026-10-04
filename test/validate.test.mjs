@@ -178,3 +178,12 @@ test("accepts multi-field programs", () => {
   const errors = validateDataset({ programs: [program({ fields: ["business", "finance", "tech"] })], cycles: [cycle()] });
   assert.deepEqual(errors, []);
 });
+
+test("accepts an optional bare company domain for logos", () => {
+  const ok = validateDataset({ programs: [program({ company: { name: "EY Việt Nam", slug: null, domain: "ey.com" } })], cycles: [cycle()] });
+  assert.deepEqual(ok, []);
+  for (const domain of ["https://ey.com", "ey", "EY.com/careers", 42]) {
+    const errors = validateDataset({ programs: [program({ company: { name: "EY", slug: null, domain } })], cycles: [cycle()] });
+    assert.ok(errors.some((e) => e.includes("company.domain")), String(domain));
+  }
+});

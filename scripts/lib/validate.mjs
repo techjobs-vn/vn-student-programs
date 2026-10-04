@@ -39,6 +39,8 @@ export const SEEN_VERDICTS = ["added", "rejected", "duplicate"];
 
 const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
+// Bare hostname of the company website, used to fetch a logo when the company has no techjobs.vn slug.
+const DOMAIN_RE = /^(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z]{2,}$/;
 
 const PROGRAM_FIELDS = new Set([
   "slug", "name", "type", "company", "official_url", "tracks", "fields", "duration",
@@ -98,6 +100,9 @@ function validateProgram(p) {
     errors.push(`${label}: company.name is required`);
   } else if (p.company.slug !== null && (typeof p.company.slug !== "string" || !SLUG_RE.test(p.company.slug))) {
     errors.push(`${label}: company.slug must be kebab-case or null`);
+  }
+  if (p.company && p.company.domain !== undefined && !(typeof p.company.domain === "string" && DOMAIN_RE.test(p.company.domain))) {
+    errors.push(`${label}: company.domain must be a bare lowercase hostname like "ey.com"`);
   }
 
   if (!isHttpsUrl(p.official_url) || !URL_SAFE_RE.test(p.official_url)) {
