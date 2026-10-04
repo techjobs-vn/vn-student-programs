@@ -2,6 +2,17 @@ import { STATUSES } from "./status.mjs";
 
 export const PROGRAM_TYPES = ["internship", "fresher", "graduate", "management_trainee", "ambassador"];
 export const RECURRING = ["yearly", "multiple", "unknown"];
+// Career fields a program recruits for; a rotation MT can list several.
+export const PROGRAM_FIELD_IDS = [
+  "tech",
+  "finance",
+  "audit-consulting",
+  "business",
+  "operations",
+  "engineering",
+  "hr",
+  "general",
+];
 export const SOURCES_KIND = /^(manual|routine|github:[A-Za-z0-9-]+)$/;
 
 // Social posts and university reposts are evidence (cycle.sources), never the apply link.
@@ -30,7 +41,7 @@ const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 
 const PROGRAM_FIELDS = new Set([
-  "slug", "name", "type", "company", "official_url", "tracks", "duration",
+  "slug", "name", "type", "company", "official_url", "tracks", "fields", "duration",
   "eligibility", "recurring", "active", "is_visible", "source", "added_at",
   "updated_at", "notes",
 ]);
@@ -97,6 +108,17 @@ function validateProgram(p) {
 
   if (p.tracks !== undefined && !(Array.isArray(p.tracks) && p.tracks.every((t) => typeof t === "string"))) {
     errors.push(`${label}: tracks must be an array of strings`);
+  }
+
+  if (!Array.isArray(p.fields) || p.fields.length === 0) {
+    errors.push(`${label}: fields must be a non-empty array of ${PROGRAM_FIELD_IDS.join(", ")}`);
+  } else {
+    const seenFields = new Set();
+    for (const f of p.fields) {
+      if (!PROGRAM_FIELD_IDS.includes(f)) errors.push(`${label}: unknown field "${f}"`);
+      if (seenFields.has(f)) errors.push(`${label}: duplicate field "${f}"`);
+      seenFields.add(f);
+    }
   }
 
   for (const field of ["added_at", "updated_at"]) {

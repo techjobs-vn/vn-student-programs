@@ -18,6 +18,9 @@
       "5G",
       "IoT"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên muốn theo đuổi các lĩnh vực công nghệ lõi của Viettel.",
     "recurring": "yearly",
     "active": true,
@@ -40,6 +43,9 @@
       "Quản lý sản phẩm số",
       "Quản lý dự án công nghệ",
       "Quản lý chuỗi cung ứng"
+    ],
+    "fields": [
+      "tech"
     ],
     "eligibility": "Người đã tốt nghiệp, ưu tiên có kinh nghiệm làm việc.",
     "recurring": "yearly",
@@ -66,6 +72,9 @@
       "System Analysis",
       "Data Analyst"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "15 tháng",
     "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc dưới 1 năm kinh nghiệm; ưu tiên ngành CNTT, Khoa học dữ liệu.",
     "recurring": "yearly",
@@ -90,6 +99,9 @@
       "AI Engineering",
       "Cyber Security"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "8–10 tuần",
     "eligibility": "Sinh viên từ năm 2 (cử nhân hoặc thạc sĩ) ngành CNTT, tiếng Anh tương đương B2.",
     "recurring": "yearly",
@@ -111,6 +123,9 @@
     "official_url": "https://career.fpt-software.com/employer/fpt-software-academy/",
     "tracks": [
       "Fullstack ReactJS/NodeJS"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "4 tháng đào tạo",
     "eligibility": "Sinh viên năm cuối hoặc đã tốt nghiệp ngành CNTT, GPA từ 2.8, tiếng Anh khoảng B2.",
@@ -139,6 +154,9 @@
       "Điện & tự động hoá",
       "Thiết kế vi mạch & phần cứng"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm 3 hoặc năm cuối ngành CNTT, Điện tử viễn thông, GPA từ 7.0/10 (2.8/4), làm việc tại Hà Nội hoặc TP.HCM.",
     "recurring": "yearly",
     "active": true,
@@ -165,6 +183,9 @@
       "Project Management",
       "Data & AI"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "24 tháng",
     "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm; nhánh Technology yêu cầu ngành CNTT/KHMT và tiếng Anh tốt.",
     "recurring": "yearly",
@@ -187,6 +208,9 @@
     "tracks": [
       "Software Engineering",
       "Data Science"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "4 tuần bootcamp + 6 tháng thực tập",
     "eligibility": "Sinh viên năm cuối hoặc tốt nghiệp trong vòng 1 năm ngành CNTT/KHMT/Toán, quốc tịch Việt Nam, ở TP.HCM.",
@@ -211,6 +235,9 @@
       ".NET",
       "Java",
       "Python"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "3 tháng",
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, học full-time 3 tháng, có tiếng Anh.",
@@ -239,6 +266,9 @@
       "Business Analyst",
       "SOC/Security"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "6 tháng",
     "eligibility": "Sinh viên chính quy năm 3–4 ngành CNTT, KHMT, Khoa học dữ liệu/AI hoặc liên quan.",
     "recurring": "unknown",
@@ -262,6 +292,9 @@
       "Software Engineer",
       "Software Tester"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp có nền tảng CNTT tốt, tiếng Anh tốt, làm full-time.",
     "recurring": "multiple",
     "active": true,
@@ -284,6 +317,9 @@
       "Cloud",
       "AI",
       "Community"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "12 tháng",
     "eligibility": "Sinh viên từ 18 tuổi đang học ĐH/CĐ, còn ít nhất 12 tháng trước khi ra trường, cam kết tổ chức ít nhất 6 sự kiện.",
@@ -309,6 +345,9 @@
       "Gemini",
       "Community"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên Việt Nam từ 18 tuổi đang học CĐ/ĐH tại Việt Nam, mọi ngành, chưa tốt nghiệp trước 31/03/2027.",
     "recurring": "unknown",
     "active": true,
@@ -331,6 +370,9 @@
       "Claude Builder Club",
       "Claude Campus Conversations",
       "Claude Science"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "09/2026 – 06/2027",
     "eligibility": "Sinh viên mọi quốc gia từ 18 tuổi, có quyền làm việc tại nước đang học.",
@@ -356,6 +398,9 @@
       "Community",
       "AI skills"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "1 năm",
     "eligibility": "Sinh viên Việt Nam 18–25 tuổi tại các trường ĐH/CĐ, đã xác thực MoMo Student Pass và có hoạt động trên mạng xã hội.",
     "recurring": "yearly",
@@ -380,6 +425,9 @@
       "Open source",
       "Events"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên đại học từ 18 tuổi, còn ít nhất 1 năm trước khi tốt nghiệp, có GitHub Student Developer Pack.",
     "recurring": "yearly",
     "active": true,
@@ -402,6 +450,9 @@
       "AI",
       "Microsoft technologies",
       "Community"
+    ],
+    "fields": [
+      "tech"
     ],
     "eligibility": "Sinh viên ĐH/CĐ mọi ngành trên toàn cầu có thể tự đăng ký tham gia, có một số giới hạn.",
     "recurring": "unknown",
@@ -428,6 +479,9 @@
       "Quantum computing",
       "Cybersecurity"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ĐH/ThS ngành Toán, STEM, vững toán, machine learning và lập trình.",
     "recurring": "unknown",
     "active": true,
@@ -450,6 +504,9 @@
       "Back-end (Java)",
       "Full-stack (JavaScript)",
       "Quality Engineering"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "12 tuần full-time, có lương",
     "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc người chuyển ngành có nền tảng CNTT.",
@@ -475,6 +532,9 @@
       "Design Verification",
       "Physical Design",
       "DFT/STA"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "288 giờ",
     "eligibility": "Sinh viên năm cuối ngành thiết kế vi mạch, điện tử viễn thông, kỹ thuật máy tính hoặc KHMT, GPA từ 7.5/10.",
@@ -504,6 +564,9 @@
       "AI Engineer",
       "Automation Tester"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Tốt nghiệp CNTT, Toán-Tin, KHMT hoặc ĐTVT, GPA từ 8.0/10 và TOEIC từ 650.",
     "recurring": "multiple",
     "active": true,
@@ -527,6 +590,9 @@
       "Web automation",
       "Bounties",
       "Campus Lead"
+    ],
+    "fields": [
+      "tech"
     ],
     "eligibility": "Sinh viên đang theo học ở bất kỳ trường, quốc gia, ngành nào; email .edu.vn được tặng credit khi đăng ký.",
     "recurring": "unknown",
@@ -552,6 +618,9 @@
       "Community events",
       "Bounties"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Bất kỳ ai dùng TinyFish ở mọi quốc gia, kể cả sinh viên và người đã tốt nghiệp.",
     "recurring": "unknown",
     "active": true,
@@ -574,6 +643,9 @@
       "AI",
       "Data Science",
       "Machine Learning"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "4 tháng đào tạo + 6 tháng thực tập",
     "eligibility": "Sinh viên và người mới tốt nghiệp có nền tảng công nghệ từ các trường đại học; đào tạo miễn phí.",
@@ -599,6 +671,9 @@
       "AI and Data Infrastructure",
       "AI Applications"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "12 tuần full-time",
     "eligibility": "Sinh viên năm cuối hoặc đã tốt nghiệp ĐH, CĐ, trung cấp ngành CNTT, KHMT, AI, ATTT, phân tích dữ liệu hoặc ngành gần; ngành khác cần nền tảng toán, lập trình hoặc dữ liệu.",
     "recurring": "multiple",
@@ -623,6 +698,9 @@
       "Mobile, Frontend",
       "Backend, QC"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "12 tuần",
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp dưới 1 năm ngành CNTT, GPA từ 7.5/10 hoặc 3.0/4.",
     "recurring": "yearly",
@@ -644,6 +722,9 @@
     "official_url": "https://zalo.careers/pmt",
     "tracks": [
       "Product Management"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "4 tháng",
     "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, ưu tiên nền tảng CNTT.",
@@ -669,6 +750,9 @@
       "AI Engineer",
       "Data Engineer",
       "Business Analyst"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "3–6 tháng",
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, GPA từ 3.0/4, tiếng Anh tương đương TOEIC 650 hoặc JLPT N3.",
@@ -696,6 +780,9 @@
       "An toàn thông tin",
       "DevOps"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm cuối hoặc cận cuối ngành CNTT, làm được tối thiểu 5 buổi/tuần.",
     "recurring": "yearly",
     "active": true,
@@ -719,6 +806,9 @@
       "Dữ liệu",
       "AI"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm cuối chính quy ngành CNTT hoặc tốt nghiệp không quá 1 năm, GPA từ khá.",
     "recurring": "yearly",
     "active": true,
@@ -741,6 +831,9 @@
       "System Programming, Backend, SRE",
       "Pentest, Red Team, Incident Response",
       "Threat Hunting, Network Security"
+    ],
+    "fields": [
+      "tech"
     ],
     "eligibility": "Sinh viên năm 4 trở lên hoặc mới tốt nghiệp ngành ATTT, CNTT, ĐTVT, KHMT.",
     "recurring": "yearly",
@@ -767,6 +860,9 @@
       "Software Testing",
       "Fullstack"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "6 tháng full-time",
     "eligibility": "Sinh viên năm 3, năm cuối hoặc mới tốt nghiệp, tiếng Anh tốt và cam kết thực tập 6 tháng.",
     "recurring": "multiple",
@@ -791,6 +887,9 @@
       "Game Developer",
       "Game Designer"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "3 tháng đào tạo",
     "eligibility": "Sinh viên tốt nghiệp trong năm hoặc dưới 2 năm kinh nghiệm, GPA từ 3.0/4, làm full-time tại TP.HCM.",
     "recurring": "yearly",
@@ -813,6 +912,9 @@
     "tracks": [
       "Software C/C++/Java/Android",
       "Phần cứng điện tử, viễn thông"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "4 tuần full-time",
     "eligibility": "Sinh viên CNTT, ĐTVT sắp tốt nghiệp, GPA từ 2.5/4, chưa từng thực tập tại SRV.",
@@ -839,6 +941,9 @@
       "Software Development",
       "Cybersecurity"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "6 tháng",
     "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc dưới 1 năm kinh nghiệm ngành CNTT, làm full-time tại TP.HCM.",
     "recurring": "yearly",
@@ -864,6 +969,9 @@
       "RL, Imitation Learning",
       "Robotic software, Control"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm 3–4 hoặc mới tốt nghiệp ngành Robotics, Cơ điện tử, KHMT, AI hoặc liên quan, lập trình tốt.",
     "recurring": "unknown",
     "active": true,
@@ -888,6 +996,9 @@
       "Embedded software",
       "Simulation"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành KHMT, AI, Robotics, Cơ điện tử, Điện tử, Kỹ thuật phần mềm.",
     "recurring": "unknown",
     "active": true,
@@ -908,6 +1019,9 @@
     "tracks": [
       "Research Residency (ML, CV, NLP)",
       "Engineering Residency (Efficient AI, Embedded, Agentic AI)"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "12–24 tháng",
     "eligibility": "Sinh viên năm cuối hoặc tốt nghiệp trong vòng 2 năm ngành KHMT, GPA từ 3.2/4, tiếng Anh tốt.",
@@ -934,6 +1048,9 @@
       "Cyber Security",
       "Quantum"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "6 tháng",
     "eligibility": "Sinh viên giỏi từ năm 3 đến năm cuối ngành CNTT, KHMT, AI, ATTT, Toán tin tại Hà Nội, GPA từ 3.2/4.",
     "recurring": "yearly",
@@ -955,6 +1072,9 @@
     "official_url": "https://www.edu.axonactive.com/software-fresher-program",
     "tracks": [
       "Java"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "4 tháng",
     "eligibility": "Sinh viên năm 4 hoặc mới tốt nghiệp ngành CNTT, giao tiếp tiếng Anh tốt, làm full-time.",
@@ -981,6 +1101,9 @@
       "AI",
       "Digital Platform"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "3 năm",
     "eligibility": "Đã tốt nghiệp ĐH hoặc ThS ngành CNTT, KHMT, HTTT, Data, GPA từ 7.0/10, dưới 1 năm kinh nghiệm.",
     "recurring": "unknown",
@@ -1001,6 +1124,9 @@
     "official_url": "https://nab.wd3.myworkdayjobs.com/en-US/NAB_Careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/NAB-WeCamp-Training-Program---Batch-13--Open-for-female-talents-_JR120469",
     "tracks": [
       "Software Engineering"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "10 tuần",
     "eligibility": "Nữ sinh viên năm 3, năm cuối hoặc người muốn chuyển sang ngành IT.",
@@ -1029,6 +1155,9 @@
       "Java, .NET, Python",
       "DevOps"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "Tối thiểu 3 tháng",
     "eligibility": "Sinh viên từ năm 3 ngành CNTT, thực tập full-time tối thiểu 3 tháng, GPA từ 7.0.",
     "recurring": "multiple",
@@ -1053,6 +1182,9 @@
       "Tester",
       "Business Analyst"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "6 tháng",
     "eligibility": "Sinh viên năm 3 trở lên hoặc mới tốt nghiệp không quá 1 năm ngành CNTT.",
     "recurring": "unknown",
@@ -1074,6 +1206,9 @@
     "tracks": [
       "Lập trình phần mềm",
       "Kiểm thử phần mềm"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "2 tháng",
     "eligibility": "Sinh viên sắp tốt nghiệp hoặc tốt nghiệp dưới 1 năm ngành CNTT, học full-time tại TP.HCM.",
@@ -1099,6 +1234,9 @@
       "Software Engineer",
       "Product Management"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "3 tháng ươm tạo + 2 tháng thử việc",
     "eligibility": "Mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm ngành KHMT, Bioinformatics, Data, Toán, Lý, GPA từ 3.0/4.",
     "recurring": "unknown",
@@ -1121,6 +1259,9 @@
     "tracks": [
       "Semiconductor Engineering"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm 2–4 ngành Điện tử, Viễn thông, Kỹ thuật máy tính, CNTT, GPA từ 7.0.",
     "recurring": "yearly",
     "active": true,
@@ -1142,6 +1283,9 @@
     "tracks": [
       "Employer Branding",
       "Community"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "12 tháng",
     "eligibility": "Sinh viên năm 2–4 ngành Kỹ thuật, KHMT, CNTT hoặc liên quan.",
@@ -1166,6 +1310,9 @@
       "Vulnerability Research",
       "OT/ICS Security"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "Khoảng 10 tuần mỗi đợt SWAT",
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành ATTT, CNTT, KHMT, tiếng Anh tốt.",
     "recurring": "multiple",
@@ -1187,6 +1334,9 @@
     "official_url": "https://apply.workable.com/j/4E0138572C",
     "tracks": [
       "QA/QC"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "8 tuần full-time",
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, KHMT, làm full-time 8 tuần tại TP.HCM.",
@@ -1211,6 +1361,9 @@
       "AI Engineer",
       "Information Security GRC"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp (Fresher, Intern) cho các trung tâm thuộc Khối CNTT của MB.",
     "recurring": "unknown",
     "active": true,
@@ -1232,6 +1385,9 @@
       "AI Engineer",
       "AIOps, DevOps",
       "Data Engineer"
+    ],
+    "fields": [
+      "tech"
     ],
     "eligibility": "Sinh viên mới tốt nghiệp cho các vị trí công nghệ của TPBank.",
     "recurring": "unknown",
@@ -1256,6 +1412,9 @@
       "Web & Mobile Engineering",
       "Risk"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên và người mới tốt nghiệp; địa điểm làm việc khác nhau theo từng vị trí.",
     "recurring": "multiple",
     "active": true,
@@ -1277,6 +1436,9 @@
     "tracks": [
       "AI Engineering"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên ngành CNTT, KHMT, AI tại TP.HCM và Hà Nội.",
     "recurring": "unknown",
     "active": true,
@@ -1296,6 +1458,9 @@
     "official_url": "https://careers.shopee.vn/job-detail/135654",
     "tracks": [
       "Product Management"
+    ],
+    "fields": [
+      "tech"
     ],
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp muốn làm quản lý sản phẩm.",
     "recurring": "unknown",
@@ -1321,6 +1486,9 @@
       "User Engagement",
       "Product Growth"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "8 tháng",
     "eligibility": "Người mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, GPA từ 3.2/4, tiếng Anh B2.",
     "recurring": "yearly",
@@ -1344,6 +1512,9 @@
       "AI Engineering",
       "Product Management",
       "Product Support Engineering"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "6 tháng",
     "eligibility": "Sinh viên Việt Nam (học trong nước hoặc du học), thực tập full-time 6 tháng tại TP.HCM.",
@@ -1370,6 +1541,9 @@
       "Security Software",
       "Data Science/ML"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên hoặc mới tốt nghiệp ngành Kỹ thuật phần mềm, KHMT, vững cấu trúc dữ liệu, tiếng Anh tốt, làm hybrid tại TP.HCM.",
     "recurring": "multiple",
     "active": true,
@@ -1390,6 +1564,9 @@
     "official_url": "https://isb-vietnam.com.vn/jobs/iftp",
     "tracks": [
       "Lập trình phần mềm"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "8 tuần",
     "eligibility": "Sinh viên CNTT năm cuối có kiến thức lập trình, nộp CV tiếng Anh kèm bảng điểm.",
@@ -1412,6 +1589,9 @@
     "official_url": "https://canonical.com/careers/early-careers",
     "tracks": [
       "Software Engineering (Open Source, Linux)"
+    ],
+    "fields": [
+      "tech"
     ],
     "eligibility": "Người mới tốt nghiệp đại học hoặc thạc sĩ, làm remote từ bất kỳ đâu, kể cả Việt Nam.",
     "recurring": "multiple",
@@ -1439,6 +1619,9 @@
       "AI Research",
       "QC"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm 3–4 ngành CNTT, Kỹ thuật máy tính, An ninh mạng, GPA từ 2.8/4, tiếng Anh tối thiểu B2.",
     "recurring": "unknown",
     "active": true,
@@ -1461,6 +1644,9 @@
       "Frontend (ReactJS)",
       "Backend (Java, Golang)",
       "Mobile (Flutter)"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "6 tháng",
     "eligibility": "Sinh viên năm 3–4 hoặc mới tốt nghiệp ngành CNTT, GPA từ 3.6, làm full-time tại Hà Nội.",
@@ -1487,6 +1673,9 @@
       "Automation QC",
       ".NET"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm cuối ngành CNTT, tiếng Anh tốt (khoảng IELTS 6.0), thực tập full-time tại Hà Nội.",
     "recurring": "multiple",
     "active": true,
@@ -1507,6 +1696,9 @@
     "tracks": [
       "Developer",
       "Tester"
+    ],
+    "fields": [
+      "tech"
     ],
     "eligibility": "Fresher ngành công nghệ mới ra trường muốn được đào tạo bài bản trong môi trường quốc tế.",
     "recurring": "unknown",
@@ -1529,6 +1721,9 @@
     "tracks": [
       "Software Engineering"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "3 tháng đào tạo",
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp dưới 1 năm ngành CNTT, GPA từ 3.0, làm full-time tại TP.HCM.",
     "recurring": "yearly",
@@ -1550,6 +1745,9 @@
     "tracks": [
       "Game Development",
       "Game Data Analyst"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "3 tháng đào tạo",
     "eligibility": "Sinh viên CNTT hoặc ngành liên quan sắp hoặc mới tốt nghiệp, đam mê game, làm việc tại TP.HCM.",
@@ -1575,6 +1773,9 @@
       "Server, Storage, Virtualization",
       "Cloud, Infra"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm 3, năm 4 hoặc mới tốt nghiệp ngành CNTT, ĐTVT, GPA từ 3.0, tiếng Anh tương đương TOEIC 600.",
     "recurring": "multiple",
     "active": true,
@@ -1598,6 +1799,9 @@
       "System",
       "Security"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "Đào tạo 3 tháng",
     "eligibility": "Sinh viên năm cuối ngành ĐTVT, Mạng máy tính, Hệ thống, KHMT tại Hà Nội, quan tâm Network, Security.",
     "recurring": "yearly",
@@ -1619,6 +1823,9 @@
     "tracks": [
       "Software R&D",
       "Thuật toán, lập trình C/C++/Java"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "Thực tập 3 tháng tại SRV Hà Nội",
     "eligibility": "Sinh viên đại học sắp tốt nghiệp tại các trường đối tác (HUST, VNU, PTIT, ACTVN, HaUI, UTC, TLU, ICTU).",
@@ -1645,6 +1852,9 @@
       "AI",
       "An toàn thông tin"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên chính quy học lực giỏi hoặc có giải thưởng ngành CNTT, KHMT, ĐTVT, Dữ liệu, AI, ATTT tại các trường đối tác, hoặc đã tốt nghiệp trong vòng 6 tháng.",
     "recurring": "unknown",
     "active": true,
@@ -1669,6 +1879,9 @@
       "IT Security Operations",
       "Data Operations"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên ngành CNTT, Hệ thống thông tin, An ninh mạng hoặc Kinh doanh, Dữ liệu quan tâm sự nghiệp công nghệ.",
     "recurring": "unknown",
     "active": true,
@@ -1689,6 +1902,9 @@
     "official_url": "https://zodinet.com/job/%f0%9f%9a%80-chuong-trinh-thuc-tap-sinh-tai-nang-zodinet-2026-%f0%9f%9a%80/",
     "tracks": [
       "Software Engineering (NestJS, NextJS, PostgreSQL, AI API Integration)"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "2 tháng",
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, Kỹ thuật phần mềm, Khoa học máy tính hoặc ngành liên quan.",
@@ -1713,6 +1929,9 @@
       "Product Frontend",
       "Product Mobile",
       "Product Design"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "10 tuần (thực tập theo team)",
     "eligibility": "Sinh viên đại học/thạc sĩ ngành CNTT, Khoa học máy tính, Kỹ thuật phần mềm có thể thực tập toàn thời gian suốt chương trình.",
@@ -1741,6 +1960,9 @@
       "Game User Acquisition",
       "HR"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm 3, năm 4 học lực khá giỏi, yêu thích game và có thể đi làm toàn thời gian từ tháng 6/2026.",
     "recurring": "unknown",
     "active": true,
@@ -1760,6 +1982,9 @@
     "official_url": "https://career.banvien.com.vn/internship-program",
     "tracks": [
       "Software/Embedded (tech projects)"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "16/6 - 15/8",
     "eligibility": "Sinh viên các ngành kỹ thuật, CNTT muốn thực tập hè tại dự án công nghệ thực tế của Bản Viên.",
@@ -1787,6 +2012,9 @@
       "Data Analyst",
       "Business Development"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "3 tháng",
     "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc dưới 1 năm kinh nghiệm, GPA từ 7.5/10 và tiếng Anh B1 trở lên.",
     "recurring": "multiple",
@@ -1807,6 +2035,9 @@
     "official_url": "https://globee.hk/globeex-talent-program/",
     "tracks": [
       "Software Development (AI-first, Salesforce/E-commerce)"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "2 tháng",
     "eligibility": "Sinh viên sắp tốt nghiệp muốn theo nghề phát triển phần mềm và sản phẩm số tại TP.HCM.",
@@ -1832,6 +2063,9 @@
       "Quality Assurance",
       "UI/UX Design"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "Nhiều năm, xen kẽ việc học (ít nhất 3 vòng luân chuyển)",
     "eligibility": "Sinh viên CNTT, Khoa học máy tính, Kỹ thuật phần mềm/máy tính đang học tại Việt Nam, còn ít nhất 12 tháng học và tiếng Anh tốt.",
     "recurring": "yearly",
@@ -1854,6 +2088,9 @@
       "Software Engineer",
       "Blockchain Research"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "8 tuần (tháng 6 - tháng 8/2026)",
     "eligibility": "Sinh viên năm 3, năm 4 ngành CNTT, tiếng Anh tốt, có thể thực tập toàn thời gian tháng 6-8/2026.",
     "recurring": "yearly",
@@ -1874,6 +2111,9 @@
     "official_url": "https://career.homecredit.vn/vn/article/Home-Racer-Program-2026/",
     "tracks": [
       "Data Track"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "6 tháng",
     "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, đi làm full-time được từ tháng 9/2026.",
@@ -1899,6 +2139,9 @@
       "Software Quality Control",
       "Product Management"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "6 tháng",
     "eligibility": "Sinh viên năm 3, năm 4 hoặc mới tốt nghiệp dưới 2 năm kinh nghiệm, GPA từ 3.0/4 và tiếng Anh khá.",
     "recurring": "yearly",
@@ -1923,6 +2166,9 @@
       "Product Owner Trainee",
       "Game Designer Trainee"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "Trainee 2 tháng, sau đó Associate 4 tháng, rồi lên nhân viên chính thức",
     "eligibility": "Sinh viên năm 3, năm 4 có GPA từ 2.8, làm full-time được sau giai đoạn trainee.",
     "recurring": "yearly",
@@ -1944,6 +2190,9 @@
     "tracks": [
       "Khối Công nghệ thông tin (Hội sở)",
       "Khối Ngân hàng số (Hội sở)"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "3 tháng",
     "eligibility": "Sinh viên năm cuối khối Kinh tế, Luật hoặc CNTT, tốt nghiệp trong năm 2026.",
@@ -1970,6 +2219,9 @@
       "STP Program",
       "Digital Channel Program"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "24 tháng, 4 kỳ luân chuyển",
     "eligibility": "Mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, học lực khá/giỏi và nghe hiểu tiếng Anh tốt.",
     "recurring": "unknown",
@@ -1992,6 +2244,9 @@
       "Technology / IT",
       "Marketing & Data Analytics"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "MT 18 tháng luân chuyển; FT 4–4,5 năm",
     "eligibility": "Mới tốt nghiệp dưới 2 năm kinh nghiệm, GPA từ 7.0/10 và tiếng Anh lưu loát.",
     "recurring": "yearly",
@@ -2013,6 +2268,9 @@
     "tracks": [
       "Product Manager",
       "Digital Transformation Lead"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "24 tháng",
     "eligibility": "Tốt nghiệp đại học trong vòng 2 năm, GPA từ 3.2/4, dưới 2 năm kinh nghiệm và IELTS 7.0 hoặc tương đương.",
@@ -2037,6 +2295,9 @@
       "DevOps",
       "AI operations"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "4-6 tháng",
     "eligibility": "Sinh viên năm 3-4 hoặc mới tốt nghiệp ngành CNTT, KHMT, KHDL, có thể học hybrid tại Đà Nẵng.",
     "recurring": "yearly",
@@ -2057,6 +2318,9 @@
     "official_url": "https://www.edu.axonactive.com/part-time-internship-program",
     "tracks": [
       "Software development"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "Part-time 1-2 ngày/tuần (đợt 2-6/2025)",
     "eligibility": "Sinh viên CNTT năm 3 hoặc năm 4, giao tiếp tiếng Anh tốt.",
@@ -2081,6 +2345,9 @@
       "Development",
       "Testing"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "10 tuần",
     "eligibility": "Sinh viên năm 3-4 hoặc mới tốt nghiệp CNTT/KHMT/KTPM, làm việc bằng tiếng Anh, toàn thời gian tại TP.HCM.",
     "recurring": "multiple",
@@ -2104,6 +2371,9 @@
       "Business Analyst / Data / UI-UX / Tester",
       "System & Platform (System, IT Security, Data Engineer)"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "6 tháng đào tạo và thực chiến, sau đó Growth Track 2 năm",
     "eligibility": "Sinh viên năm cuối hoặc người trẻ dưới 2 năm kinh nghiệm ngành CNTT, khoa học máy tính, khoa học dữ liệu, đã có nền tảng lập trình cơ bản.",
     "recurring": "multiple",
@@ -2126,6 +2396,9 @@
       "Fullstack Java Spring Boot",
       "Next.js / ReactJS",
       "DevOps"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "khoảng 2 tháng full-time",
     "eligibility": "Sinh viên năm cuối hoặc fresher IT có nền tảng Java Spring Boot hoặc React/Next.js, có JLPT N4+ hoặc IELTS 6.5/TOEIC 700+, và cam kết gắn bó 18 tháng.",
@@ -2151,6 +2424,9 @@
       "Entrepreneurship & Startup",
       "Leadership & Problem Solving"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "3 tháng đào tạo",
     "eligibility": "Sinh viên năm 3, năm 4 hoặc mới tốt nghiệp các ngành CNTT, khoa học máy tính, AI, khoa học dữ liệu, kinh tế và ngành liên quan, quan tâm đến AI, kinh doanh hoặc khởi nghiệp.",
     "recurring": "unknown",
@@ -2175,6 +2451,9 @@
       "AI",
       "Data"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành công nghệ hoặc kinh tế, chủ động tự học, quan tâm đến fintech/ngân hàng số.",
     "recurring": "unknown",
     "active": true,
@@ -2195,6 +2474,10 @@
     "tracks": [
       "Back Office: Công nghệ",
       "Back Office: Dữ liệu & Phân tích"
+    ],
+    "fields": [
+      "tech",
+      "business"
     ],
     "duration": "24 tháng; năm đầu luân chuyển 3 vị trí, mỗi vị trí 4 tháng",
     "eligibility": "Sinh viên năm 3, năm 4 hoặc mới tốt nghiệp dưới 2 năm kinh nghiệm, tiếng Anh tương đương IELTS 6.5, làm việc tại TP.HCM.",
@@ -2220,6 +2503,9 @@
       "Embedded Linux",
       "Hệ điều hành thời gian thực RTOS (AK-mOS)"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "3 tháng",
     "eligibility": "Sinh viên khối CNTT, Điện – Điện tử, Tự động hóa và người đi làm quan tâm đến lập trình nhúng.",
     "recurring": "unknown",
@@ -2242,6 +2528,10 @@
     "tracks": [
       "Công nghệ thông tin – Khoa học máy tính (Backend, Frontend, Vận hành, Quản lý dự án)",
       "Điện tử – Viễn thông / Điện / Cơ điện (Khảo sát, thiết kế hạ tầng, kỹ sư quang, điện tử)"
+    ],
+    "fields": [
+      "tech",
+      "business"
     ],
     "eligibility": "Sinh viên năm 3, năm 4 các ngành CNTT, Điện tử – Viễn thông và một số khối ngành khác.",
     "recurring": "yearly",
@@ -2266,6 +2556,9 @@
       "Layout",
       "Thiết kế block IC / IP"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "6 tháng mỗi cấp (Basic, Mid-Level); Advanced 12 tháng",
     "eligibility": "Sinh viên năm 3 ngành Điện tử, Kỹ thuật điện, Kỹ thuật máy tính, Tự động hóa hoặc ngành liên quan, GPA từ 3.0/4.0, đọc viết tiếng Anh tốt.",
     "recurring": "unknown",
@@ -2287,6 +2580,13 @@
     "official_url": "https://careers.vinamilk.com.vn/graduatetalent-program",
     "tracks": [
       "Tech & Data"
+    ],
+    "fields": [
+      "tech",
+      "finance",
+      "audit-consulting",
+      "business",
+      "engineering"
     ],
     "duration": "12 tháng",
     "eligibility": "Sinh viên năm cuối hoặc người mới tốt nghiệp có dưới 2 năm kinh nghiệm toàn thời gian, GPA từ 7/10 trở lên, có thể đi làm toàn thời gian từ tháng 10/2026 tại trụ sở chính ở TP.HCM.",
@@ -2311,6 +2611,9 @@
       "Engineering & Data Trainee",
       "Business & Product Trainee"
     ],
+    "fields": [
+      "tech"
+    ],
     "eligibility": "Sinh viên tốt nghiệp năm 2026 hoặc người có dưới 1 năm kinh nghiệm, GPA từ 3.0/4 hoặc 7/10, tiếng Anh tốt.",
     "recurring": "unknown",
     "active": true,
@@ -2331,6 +2634,9 @@
     "official_url": "https://17fipo.apero.vn/",
     "tracks": [
       "Product Owner"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "4 tháng (2 tháng thực chiến tập trung + 2 tháng dự án thực tế)",
     "eligibility": "Sinh viên năm cuối hoặc người đã tốt nghiệp đại học dưới 1 năm, không cần kinh nghiệm Product, làm toàn thời gian tại Hà Nội.",
@@ -2356,6 +2662,9 @@
       "Tester",
       "Data Analyst"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "Tối thiểu 3–4 tháng",
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, Khoa học máy tính, Hệ thống thông tin quản lý, Toán tin, Thống kê hoặc ngành liên quan, có thể thực tập từ 8 buổi/tuần tại Hà Nội.",
     "recurring": "yearly",
@@ -2377,6 +2686,14 @@
     "official_url": "https://www.fwd.com.vn/en/about-us/careers/fwd-summer-internship/",
     "tracks": [
       "Công nghệ thông tin (IT Governance & Security, IT Business Analysis, IT Quality Control)"
+    ],
+    "fields": [
+      "tech",
+      "finance",
+      "audit-consulting",
+      "business",
+      "operations",
+      "hr"
     ],
     "duration": "Khoảng 3 tháng toàn thời gian (tháng 6 – tháng 8)",
     "eligibility": "Sinh viên năm 3–4 hoặc mới tốt nghiệp (ưu tiên ngành CNTT, Khoa học máy tính, AI), GPA từ 7.0/10 và có thể làm toàn thời gian từ tháng 6 đến tháng 8 tại TP.HCM.",
@@ -2401,6 +2718,9 @@
       "Giao dịch thuật toán (quant)",
       "Phát triển chiến lược định lượng"
     ],
+    "fields": [
+      "tech"
+    ],
     "duration": "5 tháng, tối thiểu 20 giờ/tuần, hybrid tại TP.HCM",
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành Khoa học máy tính, CNTT, Công nghệ tài chính hoặc ngành định lượng, có nền tảng về giao dịch.",
     "recurring": "unknown",
@@ -2422,6 +2742,9 @@
     "official_url": "https://worldquantbrain.com/consultant",
     "tracks": [
       "Quantitative Research (alpha)"
+    ],
+    "fields": [
+      "tech"
     ],
     "duration": "Không cố định, làm từ xa",
     "eligibility": "Người dùng nền tảng WorldQuant BRAIN đạt 10.000 điểm (mức Gold) được mời tham gia; chương trình mở cho người ở Việt Nam.",

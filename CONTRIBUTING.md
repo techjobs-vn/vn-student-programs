@@ -4,34 +4,40 @@ Cảm ơn bạn đã muốn bổ sung! Cách nhanh nhất là **mở issue** —
 
 ## Gửi chương trình mới
 
-1. Mở [issue "Gửi chương trình"](https://github.com/techjobs-vn/vn-tech-programs/issues/new?template=new_program.yml) và điền form.
+1. Mở [issue "Gửi chương trình"](https://github.com/techjobs-vn/vn-student-programs/issues/new?template=new_program.yml) và điền form.
 2. Maintainer kiểm tra rồi thêm vào dữ liệu. README tự cập nhật sau khi merge.
 
 Chương trình được nhận khi:
 
-- Thuộc **phạm vi** bên dưới: là chương trình công nghệ, hoặc có **nhánh công nghệ rõ ràng** (ví dụ ngân hàng có track IT/Data).
-- Do công ty/tổ chức tổ chức cho sinh viên hoặc người mới tốt nghiệp tại Việt Nam: thực tập, fresher, graduate, quản trị viên tập sự, đại sứ sinh viên của công ty công nghệ.
+- Là **chương trình có tên** (không phải tin tuyển một vị trí), thuộc [phạm vi](#phạm-vi) bên dưới.
+- Do công ty/tổ chức tổ chức cho sinh viên hoặc người mới tốt nghiệp tại Việt Nam: thực tập, fresher, graduate, quản trị viên tập sự, học bổng kèm thực tập, đại sứ sinh viên.
 - Có **trang chính thức** trên domain của công ty hoặc ATS (Workday, SuccessFactors, Greenhouse…). Bài Facebook, LinkedIn hoặc bài đăng lại của trường được dùng làm **nguồn cho ngày tháng**, không dùng làm link chính.
 - Chưa có trong danh sách.
 
-Không nhận: tin tuyển một vị trí lẻ (hãy xem trên [techjobs.vn](https://techjobs.vn)), khoá học thu phí, chương trình ngoài phạm vi.
+Không nhận: tin tuyển một vị trí lẻ (hãy xem trên [techjobs.vn](https://techjobs.vn)), khoá học thu phí. Xem [phạm vi](#phạm-vi).
 
 ### Phạm vi
 
-| Nhận | Không nhận |
-| --- | --- |
-| Phần mềm, dữ liệu/AI, bảo mật, cloud và hạ tầng | Sales, marketing, tài chính, kiểm toán, nhân sự, chuỗi cung ứng thuần |
-| Vi mạch, phần cứng điện tử, nhúng, viễn thông | Kỹ thuật cơ khí, ô tô, HVAC, quy trình sản xuất |
-| Product (PM/PO), UX/UI design | Thiết kế đồ hoạ, marketing creative thuần |
-| Data analytics / BI, kể cả ở công ty không phải công nghệ | |
-| Quant (nghiên cứu, giao dịch, phát triển định lượng) | Môi giới, tư vấn đầu tư, phân tích cổ phiếu cơ bản |
-| Fintech, ngân hàng, chứng khoán, bảo hiểm: chỉ khi có track công nghệ, dữ liệu hoặc product | |
+Nhận chương trình **mọi ngành**, miễn là chương trình có tên, do công ty hoặc tổ chức tuyển dụng tại Việt Nam tổ chức cho sinh viên hoặc người mới tốt nghiệp. Mỗi chương trình ghi một hoặc nhiều **lĩnh vực** trong `fields`:
 
-Với chương trình quản trị viên tập sự (MT) nhiều nhánh ở công ty ngoài ngành công nghệ, `tracks` chỉ ghi các nhánh thuộc phạm vi; các nhánh còn lại ghi trong `notes`.
+| `fields` | Lĩnh vực | Ví dụ |
+| --- | --- | --- |
+| `tech` | Công nghệ | Phần mềm, dữ liệu/AI, bảo mật, cloud, vi mạch/phần cứng, product, UX/UI, data analytics, quant |
+| `finance` | Tài chính – Ngân hàng – Bảo hiểm | Tín dụng, quản lý rủi ro, đầu tư, môi giới, định phí |
+| `audit-consulting` | Kiểm toán – Thuế – Tư vấn | Big4, tư vấn quản lý, pháp chế, tuân thủ |
+| `business` | Kinh doanh – Marketing | Sales, marketing, brand, thương mại điện tử, chiến lược |
+| `operations` | Vận hành – Chuỗi cung ứng | Logistics, thu mua, vận hành |
+| `engineering` | Kỹ thuật – Sản xuất | Cơ khí, điện, ô tô, quy trình sản xuất, R&D sản phẩm vật lý |
+| `hr` | Nhân sự | Tuyển dụng, đào tạo, C&B |
+| `general` | Quản trị tổng hợp | MT luân chuyển chung, không gắn ngành cụ thể |
+
+Chương trình MT nhiều nhánh ghi đủ các lĩnh vực của các nhánh; `tracks` liệt kê tên nhánh.
+
+Không nhận: tin tuyển một vị trí lẻ, khoá học thu phí, cuộc thi không kèm tuyển dụng, chương trình trao đổi hoặc du học do trường tổ chức.
 
 ## Báo cập nhật
 
-Chương trình mở đợt mới, đổi hạn nộp, đã đóng hay link hỏng → mở [issue "Báo cập nhật"](https://github.com/techjobs-vn/vn-tech-programs/issues/new?template=update_program.yml), kèm link nguồn.
+Chương trình mở đợt mới, đổi hạn nộp, đã đóng hay link hỏng → mở [issue "Báo cập nhật"](https://github.com/techjobs-vn/vn-student-programs/issues/new?template=update_program.yml), kèm link nguồn.
 
 ## Sửa trực tiếp bằng Pull Request
 
@@ -72,7 +78,8 @@ Không cần cài package nào, chỉ cần Node.js ≥ 22.
 | `company.name` | ✓ | |
 | `company.slug` | ✓ | Slug công ty trên techjobs.vn (`techjobs.vn/companies/<slug>`), hoặc `null` |
 | `official_url` | ✓ | https, domain công ty/ATS; không nhận mạng xã hội |
-| `tracks` | | Các nhánh/lĩnh vực |
+| `tracks` | | Tên các nhánh/vị trí trong chương trình |
+| `fields` | ✓ | Lĩnh vực, một hoặc nhiều: `tech` · `finance` · `audit-consulting` · `business` · `operations` · `engineering` · `hr` · `general` (xem [phạm vi](#phạm-vi)) |
 | `duration`, `eligibility` | | Một câu ngắn, tự viết — không copy nguyên văn |
 | `recurring` | ✓ | `yearly` · `multiple` · `unknown` |
 | `active` | ✓ | `false` khi chương trình ngừng hẳn |

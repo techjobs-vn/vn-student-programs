@@ -1,12 +1,12 @@
 name: Gửi chương trình
-description: Đề xuất một chương trình thực tập / fresher / graduate mảng công nghệ chưa có trong danh sách
+description: Đề xuất một chương trình thực tập / fresher / graduate / MT cho sinh viên chưa có trong danh sách
 title: "[Chương trình mới] "
 labels: ["new-program"]
 body:
   - type: markdown
     attributes:
       value: |
-        Cảm ơn bạn! Nhận chương trình công nghệ và gần công nghệ (vi mạch/phần cứng, product, UX/UI, data analytics), hoặc chương trình ngành khác có **nhánh công nghệ** rõ ràng. Xem [phạm vi](https://github.com/techjobs-vn/vn-tech-programs/blob/main/CONTRIBUTING.md#phạm-vi). Tin tuyển một vị trí lẻ hãy xem trên techjobs.vn.
+        Cảm ơn bạn! Nhận chương trình có tên cho sinh viên ở mọi ngành. Xem [phạm vi](https://github.com/techjobs-vn/vn-student-programs/blob/main/CONTRIBUTING.md#phạm-vi). Tin tuyển một vị trí lẻ hãy xem trên techjobs.vn.
   - type: input
     id: company
     attributes:

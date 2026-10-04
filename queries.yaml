@@ -1,4 +1,4 @@
-# Bộ query cố định cho routine discover hằng ngày (xem ROUTINE.md).
+# Bộ query cố định cho routine discover hằng ngày (xem ROUTINE.md). Phạm vi: mọi ngành.
 # {year} = năm hiện tại và năm sau. Giữ ổn định để kết quả so sánh được giữa các lần chạy.
 
 general:
@@ -29,6 +29,17 @@ general:
   - "chương trình thực tập phân tích dữ liệu {year}"
   - "chương trình thực tập sinh khối công nghệ ngân hàng {year}"
   - "technology graduate programme {year} Vietnam bank"
+  # Mọi ngành (từ 2026-10-04): MT, trainee, học bổng kèm thực tập, Big4, FMCG, ngân hàng
+  - "management trainee {year} Việt Nam"
+  - "chương trình quản trị viên tập sự {year}"
+  - "graduate programme {year} Vietnam"
+  - "internship program {year} Vietnam"
+  - "chương trình thực tập sinh tiềm năng {year}"
+  - "chương trình tài năng trẻ {year} tuyển dụng"
+  - "học bổng kèm thực tập {year} doanh nghiệp"
+  - "Big4 internship program {year} Vietnam"
+  - "FMCG management trainee {year} Vietnam"
+  - "ngân hàng chương trình thực tập sinh {year}"
 
 # Trang việc làm của trường: repost chương trình kèm hạn nộp.
 university_boards:
