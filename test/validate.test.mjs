@@ -9,6 +9,7 @@ const program = (overrides = {}) => ({
   company: { name: "Viettel", slug: "viettel" },
   official_url: "https://tuyendung.viettel.vn/page/page-digitalTalent",
   tracks: ["Cloud"],
+  fields: ["tech"],
   recurring: "yearly",
   active: true,
   is_visible: true,
@@ -157,4 +158,23 @@ test("accepts year one before deadline year when opens_at is unknown", () => {
 test("rejects manual status alongside dates since it would be ignored", () => {
   const errors = validateDataset({ programs: [program()], cycles: [cycle({ status: "open" })] });
   assert.ok(errors.some((e) => e.includes("status")));
+});
+
+test("requires at least one known field", () => {
+  const missing = validateDataset({ programs: [program({ fields: undefined })], cycles: [cycle()] });
+  assert.ok(missing.some((e) => e.includes("fields")));
+  const empty = validateDataset({ programs: [program({ fields: [] })], cycles: [cycle()] });
+  assert.ok(empty.some((e) => e.includes("fields")));
+  const unknown = validateDataset({ programs: [program({ fields: ["tech", "cooking"] })], cycles: [cycle()] });
+  assert.ok(unknown.some((e) => e.includes('unknown field "cooking"')));
+});
+
+test("rejects duplicate fields on one program", () => {
+  const errors = validateDataset({ programs: [program({ fields: ["tech", "tech"] })], cycles: [cycle()] });
+  assert.ok(errors.some((e) => e.includes("duplicate field")));
+});
+
+test("accepts multi-field programs", () => {
+  const errors = validateDataset({ programs: [program({ fields: ["business", "finance", "tech"] })], cycles: [cycle()] });
+  assert.deepEqual(errors, []);
 });

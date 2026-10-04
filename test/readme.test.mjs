@@ -7,6 +7,7 @@ const TODAY = "2026-10-01";
 const base = {
   type: "internship",
   tracks: [],
+  fields: ["tech"],
   recurring: "yearly",
   active: true,
   is_visible: true,
@@ -17,7 +18,7 @@ const base = {
 
 const programs = [
   { ...base, slug: "a-open", name: "A Open", company: { name: "Alpha", slug: "alpha" }, official_url: "https://a.example/p" },
-  { ...base, slug: "b-closed", name: "B Closed", company: { name: "Beta", slug: null }, official_url: "https://b.example/p" },
+  { ...base, slug: "b-closed", name: "B Closed", company: { name: "Beta", slug: null }, official_url: "https://b.example/p", fields: ["finance", "audit-consulting"] },
   { ...base, slug: "c-hidden", name: "C Hidden", company: { name: "Gamma", slug: null }, official_url: "https://c.example/p", is_visible: false },
   { ...base, slug: "d-upcoming", name: "D Upcoming", type: "fresher", company: { name: "Delta", slug: null }, official_url: "https://d.example/p" },
 ];
@@ -133,4 +134,13 @@ test("replaceBetweenMarkers swaps only the generated block", () => {
 
 test("replaceBetweenMarkers throws when markers are missing", () => {
   assert.throws(() => replaceBetweenMarkers("no markers", "x"));
+});
+
+test("shows each program's fields in a Lĩnh vực column", () => {
+  const md = renderTables({ programs, cycles, today: TODAY });
+  assert.ok(md.includes("| Lĩnh vực |"));
+  const openRow = md.split("\n").find((line) => line.includes("A Open"));
+  const closedRow = md.split("\n").find((line) => line.includes("B Closed"));
+  assert.ok(openRow.includes("| Công nghệ |"));
+  assert.ok(closedRow.includes("| Tài chính, Kiểm toán – Tư vấn |"));
 });

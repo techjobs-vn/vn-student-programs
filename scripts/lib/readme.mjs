@@ -4,7 +4,7 @@ export const MARKER_START = "<!-- PROGRAMS:START — tự sinh bởi scripts/ren
 export const MARKER_END = "<!-- PROGRAMS:END -->";
 
 const SITE = "https://techjobs.vn";
-const UTM = "utm_source=github&utm_medium=vn-tech-programs";
+const UTM = "utm_source=github&utm_medium=vn-student-programs";
 
 const STATUS_LABEL = {
   open: "🟢 Đang mở",
@@ -20,6 +20,17 @@ const TYPE_LABEL = {
   graduate: "Graduate",
   management_trainee: "Quản trị viên tập sự",
   ambassador: "Đại sứ sinh viên",
+};
+
+export const FIELD_LABEL = {
+  tech: "Công nghệ",
+  finance: "Tài chính",
+  "audit-consulting": "Kiểm toán – Tư vấn",
+  business: "Kinh doanh – Marketing",
+  operations: "Vận hành",
+  engineering: "Kỹ thuật",
+  hr: "Nhân sự",
+  general: "Tổng hợp",
 };
 
 // Escape markdown/HTML syntax so data cannot inject links or markup into the README.
@@ -76,6 +87,7 @@ function renderRow({ program, cycle, status }) {
     companyCell(program.company),
     `[${escapeCell(program.name)}](${program.official_url})`,
     TYPE_LABEL[program.type],
+    (program.fields ?? []).map((f) => FIELD_LABEL[f] ?? f).join(", ") || "—",
     STATUS_LABEL[status],
     cycle ? `${cycle.year}` : "—",
     formatDate(cycle?.opens_at),
@@ -84,8 +96,8 @@ function renderRow({ program, cycle, status }) {
 }
 
 const HEADER =
-  "| Công ty | Chương trình | Loại | Trạng thái | Đợt | Mở đơn | Hạn nộp |\n" +
-  "| --- | --- | --- | --- | :---: | :---: | :---: |";
+  "| Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |\n" +
+  "| --- | --- | --- | --- | --- | :---: | :---: | :---: |";
 
 function renderTable(rows) {
   return `${HEADER}\n${rows.map((r) => `| ${renderRow(r)} |`).join("\n")}`;
