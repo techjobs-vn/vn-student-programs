@@ -8,7 +8,7 @@
       "slug": "viettel"
     },
     "official_url": "https://tuyendung.viettel.vn/page/page-digitalTalent",
-    "description": "Chương trình thực tập hằng năm cho sinh viên muốn theo đuổi công nghệ lõi, với các nhánh như bán dẫn, hàng không vũ trụ, an ninh mạng, AI, cloud, 5G và IoT.",
+    "description": "Chương trình thực tập hằng năm cho sinh viên muốn theo đuổi công nghệ lõi, với các nhánh như Semiconductor, Aerospace, Cyber Security, Data Science & AI, Cloud, 5G và IoT.",
     "tracks": [
       "Semiconductor",
       "Aerospace",
@@ -66,7 +66,7 @@
       "slug": "vpbank"
     },
     "official_url": "https://hr.vpbank.com.vn/ta/VPBankYoungTalents2026/index.html",
-    "description": "Chương trình 15 tháng cho sinh viên năm cuối và người mới tốt nghiệp, với các nhánh công nghệ như AI Factory, Data Platform, DevOps và phân tích dữ liệu.",
+    "description": "Chương trình 15 tháng cho sinh viên năm cuối, người mới tốt nghiệp hoặc dưới 1 năm kinh nghiệm, với các nhánh công nghệ như AI Factory, Data Platform, DevOps và Data Analyst.",
     "tracks": [
       "AI Factory",
       "Data Platform",
@@ -181,7 +181,7 @@
       "slug": "techcombank"
     },
     "official_url": "https://tuyendung.techcombankjobs.com/techcombank-future-gen",
-    "description": "Chương trình quản trị viên tập sự 24 tháng cho sinh viên năm cuối, người mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, nhánh công nghệ gồm phát triển phần mềm, bảo mật, hạ tầng và Data & AI.",
+    "description": "Chương trình quản trị viên tập sự 24 tháng cho sinh viên năm cuối, người mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, nhánh công nghệ có Software Development, IT Security, Data & AI.",
     "tracks": [
       "Software Development",
       "IT Security",
@@ -411,7 +411,7 @@
       "slug": "momo"
     },
     "official_url": "https://www.momo.vn/student-pass/dai-su-momo-student",
-    "description": "Chương trình đại sứ 1 năm cho sinh viên 18–25 tuổi đã xác thực MoMo Student Pass, tập trung vào sáng tạo nội dung, cộng đồng và kỹ năng AI.",
+    "description": "Chương trình đại sứ 1 năm cho sinh viên 18–25 tuổi đã xác thực MoMo Student Pass và có hoạt động trên mạng xã hội, với các hướng Content creation, Community và AI skills.",
     "tracks": [
       "Content creation",
       "Community",
@@ -440,7 +440,7 @@
       "domain": "github.com"
     },
     "official_url": "https://docs.github.com/en/education/about-github-education/use-github-at-your-educational-institution/applying-to-be-a-github-campus-expert",
-    "description": "Chương trình đại sứ cho sinh viên đại học muốn xây dựng cộng đồng lập trình, mã nguồn mở và sự kiện tại trường, yêu cầu có GitHub Student Developer Pack.",
+    "description": "Chương trình đại sứ cho sinh viên đại học từ 18 tuổi, còn ít nhất 1 năm trước khi tốt nghiệp và có GitHub Student Developer Pack, với các hướng Developer community, Open source và Events.",
     "tracks": [
       "Developer community",
       "Open source",
@@ -467,7 +467,7 @@
       "slug": "microsoft"
     },
     "official_url": "https://mvp.microsoft.com/studentambassadors",
-    "description": "Chương trình đại sứ toàn cầu về AI và công nghệ Microsoft cho sinh viên ĐH/CĐ mọi ngành, không còn vòng xét đơn mà tự đăng ký tham gia bất kỳ lúc nào.",
+    "description": "Chương trình đại sứ toàn cầu cho sinh viên ĐH/CĐ mọi ngành, xoay quanh AI và Microsoft technologies, tự đăng ký tham gia bất kỳ lúc nào mà không qua vòng xét đơn.",
     "tracks": [
       "AI",
       "Microsoft technologies",
@@ -494,7 +494,7 @@
       "slug": "fpt-ai"
     },
     "official_url": "https://fpt.com/en/news/fpt-frontier-innovators-a-new-program-for-young-talent-pioneering-emerging-technologies",
-    "description": "Chương trình nghiên cứu có lương cho sinh viên năm cuối hoặc mới tốt nghiệp ngành Toán, STEM, với các hướng Agentic AI, Physical AI, AI for Science, lượng tử và an ninh mạng.",
+    "description": "Chương trình nghiên cứu có lương cho sinh viên năm cuối hoặc mới tốt nghiệp ngành Toán, STEM, với các hướng Agentic AI, Physical AI, AI for Science, Quantum computing và Cybersecurity.",
     "tracks": [
       "Agentic AI",
       "Physical AI",
@@ -581,7 +581,7 @@
       "slug": "tma-solutions"
     },
     "official_url": "https://www.tma.vn/tuyen-dung/moi-tot-nghiep",
-    "description": "Khoá đào tạo fresher hưởng 100% lương cho người tốt nghiệp CNTT, KHMT, ĐTVT, với nhiều nhánh từ back-end, mobile, DevOps đến AI Engineer và kiểm thử tự động.",
+    "description": "Khoá đào tạo fresher cho người tốt nghiệp CNTT, Toán-Tin, KHMT hoặc ĐTVT, hưởng 100% lương khi đào tạo, với các nhánh từ Back-end, Mobile, DevOps đến AI Engineer và Automation Tester.",
     "tracks": [
       "Back-end",
       "Front-end",
@@ -669,7 +669,7 @@
       "domain": "vinbigdata.com"
     },
     "official_url": "https://institute.vinbigdata.org/programs/chuong-trinh-dao-tao-ky-su-ai-vingroup/",
-    "description": "Chương trình đào tạo kỹ sư AI miễn phí gồm 4 tháng học và 6 tháng thực tập tại các công ty công nghệ của Vingroup, dành cho sinh viên và người mới tốt nghiệp.",
+    "description": "Khoá miễn phí cho sinh viên và người mới tốt nghiệp có nền tảng công nghệ, gồm 4 tháng đào tạo AI, Data Science, Machine Learning và 6 tháng thực tập tại các công ty công nghệ của Vingroup.",
     "tracks": [
       "AI",
       "Data Science",
@@ -753,7 +753,7 @@
       "slug": "zalo"
     },
     "official_url": "https://zalo.careers/pmt",
-    "description": "Chương trình 4 tháng đào tạo quản lý sản phẩm cho sinh viên năm cuối, người mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, ưu tiên nền tảng CNTT.",
+    "description": "Chương trình 4 tháng đào tạo Product Management cho sinh viên năm cuối, người mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, ưu tiên nền tảng CNTT.",
     "tracks": [
       "Product Management"
     ],
@@ -779,7 +779,7 @@
       "domain": "cmcglobal.com.vn"
     },
     "official_url": "https://fresher.cmcglobal.com.vn/",
-    "description": "Chương trình fresher 3–6 tháng cho sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, với các vị trí lập trình, kiểm thử, AI, dữ liệu và BA, tuyển theo squad.",
+    "description": "Chương trình fresher 3–6 tháng cho sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, tuyển theo squad, với các vị trí Software Engineer, Software Tester, AI Engineer, Data Engineer, Business Analyst.",
     "tracks": [
       "Software Engineer",
       "Software Tester",
@@ -809,7 +809,7 @@
       "slug": "vnpt"
     },
     "official_url": "https://tuyendung.vnpt.vn/tin-thuc-tap-sinh.html",
-    "description": "Đợt tuyển thực tập lớn nhất hằng năm cho sinh viên năm cuối hoặc cận cuối ngành CNTT, thực tập sinh có thể thi tuyển tiếp vào chương trình VNPT Fresher.",
+    "description": "Chương trình tuyển thực tập lớn nhất hằng năm của VNPT cho sinh viên năm cuối hoặc cận cuối ngành CNTT; thực tập sinh được thi tuyển tiếp vào VNPT Fresher.",
     "tracks": [
       "Lập trình .NET/Java/Python/Mobile",
       "Tester",
@@ -865,7 +865,7 @@
       "slug": "viettel"
     },
     "official_url": "https://tuyendung.viettelsecurity.com/vi/program/vcs-passport-2/",
-    "description": "Chương trình thực tập hằng năm về an ninh mạng cho sinh viên năm 4 trở lên hoặc mới tốt nghiệp, với các nhánh lập trình hệ thống, pentest, red team và threat hunting.",
+    "description": "Chương trình thực tập hằng năm về an ninh mạng cho sinh viên năm 4 trở lên hoặc mới tốt nghiệp ngành ATTT, CNTT, ĐTVT, KHMT, với các nhánh System Programming, Pentest, Red Team, Threat Hunting.",
     "tracks": [
       "System Programming, Backend, SRE",
       "Pentest, Red Team, Incident Response",
@@ -892,7 +892,7 @@
       "slug": "bosch"
     },
     "official_url": "https://careers.smartrecruiters.com/BoschGroup/vietnam",
-    "description": "Kỳ thực tập 6 tháng full-time về embedded, AI, DevOps, kiểm thử và fullstack, dành cho sinh viên năm 3, năm cuối hoặc mới tốt nghiệp, tuyển theo quý.",
+    "description": "Kỳ thực tập 6 tháng full-time cho sinh viên năm 3, năm cuối hoặc mới tốt nghiệp có tiếng Anh tốt, tuyển theo quý, với các nhánh Embedded, AI, DevOps, Software Testing và Fullstack.",
     "tracks": [
       "Embedded",
       "AI",
@@ -950,7 +950,7 @@
       "slug": "samsung-rd-vietnam"
     },
     "official_url": "https://www.samsungcareers.com.vn/",
-    "description": "Kỳ thực tập 4 tuần full-time về phần mềm C/C++/Java/Android hoặc phần cứng điện tử, viễn thông, dành cho sinh viên CNTT, ĐTVT sắp tốt nghiệp.",
+    "description": "Kỳ thực tập 4 tuần full-time cho sinh viên CNTT, ĐTVT sắp tốt nghiệp, chưa từng thực tập tại SRV, với hai nhánh Software C/C++/Java/Android và phần cứng điện tử, viễn thông.",
     "tracks": [
       "Software C/C++/Java/Android",
       "Phần cứng điện tử, viễn thông"
@@ -977,7 +977,7 @@
       "slug": "masan"
     },
     "official_url": "https://www.masangroup.com/news/masan-news/people-a-strategic-investment-for-masans-next-phase-of-growth/",
-    "description": "Chương trình quản trị viên tập sự 6 tháng ở mảng công nghệ tại TP.HCM, cho sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, với các nhánh dữ liệu, cloud, phần mềm và bảo mật.",
+    "description": "Chương trình quản trị viên tập sự 6 tháng mảng công nghệ tại TP.HCM cho sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT, với nhánh Data, Cloud Infrastructure, Software Development, Cybersecurity.",
     "tracks": [
       "Data",
       "Cloud Infrastructure",
@@ -1005,7 +1005,7 @@
       "slug": "vinrobotics"
     },
     "official_url": "https://vinrobotics.net/career/internship-vin-robotics-talent-program",
-    "description": "Chương trình cho sinh viên năm 3–4 hoặc mới tốt nghiệp ngành robotics, cơ điện tử, AI, với các hướng perception, SLAM, foundation models và điều khiển robot.",
+    "description": "Chương trình Internship, Fresh Graduate và Residency cho sinh viên năm 3–4 hoặc mới tốt nghiệp ngành Robotics, Cơ điện tử, AI, với các hướng như Robotic perception, SLAM, Navigation.",
     "tracks": [
       "Robotic perception",
       "SLAM, Navigation",
@@ -1034,7 +1034,7 @@
       "slug": "vinmotion"
     },
     "official_url": "https://vinmotion.net/career/engineering-internship",
-    "description": "Kỳ thực tập cho sinh viên năm cuối hoặc mới tốt nghiệp ngành KHMT, AI, robotics, điện tử, với các nhánh AI (NLP, CV, GenAI), điều khiển robot, phần mềm nhúng và mô phỏng.",
+    "description": "Kỳ thực tập cho sinh viên năm cuối hoặc mới tốt nghiệp ngành KHMT, AI, Robotics, Điện tử, với các nhánh AI (NLP, CV, GenAI), Robot control, Embedded software và Simulation.",
     "tracks": [
       "AI (NLP, CV, GenAI)",
       "Robot control",
@@ -1061,7 +1061,7 @@
       "slug": "qualcomm"
     },
     "official_url": "https://www.qualcomm.com/research/artificial-intelligence/ai-residency-program",
-    "description": "Chương trình residency 12–24 tháng về nghiên cứu hoặc kỹ thuật AI, dành cho sinh viên năm cuối hoặc tốt nghiệp trong 2 năm ngành KHMT, kế thừa VinAI Residency.",
+    "description": "Chương trình residency 12–24 tháng cho sinh viên năm cuối hoặc tốt nghiệp trong 2 năm ngành KHMT, gồm Research Residency và Engineering Residency, kế thừa VinAI Residency.",
     "tracks": [
       "Research Residency (ML, CV, NLP)",
       "Engineering Residency (Efficient AI, Embedded, Agentic AI)"
@@ -1088,7 +1088,7 @@
       "slug": "fpt-ai"
     },
     "official_url": "https://futuretechtalents.fpt.com/",
-    "description": "Kỳ thực tập 6 tháng tại Hà Nội về AI, cloud, an ninh mạng và lượng tử, dành cho sinh viên giỏi từ năm 3 ngành CNTT, KHMT, AI, ATTT, Toán tin.",
+    "description": "Kỳ thực tập 6 tháng tại Hà Nội cho sinh viên giỏi từ năm 3 đến năm cuối ngành CNTT, KHMT, AI, ATTT, Toán tin, với các nhánh AI, Cloud, Cyber Security và Quantum.",
     "tracks": [
       "AI",
       "Cloud",
@@ -1143,7 +1143,7 @@
       "slug": "manulife-vietnam"
     },
     "official_url": "https://www.manulife.com.vn/vi/ve-chung-toi/manulife-future-leaders.html",
-    "description": "Chương trình quản trị viên tập sự 3 năm ở khối CNTT cho người đã tốt nghiệp ngành CNTT, KHMT, HTTT, Data dưới 1 năm kinh nghiệm, với các mảng dữ liệu, AI và nền tảng số.",
+    "description": "Chương trình quản trị viên tập sự 3 năm ở khối CNTT cho người đã tốt nghiệp ngành CNTT, KHMT, HTTT, Data, dưới 1 năm kinh nghiệm, với các mảng Data, AI và Digital Platform.",
     "tracks": [
       "Information Technology",
       "Data",
@@ -1197,7 +1197,7 @@
       "slug": "tma-solutions"
     },
     "official_url": "https://www.tma.vn/tuyen-dung/thuc-tap",
-    "description": "Kỳ thực tập full-time tối thiểu 3 tháng cho sinh viên CNTT từ năm 3, với nhiều nhánh như tester, AI Engineer, full stack, mobile và DevOps, tuyển nhiều khoá mỗi năm.",
+    "description": "Kỳ thực tập full-time tối thiểu 3 tháng cho sinh viên CNTT từ năm 3, GPA từ 7.0, với các nhánh Tester, AI Engineer, Full Stack, Mobile và DevOps, tuyển nhiều khoá mỗi năm.",
     "tracks": [
       "Tester",
       "AI Engineer",
@@ -1228,7 +1228,7 @@
       "slug": "rikkeisoft"
     },
     "official_url": "https://tuyendung.rikkeisoft.com/recruitment/detail/2058-rikkei-tech-internship-program-20261773310702",
-    "description": "Kỳ thực tập 6 tháng cho sinh viên năm 3 trở lên hoặc mới tốt nghiệp ngành CNTT, ở các vị trí developer (frontend, backend, mobile), tester và BA.",
+    "description": "Kỳ thực tập 6 tháng cho sinh viên CNTT năm 3 trở lên hoặc mới tốt nghiệp không quá 1 năm, ở các vị trí Developer (Frontend, Backend, Mobile), Tester và Business Analyst.",
     "tracks": [
       "Developer (Frontend, Backend, Mobile)",
       "Tester",
@@ -1282,7 +1282,7 @@
       "slug": "bioturing"
     },
     "official_url": "https://bioturing.com/blog/b-gens-2026-bioturing-trainee-program-2026/",
-    "description": "Chương trình ươm tạo 3 tháng và 2 tháng thử việc cho người mới tốt nghiệp ngành KHMT, Bioinformatics, Data, Toán, Lý, với các nhánh tin sinh học, phần mềm và quản lý sản phẩm.",
+    "description": "Chương trình trainee cho người mới tốt nghiệp ngành KHMT, Bioinformatics, Data, Toán, Lý, gồm 3 tháng ươm tạo và 2 tháng thử việc, nhánh Bioinformatics, Software Engineer, Product Management.",
     "tracks": [
       "Bioinformatics",
       "Software Engineer",
@@ -1310,7 +1310,7 @@
       "slug": "marvell"
     },
     "official_url": "https://www.marvell.com/company/careers/university-recruiting.html",
-    "description": "Học bổng cho sinh viên năm 2–4 ngành điện tử, viễn thông, kỹ thuật máy tính, CNTT, người nhận được ưu tiên thực tập về kỹ thuật bán dẫn tại Marvell Việt Nam.",
+    "description": "Học bổng cho sinh viên năm 2–4 ngành Điện tử, Viễn thông, Kỹ thuật máy tính, CNTT có GPA từ 7.0, người nhận được ưu tiên thực tập mảng Semiconductor Engineering tại Marvell Việt Nam.",
     "tracks": [
       "Semiconductor Engineering"
     ],
@@ -1335,7 +1335,7 @@
       "slug": "renesas"
     },
     "official_url": "https://jobs.renesas.com/campus-ambassador",
-    "description": "Vai trò đại sứ 12 tháng tại trường cho sinh viên năm 2–4 ngành kỹ thuật, KHMT, CNTT, tham gia xây dựng cộng đồng và quảng bá thương hiệu nhà tuyển dụng.",
+    "description": "Vai trò đại sứ tại trường kéo dài 12 tháng cho sinh viên năm 2–4 ngành Kỹ thuật, KHMT, CNTT hoặc liên quan, hoạt động ở các mảng Employer Branding và Community.",
     "tracks": [
       "Employer Branding",
       "Community"
@@ -1361,7 +1361,7 @@
       "slug": "opswat"
     },
     "official_url": "https://www.opswat.com/careers/cybersecurity-fellowship-program",
-    "description": "Chương trình fellowship khoảng 10 tuần mỗi đợt về an ninh mạng, nghiên cứu lỗ hổng và bảo mật OT/ICS, phụ cấp 6 triệu/tháng, cho sinh viên năm cuối hoặc mới tốt nghiệp.",
+    "description": "Chương trình fellowship cho sinh viên năm cuối hoặc mới tốt nghiệp ngành ATTT, CNTT, KHMT có tiếng Anh tốt, mỗi đợt khoảng 10 tuần về Cybersecurity, Vulnerability Research và OT/ICS Security.",
     "tracks": [
       "Cybersecurity",
       "Vulnerability Research",
@@ -1542,7 +1542,7 @@
       "slug": "momo"
     },
     "official_url": "https://momo.careers/momo-talent",
-    "description": "Chương trình Product Trainee 8 tháng cho người mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, làm sản phẩm ở các mảng như thanh toán, tín dụng, quản lý chi tiêu và tăng trưởng.",
+    "description": "Chương trình Product Trainee 8 tháng cho người mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, GPA từ 3.2/4, tiếng Anh B2, với các mảng như Payment Platform, Credit Tech Product và Product Growth.",
     "tracks": [
       "Payment Platform",
       "Credit Tech Product",
@@ -1600,7 +1600,7 @@
       "slug": "geocomply"
     },
     "official_url": "https://www.geocomply.com/careers/internship/",
-    "description": "Chương trình thực tập toàn cầu cho sinh viên hoặc người mới tốt nghiệp Kỹ thuật phần mềm, KHMT, làm hybrid tại TP.HCM ở các mảng Software Engineering, bảo mật và Data Science/ML.",
+    "description": "Thực tập cho sinh viên hoặc người mới tốt nghiệp Kỹ thuật phần mềm, KHMT, làm hybrid tại TP.HCM, mảng Software Engineering, Mobile Security, Security Software, Data Science/ML.",
     "tracks": [
       "Software Engineering",
       "Mobile Security",
@@ -1654,7 +1654,7 @@
       "slug": "canonical"
     },
     "official_url": "https://canonical.com/careers/early-careers",
-    "description": "Chương trình graduate làm remote cho người mới tốt nghiệp đại học hoặc thạc sĩ, kể cả ở Việt Nam, về phát triển phần mềm mã nguồn mở và Linux.",
+    "description": "Chương trình graduate làm remote từ bất kỳ đâu, kể cả Việt Nam, cho người mới tốt nghiệp đại học hoặc thạc sĩ, theo hướng Software Engineering (Open Source, Linux).",
     "tracks": [
       "Software Engineering (Open Source, Linux)"
     ],
@@ -2065,7 +2065,7 @@
       "slug": "ban-vien"
     },
     "official_url": "https://career.banvien.com.vn/internship-program",
-    "description": "Thực tập hè tại các dự án công nghệ thực tế về phần mềm và nhúng, dành cho sinh viên các ngành kỹ thuật, CNTT.",
+    "description": "Thực tập hè cho sinh viên các ngành kỹ thuật, CNTT, làm việc tại các dự án công nghệ thực tế của Bản Viên ở mảng Software/Embedded.",
     "tracks": [
       "Software/Embedded (tech projects)"
     ],
@@ -2091,7 +2091,7 @@
       "domain": "kyanon.digital"
     },
     "official_url": "https://kyanon.digital/careers/k-fresh-trainee-program/",
-    "description": "Chương trình trainee 3 tháng cho sinh viên năm cuối hoặc mới tốt nghiệp có GPA từ 7.5/10, với các hướng Data/AI, Software Engineer, QC, Business Analyst và Data Analyst.",
+    "description": "Chương trình trainee 3 tháng cho sinh viên năm cuối hoặc dưới 1 năm kinh nghiệm, GPA từ 7.5/10, tiếng Anh B1, với các hướng Data Scientist/AI Engineer, Software Engineer, Quality Control.",
     "tracks": [
       "Data Scientist/AI Engineer",
       "Quality Control",
@@ -2256,7 +2256,7 @@
       "slug": "appota"
     },
     "official_url": "https://nextgen2026.appota.com/",
-    "description": "Lộ trình 2 tháng trainee, 4 tháng associate rồi lên nhân viên chính thức, dành cho sinh viên năm 3–4 GPA từ 2.8 ở các mảng game, fullstack và product owner.",
+    "description": "Lộ trình 2 tháng trainee, 4 tháng associate rồi lên nhân viên chính thức cho sinh viên năm 3–4 GPA từ 2.8, ở các nhánh Game Developer, Game Designer, Fullstack Engineer và Product Owner.",
     "tracks": [
       "Game Developer Trainee",
       "Fullstack Engineer Trainee",
@@ -2339,7 +2339,7 @@
       "slug": "prudential"
     },
     "official_url": "https://www.prudential.com.vn/vi/co-hoi-nghe-nghiep/tai-prudential/chuong-trinh-quan-tri-vien-tap-su/",
-    "description": "Chương trình Management Trainee luân chuyển 18 tháng và Functional Trainee ở mảng Công nghệ, Marketing & Data Analytics, dành cho người mới tốt nghiệp dưới 2 năm kinh nghiệm.",
+    "description": "Chương trình Management Trainee luân chuyển 18 tháng và Functional Trainee ở mảng Technology / IT, Marketing & Data Analytics, dành cho người mới tốt nghiệp dưới 2 năm kinh nghiệm.",
     "tracks": [
       "Technology / IT",
       "Marketing & Data Analytics"
@@ -2419,7 +2419,7 @@
       "slug": "axon-active"
     },
     "official_url": "https://www.edu.axonactive.com/part-time-internship-program",
-    "description": "Thực tập part-time 1–2 ngày/tuần về phát triển phần mềm tại Đà Nẵng, dành cho sinh viên CNTT năm 3–4 giao tiếp tiếng Anh tốt.",
+    "description": "Thực tập part-time 1–2 ngày/tuần mảng Software development tại Đà Nẵng, dành cho sinh viên CNTT năm 3–4 giao tiếp tiếng Anh tốt.",
     "tracks": [
       "Software development"
     ],
@@ -2444,7 +2444,7 @@
       "slug": "endava"
     },
     "official_url": "https://www.endava.com/careers/early-careers/internship-programmes/vietnam",
-    "description": "Thực tập 10 tuần toàn thời gian tại TP.HCM về phần mềm C++ cho 5G, phát triển và kiểm thử, dành cho sinh viên năm 3–4 hoặc mới tốt nghiệp CNTT làm việc bằng tiếng Anh.",
+    "description": "Thực tập 10 tuần toàn thời gian tại TP.HCM, dành cho sinh viên năm 3–4 hoặc mới tốt nghiệp CNTT/KHMT/KTPM, ở các track C++ 5G Radio Software, Development và Testing.",
     "tracks": [
       "C++ 5G Radio Software",
       "Development",
@@ -2499,7 +2499,7 @@
       "domain": "luvina.net"
     },
     "official_url": "https://la.luvina.net/",
-    "description": "Khóa đào tạo khoảng 2 tháng full-time về Java Spring Boot, Next.js/ReactJS và DevOps cho sinh viên năm cuối hoặc fresher IT, yêu cầu cam kết gắn bó 18 tháng.",
+    "description": "Khóa đào tạo khoảng 2 tháng full-time về Fullstack Java Spring Boot, Next.js / ReactJS và DevOps cho sinh viên năm cuối hoặc fresher IT, yêu cầu cam kết gắn bó 18 tháng.",
     "tracks": [
       "Fullstack Java Spring Boot",
       "Next.js / ReactJS",
@@ -2526,7 +2526,7 @@
       "slug": "rikkeisoft"
     },
     "official_url": "https://tuyendung.rikkeisoft.com/recruitment/detail/2174-rikkei-future-leader-20261778822643",
-    "description": "Chương trình 3 tháng đào tạo về ứng dụng AI, tư duy kinh doanh, khởi nghiệp và lãnh đạo, dành cho sinh viên năm 3–4 hoặc mới tốt nghiệp CNTT, AI, kinh tế và ngành liên quan.",
+    "description": "Chương trình đào tạo 3 tháng cho sinh viên năm 3–4 hoặc mới tốt nghiệp CNTT, AI, kinh tế, gồm AI Application, Business & Strategic Thinking, Entrepreneurship & Startup, Leadership & Problem Solving.",
     "tracks": [
       "AI Application",
       "Business & Strategic Thinking",
@@ -2806,7 +2806,7 @@
       "domain": "fwd.com.vn"
     },
     "official_url": "https://www.fwd.com.vn/en/about-us/careers/fwd-summer-internship/",
-    "description": "Thực tập hè khoảng 3 tháng toàn thời gian tại TP.HCM ở mảng IT Governance & Security, IT Business Analysis và IT QC, dành cho sinh viên năm 3–4 hoặc mới tốt nghiệp.",
+    "description": "Thực tập hè khoảng 3 tháng toàn thời gian tại TP.HCM ở mảng IT Governance & Security, IT Business Analysis và IT Quality Control, dành cho sinh viên năm 3–4 hoặc mới tốt nghiệp.",
     "tracks": [
       "Công nghệ thông tin (IT Governance & Security, IT Business Analysis, IT Quality Control)"
     ],
@@ -2950,7 +2950,7 @@
       "slug": "vinfast"
     },
     "official_url": "https://vinfast.zohorecruit.com/jobs/Careers/789504000030114866/2026-INTERNSHIP-PROGRAM-%E2%80%93-ENGINEERING-AUTOMOTIVE-DEVELOPMENT",
-    "description": "Thực tập 6 tháng về phát triển xe và quản lý chất lượng, trợ cấp 5 triệu đồng/tháng, dành cho sinh viên năm cuối hoặc mới tốt nghiệp ngành Ô tô, Cơ khí, Điện tử, CNTT.",
+    "description": "Thực tập 6 tháng về phát triển xe và quản lý chất lượng, dành cho sinh viên năm cuối hoặc mới tốt nghiệp ngành Ô tô, Cơ khí, Điện – Điện tử, Tự động hóa, CNTT.",
     "tracks": [
       "Vehicle Development (Phát triển Xe)",
       "Quality Management (Quản lý Chất lượng)"
@@ -3036,7 +3036,7 @@
       "domain": "panasonic.com"
     },
     "official_url": "https://psvfresher.vn/2026-fresher/",
-    "description": "Chương trình 4 tháng ở các mảng HVAC Engineering, Product Marketing, Digital Commerce và Brand & Retail, dành cho sinh viên năm cuối hoặc mới tốt nghiệp dưới 1 năm kinh nghiệm.",
+    "description": "Chương trình 4 tháng ở các mảng HVAC Engineering, Brand & Retail Activation, Product Marketing và Digital Commerce, dành cho sinh viên năm cuối hoặc mới tốt nghiệp dưới 1 năm kinh nghiệm.",
     "tracks": [
       "HVAC Engineering",
       "Brand & Retail Activation",
@@ -3095,7 +3095,7 @@
       "slug": "vng"
     },
     "official_url": "https://career.vng.com.vn/danh-cho-sinh-vien/business-development-fresher-2026/",
-    "description": "Chương trình fresher phát triển kinh doanh trong ngành game cho sinh viên khối kinh tế hoặc mới tốt nghiệp, có trợ cấp 12–15 triệu đồng/tháng.",
+    "description": "Chương trình fresher Business Development trong ngành game, dành cho sinh viên khối kinh tế hoặc người mới tốt nghiệp muốn làm phát triển kinh doanh.",
     "tracks": [
       "Business Development"
     ],
@@ -3146,7 +3146,7 @@
       "domain": "teachforvietnam.org"
     },
     "official_url": "https://teachforvietnam.org/mo-don-ung-tuyen-dai-su-sinh-vien-2026-chuong-trinh-leadership-development-fellowship-batch-10/",
-    "description": "Hoạt động đại sứ tình nguyện kéo dài 3 tháng, 3–5 giờ mỗi tuần, dành cho sinh viên năm 2–3 quan tâm đến giáo dục ở các trường miền Nam và miền Trung.",
+    "description": "Hoạt động đại sứ tình nguyện 3 tháng, 3–5 giờ mỗi tuần, quảng bá chương trình của tổ chức phi lợi nhuận; ưu tiên sinh viên năm 2–3 quan tâm đến giáo dục ở các trường miền Nam và miền Trung.",
     "fields": [
       "general"
     ],
@@ -3170,7 +3170,7 @@
       "slug": "acb"
     },
     "official_url": "https://www.acbjobs.com.vn/pages/the-next-banker",
-    "description": "Chương trình thực tập 4 tháng cho sinh viên năm cuối khối kinh tế, với các vị trí quan hệ khách hàng, dịch vụ khách hàng và phân tích tín dụng.",
+    "description": "Chương trình thực tập 4 tháng cho sinh viên năm cuối khối kinh tế như Tài chính – Ngân hàng, QTKD, Kế toán, Kiểm toán, ở các vị trí quan hệ khách hàng và dịch vụ khách hàng.",
     "tracks": [
       "RA | Nhân viên Quan hệ Khách hàng Doanh nghiệp",
       "RA-CB | Nhân viên Quan hệ Khách hàng Cá nhân",
@@ -3292,7 +3292,7 @@
       "domain": "digital.fpt.com"
     },
     "official_url": "https://digital.fpt.com/leaders-program",
-    "description": "Chương trình quản trị viên tập sự 24–36 tháng cho người mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, làm tại Hà Nội và TP.HCM với thu nhập từ 18 triệu/tháng.",
+    "description": "Chương trình quản trị viên tập sự 24–36 tháng ở mảng Strategic Business Development và Strategic Marketing & Go-to-Market, dành cho người mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm.",
     "tracks": [
       "Strategic Business Development",
       "Strategic Marketing & Go-to-Market"
@@ -3349,7 +3349,7 @@
       "domain": "carlsbergvietnam.vn"
     },
     "official_url": "https://carlsbergvietnam.vn/vi/nghe-nghiep/carlsbergasiagtp26/",
-    "description": "Chương trình graduate 2 năm cho sinh viên năm cuối hoặc người dưới 2 năm kinh nghiệm, gồm các mảng tài chính, marketing, nhân sự, mua hàng, làm tại TP.HCM và nhà máy Huế.",
+    "description": "Chương trình graduate 2 năm cho sinh viên năm cuối hoặc người dưới 2 năm kinh nghiệm, gồm các mảng Finance, Marketing, People & Culture, Procurement, làm tại TP.HCM và nhà máy Huế.",
     "tracks": [
       "Finance",
       "Marketing",
@@ -3457,7 +3457,7 @@
       "slug": "jabil"
     },
     "official_url": "https://jobs.jabil.com/en/job/ho-chi-minh-city/eit-hr-generalist-talent-acquisition/626/100115212976",
-    "description": "Chương trình đào tạo 12 tháng tại TP.HCM cho người mới tốt nghiệp hoặc dưới 1 năm kinh nghiệm, ở các mảng kỹ thuật, chuỗi cung ứng và nhân sự.",
+    "description": "Chương trình đào tạo 12 tháng tại TP.HCM cho người mới tốt nghiệp hoặc dưới 1 năm kinh nghiệm, ở các mảng Engineering & Project, Supply Chain và Human Resources.",
     "tracks": [
       "Engineering & Project",
       "Supply Chain",
@@ -3488,7 +3488,7 @@
       "domain": "ttigroup.com"
     },
     "official_url": "https://www.ttigroup.com/en/careers/ecp",
-    "description": "Chương trình thực tập hè 12 tuần cho sinh viên năm 2 đến năm cuối hoặc mới tốt nghiệp, ở các mảng kỹ thuật, chuỗi cung ứng, sản xuất, tự động hóa, lương 6 triệu/tháng.",
+    "description": "Chương trình thực tập hè 12 tuần cho sinh viên năm 2 đến năm cuối hoặc mới tốt nghiệp, ở các mảng Engineering, Supply Chain Management, Production, Automation, lương 6 triệu/tháng.",
     "tracks": [
       "Engineering",
       "Supply Chain Management",
@@ -3558,7 +3558,7 @@
       "slug": null
     },
     "official_url": "https://val-youngtalent.navigos.vn/",
-    "description": "Chương trình tài năng trẻ 12 tháng ở mảng tài chính – kế toán và logistics, dành cho sinh viên năm cuối hoặc người mới tốt nghiệp dưới 1,5 năm kinh nghiệm.",
+    "description": "Chương trình đào tạo 12 tháng ở mảng tài chính – kế toán và logistics, dành cho sinh viên năm cuối hoặc người mới tốt nghiệp dưới 1,5 năm kinh nghiệm.",
     "tracks": [
       "Finance & Accountant",
       "Logistic"
@@ -3587,7 +3587,7 @@
       "domain": "dksh.com"
     },
     "official_url": "https://www.dksh.com/vn-vi/home/careers/early-careers",
-    "description": "Chương trình thực tập toàn thời gian 3 tháng cho sinh viên năm 3, năm 4 tại TP.HCM, Bình Dương hoặc Đà Nẵng, trợ cấp 5.310.000 VNĐ/tháng.",
+    "description": "Chương trình thực tập toàn thời gian 3 tháng cho sinh viên năm 3, năm 4 (ưu tiên năm cuối) tại TP.HCM, Bình Dương hoặc Đà Nẵng, mở nhiều đợt mỗi năm.",
     "tracks": [
       "Ecommerce",
       "Kinh doanh và khách hàng",
@@ -3816,7 +3816,7 @@
       "domain": "generali.vn"
     },
     "official_url": "https://generali.talent.vn/job/genext-2025-management-trainee-program-generali-vietnam-2025-8268",
-    "description": "Chương trình quản trị viên tập sự tại TP.HCM cho người mới tốt nghiệp dưới 2 năm kinh nghiệm, với các mảng marketing, nghiệp vụ bảo hiểm, phân tích và phát triển kênh phân phối.",
+    "description": "Chương trình quản trị viên tập sự tại TP.HCM cho người mới tốt nghiệp dưới 2 năm kinh nghiệm, ở các mảng Marketing, Operations, Distribution Planning & Analytics và Partnership Distribution.",
     "tracks": [
       "Marketing",
       "Operations (Nghiệp vụ Bảo hiểm)",
@@ -3875,7 +3875,7 @@
       "domain": "kpmg.com"
     },
     "official_url": "https://kpmg.com/vn/en/careers/internship.html",
-    "description": "Chương trình thực tập cho sinh viên năm cuối ở các mảng Audit, Tax, Legal và Deals - M&A Tax, tuyển theo hai giai đoạn riêng.",
+    "description": "Chương trình thực tập hằng năm dành cho sinh viên năm cuối ở các mảng Audit, Tax, Legal và Deals - M&A Tax.",
     "tracks": [
       "Audit",
       "Tax",
@@ -3963,7 +3963,7 @@
       "slug": "deloitte-vietnam"
     },
     "official_url": "https://jobs.sea.deloitte.com/job/Ho-Chi-Minh-City-VN-A&A-Deloitte-Passport-FY27-Audit-&-Assurance-HCMC-4th-Year-Student-Ho-C/1362761666/",
-    "description": "Chương trình thực tập cho sinh viên năm 3 và năm 4 ở các mảng kiểm toán, tư vấn thuế, hải quan, kế toán và pháp lý; riêng Tax & Legal chỉ nhận năm 4.",
+    "description": "Chương trình thực tập cho sinh viên năm 3, năm 4 ở các mảng như Audit & Assurance, Tax Advisory Services, Legal Services; riêng Tax & Legal chỉ nhận năm 4.",
     "tracks": [
       "Audit & Assurance",
       "Tax Advisory Services",
@@ -3993,7 +3993,7 @@
       "slug": "deloitte-vietnam"
     },
     "official_url": "https://www.deloitte.com/southeast-asia/en/careers/explore-your-fit/students/amplify-programme.html",
-    "description": "Chương trình thực tập 12 tuần dành cho người đã tốt nghiệp dưới 3 năm kinh nghiệm, ở các mảng kiểm toán, chiến lược, thuế, pháp lý và công nghệ, mở hai đợt mỗi năm.",
+    "description": "Chương trình thực tập 12 tuần cho người đã tốt nghiệp dưới 3 năm kinh nghiệm, ở các mảng Audit & Assurance, Strategy, Risk & Transactions, Tax & Legal và Technology & Transformation.",
     "tracks": [
       "Audit & Assurance",
       "Strategy, Risk & Transactions",
@@ -4385,7 +4385,7 @@
       "slug": "loreal"
     },
     "official_url": "https://careers.loreal.com/en_US/content/Vietnam",
-    "description": "Chương trình quản trị viên tập sự 18 tháng cho người sắp hoặc đã tốt nghiệp dưới 2 năm kinh nghiệm, với các mảng marketing, sales, chuỗi cung ứng, nội dung số và tài chính.",
+    "description": "Chương trình quản trị viên tập sự 18 tháng cho người sắp hoặc đã tốt nghiệp dưới 2 năm kinh nghiệm, ở các mảng Marketing, O+O Commercial, Supply Chain, Social Content và Finance.",
     "tracks": [
       "Marketing",
       "O+O Commercial (Online/Offline Sales)",
@@ -4445,7 +4445,7 @@
       "domain": "milwaukeetool.com"
     },
     "official_url": "https://www.milwaukeetool.com.vn/leadership-development-program",
-    "description": "Chương trình phát triển 2 năm ở mảng kỹ thuật hoặc vận hành: năm đầu luân chuyển 3 phòng ban, năm sau làm chuyên sâu, dành cho người mới tốt nghiệp dưới 1 năm kinh nghiệm.",
+    "description": "Chương trình phát triển 2 năm cho người mới tốt nghiệp dưới 1 năm kinh nghiệm, theo hướng EDP (kỹ thuật) hoặc ODP (vận hành): năm đầu luân chuyển 3 phòng ban, năm sau làm chuyên sâu.",
     "tracks": [
       "Engineering Development Program (EDP)",
       "Operations Development Program (ODP)"
@@ -4558,7 +4558,7 @@
       "domain": "danangairport.vn"
     },
     "official_url": "https://danangairport.vn/aht/aht-graduate-program-2026",
-    "description": "Chương trình graduate 15 tháng với 4 vòng luân chuyển ở các mảng nhân sự, vận hành và kỹ thuật, dành cho người sắp hoặc mới tốt nghiệp muốn làm việc lâu dài tại Đà Nẵng.",
+    "description": "Chương trình graduate 15 tháng với 4 vòng luân chuyển ở các mảng Human Resources, Operations và Technical, dành cho người sắp hoặc mới tốt nghiệp muốn làm việc lâu dài tại Đà Nẵng.",
     "tracks": [
       "Human Resources",
       "Operations",
