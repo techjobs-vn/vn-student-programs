@@ -1028,5 +1028,662 @@
     ],
     "updated_at": "2026-10-03",
     "notes": "Nhận liên tục: được mời khi đạt mức Gold trên BRAIN."
+  },
+  {
+    "program_slug": "abbank-thuc-tap-sinh-thuc-tien",
+    "year": 2026,
+    "opens_at": "2026-05-15",
+    "deadline": "2026-05-25",
+    "sources": [
+      "https://careers.abbank.vn/job/chuong-trinh-thuc-tap-sinh-thuc-tien-nam-2026-10121"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "sea-global-management-associate-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-10-31",
+    "sources": [
+      "https://seagmap.sea.com/",
+      "https://career.sea.com/position/J02171477",
+      "https://ybox.vn/tuyen-dung/toan-quoc-chuong-trinh-tuyen-dung-quan-tri-vien-tap-su-toan-cau-sea-global-management-associate-program-gmap-2027-shopee-monee-tai-tap-doan-cong-nghe-sea-shopee-co-hoi-lam-viec-tai-singapore-danh-cho-sinh-vien-nam-cuoi-and-ung-vien-co-duoi-2-nam-kinh-nghiem-6a84cc3c35c25f6acc656fc9",
+      "https://jobs.neu.edu.vn/jobs/sea-global-management-associate-program-gmap-2027-shopeemonee-shopee-1202608241649"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "vinfast-engineering-internship-program",
+    "year": 2026,
+    "opens_at": "2026-06-06",
+    "deadline": "2026-07-30",
+    "sources": [
+      "https://vinfast.zohorecruit.com/jobs/Careers/789504000030114866/2026-INTERNSHIP-PROGRAM-%E2%80%93-ENGINEERING-AUTOMOTIVE-DEVELOPMENT",
+      "https://fami.hust.edu.vn/thong-bao-sinh-vien/thong-tin-chuong-trinh-thuc-tap-sinh-lac-hong-2026/",
+      "https://faet.iuh.edu.vn/news.html@detail@324@692@VINFAST-tuyen-dung-thuc-tap-sinh-ky-su-nam-2026"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "masan-mye-sales",
+    "year": 2026,
+    "opens_at": "2026-05-07",
+    "deadline": "2026-06-07",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/masan-young-entrepreneur-sales-program-2026-masan-consumer-1202605111547"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "tiktok-shop-graduate-development-program-vietnam",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-11-30",
+    "sources": [
+      "https://lifeattiktok.com/search/7670922017126074677"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "panasonic-fresher-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-05-10",
+    "sources": [
+      "https://psvfresher.vn/2026-fresher/",
+      "https://vieclam.ueh.edu.vn/cong-viec/panasonic-fresher-program-2026-build-your-leap-forward_166587"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "techcombank-campus-ambassador",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-07-21",
+    "sources": [
+      "https://ybox.vn/tuyen-dung/hn-hcm-chuong-trinh-tuyen-dung-dai-su-techcombank-campus-ambassador-2026-tai-ngan-hang-techcombank-danh-cho-sinh-vien-6a4dce5719d53732191bd7a0"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "vng-business-development-fresher",
+    "year": 2026,
+    "opens_at": "2026-03-15",
+    "deadline": "2026-04-06",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/business-development-fresher-2026-vng-corporation-1202603171641"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "pwc-vietnam-internship-programme",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-05-31",
+    "sources": [
+      "https://www.pwc.com/vn/vn/careers/campus-careers/internship-programme.html",
+      "https://www.pwc.com/vn/en/careers/campus-careers/internship-programme.html"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "teach-for-vietnam-student-ambassador",
+    "year": 2025,
+    "opens_at": "2025-11-12",
+    "deadline": "2025-11-24",
+    "sources": [
+      "https://teachforvietnam.org/mo-don-ung-tuyen-dai-su-sinh-vien-2026-chuong-trinh-leadership-development-fellowship-batch-10/"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "acb-the-next-banker",
+    "year": 2026,
+    "opens_at": "2026-10-01",
+    "deadline": "2026-12-12",
+    "sources": [
+      "https://www.acbjobs.com.vn/pages/the-next-banker"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "vib-genv-future-program",
+    "year": 2026,
+    "opens_at": "2026-06-18",
+    "deadline": "2026-07-20",
+    "sources": [
+      "https://careers.vib.com.vn/careers/job/31667"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "central-retail-vietnam-management-associate",
+    "year": 2026,
+    "opens_at": "2026-07-24",
+    "deadline": "2026-08-24",
+    "sources": [
+      "https://www.ma-centralretailvn.com/",
+      "https://jobs.neu.edu.vn/jobs/vietnam-management-associate-2026-tap-doan-central-retail-1202607241815"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "f88-next-gen",
+    "year": 2026,
+    "opens_at": "2026-03-21",
+    "deadline": "2026-05-03",
+    "sources": [
+      "https://nhansu.f88.vn/f88nextgen"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "fpt-digital-future-business-leaders-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-26",
+    "sources": [
+      "https://digital.fpt.com/leaders-program",
+      "https://jobs.neu.edu.vn/jobs/fpt-digital-future-business-leaders-program-fpt-digital-1202606011730"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "heineken-vietnam-nextgen",
+    "year": 2026,
+    "opens_at": "2026-05-05",
+    "deadline": "2026-06-16",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/heineken-vietnam-nextgen-2026-heineken-vietnam-1202605061510"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "carlsberg-asia-graduate-trainee-program",
+    "year": 2026,
+    "opens_at": "2026-07-08",
+    "deadline": "2026-08-02",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/carlsberg-asia-graduate-trainee-program-2026-carlsberg-1202607091413"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "suntory-pepsico-management-trainee",
+    "year": 2025,
+    "opens_at": "2025-11-25",
+    "deadline": "2025-12-31",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/suntory-pepsico-management-trainee-2026-suntory-pepsico-viet-nam-1202511261532"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "epi-internship-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-10-09",
+    "sources": [
+      "https://ybox.vn/tuyen-dung/hn-chuong-trinh-tuyen-dung-thuc-tap-sinh-epi-internship-program-2026-tai-cong-ty-tap-doan-cong-nghe-epi-viet-nam-marketing-nhan-su-ke-toan-chuoi-cung-ung-6a7c42062b87372dc1712744",
+      "https://jobs.neu.edu.vn/jobs/epi-internship-program-2026-epi-vietnam-technologies-1202608131536"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "jabil-vietnam-eit",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-09-28",
+    "sources": [
+      "https://vieclam.ueh.edu.vn/cong-viec/employee-in-training-eit-2026_187336",
+      "https://www.vietnamworks.com/jabil-vietnam-employee-in-training-eit-2026-program-2103748-jv"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "tti-vietnam-internship-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-05-03",
+    "sources": [
+      "https://ssc.hcmut.edu.vn/vieclam/tti-internship-program.2026"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "hyosung-gongchae-program",
+    "year": 2026,
+    "opens_at": "2026-09-28",
+    "deadline": "2026-11-02",
+    "sources": [
+      "https://hyosungjobs.com/gongchae-program",
+      "https://vieclam.ueh.edu.vn/cong-viec/gongchae-program-2026_187452"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "val-young-talent-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-10-15",
+    "sources": [
+      "https://vieclam.ueh.edu.vn/cong-viec/chuong-trinh-tai-nang-tre-val-2026_187387",
+      "https://val-youngtalent.navigos.vn/"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "dksh-vietnam-internship-program",
+    "year": 2026,
+    "opens_at": "2026-08-28",
+    "deadline": "2026-09-30",
+    "sources": [
+      "https://ybox.vn/tuyen-dung/hn-hcm-binh-duong-da-nang-chuong-trinh-tuyen-dung-thuc-tap-sinh-the-dksh-internship-program-dip-tai-tap-doan-dksh-central-service-healthcare-performance-materials-technology-full-time-2026-tro-cap-5-310-000-vnd-thang-6a99964d2ecd7807597cbd8a"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "ey-compass-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-10-23",
+    "sources": [
+      "https://careers.ey.com/ey/job/Ho-Chi-Minh-City-EY-Compass-2026-Scholarship-Program-HCMC-Office/1439857133/",
+      "https://careers.ey.com/ey/job/Ha-Noi-EY-Compass-2026-Scholarship-Program-Hanoi-Office/1443571133/"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "ey-pathway-to-sbl",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-10-23",
+    "sources": [
+      "https://careers.ey.com/ey/job/Ha-Noi-Pathway-to-Strategic-Business-Leader-2026-2027/1442864833/"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "swire-coca-cola-stemx",
+    "year": 2026,
+    "opens_at": "2026-09-17",
+    "deadline": null,
+    "sources": [
+      "https://careersvn.app.swirecocacola.com/job/Ch%C6%B0%C6%A1ng-Tr%C3%ACnh-Th%E1%BB%B1c-T%E1%BA%ADp-Coca-Cola-STEMX-2026-Nh%C3%A0-M%C3%A1y-Mi%E1%BB%81n-B%E1%BA%AFc-%28H%C3%A0-N%E1%BB%99i%29/1283-vi_VN/"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "bvsc-next-gen",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-04-18",
+    "sources": [
+      "https://www.bvsc.com.vn/danhsachbaiviet/next-gen-2026-tu-chung-khoan-bao-viet-chinh-thuc-quay-tro-lai-voi-pham-vi-tuyen-dung-rong-hon/"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "bvbank-new-plus-banker",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-03-01",
+    "sources": [
+      "https://bvbank.talent.vn/job/thuc-tap-sinh-tiem-nang-new-plus-banker-53374"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "upbase-management-trainee",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-03-03",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/upbase-management-trainee-2026-upbase-1202602031759"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "uob-vietnam-management-associate",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-03-13",
+    "sources": [
+      "https://builtin.com/job/2026-uob-vietnam-management-associate-programme/8133783",
+      "https://ybox.vn/tuyen-dung/hcm-chuong-trinh-tuyen-dung-quan-tri-vien-tap-su-management-associate-2026-cua-ngan-hang-quoc-te-united-overseas-bank-uob-696dd8ac58dc4523bc05b0c7"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "generali-genext",
+    "year": 2024,
+    "opens_at": "2024-12-18",
+    "deadline": "2025-01-24",
+    "sources": [
+      "https://generali.talent.vn/job/genext-2025-management-trainee-program-generali-vietnam-2025-8268"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "ey-vietnam-internship-program",
+    "year": 2026,
+    "opens_at": "2026-06-20",
+    "deadline": "2026-07-17",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/ey-internship-program-2027-ey-viet-nam-1202606231545",
+      "https://careers.ey.com/ey/job/Ho-Chi-Minh-City-EY-Internship-Program-2027-Core-Assurance-Services-HCMC-Office/1405470733/"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "kpmg-vietnam-internship-recruitment",
+    "year": 2026,
+    "opens_at": "2026-06-26",
+    "deadline": "2026-08-07",
+    "sources": [
+      "https://kpmg.com/vn/en/careers/internship.html"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "kpmg-vietnam-graduate-recruitment",
+    "year": 2026,
+    "opens_at": "2026-03-09",
+    "deadline": "2026-03-23",
+    "sources": [
+      "https://hvnh.edu.vn/acc/en/adm/kpmg-graduate-recruitment-2026-is-officially-open-for-applications-332.html"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "grant-thornton-vietnam-internship-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-09-17",
+    "sources": [
+      "https://www.grantthornton.com.vn/careers/Internship-program-2027/internship-program-2027-hcmc/",
+      "https://www.grantthornton.com.vn/careers/Internship-program-2027/internship-program-2027-hn/"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "deloitte-vietnam-passport",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-07-11",
+    "sources": [
+      "https://hvnh.edu.vn/acc/en/stu/fy27-deloitte-passport-your-impactful-day-one--328.html",
+      "https://jobs.sea.deloitte.com/job/Ho-Chi-Minh-City-VN-A&A-Deloitte-Passport-FY27-Audit-&-Assurance-HCMC-4th-Year-Student-Ho-C/1362761666/"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "deloitte-amplify-programme",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-09-04",
+    "sources": [
+      "https://www.deloitte.com/southeast-asia/en/careers/explore-your-fit/students/amplify-programme.html"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "forvis-mazars-audit-fresh-graduate-program",
+    "year": 2026,
+    "opens_at": "2026-04-06",
+    "deadline": "2026-05-18",
+    "sources": [
+      "https://careers-asia.forvismazars.com/news/audit-freshgraduate-program-2026/"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "forvis-mazars-student-brand-ambassadors",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-07-26",
+    "sources": [
+      "https://careers-asia.forvismazars.com/news/forvismazars-student-brand-ambassador-2026/"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "crowe-vietnam-internship-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-10-07",
+    "sources": [
+      "https://brochure.crowevietnam.vn/en/careers/internship-program-2026-2027/"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "aasc-chuong-trinh-sinh-vien-thuc-tap",
+    "year": 2026,
+    "opens_at": "2026-09-09",
+    "deadline": "2026-10-15",
+    "sources": [
+      "https://aasc.com.vn/web/index.php/tuyen-dung/thong-tin-thuc-tap/item/952-chuong-trinh-sinh-vien-thuc-tap-nam-2026-2027-cua-hang-kiem-toan-aasc"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "vaco-chuong-trinh-thuc-tap-sinh",
+    "year": 2026,
+    "opens_at": "2026-09-10",
+    "deadline": "2026-10-15",
+    "sources": [
+      "https://vaco.com.vn/vi/tuyen-dung/co-hoi-nghe-nghiep/chuong-trinh-thuc-tap-sinh-nam-2027-n31"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "rsm-vietnam-internship-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-09-30",
+    "sources": [
+      "https://rsmvietnamhcm.talent.vn/job/internship-program-2026-2027-audit-assurance-intern-55783"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "pwc-vietnam-financial-audit-fresh-graduate",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-05-02",
+    "sources": [
+      "https://www.pwc.com/vn/en/careers/campus-careers/graduate-programme.html"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "hsbc-vietnam-graduate-program",
+    "year": 2026,
+    "opens_at": "2026-06-22",
+    "deadline": "2026-07-05",
+    "sources": [
+      "https://hsbc.eightfold.ai/events/candidate/landing?plannedEventId=RB0E6qjm1D",
+      "https://ybox.vn/tuyen-dung/hcm-chuong-trinh-tuyen-dung-graduate-program-cua-tap-doan-tai-chinh-hsbc-vietnam-full-time-2026-6a3b76ecd453ee2a1bcf336e"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "shinhan-internship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-09-10",
+    "sources": [
+      "https://vieclam.nganhang.com/jobs/northern-shinhan-internship-2026-shinhanvn-35ac0205"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "ocb-fresh-bankers",
+    "year": 2025,
+    "opens_at": null,
+    "deadline": null,
+    "status": "closed",
+    "sources": [
+      "https://ocb.com.vn/vi/co-hoi-nghe-nghiep-ocb/chuong-trinh-tuyen-dung"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "ssi-internship-gateway-to-success",
+    "year": 2025,
+    "opens_at": null,
+    "deadline": null,
+    "status": "closed",
+    "sources": [
+      "https://www.ssi.com.vn/tin-tuc/tin-tuc-chung/khoi-dong-chuong-trinh-thuc-tap-sinh-lon-nhat-nam-ssi-internship-2025"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "suntory-pepsico-giam-sat-tai-nang",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-12",
+    "sources": [
+      "https://careers.suntorypepsico.vn/intro?id=173&meta_title=gst2026",
+      "https://careers.suntorypepsico.vn/intro?id=172&meta_title=get2026",
+      "https://jobs.neu.edu.vn/jobs/giam-sat-tai-nang-2026-suntory-pepsico-viet-nam-1202605191727"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "suntory-pepsico-s-tap",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-08-25",
+    "sources": [
+      "https://vieclam.tdc.edu.vn/ban-tin/s-tap-suntory-pepsico-technical-apprentice-program-2026-lan-dau-tien-xuat-hien-cham-ky-thuat-dan-loi-tuong-lai.35A561FC/vi"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "loreal-seedz-management-trainee",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-05-21",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/loreal-seedz-management-trainee-program-2026-loreal-group-1202605051500"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "vinamilk-sales-trainee",
+    "year": 2026,
+    "opens_at": "2026-08-22",
+    "deadline": "2026-09-15",
+    "sources": [
+      "https://careers.vinamilk.com.vn/salestrainee-program",
+      "https://jobs.neu.edu.vn/jobs/vinamilk-sales-trainee-2026-vinamilk-1202608241642"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "milwaukee-leadership-development-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-09-18",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/leadership-development-program-2026-cong-ty-milwaukee-1202609091427"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "highlands-store-manager-trainee",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-10-09",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/store-manager-trainee-program-2026-he-thong-ca-phe-highlands-coffee-1202609211746"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "golden-gate-restaurant-manager-trainee",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-05",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/restaurant-management-trainee-program-2026-golden-gate-restaurant-group-1202605281430"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "honda-vietnam-future-associate",
+    "year": 2026,
+    "opens_at": "2026-06-03",
+    "deadline": "2026-06-18",
+    "sources": [
+      "https://www.honda.com.vn/tuyen-dung/chi-tiet-co-hoi-nghe-nghiep?id=1086"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "aht-graduate-program",
+    "year": 2026,
+    "opens_at": "2026-05-22",
+    "deadline": "2026-06-22",
+    "sources": [
+      "https://danangairport.vn/aht/aht-graduate-program-2026",
+      "https://jobs.neu.edu.vn/jobs/aht-graduate-program-2026-danang-international-terminal-1202605281455"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "marriott-voyage-vietnam",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-07-25",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/voyage-global-leadership-development-program-marriott-international-1202607131517"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "crystal-associate-programme",
+    "year": 2025,
+    "opens_at": "2025-12-10",
+    "deadline": "2026-01-25",
+    "sources": [
+      "https://crystalcareers.vn/",
+      "https://jobs.neu.edu.vn/jobs/chuong-trinh-nha-lanh-dao-tuong-lai-tap-doan-crystal-crystal-associate-programme-2026-crystal-international-group-limited-1202512031518"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "wincommerce-cua-hang-truong-tiem-nang",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-05-10",
+    "sources": [
+      "https://tuyendung.winmart.vn/careers/job/54390"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "sun-group-tech-gen",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-02-23",
+    "sources": [
+      "https://tuyendung.sungroup.com.vn/job/tech-gen-2026-tai-nang-tre-ky-thuat-hang-khong-aircraft-maintenance-management-trainee-program-10759"
+    ],
+    "updated_at": "2026-10-04"
+  },
+  {
+    "program_slug": "vimc-hai-trinh-thu-linh-tre",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-10",
+    "sources": [
+      "https://vimc-lines.com/thong-bao-khoi-dong-chuong-trinh-vimc-management-trainee-hai-trinh-thu-linh-tre-vimc-2026/",
+      "https://jobs.neu.edu.vn/jobs/vimc-management-trainee-hai-trinh-thu-linh-tre-2026-tong-cong-ty-hang-hai-viet-nam-vimc-1202605081528"
+    ],
+    "updated_at": "2026-10-04"
   }
 ]

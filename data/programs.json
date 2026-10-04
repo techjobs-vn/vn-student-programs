@@ -184,7 +184,10 @@
       "Data & AI"
     ],
     "fields": [
-      "tech"
+      "tech",
+      "finance",
+      "business",
+      "general"
     ],
     "duration": "24 tháng",
     "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm; nhánh Technology yêu cầu ngành CNTT/KHMT và tiếng Anh tốt.",
@@ -193,7 +196,7 @@
     "is_visible": true,
     "source": "manual",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-01",
+    "updated_at": "2026-10-04",
     "notes": "Đợt tuyển năm 2026 là khoá TFG 2027 (nhận việc tháng 1/2027). Ngoài nhánh công nghệ còn có Business, Digital, General Management."
   },
   {
@@ -2755,5 +2758,1747 @@
     "added_at": "2026-10-03",
     "updated_at": "2026-10-03",
     "notes": "Không phải thực tập theo đợt: cộng tác nghiên cứu từ xa có trả phí theo quý (mức Master từ khoảng 2.000 USD, Grandmaster từ khoảng 8.000 USD), được xét cho vị trí intern hoặc chính thức tại WorldQuant (văn phòng Hà Nội, TP.HCM). Cuộc thi International Quant Championship hằng năm (vòng loại khoảng tháng 3–5) cũng là đường vào."
+  },
+  {
+    "slug": "abbank-thuc-tap-sinh-thuc-tien",
+    "name": "Chương trình Thực tập sinh thực tiễn ABBANK",
+    "type": "internship",
+    "company": {
+      "name": "Ngân hàng TMCP An Bình (ABBANK)",
+      "slug": null
+    },
+    "official_url": "https://careers.abbank.vn/job/chuong-trinh-thuc-tap-sinh-thuc-tien-nam-2026-10121",
+    "tracks": [
+      "Khách hàng cá nhân",
+      "Khách hàng doanh nghiệp",
+      "Vận hành",
+      "Hỗ trợ",
+      "Nhân sự"
+    ],
+    "fields": [
+      "finance",
+      "operations"
+    ],
+    "duration": "Toàn thời gian, từ 70 ngày trở lên",
+    "eligibility": "Sinh viên đại học dự kiến tốt nghiệp năm 2026 thuộc các ngành Kinh tế, Tài chính - Ngân hàng, Kế toán, Quản trị kinh doanh và ngành liên quan.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "ABBANK còn tuyển 'Chương trình Thực tập sinh Tiềm năng' theo từng chi nhánh (không lương, tuyển liên tục); đây là chương trình khác, chưa thêm vào."
+  },
+  {
+    "slug": "sea-global-management-associate-program",
+    "name": "Sea Global Management Associate Program (Sea Global MAP)",
+    "type": "management_trainee",
+    "company": {
+      "name": "Sea (Shopee / Monee / Garena)",
+      "slug": null
+    },
+    "official_url": "https://seagmap.sea.com/",
+    "tracks": [
+      "Shopee & Monee",
+      "Garena"
+    ],
+    "fields": [
+      "general",
+      "business"
+    ],
+    "duration": "2 năm (4 đợt luân chuyển, mỗi đợt 6 tháng)",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp mọi ngành, dưới 2 năm kinh nghiệm làm việc chính thức, tốt nghiệp chậm nhất tháng 6/2027.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Ở Việt Nam, ứng viên qua vòng 4 trở thành Management Associate tại Shopee Việt Nam (còn gọi là GDP - Graduate Development Program); qua vòng 5 tại Singapore trở thành Global MA. Luân chuyển gồm E-Commerce Operations, Product Management, Marketing, BI, Data Analytics (Shopee) và BD, Risk Management (Monee)."
+  },
+  {
+    "slug": "vinfast-engineering-internship-program",
+    "name": "VinFast Engineering Internship Program (Chương trình Thực tập sinh Lạc Hồng)",
+    "type": "internship",
+    "company": {
+      "name": "VinFast",
+      "slug": null
+    },
+    "official_url": "https://vinfast.zohorecruit.com/jobs/Careers/789504000030114866/2026-INTERNSHIP-PROGRAM-%E2%80%93-ENGINEERING-AUTOMOTIVE-DEVELOPMENT",
+    "tracks": [
+      "Vehicle Development (Phát triển Xe)",
+      "Quality Management (Quản lý Chất lượng)"
+    ],
+    "fields": [
+      "engineering",
+      "tech"
+    ],
+    "duration": "6 tháng",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp các ngành Ô tô, Cơ khí, Điện - Điện tử, Tự động hóa, Nhúng, CNTT hoặc ngành kỹ thuật liên quan; bài đăng IUH yêu cầu GPA từ 3.0/4.0 và IELTS 6.0/TOEIC 650+.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Tên 'Lạc Hồng' (bài HUST) và 'VinFast Engineering Internship Program 2026' (bài IUH) có vẻ là cùng một chương trình: cùng mảng phát triển xe và kiểm soát chất lượng, trợ cấp 5.000.000 VNĐ/tháng, có xe đưa đón. Trang ATS (Hà Nội) liệt kê các vị trí thực tập như Embedded Software, Hardware Engineering, EE Testing, Vehicle Dynamic, Thermal..."
+  },
+  {
+    "slug": "masan-mye-sales",
+    "name": "Masan Young Entrepreneur – Sales Program (MYE Sales)",
+    "type": "management_trainee",
+    "company": {
+      "name": "Masan Consumer",
+      "slug": null
+    },
+    "official_url": "https://careers.masanconsumer.com/content/Masan-Young-Entrepreneur---Sales-Program-/?locale=vi_VN",
+    "tracks": [
+      "GT",
+      "MT",
+      "Shopper"
+    ],
+    "fields": [
+      "business"
+    ],
+    "eligibility": "Sinh viên mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, GPA từ 6.5/10, sẵn sàng làm việc tại các tỉnh thành được chỉ định.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đây là chương trình riêng của Masan Consumer (mùa 2 năm 2026), khác với masan-mye-tech (Masan Group, khối công nghệ) đã có trong dataset. Trang careers.masanconsumer.com.vn bị chặn bằng bước kiểm tra bảo mật nên dùng trang ATS careers.masanconsumer.com; trang này cũng có chương trình 'Masan Graduate Engineer' (chưa đánh giá)."
+  },
+  {
+    "slug": "tiktok-shop-graduate-development-program-vietnam",
+    "name": "TikTok Shop Graduate Development Program (Vietnam)",
+    "type": "graduate",
+    "company": {
+      "name": "TikTok Shop",
+      "slug": null
+    },
+    "official_url": "https://lifeattiktok.com/search/7670922017126074677",
+    "tracks": [
+      "Acquisition and Incubation",
+      "Category and Creator Growth",
+      "Campaign Management",
+      "Platform Operations and Business Intelligence"
+    ],
+    "fields": [
+      "business",
+      "operations"
+    ],
+    "eligibility": "Người sắp hoặc vừa tốt nghiệp cử nhân bất kỳ ngành nào, quan tâm đến thương mại điện tử và vận hành kinh doanh; bắt đầu làm việc từ tháng 6/2027 tại TP.HCM.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Chương trình quản trị viên tập sự luân chuyển 3-4 nhóm; mã tin A92208, kỳ '2027 Start'."
+  },
+  {
+    "slug": "panasonic-fresher-program",
+    "name": "Panasonic Fresher Program",
+    "type": "internship",
+    "company": {
+      "name": "Panasonic Sales Vietnam",
+      "slug": null
+    },
+    "official_url": "https://psvfresher.vn/2026-fresher/",
+    "tracks": [
+      "HVAC Engineering",
+      "Brand & Retail Activation",
+      "Product Marketing",
+      "Digital Commerce"
+    ],
+    "fields": [
+      "engineering",
+      "business"
+    ],
+    "duration": "4 tháng (tháng 6 - tháng 9/2026)",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp dưới 1 năm kinh nghiệm, ngành HVAC/Kỹ thuật nhiệt, Kinh tế, Thương mại điện tử, Marketing hoặc ngành liên quan, GPA từ 6.5/10.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Trang microsite psvfresher.vn được liên kết từ trang tuyển dụng chính thức careers.vn.panasonic.com (SAP SuccessFactors); năm 2026 là năm thứ 4 triển khai."
+  },
+  {
+    "slug": "techcombank-campus-ambassador",
+    "name": "Techcombank Campus Ambassador",
+    "type": "ambassador",
+    "company": {
+      "name": "Techcombank",
+      "slug": null
+    },
+    "official_url": "https://tuyendung.techcombankjobs.com/techcombank-ambassador-2026",
+    "tracks": [
+      "Sáng tạo nội dung",
+      "Truyền thông tuyển dụng",
+      "Tổ chức sự kiện"
+    ],
+    "fields": [
+      "business",
+      "hr"
+    ],
+    "duration": "3 tháng, làm việc từ xa linh hoạt",
+    "eligibility": "Sinh viên muốn tham gia sáng tạo nội dung, truyền thông thương hiệu tuyển dụng và tổ chức sự kiện cùng Techcombank.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đại sứ đồng hành cùng Techcombank Future Gen và Techcombank Career Tour; được mentoring 1:1 hằng tháng và nhận chứng nhận do Chief People Officer ký."
+  },
+  {
+    "slug": "vng-business-development-fresher",
+    "name": "VNG Business Development Fresher (BDF)",
+    "type": "fresher",
+    "company": {
+      "name": "VNG ZingPlay Game Studios (VNG)",
+      "slug": null
+    },
+    "official_url": "https://career.vng.com.vn/danh-cho-sinh-vien/business-development-fresher-2026/",
+    "tracks": [
+      "Business Development"
+    ],
+    "fields": [
+      "business"
+    ],
+    "eligibility": "Sinh viên khối kinh tế hoặc mới tốt nghiệp muốn làm phát triển kinh doanh trong ngành game.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "BDF 2026 là Batch 13; đợt Hà Nội (tháng 3); trợ cấp 12-15 triệu VNĐ/tháng; onboarding ngày 11/05/2026."
+  },
+  {
+    "slug": "pwc-vietnam-internship-programme",
+    "name": "PwC Vietnam Internship Programme",
+    "type": "internship",
+    "company": {
+      "name": "PwC Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://www.pwc.com/vn/vn/careers/campus-careers/internship-programme.html",
+    "tracks": [
+      "Kiểm toán (Financial Audit)"
+    ],
+    "fields": [
+      "audit-consulting"
+    ],
+    "eligibility": "Sinh viên muốn thực tập kiểm toán tại TP.HCM hoặc Hà Nội; phần trang đã đọc không nêu chi tiết điều kiện.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Chương trình đặt tên theo năm thực tập (Internship Programme 2027) nhưng hạn nộp là năm 2026."
+  },
+  {
+    "slug": "teach-for-vietnam-student-ambassador",
+    "name": "Đại sứ Sinh viên Teach For Viet Nam (Leadership Development Fellowship)",
+    "type": "ambassador",
+    "company": {
+      "name": "Giảng dạy vì Việt Nam (Teach For Viet Nam)",
+      "slug": null
+    },
+    "official_url": "https://teachforvietnam.org/mo-don-ung-tuyen-dai-su-sinh-vien-2026-chuong-trinh-leadership-development-fellowship-batch-10/",
+    "fields": [
+      "general"
+    ],
+    "duration": "3 tháng (12/01/2026 - 12/04/2026), 3-5 giờ/tuần",
+    "eligibility": "Ưu tiên sinh viên năm 2-3 quan tâm đến giáo dục và dự án cộng đồng tại các trường đại học miền Nam và miền Trung.",
+    "recurring": "unknown",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đại sứ tình nguyện quảng bá chương trình LDF Batch 10 của tổ chức phi lợi nhuận; ứng viên được ưu tiên khi tuyển dụng tại TFV."
+  },
+  {
+    "slug": "acb-the-next-banker",
+    "name": "The Next Banker",
+    "type": "internship",
+    "company": {
+      "name": "Ngân hàng TMCP Á Châu (ACB)",
+      "slug": null
+    },
+    "official_url": "https://www.acbjobs.com.vn/pages/the-next-banker",
+    "tracks": [
+      "RA | Nhân viên Quan hệ Khách hàng Doanh nghiệp",
+      "RA-CB | Nhân viên Quan hệ Khách hàng Cá nhân",
+      "SA-CB | Nhân viên Dịch vụ Khách hàng Cá nhân",
+      "Nhân viên Phân tích Tín dụng Doanh nghiệp (Hội sở)"
+    ],
+    "fields": [
+      "finance"
+    ],
+    "duration": "4 tháng",
+    "eligibility": "Sinh viên năm cuối khối ngành kinh tế (Tài chính - Ngân hàng, QTKD, Kế toán, Kiểm toán...) dự kiến tốt nghiệp năm 2026-2027.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Tổ chức theo đợt (tháng 09.2026, tháng 01.2027); hơn 10 năm triển khai. Track Phân tích Tín dụng chỉ có trong tin đợt tháng 09 (NEU)."
+  },
+  {
+    "slug": "vib-genv-future-program",
+    "name": "GenV Future Program",
+    "type": "internship",
+    "company": {
+      "name": "Ngân hàng TMCP Quốc tế Việt Nam (VIB)",
+      "slug": null
+    },
+    "official_url": "https://careers.vib.com.vn/careers/job/31667",
+    "tracks": [
+      "Quản lý khách hàng (RM)",
+      "Chuyên viên tư vấn tài chính cá nhân (PB)"
+    ],
+    "fields": [
+      "finance"
+    ],
+    "duration": "3 tháng thực tập + 3 tháng Quản lý khách hàng tập sự",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp năm 2026 chuyên ngành Tài chính - Ngân hàng, Kinh tế hoặc liên quan.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đợt trước (NEU): ứng tuyển 12/02-20/03/2026. Đợt mới nhất trên trang VIB: 18/06-20/07/2026, onboarding 01/08/2026, tuyển 500 người."
+  },
+  {
+    "slug": "central-retail-vietnam-management-associate",
+    "name": "Vietnam Management Associate Program",
+    "type": "management_trainee",
+    "company": {
+      "name": "Central Retail Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://www.ma-centralretailvn.com/",
+    "tracks": [
+      "Luân chuyển các bộ phận kinh doanh chủ chốt",
+      "6 tháng làm việc tại Thái Lan"
+    ],
+    "fields": [
+      "general",
+      "business"
+    ],
+    "duration": "2 năm",
+    "eligibility": "Sinh viên mới tốt nghiệp hoặc người đi làm dưới 3 năm kinh nghiệm, đam mê bán lẻ và có tiếng Anh tốt.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Khóa MA đầu tiên từ 2018; tuyển chọn tháng 9-11/2026, onboarding tháng 01/2027."
+  },
+  {
+    "slug": "f88-next-gen",
+    "name": "F88 NextGEN (Quản trị viên tiềm năng)",
+    "type": "management_trainee",
+    "company": {
+      "name": "F88",
+      "slug": null
+    },
+    "official_url": "https://nhansu.f88.vn/f88nextgen",
+    "tracks": [
+      "Tài chính Quản trị",
+      "Phát triển Sản phẩm",
+      "Quản lý Dự án",
+      "Phát triển Đối tác",
+      "Quản trị Rủi ro",
+      "Phát triển Con người",
+      "Kế hoạch và Quản lý Hiệu quả Kinh doanh",
+      "Phân khúc Khách hàng",
+      "Tăng trưởng Khách hàng",
+      "Truyền thông Thương hiệu"
+    ],
+    "fields": [
+      "general",
+      "finance",
+      "business"
+    ],
+    "duration": "24 tháng",
+    "eligibility": "Sinh viên năm cuối hoặc người dưới 2 năm kinh nghiệm, GPA từ 7.0/10, tiếng Anh thành thạo, ngành Fintech/Tài chính/CNTT/Quản trị dữ liệu hoặc có đam mê Fintech.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Khác chương trình f88-it-freshers. Có thể vào qua cuộc thi FINNOVA 2026 (chung kết 05/06/2026). NEU ghi hạn 30/04/2026, trang F88 ghi 03/05/2026."
+  },
+  {
+    "slug": "fpt-digital-future-business-leaders-program",
+    "name": "Future Business Leaders Program",
+    "type": "management_trainee",
+    "company": {
+      "name": "FPT Digital",
+      "slug": null
+    },
+    "official_url": "https://digital.fpt.com/leaders-program",
+    "tracks": [
+      "Strategic Business Development",
+      "Strategic Marketing & Go-to-Market"
+    ],
+    "fields": [
+      "business",
+      "audit-consulting"
+    ],
+    "duration": "24-36 tháng",
+    "eligibility": "Sinh viên mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, ưu tiên GPA 3.0/4.0, nền tảng Kinh doanh/Kinh tế/Marketing/Tài chính/Công nghệ/Khoa học dữ liệu, tiếng Anh thành thạo.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Lần đầu tiên FPT Digital triển khai (2026); làm việc tại Hà Nội và TP.HCM; thu nhập từ 18 triệu/tháng; onboarding tháng 8/2026."
+  },
+  {
+    "slug": "heineken-vietnam-nextgen",
+    "name": "HEINEKEN Vietnam NextGen",
+    "type": "management_trainee",
+    "company": {
+      "name": "HEINEKEN Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://careers.theheinekencompany.com/English/HEINEKEN-Vietnam",
+    "tracks": [
+      "Sales",
+      "Marketing"
+    ],
+    "fields": [
+      "business"
+    ],
+    "duration": "18 tháng",
+    "eligibility": "Tốt nghiệp ngành Kinh doanh/Marketing/Truyền thông hoặc liên quan, GPA từ 7.0/10, mới ra trường hoặc dưới 2 năm kinh nghiệm, thành thạo tiếng Việt và tiếng Anh.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đợt 2026 là NextGen Commerce (Sales & Marketing); offer tháng 8, bắt đầu tháng 9/2026. Link nộp đơn qua forms.cloud.microsoft."
+  },
+  {
+    "slug": "carlsberg-asia-graduate-trainee-program",
+    "name": "Carlsberg Asia Graduate Trainee Program",
+    "type": "graduate",
+    "company": {
+      "name": "Carlsberg Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://carlsbergvietnam.vn/vi/nghe-nghiep/carlsbergasiagtp26/",
+    "tracks": [
+      "Finance",
+      "Marketing",
+      "People & Culture",
+      "Trade Marketing",
+      "HSSE",
+      "Procurement"
+    ],
+    "fields": [
+      "finance",
+      "business",
+      "hr",
+      "operations"
+    ],
+    "duration": "2 năm",
+    "eligibility": "Sinh viên năm cuối, mới tốt nghiệp hoặc dưới 2 năm kinh nghiệm, GPA từ 7.0/10, tiếng Anh tốt, sẵn sàng luân chuyển trong và ngoài nước.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Địa điểm: văn phòng TP.HCM và nhà máy Huế."
+  },
+  {
+    "slug": "suntory-pepsico-management-trainee",
+    "name": "Suntory PepsiCo Management Trainee Program",
+    "type": "management_trainee",
+    "company": {
+      "name": "Suntory PepsiCo Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://careers.suntorypepsico.vn/intro?id=171&meta_title=MT2026",
+    "tracks": [
+      "Sales",
+      "Marketing",
+      "Operations",
+      "Finance",
+      "People & Culture"
+    ],
+    "fields": [
+      "business",
+      "operations",
+      "finance",
+      "hr"
+    ],
+    "duration": "36 tháng (18 tháng luân chuyển + 18 tháng tại home function)",
+    "eligibility": "Quốc tịch Việt Nam, đã tốt nghiệp cử nhân/thạc sĩ hoặc tối đa 2 năm kinh nghiệm, GPA trên 7.0/10, tiếng Anh thành thạo.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "MT 2026 onboard tháng 03/2026. Chưa thấy trang chính thức nào của đợt MT 2027."
+  },
+  {
+    "slug": "epi-internship-program",
+    "name": "EPI Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "EPI Technologies (Công ty CP Tập đoàn Công nghệ EPI Việt Nam)",
+      "slug": null
+    },
+    "official_url": "https://epi-tech.com.vn/en/careers/epi-internship-program-2026/",
+    "tracks": [
+      "Sales Admin",
+      "Sales Admin – Operation",
+      "FAE (Kỹ sư ứng dụng)",
+      "Technical sales",
+      "Marketing",
+      "Sourcing",
+      "Quality Control",
+      "IM-EX (Xuất nhập khẩu)",
+      "HR (Tuyển dụng)",
+      "Accounting (Kế toán)"
+    ],
+    "fields": [
+      "business",
+      "operations",
+      "hr",
+      "finance",
+      "engineering"
+    ],
+    "duration": "Tối thiểu 3 tháng full-time",
+    "eligibility": "Sinh viên năm cuối các trường tại Hà Nội ngành Kinh tế, Kỹ thuật, Logistics, Tài chính, Kế toán, Nhân sự, QTKD, GPA từ 3.0/4.0 (trừ khối Kỹ thuật).",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đợt tháng 8 (NEU + trang EPI): nộp đơn 13-18/8/2026, phỏng vấn 20-25/8, bắt đầu 4/9/2026. Tin YBox (Tuyển dụng, Kế toán, Kiểm tra chất lượng) ghi hạn 9/10/2026, nhiều khả năng là đợt bổ sung. Trợ cấp 3 triệu/tháng. Có EPI Internship Program 2025."
+  },
+  {
+    "slug": "jabil-vietnam-eit",
+    "name": "Jabil Vietnam Employee-In-Training (EIT) Program",
+    "type": "graduate",
+    "company": {
+      "name": "Jabil Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://jobs.jabil.com/en/job/ho-chi-minh-city/eit-hr-generalist-talent-acquisition/626/100115212976",
+    "tracks": [
+      "Engineering & Project",
+      "Supply Chain",
+      "Human Resources"
+    ],
+    "fields": [
+      "engineering",
+      "operations",
+      "hr"
+    ],
+    "duration": "12 tháng",
+    "eligibility": "Sinh viên mới tốt nghiệp hoặc dưới 1 năm kinh nghiệm, GPA từ 7.0/10 (2.5/4), tiếng Anh tốt.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Các vị trí EIT: TE/QE/ME/IE Engineer, Inventory Analyst, Planner, Buyer, HR Generalist (L&D, Talent Acquisition); làm tại TP.HCM."
+  },
+  {
+    "slug": "tti-vietnam-internship-program",
+    "name": "TTI Vietnam Internship Program (12-week Summer Internship)",
+    "type": "internship",
+    "company": {
+      "name": "Techtronic Industries (TTI) Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://www.ttigroup.com/en/careers/ecp",
+    "tracks": [
+      "Engineering",
+      "Supply Chain Management",
+      "Production",
+      "Automation",
+      "EHS & ESG"
+    ],
+    "fields": [
+      "engineering",
+      "operations"
+    ],
+    "duration": "12 tuần",
+    "eligibility": "Sinh viên năm 2, năm 3, năm cuối hoặc mới tốt nghiệp.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Hơn 70 vị trí, lương 6 triệu/tháng; nằm trong Early Careers Program của TTI Vietnam (cùng Leadership Development Program)."
+  },
+  {
+    "slug": "hyosung-gongchae-program",
+    "name": "Hyosung & HS Hyosung Gongchae Program",
+    "type": "fresher",
+    "company": {
+      "name": "Hyosung & HS Hyosung Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://hyosungjobs.com/gongchae-program",
+    "tracks": [
+      "Production Engineer",
+      "QA Engineer (Chemical)",
+      "QC Engineer (Mechanical)",
+      "Design Engineer",
+      "Packaging Engineer",
+      "Purchasing Staff",
+      "Import Staff",
+      "Export/Domestic Sales Staff",
+      "Korean Language Staff",
+      "Chinese Sales Staff",
+      "Motor Sales Engineer",
+      "Technical Service Engineer"
+    ],
+    "fields": [
+      "engineering",
+      "operations",
+      "business"
+    ],
+    "eligibility": "Sinh viên sắp/đã tốt nghiệp đại học hoặc dưới 2 năm kinh nghiệm, ngành kỹ thuật, kinh tế, ngôn ngữ.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Chương trình tuyển dụng định kỳ 2 lần/năm (tháng 4 và tháng 11), 50 vị trí tại Nhơn Trạch (Đồng Nai) và TP.HCM, có onboarding & mentoring."
+  },
+  {
+    "slug": "val-young-talent-program",
+    "name": "VAL Young Talent Program (Chương trình Tài năng Trẻ VAL)",
+    "type": "graduate",
+    "company": {
+      "name": "Vietnam Agribusiness Limited (VAL)",
+      "slug": null
+    },
+    "official_url": "https://val-youngtalent.navigos.vn/",
+    "tracks": [
+      "Finance & Accountant",
+      "Logistic"
+    ],
+    "fields": [
+      "finance",
+      "operations"
+    ],
+    "duration": "12 tháng",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp dưới 1,5 năm kinh nghiệm, GPA từ 2.8/4.0 (7.0/10), TOEIC 750+/IELTS 7.0+.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Trang chính thức là cổng ứng tuyển do Navigos vận hành cho VAL (VAL dẫn tới cổng này trong tin tuyển dụng); không phải domain riêng của VAL. Cổng ghi giai đoạn nộp đơn 'Sep - 10 Oct', phỏng vấn trước 20/10, final trước 31/10, onboard 11/2026; tin UEH ghi hạn 15/10/2026 (có thể đã gia hạn)."
+  },
+  {
+    "slug": "dksh-vietnam-internship-program",
+    "name": "DKSH Vietnam Internship Program (DIP)",
+    "type": "internship",
+    "company": {
+      "name": "DKSH Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://www.dksh.com/vn-vi/home/careers/early-careers",
+    "tracks": [
+      "Ecommerce",
+      "Kinh doanh và khách hàng",
+      "Marketing",
+      "Vận hành và chuỗi cung ứng",
+      "Kỹ thuật",
+      "Khối hỗ trợ (HR, Finance, AI & Automation, BI & Business Solutions)"
+    ],
+    "fields": [
+      "business",
+      "operations",
+      "engineering",
+      "finance",
+      "hr",
+      "tech"
+    ],
+    "duration": "3 tháng",
+    "eligibility": "Sinh viên năm 3, năm 4 (ưu tiên năm cuối) có thể thực tập toàn thời gian tại TP.HCM, Bình Dương hoặc Đà Nẵng.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Có nhiều đợt mỗi năm (tháng 3, tháng 7, tháng 10). Trang early-careers của DKSH Việt Nam mô tả chương trình thực tập (áp dụng cho Việt Nam) nhưng không ghi ngày; ngày lấy từ tin YBox đợt tháng 10/2026, trợ cấp 5.310.000 VNĐ/tháng."
+  },
+  {
+    "slug": "ey-compass-scholarship",
+    "name": "EY Compass Scholarship Program",
+    "type": "internship",
+    "company": {
+      "name": "EY Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://careers.ey.com/ey/job/Ho-Chi-Minh-City-EY-Compass-2026-Scholarship-Program-HCMC-Office/1439857133/",
+    "fields": [
+      "audit-consulting",
+      "finance"
+    ],
+    "eligibility": "Sinh viên năm 3 ngành kế toán, kiểm toán, ngân hàng, kinh tế, kinh doanh, quản trị kinh doanh, điểm TB từ 7.0/10 (Hà Nội) hoặc 7.5/10 (TP.HCM), hoặc 3.0/4.0.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Học bổng kèm thực tập toàn thời gian tại EY Việt Nam, cơ hội nhận việc chính thức; tuyển ở cả văn phòng Hà Nội và TP.HCM."
+  },
+  {
+    "slug": "ey-pathway-to-sbl",
+    "name": "Pathway to Strategic Business Leader (SBL)",
+    "type": "internship",
+    "company": {
+      "name": "EY Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://careers.ey.com/ey/job/Ha-Noi-Pathway-to-Strategic-Business-Leader-2026-2027/1442864833/",
+    "fields": [
+      "audit-consulting",
+      "finance"
+    ],
+    "eligibility": "Sinh viên năm 3 Đại học Kinh tế Quốc dân (ưu tiên Viện Kế toán Kiểm toán, Viện Ngân hàng Tài chính, Chương trình tiên tiến), điểm TB năm 2 trên 7.0/10 hoặc 3.0/4.0.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Học bổng EY – ACCA – NEU (tới 20 triệu đồng, phí thi ACCA), kèm thực tập tại EY Việt Nam và cơ hội nhận việc chính thức."
+  },
+  {
+    "slug": "swire-coca-cola-stemx",
+    "name": "Chương trình Thực tập Coca-Cola STEMX",
+    "type": "internship",
+    "company": {
+      "name": "Swire Coca-Cola Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://careersvn.app.swirecocacola.com/job/Ch%C6%B0%C6%A1ng-Tr%C3%ACnh-Th%E1%BB%B1c-T%E1%BA%ADp-Coca-Cola-STEMX-2026-Nh%C3%A0-M%C3%A1y-Mi%E1%BB%81n-B%E1%BA%AFc-%28H%C3%A0-N%E1%BB%99i%29/1283-vi_VN/",
+    "tracks": [
+      "Vận Hành Sản Xuất",
+      "Kiểm Soát Chất Lượng - QA/QC"
+    ],
+    "fields": [
+      "engineering",
+      "operations"
+    ],
+    "duration": "3 tháng",
+    "eligibility": "Sinh viên năm cuối Cao đẳng/Đại học khối ngành STEM, có giấy giới thiệu thực tập, GPA từ 6.5/10, làm việc tại nhà máy Coca-Cola miền Bắc (Hà Nội).",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Bài đăng cho nhà máy miền Bắc; chương trình 'chính thức trở lại' mùa 2026, có cơ hội thành nhân viên chính thức. Không ghi hạn nộp."
+  },
+  {
+    "slug": "bvsc-next-gen",
+    "name": "BVSC Next Gen",
+    "type": "fresher",
+    "company": {
+      "name": "Chứng khoán Bảo Việt (BVSC)",
+      "slug": null
+    },
+    "official_url": "https://www.bvsc.com.vn/danhsachbaiviet/next-gen-2026-tu-chung-khoan-bao-viet-chinh-thuc-quay-tro-lai-voi-pham-vi-tuyen-dung-rong-hon/",
+    "tracks": [
+      "Chuyên viên Tư vấn đầu tư khách hàng cá nhân"
+    ],
+    "fields": [
+      "finance",
+      "business"
+    ],
+    "duration": "3 tháng",
+    "eligibility": "Sinh viên năm cuối/chờ bằng tốt nghiệp khối Tài chính, Kinh tế, Quản trị kinh doanh (hoặc người đi làm muốn chuyển nghề), tham gia toàn thời gian từ tháng 5/2026.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Năm thứ 7 của chương trình; 1 tháng đào tạo + 2 tháng thực chiến, có lương 3–6 triệu/tháng, ưu tiên tuyển chính thức. Trang đã tải được qua fetch."
+  },
+  {
+    "slug": "bvbank-new-plus-banker",
+    "name": "Thực tập sinh tiềm năng New Plus Banker",
+    "type": "internship",
+    "company": {
+      "name": "Ngân hàng Bản Việt (BVBank)",
+      "slug": null
+    },
+    "official_url": "https://bvbank.talent.vn/job/thuc-tap-sinh-tiem-nang-new-plus-banker-53374",
+    "tracks": [
+      "Nhân viên Quan hệ khách hàng Cá nhân",
+      "Nhân viên Quan hệ khách hàng Doanh nghiệp",
+      "Nhân viên Dịch vụ khách hàng"
+    ],
+    "fields": [
+      "finance",
+      "business"
+    ],
+    "eligibility": "Sinh viên năm 3, 4 hoặc chờ xét tốt nghiệp Cao đẳng/Đại học khu vực TP.HCM và Hà Nội, khối ngành kinh tế hoặc Tài chính - Ngân hàng.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Có phụ cấp hàng tháng và hoa hồng; cơ hội thành nhân viên chính thức."
+  },
+  {
+    "slug": "upbase-management-trainee",
+    "name": "UpBase Management Trainee",
+    "type": "management_trainee",
+    "company": {
+      "name": "UpBase",
+      "slug": null
+    },
+    "official_url": "https://upbase.asia/careers",
+    "tracks": [
+      "E-Commerce",
+      "Công nghệ",
+      "Chuyển đổi số",
+      "Operation"
+    ],
+    "fields": [
+      "business",
+      "tech",
+      "operations"
+    ],
+    "duration": "Tối thiểu 6 tháng",
+    "eligibility": "Sinh viên năm cuối hoặc cử nhân mới tốt nghiệp loại Giỏi/Xuất sắc khối ngành Kinh tế hoặc Công nghệ.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Trang careers của UpBase chỉ liệt kê 'Management Trainee 2026' (Hà Nội); chi tiết và hạn nộp lấy từ cổng việc làm NEU. Luân chuyển tối thiểu 2 tháng/phòng ban."
+  },
+  {
+    "slug": "uob-vietnam-management-associate",
+    "name": "UOB Vietnam Management Associate Programme",
+    "type": "management_trainee",
+    "company": {
+      "name": "UOB Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://www.uobgroup.com/careers-vn/early-careers/index.page",
+    "tracks": [
+      "Personal Financial Services"
+    ],
+    "fields": [
+      "finance"
+    ],
+    "duration": "24 tháng",
+    "eligibility": "Cử nhân đại học (ưu tiên Tài chính, Ngân hàng, Kế toán, Kinh tế, Quản trị kinh doanh), tối đa 2 năm kinh nghiệm, tiếng Anh lưu loát.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Trang Khởi đầu sự nghiệp UOB Việt Nam nêu 'Chương Trình Quản Trị Viên Tập Sự' 24 tháng, hiện đã đóng đơn. Mùa 2026 chỉ mở home division Personal Financial Services; nhập khóa giữa tháng 7/2026. Link Workday gốc không còn."
+  },
+  {
+    "slug": "generali-genext",
+    "name": "Genext Challenge – Management Trainee Program",
+    "type": "management_trainee",
+    "company": {
+      "name": "Generali Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://generali.talent.vn/job/genext-2025-management-trainee-program-generali-vietnam-2025-8268",
+    "tracks": [
+      "Marketing",
+      "Operations (Nghiệp vụ Bảo hiểm)",
+      "Distribution Planning & Analytics",
+      "Partnership Distribution"
+    ],
+    "fields": [
+      "finance",
+      "business",
+      "operations"
+    ],
+    "eligibility": "Sinh viên mới tốt nghiệp có dưới 2 năm kinh nghiệm, tiếng Anh lưu loát, làm việc tại TP.HCM.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Chu kỳ mới nhất tìm được là Genext 2025 (mở 18/12/2024); không tìm thấy mùa Genext 2026 trên generali.talent.vn hay qua tìm kiếm."
+  },
+  {
+    "slug": "ey-vietnam-internship-program",
+    "name": "EY Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "EY Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://careers.ey.com/ey/job/Ho-Chi-Minh-City-EY-Internship-Program-2027-Core-Assurance-Services-HCMC-Office/1405470733/",
+    "tracks": [
+      "Core Assurance",
+      "Financial Services Assurance",
+      "Tax Services"
+    ],
+    "fields": [
+      "audit-consulting",
+      "finance"
+    ],
+    "eligibility": "Sinh viên muốn thực tập tại văn phòng EY Hà Nội hoặc TP.HCM ở các mảng kiểm toán và thuế.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đợt 2027: nộp đơn 20/6–17/7/2026, bài test 25–26/7, phỏng vấn 30/7–21/8. Trang tuyển dụng EY hiện báo tin đã đóng."
+  },
+  {
+    "slug": "kpmg-vietnam-internship-recruitment",
+    "name": "KPMG Internship Recruitment",
+    "type": "internship",
+    "company": {
+      "name": "KPMG Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://kpmg.com/vn/en/careers/internship.html",
+    "tracks": [
+      "Audit",
+      "Tax",
+      "Legal",
+      "Deals - M&A Tax"
+    ],
+    "fields": [
+      "audit-consulting",
+      "finance"
+    ],
+    "eligibility": "Sinh viên năm cuối muốn thực tập tại KPMG Việt Nam.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đợt 2027 chia 2 giai đoạn: Audit/Tax từ 26/6 đến 14/7/2026; Legal/Deals - M&A Tax từ 24/7 đến 7/8/2026."
+  },
+  {
+    "slug": "kpmg-vietnam-graduate-recruitment",
+    "name": "KPMG Graduate Recruitment",
+    "type": "graduate",
+    "company": {
+      "name": "KPMG Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://kpmg.com/vn/en/careers/graduate.html",
+    "tracks": [
+      "Audit",
+      "Tax",
+      "Consulting",
+      "Legal"
+    ],
+    "fields": [
+      "audit-consulting",
+      "finance"
+    ],
+    "eligibility": "Sinh viên mới tốt nghiệp thuộc mọi chuyên ngành.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đợt 2026 nhận hồ sơ từ 19:00 ngày 9/3 đến 23:59 ngày 23/3/2026 qua recruiting.kpmg.com.vn. Một đoạn trích tìm kiếm trên Facebook ghi 27/3, nhưng đó là trang KPMG Cambodia nên không dùng."
+  },
+  {
+    "slug": "grant-thornton-vietnam-internship-program",
+    "name": "Grant Thornton Vietnam Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "Grant Thornton Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://www.grantthornton.com.vn/careers/Internship-program-2027/",
+    "tracks": [
+      "Audit Intern",
+      "Tax Intern"
+    ],
+    "fields": [
+      "audit-consulting",
+      "finance"
+    ],
+    "duration": "Tối thiểu 3 tháng, từ tháng 1 đến tháng 3/2027",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành kế toán, kiểm toán, thuế hoặc kinh tế tài chính, thông thạo tiếng Anh; văn phòng Hà Nội yêu cầu điểm trung bình từ 7.0.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Hạn nộp: Audit Intern HCM và HN ngày 11/9/2026; Tax Intern HN ngày 17/9/2026. Có Fast Track cho học viên ACCA, ICAEW, ISCA. Đợt 2026 trước đó hết hạn 17/9/2025."
+  },
+  {
+    "slug": "deloitte-vietnam-passport",
+    "name": "Deloitte Passport",
+    "type": "internship",
+    "company": {
+      "name": "Deloitte Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://jobs.sea.deloitte.com/job/Ho-Chi-Minh-City-VN-A&A-Deloitte-Passport-FY27-Audit-&-Assurance-HCMC-4th-Year-Student-Ho-C/1362761666/",
+    "tracks": [
+      "Audit & Assurance",
+      "Tax Advisory Services",
+      "Customs & Global Trade Advisory",
+      "Accounting & Business Solutions",
+      "Legal Services"
+    ],
+    "fields": [
+      "audit-consulting",
+      "finance"
+    ],
+    "eligibility": "Sinh viên năm 4 (tốt nghiệp 2027) và năm 3 (tốt nghiệp 2028); riêng mảng Tax & Legal chỉ nhận sinh viên năm 4.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đợt FY27 hết hạn 23:59 ngày 11/7/2026. Trang ATS hiện báo vị trí đã tuyển đủ."
+  },
+  {
+    "slug": "deloitte-amplify-programme",
+    "name": "Deloitte Amplify Programme",
+    "type": "internship",
+    "company": {
+      "name": "Deloitte Đông Nam Á (Việt Nam)",
+      "slug": null
+    },
+    "official_url": "https://www.deloitte.com/southeast-asia/en/careers/explore-your-fit/students/amplify-programme.html",
+    "tracks": [
+      "Audit & Assurance",
+      "Strategy, Risk & Transactions",
+      "Tax & Legal",
+      "Technology & Transformation"
+    ],
+    "fields": [
+      "audit-consulting",
+      "finance",
+      "tech"
+    ],
+    "duration": "12 tuần",
+    "eligibility": "Người mới tốt nghiệp có dưới 3 năm kinh nghiệm, không còn đi học và đủ điều kiện làm việc tại nước ứng tuyển, kể cả Hà Nội và TP.HCM.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Có hai đợt mỗi năm (tháng 3/4 và tháng 9). Đợt tháng 9/2026 hết hạn 4/9/2026 và thực tập từ 21/9 đến 11/12/2026."
+  },
+  {
+    "slug": "forvis-mazars-audit-fresh-graduate-program",
+    "name": "Forvis Mazars Audit Fresh Graduate Program",
+    "type": "fresher",
+    "company": {
+      "name": "Forvis Mazars Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://careers-asia.forvismazars.com/news/audit-freshgraduate-program-2026/",
+    "tracks": [
+      "Audit Assistant – Audit & Assurance"
+    ],
+    "fields": [
+      "audit-consulting"
+    ],
+    "eligibility": "Cử nhân ngành kiểm toán, kế toán, tài chính, kinh tế hoặc ngành liên quan, sử dụng tốt tiếng Anh.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Nhận hồ sơ qua form Google cho văn phòng Hà Nội và TP.HCM. Trước đây đã có Mazars Fresh Graduate Program 2022."
+  },
+  {
+    "slug": "forvis-mazars-student-brand-ambassadors",
+    "name": "Forvis Mazars Student Brand Ambassadors",
+    "type": "ambassador",
+    "company": {
+      "name": "Forvis Mazars Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://careers-asia.forvismazars.com/news/forvismazars-student-brand-ambassador-2026/",
+    "tracks": [
+      "Student Brand Ambassador (TP.HCM)"
+    ],
+    "fields": [
+      "audit-consulting",
+      "business"
+    ],
+    "eligibility": "Sinh viên năm 2 hoặc năm 3 tại TP.HCM, tích cực hoạt động câu lạc bộ; ưu tiên người theo ACCA, ICAEW, CPA Australia hoặc CFA.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Nhiệm kỳ 26/27. Có phụ cấp định kỳ và cơ hội thực tập hoặc việc làm. Đăng ký qua form Google. Trước đó đã có nhiệm kỳ 23/24."
+  },
+  {
+    "slug": "crowe-vietnam-internship-program",
+    "name": "Crowe Vietnam Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "Crowe Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://brochure.crowevietnam.vn/en/careers/internship-program-2026-2027/",
+    "tracks": [
+      "Audit"
+    ],
+    "fields": [
+      "audit-consulting"
+    ],
+    "duration": "Từ tháng 11/2026 đến cuối tháng 3/2027",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành kiểm toán, kế toán, tài chính, kinh tế, tiếng Anh tốt; ưu tiên người đang học ACCA, CPA Australia hoặc ICAEW.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đợt 2026-2027 nhận hồ sơ đến 17:59 ngày 7/10/2026 cho cả Hà Nội và TP.HCM, hiện vẫn đang mở. Có Fast Track cho học viên ACCA, ICAEW, ISCA, SAPP."
+  },
+  {
+    "slug": "aasc-chuong-trinh-sinh-vien-thuc-tap",
+    "name": "Chương trình Sinh viên thực tập Hãng Kiểm toán AASC",
+    "type": "internship",
+    "company": {
+      "name": "Hãng Kiểm toán AASC",
+      "slug": null
+    },
+    "official_url": "https://aasc.com.vn/web/index.php/tuyen-dung/thong-tin-thuc-tap/item/952-chuong-trinh-sinh-vien-thuc-tap-nam-2026-2027-cua-hang-kiem-toan-aasc",
+    "tracks": [
+      "Kiểm toán"
+    ],
+    "fields": [
+      "audit-consulting"
+    ],
+    "duration": "Dự kiến từ tháng 12/2026 đến tháng 4/2027",
+    "eligibility": "Sinh viên năm cuối ngành kế toán, kiểm toán, tài chính doanh nghiệp của các trường đại học công lập, điểm trung bình 6 học kỳ từ 7.0 (nữ) hoặc 6.5 (nam).",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Nhận hồ sơ trực tuyến từ 9/9 đến 15/10/2026, áp dụng cho Hà Nội, Quảng Ninh và TP.HCM. Hiện vẫn đang mở."
+  },
+  {
+    "slug": "vaco-chuong-trinh-thuc-tap-sinh",
+    "name": "Chương trình thực tập sinh VACO",
+    "type": "internship",
+    "company": {
+      "name": "Công ty TNHH Kiểm toán VACO",
+      "slug": null
+    },
+    "official_url": "https://vaco.com.vn/vi/tuyen-dung/co-hoi-nghe-nghiep/chuong-trinh-thuc-tap-sinh-nam-2027-n31",
+    "tracks": [
+      "Kiểm toán BCTC",
+      "Kiểm toán quyết toán vốn đầu tư dự án",
+      "Kế toán",
+      "Thuế",
+      "Thẩm định giá"
+    ],
+    "fields": [
+      "audit-consulting",
+      "finance",
+      "engineering"
+    ],
+    "duration": "Dự kiến từ giữa tháng 11/2026 đến tháng 4/2027",
+    "eligibility": "Sinh viên năm cuối hệ chính quy của các trường đại học công lập, ngành kế toán, kiểm toán, tài chính doanh nghiệp, thuế, thẩm định giá (riêng mảng kiểm toán dự án nhận ngành kỹ thuật xây dựng), điểm trung bình từ 7.0.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đợt 2027 nhận hồ sơ qua email từ 10/9 đến 15/10/2026, hiện vẫn đang mở."
+  },
+  {
+    "slug": "rsm-vietnam-internship-program",
+    "name": "RSM Vietnam Internship Program",
+    "type": "internship",
+    "company": {
+      "name": "RSM Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://rsmvietnamhcm.talent.vn/job/internship-program-2026-2027-audit-assurance-intern-55783",
+    "tracks": [
+      "Audit & Assurance",
+      "Tax & Consulting"
+    ],
+    "fields": [
+      "audit-consulting"
+    ],
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp ngành kiểm toán, kế toán hoặc ngành liên quan; người đã thi đạt môn ACCA được miễn một số vòng.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Trang ATS ghi hạn nộp '21/09 — 30/09/2026' (TP.HCM và Đà Nẵng). Tin đã được đăng lại từ 8/9/2026 nên ngày mở chưa chắc chắn."
+  },
+  {
+    "slug": "pwc-vietnam-financial-audit-fresh-graduate",
+    "name": "PwC Financial Audit Fresh Graduate",
+    "type": "fresher",
+    "company": {
+      "name": "PwC Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://www.pwc.com/vn/en/careers/campus-careers/graduate-programme.html",
+    "tracks": [
+      "Financial Audit"
+    ],
+    "fields": [
+      "audit-consulting",
+      "finance"
+    ],
+    "eligibility": "Sinh viên mới tốt nghiệp ngành kế toán, kiểm toán, tài chính, ngân hàng, quản trị kinh doanh, kinh tế, đã có kinh nghiệm thực tập kiểm toán, kế toán hoặc liên quan.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Tuyển cho văn phòng Hà Nội và TP.HCM, hạn 2/5/2026. Khác chương trình PwC Internship Programme (đã có trong danh sách loại)."
+  },
+  {
+    "slug": "hsbc-vietnam-graduate-program",
+    "name": "HSBC Viet Nam Graduate Program",
+    "type": "graduate",
+    "company": {
+      "name": "HSBC Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://hsbc.eightfold.ai/events/candidate/landing?plannedEventId=RB0E6qjm1D",
+    "tracks": [
+      "CIB Banking Management Associate",
+      "GCOO Management Associate",
+      "Premier Wealth Relationship Management Associate",
+      "Risk and Compliance Management Associate"
+    ],
+    "fields": [
+      "finance",
+      "operations",
+      "business"
+    ],
+    "duration": "24 tháng luân chuyển",
+    "eligibility": "Người mới tốt nghiệp có dưới 2 năm kinh nghiệm, thông thạo tiếng Anh và tiếng Việt.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Vị trí Management Associate mở nhận hồ sơ từ 22/6/2026, hạn 5/7/2026. Trang chính thức tìm được chỉ là trang webinar trên ATS của HSBC; các tin tuyển trên portal.careers.hsbc.com đã trả về 404."
+  },
+  {
+    "slug": "shinhan-internship",
+    "name": "Shinhan Internship",
+    "type": "internship",
+    "company": {
+      "name": "Ngân hàng Shinhan Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://shinhancareer.com/job/northern-shinhan-internship-2026.35ac0205.html",
+    "tracks": [
+      "Miền Bắc (Northern)",
+      "Miền Nam (Southern)"
+    ],
+    "fields": [
+      "finance"
+    ],
+    "eligibility": "Sinh viên đại học muốn trải nghiệm thực tế hoạt động ngân hàng tại Shinhan Bank Việt Nam.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đợt 2026 đăng ngày 23/8/2026, hạn 10/9/2026 theo trang tổng hợp. Các đoạn trích tìm kiếm của shinhancareer.com ghi 11/09 và 30/09/2026 (có thể đã gia hạn). Tin trên trang chính thức hiện đã hết hạn. Năm 2025 cũng có đợt Shinhan Internship."
+  },
+  {
+    "slug": "ocb-fresh-bankers",
+    "name": "OCB Fresh Bankers",
+    "type": "fresher",
+    "company": {
+      "name": "Ngân hàng TMCP Phương Đông (OCB)",
+      "slug": null
+    },
+    "official_url": "https://ocb.com.vn/vi/co-hoi-nghe-nghiep-ocb/chuong-trinh-tuyen-dung",
+    "tracks": [
+      "Ngân hàng (tập sự)"
+    ],
+    "fields": [
+      "finance"
+    ],
+    "eligibility": "Sinh viên mới tốt nghiệp muốn bắt đầu sự nghiệp ngân hàng tại OCB.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Trang chính thức liệt kê OCB Fresh Bankers 2023, 2024, Season 3 và 2025 - Season 4, tất cả đều đã kết thúc. Chưa thấy mùa 2026."
+  },
+  {
+    "slug": "ssi-internship-gateway-to-success",
+    "name": "SSI Internship – Gateway to Success",
+    "type": "internship",
+    "company": {
+      "name": "Công ty Chứng khoán SSI",
+      "slug": null
+    },
+    "official_url": "https://www.ssi.com.vn/tin-tuc/tin-tuc-chung/khoi-dong-chuong-trinh-thuc-tap-sinh-lon-nhat-nam-ssi-internship-2025",
+    "tracks": [
+      "Chứng khoán SSI",
+      "Quản lý Quỹ SSI (SSIAM)"
+    ],
+    "fields": [
+      "finance"
+    ],
+    "duration": "3 tháng",
+    "eligibility": "Sinh viên năm cuối, sinh viên mới tốt nghiệp hoặc người có dưới 1 năm kinh nghiệm, có khả năng tự học về đầu tư, tài chính.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đợt 2025 có 3 lượt phỏng vấn (tháng 3, 6, 9/2025), thực tập từ tháng 4 đến 12/2025. Chưa thấy đợt 2026 trên trang tuyển dụng SSI."
+  },
+  {
+    "slug": "suntory-pepsico-giam-sat-tai-nang",
+    "name": "Giám sát Tài năng (Graduate Sales Talent & Graduate Engineering Talent)",
+    "type": "graduate",
+    "company": {
+      "name": "Suntory PepsiCo Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://careers.suntorypepsico.vn/intro?id=173&meta_title=gst2026",
+    "tracks": [
+      "Graduate Sales Talent (GST) – Giám sát Kinh doanh",
+      "Graduate Engineering Talent (GET) – Giám sát Sản xuất"
+    ],
+    "fields": [
+      "business",
+      "engineering",
+      "operations"
+    ],
+    "duration": "9 tháng (GST) đến 18 tháng (GET)",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp có tối đa 2 năm kinh nghiệm, quốc tịch Việt Nam, GPA trên 6.5/10.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Chương trình riêng, khác với Suntory PepsiCo Management Trainee. GET tuyển cho các nhà máy Bắc Ninh, Quảng Nam, Long An, Cần Thơ; GST tuyển toàn quốc. Dự kiến nhận việc tháng 08/2026. Trên NEU có các đợt 2024, 2025 và 2026."
+  },
+  {
+    "slug": "suntory-pepsico-s-tap",
+    "name": "Suntory PepsiCo Technical Apprentice Program (S-TAP)",
+    "type": "fresher",
+    "company": {
+      "name": "Suntory PepsiCo Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://careers.suntorypepsico.vn/home",
+    "tracks": [
+      "Kỹ thuật viên Tập sự"
+    ],
+    "fields": [
+      "engineering"
+    ],
+    "duration": "9 tháng",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp đại học/cao đẳng có dưới 1 năm kinh nghiệm, học các ngành tự động hóa, điện, điện tử hoặc cơ điện tử.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Năm 2026 là lần đầu tổ chức. Học viên được đào tạo về vận hành, bảo trì, PLC/HMI tại Nhà máy Long An."
+  },
+  {
+    "slug": "loreal-seedz-management-trainee",
+    "name": "L'Oréal SeedZ – Management Trainee Program",
+    "type": "management_trainee",
+    "company": {
+      "name": "L'Oréal Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://careers.loreal.com/en_US/content/Vietnam",
+    "tracks": [
+      "Marketing",
+      "O+O Commercial (Online/Offline Sales)",
+      "Supply Chain (Data Analytics)",
+      "Social Content, Advocacy & Community",
+      "Finance"
+    ],
+    "fields": [
+      "business",
+      "finance",
+      "operations"
+    ],
+    "duration": "18 tháng",
+    "eligibility": "Sinh viên sắp tốt nghiệp hoặc đã tốt nghiệp có dưới 2 năm kinh nghiệm làm việc.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Dự kiến bắt đầu tháng 07/2026. Từng là L'Oréal Brandstormer hoặc thực tập sinh L'Oréal là lợi thế lớn."
+  },
+  {
+    "slug": "vinamilk-sales-trainee",
+    "name": "Vinamilk Sales Trainee Program",
+    "type": "graduate",
+    "company": {
+      "name": "Vinamilk",
+      "slug": null
+    },
+    "official_url": "https://careers.vinamilk.com.vn/salestrainee-program",
+    "tracks": [
+      "Sales Trainee – Kênh truyền thống"
+    ],
+    "fields": [
+      "business"
+    ],
+    "duration": "9 tháng",
+    "eligibility": "Ứng viên có dưới 2 năm kinh nghiệm, đam mê kinh doanh – thương mại, theo con đường Giám sát Kinh doanh kênh truyền thống.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Chương trình riêng, khác với Vinamilk Graduate Talent Program đã có. Dự kiến nhận việc 01/11/2026."
+  },
+  {
+    "slug": "milwaukee-leadership-development-program",
+    "name": "Milwaukee Leadership Development Program (EDP/ODP)",
+    "type": "graduate",
+    "company": {
+      "name": "Milwaukee Tool Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://www.milwaukeetool.com.vn/leadership-development-program",
+    "tracks": [
+      "Engineering Development Program (EDP)",
+      "Operations Development Program (ODP)"
+    ],
+    "fields": [
+      "engineering",
+      "operations"
+    ],
+    "duration": "2 năm",
+    "eligibility": "Người mới tốt nghiệp hoặc có dưới 1 năm kinh nghiệm, ngành Kỹ thuật, Kinh tế, Vận hành, Chuỗi cung ứng, Chất lượng hoặc Sản xuất, GPA từ 7.0/10 (2.7/4.0), tiếng Anh tốt.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Năm 1 luân chuyển qua 3 phòng ban, năm 2 làm chuyên sâu tại một phòng ban, thuộc Factory Management Department."
+  },
+  {
+    "slug": "highlands-store-manager-trainee",
+    "name": "Highlands Coffee Store Manager Trainee Program",
+    "type": "management_trainee",
+    "company": {
+      "name": "Highlands Coffee",
+      "slug": null
+    },
+    "official_url": "https://careers.highlandscoffee.com.vn/store-manager-trainee/",
+    "tracks": [
+      "Store Manager Trainee"
+    ],
+    "fields": [
+      "operations",
+      "business"
+    ],
+    "duration": "6 tháng",
+    "eligibility": "Sinh viên năm cuối trở lên, từ 22 tuổi, có thể làm toàn thời gian từ tháng 10/2026, giao tiếp được tiếng Anh.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Mùa đầu tiên (2026). Có cả kênh ứng tuyển cho nhân viên nội bộ từ cấp Master Barista trở lên. Hiện còn đang mở đơn."
+  },
+  {
+    "slug": "golden-gate-restaurant-manager-trainee",
+    "name": "Golden Gate Restaurant Manager Trainee Program",
+    "type": "management_trainee",
+    "company": {
+      "name": "Tập đoàn Golden Gate",
+      "slug": null
+    },
+    "official_url": "https://tuyendung.ggg.com.vn/restaurant-manager-trainee/",
+    "tracks": [
+      "Restaurant Manager Trainee"
+    ],
+    "fields": [
+      "operations",
+      "business"
+    ],
+    "duration": "12–18 tháng",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp (0–2 năm kinh nghiệm), ưu tiên ngành Quản trị Nhà hàng, Du lịch, Quản trị kinh doanh hoặc ngành khác có tư duy dịch vụ.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "NEU ghi là lần đầu tổ chức. Trang chính thức ghi đang tuyển Q2/2026, mỗi năm tuyển 50–80 trainee."
+  },
+  {
+    "slug": "honda-vietnam-future-associate",
+    "name": "Chương trình Đồng nghiệp tương lai Honda Việt Nam (Honda Vietnam Future Associate – HFA)",
+    "type": "internship",
+    "company": {
+      "name": "Honda Việt Nam",
+      "slug": null
+    },
+    "official_url": "https://www.honda.com.vn/tuyen-dung/chi-tiet-co-hoi-nghe-nghiep?id=1086",
+    "tracks": [
+      "Kỹ thuật",
+      "Các phòng ban khác của công ty"
+    ],
+    "fields": [
+      "engineering",
+      "general"
+    ],
+    "duration": "Khoảng 3 tháng (01/07–25/09/2026)",
+    "eligibility": "Sinh viên đại học năm 3, năm 4 đã hoàn thành chương trình học, dự kiến tốt nghiệp năm 2026, tiếng Anh tốt.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Mỗi năm có nhiều mùa (2026 có Season 1 và Mùa 2). Trang id=1086 là vị trí Kỹ thuật của HFA 2026-S2; theo NEU, mùa này nhận sinh viên mọi chuyên ngành. NEU ghi hạn 12/06 nhưng trang chính thức ghi 03/06–18/06/2026."
+  },
+  {
+    "slug": "aht-graduate-program",
+    "name": "AHT Graduate Program",
+    "type": "graduate",
+    "company": {
+      "name": "Công ty CP Nhà ga Quốc tế Đà Nẵng (AHT)",
+      "slug": null
+    },
+    "official_url": "https://danangairport.vn/aht/aht-graduate-program-2026",
+    "tracks": [
+      "Human Resources",
+      "Operations",
+      "Technical (IT, Cơ điện tử, Kỹ thuật điện, Bảo trì, Điện nước – Công trình)"
+    ],
+    "fields": [
+      "operations",
+      "hr",
+      "engineering",
+      "tech"
+    ],
+    "duration": "15 tháng (4 vòng luân chuyển)",
+    "eligibility": "Sinh viên năm cuối sắp tốt nghiệp hoặc mới tốt nghiệp, học lực khá giỏi, tiếng Anh tốt, muốn làm việc lâu dài tại Đà Nẵng.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Thi năng lực offline 11–12/07, Assessment Camp 01–03/08, onboard 03/09/2026."
+  },
+  {
+    "slug": "marriott-voyage-vietnam",
+    "name": "Marriott Voyage Global Leadership Development Program (Việt Nam)",
+    "type": "graduate",
+    "company": {
+      "name": "Marriott International",
+      "slug": null
+    },
+    "official_url": "https://careers.marriott.com/career-journeys/early-careers/",
+    "tracks": [
+      "Food & Beverage Operations",
+      "Rooms Operations",
+      "Sales & Marketing"
+    ],
+    "fields": [
+      "operations",
+      "business"
+    ],
+    "duration": "12–18 tháng",
+    "eligibility": "Có bằng cử nhân hoặc đang học đại học và dự kiến tốt nghiệp trong vòng 12 tháng kể từ ngày nộp đơn, được phép làm việc tại Việt Nam.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Trang chính thức là trang Voyage toàn cầu. Các tin tuyển Việt Nam 2026 (F&B, Rooms, Sales & Marketing) trên careers.marriott.com nay trả về 404."
+  },
+  {
+    "slug": "crystal-associate-programme",
+    "name": "Crystal Associate Programme (Chương trình Nhà lãnh đạo Tương lai Tập đoàn Crystal)",
+    "type": "management_trainee",
+    "company": {
+      "name": "Crystal International Group (Việt Nam)",
+      "slug": null
+    },
+    "official_url": "https://crystalcareers.vn/",
+    "tracks": [
+      "Production Associate",
+      "Technical Associate"
+    ],
+    "fields": [
+      "operations",
+      "engineering",
+      "business"
+    ],
+    "duration": "2,5 năm",
+    "eligibility": "Người mới tốt nghiệp hoặc có dưới 2 năm kinh nghiệm toàn thời gian, bằng đại học GPA từ 7.0/10, sẵn sàng làm việc tại Hải Dương, Hà Nội, Bắc Giang, Phú Thọ.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Ngành may mặc. Theo công bố, sau 2,5 năm có thể lên Assistant Manager. Đợt mang tên 2026 mở đơn từ tháng 12/2025."
+  },
+  {
+    "slug": "wincommerce-cua-hang-truong-tiem-nang",
+    "name": "Chương trình Cửa hàng Trưởng Tiềm năng WinCommerce (Gen WIN)",
+    "type": "management_trainee",
+    "company": {
+      "name": "WinCommerce (Masan Group)",
+      "slug": null
+    },
+    "official_url": "https://tuyendung.winmart.vn/careers/job/54390",
+    "tracks": [
+      "Thực tập sinh Quản lý Cửa hàng"
+    ],
+    "fields": [
+      "operations",
+      "business"
+    ],
+    "duration": "4 tháng",
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp (THPT/trung cấp/cao đẳng/đại học), 20–28 tuổi, dưới 2 năm kinh nghiệm, yêu thích bán lẻ.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Đợt này là Mùa 8; Mùa 7 tuyển đầu năm 2026. Nhận việc 26/05/2026. NEU ghi hạn 30/04, trang chính thức ghi 10/05/2026."
+  },
+  {
+    "slug": "sun-group-tech-gen",
+    "name": "TECH GEN – Tài năng trẻ Kỹ thuật Hàng không (Aircraft Maintenance Management Trainee Program)",
+    "type": "fresher",
+    "company": {
+      "name": "Tập đoàn Sun Group (Khối Hàng không)",
+      "slug": null
+    },
+    "official_url": "https://tuyendung.sungroup.com.vn/job/tech-gen-2026-tai-nang-tre-ky-thuat-hang-khong-aircraft-maintenance-management-trainee-program-10759",
+    "tracks": [
+      "CRS A",
+      "CRS B"
+    ],
+    "fields": [
+      "engineering"
+    ],
+    "eligibility": "Người tốt nghiệp các ngành kỹ thuật (cao đẳng/trung cấp/đại học cho CRS A, đại học cho CRS B), TOEIC từ 500 trở lên.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Sun Group tài trợ 70–100% học phí và cam kết việc làm. Đào tạo bắt đầu 16/03/2026."
+  },
+  {
+    "slug": "vimc-hai-trinh-thu-linh-tre",
+    "name": "VIMC Management Trainee: Hải trình Thủ lĩnh trẻ",
+    "type": "management_trainee",
+    "company": {
+      "name": "Tổng công ty Hàng hải Việt Nam (VIMC)",
+      "slug": null
+    },
+    "official_url": "https://vimc-lines.com/thong-bao-khoi-dong-chuong-trinh-vimc-management-trainee-hai-trinh-thu-linh-tre-vimc-2026/",
+    "tracks": [
+      "Cảng biển",
+      "Vận tải biển",
+      "Dịch vụ hàng hải",
+      "Kinh doanh"
+    ],
+    "fields": [
+      "business",
+      "operations"
+    ],
+    "duration": "36 tháng (3 giai đoạn × 12 tháng)",
+    "eligibility": "Sinh viên năm cuối hoặc người đi làm dưới 2 năm kinh nghiệm, ngành Hàng hải, Logistics, Kinh tế, Ngoại thương, Quản trị kinh doanh hoặc ngành liên quan, tiếng Anh tốt.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-04",
+    "updated_at": "2026-10-04",
+    "notes": "Trang chính thức đặt trên domain của VIMC Lines (công ty thành viên VIMC). Link ứng tuyển là link rút gọn."
   }
 ]
