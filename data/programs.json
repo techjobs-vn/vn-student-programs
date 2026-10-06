@@ -4724,5 +4724,31 @@
     "added_at": "2026-10-04",
     "updated_at": "2026-10-04",
     "notes": "Trang chính thức đặt trên domain của VIMC Lines (công ty thành viên VIMC). Link ứng tuyển là link rút gọn."
+  },
+  {
+    "slug": "golden-gate-brand-manager-trainee",
+    "name": "Golden Gate Brand Manager Trainee Program",
+    "type": "management_trainee",
+    "company": {
+      "name": "Tập đoàn Golden Gate",
+      "slug": "golden-gate"
+    },
+    "official_url": "https://tuyendung.ggg.com.vn/brand-manager-trainee/",
+    "description": "Lộ trình 36 tháng từ Assistant Brand Manager lên Brand Manager có mentor kèm, dành cho người tốt nghiệp 2023–2025, GPA từ 3.6 và có từ 1 năm kinh nghiệm Marketing hoặc F&B.",
+    "tracks": [
+      "Brand Management"
+    ],
+    "fields": [
+      "business"
+    ],
+    "duration": "36 tháng (ABM → Brand Manager, thăng tiến sớm theo năng lực)",
+    "eligibility": "Tốt nghiệp ĐH/ThS trong 2023–2025 tại trường hàng đầu Việt Nam hoặc trường quốc tế uy tín, GPA từ 3.6/4.0, ngành Marketing, QTKD, Nhà hàng – Du lịch, Tài chính, Thương mại hoặc liên quan, có từ 1 năm kinh nghiệm Marketing, F&B hoặc vận hành nhà hàng.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-06",
+    "updated_at": "2026-10-06",
+    "notes": "Trang chính thức không ghi ngày. Tin NEU (đăng 05/10/2026): hạn 31/10/2026; Aptitude Test & Case Study 02–06/11, Brand Experience Day 09–13/11, phỏng vấn cuối 16–27/11; ứng viên sinh năm 2001–2003; lương vị trí Brand Manager tới 60 triệu/tháng gross. Nộp thêm video giới thiệu 2 phút trong 1 tuần sau khi ứng tuyển."
   }
 ]
