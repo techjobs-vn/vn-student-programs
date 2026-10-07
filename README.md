@@ -13,7 +13,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 06/10/2026 · 168 chương trình · 32 đang mở_
+_Cập nhật dữ liệu: 06/10/2026 · 168 chương trình · 30 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -24,8 +24,6 @@ _Cập nhật dữ liệu: 06/10/2026 · 168 chương trình · 32 đang mở_
 | [Katalon](https://techjobs.vn/companies/katalon?utm_source=github&utm_medium=vn-student-programs) | [Katalon Internship Program](https://katalon.com/careers/internship) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | 18/08/2026 | — |
 | [TPBank](https://techjobs.vn/companies/tpbank?utm_source=github&utm_medium=vn-student-programs) | [TPBank Tập sự tiềm năng \(Công nghệ\)](https://tuyendung.tpb.vn/vi/jobs/RkV54P) | Fresher | Công nghệ | 🟢 Đang mở | 2026 | 15/09/2026 | — |
 | Swire Coca-Cola Việt Nam | [Chương trình Thực tập Coca-Cola STEMX](https://careersvn.app.swirecocacola.com/job/Ch%C6%B0%C6%A1ng-Tr%C3%ACnh-Th%E1%BB%B1c-T%E1%BA%ADp-Coca-Cola-STEMX-2026-Nh%C3%A0-M%C3%A1y-Mi%E1%BB%81n-B%E1%BA%AFc-%28H%C3%A0-N%E1%BB%99i%29/1283-vi_VN/) | Thực tập | Kỹ thuật, Vận hành | 🟢 Đang mở | 2026 | 17/09/2026 | — |
-| Crowe Việt Nam | [Crowe Vietnam Internship Program](https://brochure.crowevietnam.vn/en/careers/internship-program-2026-2027/) | Thực tập | Kiểm toán – Tư vấn | 🟢 Đang mở | 2026 | — | 07/10/2026 |
-| [FPT \(Viện QACI\)](https://techjobs.vn/companies/fpt-ai?utm_source=github&utm_medium=vn-student-programs) | [FPT Frontier Innovators](https://fpt.com/en/news/fpt-frontier-innovators-a-new-program-for-young-talent-pioneering-emerging-technologies) | Graduate | Công nghệ | 🟢 Đang mở | 2026 | 11/09/2026 | 07/10/2026 |
 | EPI Technologies \(Công ty CP Tập đoàn Công nghệ EPI Việt Nam\) | [EPI Internship Program](https://epi-tech.com.vn/en/careers/epi-internship-program-2026/) | Thực tập | Kinh doanh – Marketing, Vận hành, Nhân sự, Tài chính, Kỹ thuật | 🟢 Đang mở | 2026 | — | 09/10/2026 |
 | Highlands Coffee | [Highlands Coffee Store Manager Trainee Program](https://careers.highlandscoffee.com.vn/store-manager-trainee/) | Quản trị viên tập sự | Vận hành, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 09/10/2026 |
 | Hãng Kiểm toán AASC | [Chương trình Sinh viên thực tập Hãng Kiểm toán AASC](https://aasc.com.vn/web/index.php/tuyen-dung/thong-tin-thuc-tap/item/952-chuong-trinh-sinh-vien-thuc-tap-nam-2026-2027-cua-hang-kiem-toan-aasc) | Thực tập | Kiểm toán – Tư vấn | 🟢 Đang mở | 2026 | 09/09/2026 | 15/10/2026 |
@@ -64,10 +62,12 @@ _Cập nhật dữ liệu: 06/10/2026 · 168 chương trình · 32 đang mở_
 | [VNPT](https://techjobs.vn/companies/vnpt?utm_source=github&utm_medium=vn-student-programs) | [VNPT Thực tập sinh](https://tuyendung.vnpt.vn/tin-thuc-tap-sinh.html) | Thực tập | Công nghệ | ⚪ Chưa rõ | — | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (123) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (125) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
+| Crowe Việt Nam | [Crowe Vietnam Internship Program](https://brochure.crowevietnam.vn/en/careers/internship-program-2026-2027/) | Thực tập | Kiểm toán – Tư vấn | 🔴 Đã đóng | 2026 | — | 07/10/2026 |
+| [FPT \(Viện QACI\)](https://techjobs.vn/companies/fpt-ai?utm_source=github&utm_medium=vn-student-programs) | [FPT Frontier Innovators](https://fpt.com/en/news/fpt-frontier-innovators-a-new-program-for-young-talent-pioneering-emerging-technologies) | Graduate | Công nghệ | 🔴 Đã đóng | 2026 | 11/09/2026 | 07/10/2026 |
 | [Amazon Web Services](https://techjobs.vn/companies/amazon?utm_source=github&utm_medium=vn-student-programs) | [AWS Student Builder Group Leader](https://builder.aws.com/content/3ITldzpQS7bvgVN01IkU2rFJn1o/applications-are-open-become-an-aws-student-builder-group-leader) | Đại sứ sinh viên | Công nghệ | 🔴 Đã đóng | 2026 | 26/08/2026 | 05/10/2026 |
 | DKSH Việt Nam | [DKSH Vietnam Internship Program \(DIP\)](https://www.dksh.com/vn-vi/home/careers/early-careers) | Thực tập | Kinh doanh – Marketing, Vận hành, Kỹ thuật, Tài chính, Nhân sự, Công nghệ | 🔴 Đã đóng | 2026 | 28/08/2026 | 30/09/2026 |
 | [Google](https://techjobs.vn/companies/google?utm_source=github&utm_medium=vn-student-programs) | [Google Student Ambassador Việt Nam](https://googlestudentambassador.vn/) | Đại sứ sinh viên | Công nghệ | 🔴 Đã đóng | 2026 | 25/08/2026 | 30/09/2026 |
