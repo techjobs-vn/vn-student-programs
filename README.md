@@ -13,7 +13,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 06/10/2026 · 168 chương trình · 30 đang mở_
+_Cập nhật dữ liệu: 08/10/2026 · 169 chương trình · 31 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -32,6 +32,7 @@ _Cập nhật dữ liệu: 06/10/2026 · 168 chương trình · 30 đang mở_
 | Vietnam Agribusiness Limited \(VAL\) | [VAL Young Talent Program \(Chương trình Tài năng Trẻ VAL\)](https://val-youngtalent.navigos.vn/) | Graduate | Tài chính, Vận hành | 🟢 Đang mở | 2026 | — | 15/10/2026 |
 | [EY Việt Nam](https://techjobs.vn/companies/ey?utm_source=github&utm_medium=vn-student-programs) | [EY Compass Scholarship Program](https://careers.ey.com/ey/job/Ho-Chi-Minh-City-EY-Compass-2026-Scholarship-Program-HCMC-Office/1439857133/) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🟢 Đang mở | 2026 | — | 23/10/2026 |
 | [EY Việt Nam](https://techjobs.vn/companies/ey?utm_source=github&utm_medium=vn-student-programs) | [Pathway to Strategic Business Leader \(SBL\)](https://careers.ey.com/ey/job/Ha-Noi-Pathway-to-Strategic-Business-Leader-2026-2027/1442864833/) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🟢 Đang mở | 2026 | — | 23/10/2026 |
+| Công ty TNHH Tư vấn và Kiểm toán Anh \(ACAC\) | [Chương trình Tuyển dụng Thực tập sinh ACAC 2026–2027](https://acacvn.com/) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🟢 Đang mở | 2026 | 01/10/2026 | 30/10/2026 |
 | [Tập đoàn Golden Gate](https://techjobs.vn/companies/golden-gate?utm_source=github&utm_medium=vn-student-programs) | [Golden Gate Brand Manager Trainee Program](https://tuyendung.ggg.com.vn/brand-manager-trainee/) | Quản trị viên tập sự | Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/10/2026 |
 | [Sea \(Shopee / Monee / Garena\)](https://techjobs.vn/companies/shopee?utm_source=github&utm_medium=vn-student-programs) | [Sea Global Management Associate Program \(Sea Global MAP\)](https://seagmap.sea.com/) | Quản trị viên tập sự | Tổng hợp, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/10/2026 |
 | Hyosung & HS Hyosung Việt Nam | [Hyosung & HS Hyosung Gongchae Program](https://hyosungjobs.com/gongchae-program) | Fresher | Kỹ thuật, Vận hành, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | 28/09/2026 | 02/11/2026 |

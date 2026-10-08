@@ -1696,5 +1696,16 @@
     ],
     "updated_at": "2026-10-06",
     "notes": "Hạn và lịch các vòng lấy từ tin trên cổng việc làm NEU."
+  },
+  {
+    "program_slug": "acac-chuong-trinh-thuc-tap-sinh",
+    "year": 2026,
+    "opens_at": "2026-10-01",
+    "deadline": "2026-10-30",
+    "sources": [
+      "https://youth.neu.edu.vn/vi/thong-tin-tuyen-dung-2657/chuong-trinh-tuyen-dung-thuc-tap-sinh-2026-2027"
+    ],
+    "updated_at": "2026-10-08",
+    "notes": "Thời gian nhận hồ sơ 01/10 đến 30/10/2026 theo tin trên cổng NEU."
   }
 ]

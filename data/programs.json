@@ -4750,5 +4750,32 @@
     "added_at": "2026-10-06",
     "updated_at": "2026-10-06",
     "notes": "Trang chính thức không ghi ngày. Tin NEU (đăng 05/10/2026): hạn 31/10/2026; Aptitude Test & Case Study 02–06/11, Brand Experience Day 09–13/11, phỏng vấn cuối 16–27/11; ứng viên sinh năm 2001–2003; lương vị trí Brand Manager tới 60 triệu/tháng gross. Nộp thêm video giới thiệu 2 phút trong 1 tuần sau khi ứng tuyển."
+  },
+  {
+    "slug": "acac-chuong-trinh-thuc-tap-sinh",
+    "name": "Chương trình Tuyển dụng Thực tập sinh ACAC 2026–2027",
+    "type": "internship",
+    "company": {
+      "name": "Công ty TNHH Tư vấn và Kiểm toán Anh (ACAC)",
+      "slug": null
+    },
+    "official_url": "https://acacvn.com/",
+    "description": "Thực tập kiểm toán cho sinh viên năm cuối học lực khá giỏi ở Hà Nội và Hải Phòng, ưu tiên xét tuyển trợ lý kế toán, kiểm toán sau khi thực tập xong.",
+    "tracks": [
+      "Kế toán - Kiểm toán"
+    ],
+    "fields": [
+      "audit-consulting",
+      "finance"
+    ],
+    "duration": "Khoảng 5 tháng",
+    "eligibility": "Sinh viên năm cuối các trường đại học, học viện, kết quả học tập khá giỏi; có laptop, thạo Excel và Word, có thể đi thực tế tại khách hàng ngoại tỉnh.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-08",
+    "updated_at": "2026-10-08",
+    "notes": "Chưa tìm thấy trang chương trình trên acacvn.com (site chặn truy cập tự động), nên official_url là trang chủ; thông tin lấy từ tin gốc trên cổng việc làm NEU (youth.neu.edu.vn). Đợt 2026–2027: tuyển 5 thực tập sinh mỗi văn phòng (Hà Nội, Hải Phòng), thực tập từ tháng 11/2026 đến 15/4/2027, phụ cấp theo chính sách công ty, hồ sơ nộp qua Google Form."
   }
 ]
