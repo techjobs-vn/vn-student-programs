@@ -23,6 +23,16 @@ export async function loadDataset() {
   return { programs, cycles };
 }
 
+/** data/details.json is optional: programs without researched details simply have no entry. */
+export async function loadDetails() {
+  try {
+    return JSON.parse(await readFile(path.join(DATA_DIR, "details.json"), "utf8"));
+  } catch (err) {
+    if (err.code === "ENOENT") return [];
+    throw new Error(`Cannot read data/details.json: ${err.message}`);
+  }
+}
+
 // Vietnam has no DST, so a fixed +07:00 offset is exact.
 export function todayInVietnam(now = new Date()) {
   return new Date(now.getTime() + 7 * 60 * 60 * 1000).toISOString().slice(0, 10);
