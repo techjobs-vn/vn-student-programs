@@ -110,6 +110,31 @@ Mỗi chương trình có thể có nhiều đợt, một đợt mỗi năm (`pr
 - Khi một chương trình có nhiều đợt, README ưu tiên đợt mới nhất **có ngày**.
 - `sources`: bắt buộc khi có ngày hoặc `status` — link nơi bạn thấy thông tin.
 
+### `data/details.json`
+
+Nội dung trang chi tiết của từng chương trình (không bắt buộc, mỗi chương trình tối đa một mục). Chỉ ghi dữ kiện có trong nguồn, tự viết lại bằng tiếng Việt; mục nào không có nguồn thì bỏ key đó.
+
+```json
+{
+  "program_slug": "viettel-digital-talent",
+  "overview": "2–4 câu: chương trình là gì, dành cho ai, kéo dài bao lâu.",
+  "eligibility": ["Sinh viên năm 3, năm 4 hoặc mới tốt nghiệp ngành kỹ thuật, CNTT"],
+  "benefits": ["Trợ cấp hằng tháng trong thời gian thực tập"],
+  "selection_process": ["Vòng 1: nộp hồ sơ online", "Vòng 2: phỏng vấn"],
+  "locations": ["Hà Nội"],
+  "stipend": "Một câu về mức trợ cấp nếu nguồn nêu rõ",
+  "faq": [{ "q": "Câu hỏi?", "a": "Câu trả lời có trong nguồn." }],
+  "sources": ["https://tuyendung.viettel.vn/page/page-digitalTalent"],
+  "confidence": "high",
+  "updated_at": "2026-10-08"
+}
+```
+
+- Bắt buộc: `program_slug`, `overview`, `sources` (1–6 link https đã đọc, trang chính thức đứng đầu), `confidence` (`high` · `medium`), `updated_at`.
+- Danh sách tối đa: `eligibility` 6, `benefits` 6, `selection_process` 8, `locations` 6, `faq` 5; mỗi ý tối đa 240 ký tự, `overview` tối đa 700.
+- Không đưa link, email, số điện thoại vào nội dung (validate sẽ báo lỗi).
+- Có thể tạo tự động: `node scripts/research-details.mjs` (cursor-agent + TinyFish, kết quả thô ở `.cache/details/`), rồi `node scripts/research-details.mjs --merge` để lọc, bỏ kết quả độ tin cậy thấp và ghi vào file này.
+
 ### `data/seen.jsonl`
 
 Mỗi dòng một URL đã xét, để quy trình tự động không đề xuất lại:
