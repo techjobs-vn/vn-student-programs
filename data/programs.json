@@ -3571,11 +3571,11 @@
     "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp dưới 1,5 năm kinh nghiệm, GPA từ 2.8/4.0 (7.0/10), TOEIC 750+/IELTS 7.0+.",
     "recurring": "unknown",
     "active": true,
-    "is_visible": true,
+    "is_visible": false,
     "source": "routine",
     "added_at": "2026-10-04",
-    "updated_at": "2026-10-04",
-    "notes": "Trang chính thức là cổng ứng tuyển do Navigos vận hành cho VAL (VAL dẫn tới cổng này trong tin tuyển dụng); không phải domain riêng của VAL. Cổng ghi giai đoạn nộp đơn 'Sep - 10 Oct', phỏng vấn trước 20/10, final trước 31/10, onboard 11/2026; tin UEH ghi hạn 15/10/2026 (có thể đã gia hạn)."
+    "updated_at": "2026-10-08",
+    "notes": "Trang chính thức là cổng ứng tuyển do Navigos vận hành cho VAL (VAL dẫn tới cổng này trong tin tuyển dụng); không phải domain riêng của VAL. Cổng ghi giai đoạn nộp đơn 'Sep - 10 Oct', phỏng vấn trước 20/10, final trước 31/10, onboard 11/2026; tin UEH ghi hạn 15/10/2026 (có thể đã gia hạn). Ẩn từ 08/10/2026: trang ứng tuyển chính thức (val-youngtalent.navigos.vn) báo 'Page Not Found', chưa có link nộp đơn mới; bật lại is_visible khi có trang mới."
   },
   {
     "slug": "dksh-vietnam-internship-program",
