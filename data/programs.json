@@ -4784,7 +4784,7 @@
     "type": "scholarship",
     "company": {
       "name": "Synopsys",
-      "slug": null
+      "slug": "synopsys"
     },
     "official_url": "https://www.synopsys.com/academic-research/ic-design-scholarship.html",
     "description": "Học bổng 500 USD/suất cho sinh viên đại học năm 1-4 ngành điện - điện tử và liên quan, muốn theo thiết kế vi mạch IC; kèm các khóa đào tạo chuyên sâu và vào talent pool của nhà tài trợ.",
@@ -4811,7 +4811,7 @@
     "type": "scholarship",
     "company": {
       "name": "Viettel",
-      "slug": null
+      "slug": "viettel"
     },
     "official_url": "https://tuyendung.viettel.vn/scholarship/research-excellence",
     "description": "Học bổng cho học viên thạc sĩ định hướng nghiên cứu công nghệ cao (5G, IoT, AI, năng lượng xanh) tại trường hợp tác chiến lược, có cơ hội làm đề tài thực tế và được ưu tiên tuyển dụng.",
@@ -4841,7 +4841,8 @@
     "type": "scholarship",
     "company": {
       "name": "SCG",
-      "slug": null
+      "slug": null,
+      "domain": "scg.com"
     },
     "official_url": "https://scgsharingthedream.vn/",
     "description": "Học bổng tiền mặt trao theo học kỳ cho sinh viên đại học và cao đẳng công lập khối khoa học – kỹ thuật, môi trường, thiết kế và một số ngành kinh tế, kèm đào tạo tư duy ESG và tham quan nhà máy.",
@@ -4870,7 +4871,8 @@
     "type": "scholarship",
     "company": {
       "name": "Panasonic Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "panasonic.com"
     },
     "official_url": "https://www.panasonic.com/vn/corporate/sustainability/panasonic-scholarship-program.html",
     "description": "Học bổng một năm học cho sinh viên đại học chính quy mọi khối ngành có thành tích học tập tốt hoặc hoàn cảnh khó khăn, kèm cơ hội thực tập, rèn kỹ năng và kết nối chuyên gia.",
@@ -4897,7 +4899,7 @@
     "type": "scholarship",
     "company": {
       "name": "VPBank",
-      "slug": null
+      "slug": "vpbank"
     },
     "official_url": "https://hr.vpbank.com.vn/ta/FutureVPBanker/index.html",
     "description": "Học bổng tiền mặt cho sinh viên năm 3 và năm cuối khối kinh tế, tài chính, ngân hàng, luật, CNTT, kèm vai trò đại sứ tuyển dụng, cơ hội thực tập và đi thẳng vào vòng cuối của chương trình tuyển dụng.",
@@ -4925,7 +4927,8 @@
     "type": "scholarship",
     "company": {
       "name": "Quỹ Học bổng RVN-Vallet (Tổ chức Khoa học & Giáo dục Gặp gỡ Việt Nam)",
-      "slug": null
+      "slug": null,
+      "domain": "rvn-vallet.org"
     },
     "official_url": "https://rvn-vallet.org/",
     "description": "Học bổng tiền mặt cho học sinh, sinh viên, học viên sau đại học và nghiên cứu sinh xuất sắc tại Việt Nam, sinh viên đại học nộp hồ sơ qua trường đang theo học.",
@@ -4949,7 +4952,8 @@
     "type": "scholarship",
     "company": {
       "name": "Quỹ Hỗ trợ Tài năng Lương Văn Can (LVC Foundation)",
-      "slug": null
+      "slug": null,
+      "domain": "lvcfoundation.org.vn"
     },
     "official_url": "https://lvcfoundation.org.vn/vi/hoc-bong-dai-hoc/",
     "description": "Học bổng hỗ trợ đến 100% học phí và sinh hoạt phí cho sinh viên tài năng, ưu tiên hoàn cảnh khó khăn, kèm chương trình kỹ năng, mentorship, tìm hiểu doanh nghiệp và đào tạo tiếng Anh.",
@@ -4973,7 +4977,8 @@
     "type": "scholarship",
     "company": {
       "name": "Quỹ Hỗ trợ Cộng đồng Đinh Thiện Lý (Lawrence S. Ting Foundation)",
-      "slug": null
+      "slug": null,
+      "domain": "lstf.org.vn"
     },
     "official_url": "https://www.lstf.org.vn/vi/linh-vuc/giao-duc/hoc-bong-dinh-thien-ly/",
     "description": "Học bổng chi trả 100% học phí cho sinh viên đại học chính quy xuất sắc có hoàn cảnh khó khăn tại các trường đối tác, kèm đào tạo kỹ năng, thực tập và hoạt động cộng đồng.",
@@ -4997,7 +5002,8 @@
     "type": "scholarship",
     "company": {
       "name": "Quỹ Pony Chung (Pony Chung Foundation, Hàn Quốc)",
-      "slug": null
+      "slug": null,
+      "domain": "ponychung.org"
     },
     "official_url": "https://www.ponychung.org/eng/programs/scholarship-vietnam.do",
     "description": "Học bổng tiền mặt cho sinh viên xuất sắc của ĐHQG Hà Nội và ĐHQG-HCM, người nhận có thể tiếp tục xét học bổng du học thạc sĩ tại Đại học Korea (Hàn Quốc).",
@@ -5021,7 +5027,8 @@
     "type": "scholarship",
     "company": {
       "name": "Quỹ POSCO TJ Park (POSCO TJ Park Foundation, Hàn Quốc)",
-      "slug": null
+      "slug": null,
+      "domain": "postf.org"
     },
     "official_url": "https://www.postf.org/en/asia/local",
     "description": "Học bổng hỗ trợ học phí cho sinh viên xuất sắc, có động lực học tập cao tại các trường đối tác của Quỹ ở Việt Nam: ĐHQG Hà Nội, ĐHQG-HCM và ĐH Bách khoa Hà Nội.",
@@ -5045,7 +5052,8 @@
     "type": "scholarship",
     "company": {
       "name": "AmCham Vietnam (Hiệp hội Thương mại Hoa Kỳ tại Việt Nam)",
-      "slug": null
+      "slug": null,
+      "domain": "amchamvietnam.com"
     },
     "official_url": "https://amchamvietnam.com/programs-services",
     "description": "Học bổng của hiệp hội doanh nghiệp Mỹ cho sinh viên đại học xuất sắc, tuyển chọn qua video, bảng câu hỏi trực tuyến và phỏng vấn, giúp rèn kỹ năng làm việc và kết nối doanh nghiệp thành viên.",
@@ -5069,7 +5077,8 @@
     "type": "scholarship",
     "company": {
       "name": "Toyota Motor Vietnam (Toyota Việt Nam)",
-      "slug": null
+      "slug": null,
+      "domain": "toyota.com.vn"
     },
     "official_url": "https://www.toyota.com.vn/dong-gop-xa-hoi/phat-trien-nguon-nhan-luc/hoc-bong-ky-thuat-toyota",
     "description": "Học bổng hỗ trợ sinh viên xuất sắc chuyên ngành kỹ thuật và môi trường tại các trường đại học liên kết, khuyến khích học tập, nghiên cứu khoa học và phát triển nhân lực cho ngành ô tô.",
@@ -5093,7 +5102,8 @@
     "type": "scholarship",
     "company": {
       "name": "U.S. Mission Vietnam (Fulbright Program in Vietnam)",
-      "slug": null
+      "slug": null,
+      "domain": "usembassy.gov"
     },
     "official_url": "https://vn.usembassy.gov/fulbright-vietnamese-student-program/",
     "description": "Học bổng toàn phần của chính phủ Mỹ cho công dân Việt Nam có kinh nghiệm đi làm theo học thạc sĩ tại Mỹ, mọi ngành trừ y, nha và điều dưỡng, ưu tiên khoa học công nghệ.",
@@ -5119,7 +5129,8 @@
     "type": "scholarship",
     "company": {
       "name": "Chính phủ Anh (Foreign, Commonwealth & Development Office) – Chevening",
-      "slug": null
+      "slug": null,
+      "domain": "chevening.org"
     },
     "official_url": "https://www.chevening.org/scholarship/vietnam/",
     "description": "Học bổng chính phủ Anh cho người Việt Nam có kinh nghiệm làm việc, theo học thạc sĩ một năm tại các trường đại học Anh, hướng tới những người có tiềm năng lãnh đạo.",
@@ -5146,7 +5157,8 @@
     "type": "scholarship",
     "company": {
       "name": "Chính phủ Úc (DFAT) – Australia Awards Vietnam",
-      "slug": null
+      "slug": null,
+      "domain": "australiaawardsvietnam.org"
     },
     "official_url": "https://australiaawardsvietnam.org/applicants/australia-awards-scholarships/",
     "description": "Học bổng chính phủ Úc cho công dân Việt Nam đang đi làm, theo học thạc sĩ tại Úc ở các lĩnh vực ưu tiên phát triển, cam kết trở về Việt Nam làm việc sau khi học xong.",
@@ -5172,7 +5184,8 @@
     "type": "scholarship",
     "company": {
       "name": "Chính phủ New Zealand (Education New Zealand / MFAT)",
-      "slug": null
+      "slug": null,
+      "domain": "nzscholarships.govt.nz"
     },
     "official_url": "https://www.nzscholarships.govt.nz/",
     "description": "Học bổng chính phủ New Zealand cho công dân các nước đủ điều kiện, trong đó có Việt Nam, học sau đại học tại New Zealand ở các ngành phù hợp ưu tiên phát triển.",
@@ -5200,7 +5213,8 @@
     "type": "scholarship",
     "company": {
       "name": "Chính phủ Hungary (Tempus Public Foundation)",
-      "slug": null
+      "slug": null,
+      "domain": "stipendiumhungaricum.hu"
     },
     "official_url": "https://stipendiumhungaricum.hu/country/vietnam/",
     "description": "Học bổng chính phủ Hungary miễn học phí và hỗ trợ sinh hoạt cho sinh viên Việt Nam học cử nhân, thạc sĩ hoặc tiến sĩ, phần lớn chương trình dạy bằng tiếng Anh.",
@@ -5228,7 +5242,8 @@
     "type": "scholarship",
     "company": {
       "name": "Liên minh châu Âu (Chương trình Erasmus+)",
-      "slug": null
+      "slug": null,
+      "domain": "erasmus-plus.ec.europa.eu"
     },
     "official_url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
     "description": "Chương trình thạc sĩ liên kết do nhiều trường châu Âu cùng đào tạo, nhận sinh viên toàn cầu và có học bổng toàn phần cho những hồ sơ xếp hạng cao nhất.",
@@ -5255,7 +5270,8 @@
     "type": "scholarship",
     "company": {
       "name": "Gates Cambridge Trust (Đại học Cambridge)",
-      "slug": null
+      "slug": null,
+      "domain": "gatescambridge.org"
     },
     "official_url": "https://www.gatescambridge.org/apply/eligibility/",
     "description": "Học bổng sau đại học của Đại học Cambridge cho công dân ngoài Anh theo học PhD, MLitt hoặc khoá thạc sĩ một năm toàn thời gian tại Cambridge.",
@@ -5282,7 +5298,8 @@
     "type": "scholarship",
     "company": {
       "name": "Stanford University (Knight-Hennessy Scholars)",
-      "slug": null
+      "slug": null,
+      "domain": "knight-hennessy.stanford.edu"
     },
     "official_url": "https://knight-hennessy.stanford.edu/admission",
     "description": "Học bổng sau đại học của Stanford cho người ở mọi quốc gia, theo học chương trình thạc sĩ, tiến sĩ hoặc chuyên ngành toàn thời gian tại Stanford, không giới hạn ngành học.",
@@ -5309,7 +5326,8 @@
     "type": "scholarship",
     "company": {
       "name": "Swedish Institute (Viện Thụy Điển)",
-      "slug": null
+      "slug": null,
+      "domain": "si.se"
     },
     "official_url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
     "description": "Học bổng toàn phần của Viện Thụy Điển cho người đi làm từ 34 nước đủ điều kiện, có Việt Nam, học thạc sĩ toàn thời gian bằng tiếng Anh tại Thụy Điển, kèm trợ cấp sinh hoạt.",
@@ -5336,7 +5354,8 @@
     "type": "scholarship",
     "company": {
       "name": "Chính phủ Thụy Sĩ (SERI / Federal Commission for Scholarships for Foreign Students)",
-      "slug": null
+      "slug": null,
+      "domain": "sbfi.admin.ch"
     },
     "official_url": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships",
     "description": "Học bổng chính phủ Thụy Sĩ cho nhà nghiên cứu trẻ đã có bằng thạc sĩ, làm nghiên cứu một năm hoặc học tiến sĩ tại Thụy Sĩ, cần giáo sư Thụy Sĩ đồng ý hướng dẫn.",
@@ -5364,7 +5383,8 @@
     "type": "scholarship",
     "company": {
       "name": "DAAD (Cơ quan Trao đổi Hàn lâm Đức)",
-      "slug": null
+      "slug": null,
+      "domain": "daad.de"
     },
     "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742130",
     "description": "Học bổng thạc sĩ các ngành toán, tin học, khoa học tự nhiên và kỹ thuật tại đại học Đức dành cho sinh viên mới tốt nghiệp cử nhân từ nước đang phát triển, chương trình không thu học phí.",
@@ -5392,7 +5412,8 @@
     "type": "scholarship",
     "company": {
       "name": "Higher Education Authority (Chính phủ Ireland)",
-      "slug": null
+      "slug": null,
+      "domain": "hea.ie"
     },
     "official_url": "https://hea.ie/policy/internationalisation/goi-ies/",
     "description": "Học bổng chính phủ Ireland cho sinh viên quốc tế ngoài EU/EEA, Thụy Sĩ và Anh theo học thạc sĩ, văn bằng sau đại học hoặc tiến sĩ một năm toàn thời gian tại Ireland.",
@@ -5420,7 +5441,8 @@
     "type": "scholarship",
     "company": {
       "name": "Nuffic (Hà Lan) cùng Bộ Giáo dục, Văn hoá và Khoa học Hà Lan",
-      "slug": null
+      "slug": null,
+      "domain": "studyinnl.org"
     },
     "official_url": "https://www.studyinnl.org/finances/nl-scholarship",
     "description": "Học bổng 5.000 euro trong năm đầu cho sinh viên ngoài EEA học cử nhân hoặc thạc sĩ toàn thời gian tại các trường đại học Hà Lan tham gia chương trình.",
@@ -5448,7 +5470,8 @@
     "type": "scholarship",
     "company": {
       "name": "Rotary International (The Rotary Foundation)",
-      "slug": null
+      "slug": null,
+      "domain": "rotary.org"
     },
     "official_url": "https://www.rotary.org/en/get-involved/our-programs/peace-fellowships/peace-fellowships-masters-degree-programs",
     "description": "Học bổng thạc sĩ về hoà bình và phát triển cho người đã làm việc trong lĩnh vực này, học tại các Trung tâm Hoà bình Rotary ở nước ngoài, kèm giai đoạn thực địa ứng dụng.",
@@ -5479,7 +5502,8 @@
     "type": "scholarship",
     "company": {
       "name": "Chính phủ Nhật Bản (MEXT) - Đại sứ quán Nhật Bản tại Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "emb-japan.go.jp"
     },
     "official_url": "https://www.vn.emb-japan.go.jp/itpr_ja/mext2027vn.html",
     "description": "Cơ hội sang Nhật học đại học, cao đẳng kỹ thuật, trung cấp chuyên nghiệp hoặc làm nghiên cứu sinh bằng học bổng của Chính phủ Nhật Bản, xét tuyển qua Đại sứ quán Nhật Bản tại Hà Nội.",
@@ -5508,7 +5532,8 @@
     "type": "scholarship",
     "company": {
       "name": "Viện Giáo dục Quốc tế Quốc gia Hàn Quốc (NIIED) - Bộ Giáo dục Hàn Quốc",
-      "slug": null
+      "slug": null,
+      "domain": "niied.go.kr"
     },
     "official_url": "https://www.niied.go.kr/web/niied/contents/niiedEng/eng_gksDegree",
     "description": "Học bổng chính phủ Hàn Quốc cho người đã tốt nghiệp THPT sang học đại học hoặc cao đẳng tại Hàn Quốc, gồm một năm học tiếng Hàn trước khi vào chuyên ngành, nhận qua Đại sứ quán hoặc trường.",
@@ -5536,7 +5561,8 @@
     "type": "scholarship",
     "company": {
       "name": "Hội đồng Quan hệ Văn hóa Ấn Độ (ICCR) - Chính phủ Ấn Độ",
-      "slug": null
+      "slug": null,
+      "domain": "iccr.gov.in"
     },
     "official_url": "https://iccr.gov.in/academics/scholarships/iccr-scholarship/iccr-scholarship-schemes",
     "description": "Chính phủ Ấn Độ cấp cho người Việt học đại học, thạc sĩ hoặc tiến sĩ tại Ấn Độ, theo hợp tác Mekong-Ganga, hỗ trợ vé máy bay, học phí và trợ cấp.",
@@ -5564,7 +5590,8 @@
     "type": "scholarship",
     "company": {
       "name": "Quỹ Hợp tác và Phát triển Quốc tế Đài Loan (TaiwanICDF)",
-      "slug": null
+      "slug": null,
+      "domain": "icdf.org.tw"
     },
     "official_url": "https://www.icdf.org.tw/wSite/ct?xItem=12505&ctNode=31562&mp=2",
     "description": "Học bổng toàn phần cho người Việt học thạc sĩ hoặc tiến sĩ bằng tiếng Anh tại các trường đối tác ở Đài Loan, gồm vé máy bay, học phí, ký túc xá, bảo hiểm, sách và trợ cấp sinh hoạt hằng tháng.",
@@ -5594,7 +5621,8 @@
     "type": "scholarship",
     "company": {
       "name": "Bộ Giáo dục Đài Loan (MOE) - Phòng Giáo dục, Văn phòng Kinh tế và Văn hóa Đài Bắc tại Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "moe.edu.tw"
     },
     "official_url": "https://depart.moe.edu.tw/VN/News2.aspx?n=52EBA08E597C8699&sms=BB49DCCE0919D766",
     "description": "Bộ Giáo dục Đài Loan cấp cho người nước ngoài, gồm người Việt, học đại học, thạc sĩ hoặc tiến sĩ tại Đài Loan, hỗ trợ học phí tối đa 40.000 Đài tệ mỗi học kỳ và sinh hoạt phí hằng tháng.",
@@ -5623,7 +5651,8 @@
     "type": "scholarship",
     "company": {
       "name": "Đại học Công nghệ Nanyang (NTU), Singapore",
-      "slug": null
+      "slug": null,
+      "domain": "ntu.edu.sg"
     },
     "official_url": "https://www.ntu.edu.sg/admissions/ug/scholarships/scholarship-opportunities/detail/asean-undergraduate-scholarship",
     "description": "Học bổng đại học cho công dân ASEAN (trừ Singapore) có thành tích phổ thông nổi bật, nộp kèm hồ sơ xin nhập học NTU, hỗ trợ học phí sau trợ cấp, sinh hoạt phí, chỗ ở và máy tính.",
@@ -5650,7 +5679,8 @@
     "type": "scholarship",
     "company": {
       "name": "Bộ Giáo dục Đại học Malaysia (MOHE)",
-      "slug": null
+      "slug": null,
+      "domain": "mohe.gov.my"
     },
     "official_url": "https://biasiswa.mohe.gov.my/INTER/index.php",
     "description": "Học bổng chính phủ Malaysia cho công dân ASEAN, trong đó có Việt Nam, học thạc sĩ hoặc tiến sĩ toàn thời gian tại các trường đại học Malaysia, chi trả học phí và trợ cấp sinh hoạt hằng tháng.",
@@ -5677,7 +5707,8 @@
     "type": "scholarship",
     "company": {
       "name": "Hội đồng Học bổng Trung Quốc (CSC) - Đại sứ quán Trung Quốc tại Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "china-embassy.gov.cn"
     },
     "official_url": "https://vn.china-embassy.gov.cn/yhwl123/202510/t20251030_11744221.htm",
     "description": "Học bổng miễn học phí của Chính phủ Trung Quốc cho người Việt học thạc sĩ hoặc tiến sĩ tại các trường Trung Quốc, nộp qua Đại sứ quán Trung Quốc tại Hà Nội, có thể gồm một năm dự bị tiếng Trung.",
@@ -5705,7 +5736,8 @@
     "type": "scholarship",
     "company": {
       "name": "Bộ Ngoại giao Brunei Darussalam",
-      "slug": null
+      "slug": null,
+      "domain": "mfa.gov.bn"
     },
     "official_url": "https://www.mfa.gov.bn/pages/scholarship.aspx",
     "description": "Học bổng chính phủ Brunei cho sinh viên nước ngoài, gồm công dân ASEAN, học văn bằng, đại học hoặc thạc sĩ tại các trường ở Brunei, kèm vé máy bay, ký túc xá và trợ cấp hằng tháng.",
@@ -5733,7 +5765,7 @@
     "type": "scholarship",
     "company": {
       "name": "VinUniversity",
-      "slug": null
+      "slug": "vinuni"
     },
     "official_url": "https://admissions.vinuni.edu.vn/vinuniversity-scholarship-program-academic-year-2026-2027/",
     "description": "Gói học bổng từ 50% đến toàn phần học phí (mức cao nhất kèm sinh hoạt phí), xét theo tiêu chí AACC cho ứng viên vào các chương trình cử nhân tại Hà Nội.",
@@ -5760,7 +5792,7 @@
     "type": "scholarship",
     "company": {
       "name": "RMIT Việt Nam",
-      "slug": null
+      "slug": "rmit"
     },
     "official_url": "https://www.rmit.edu.vn/study-at-rmit/scholarships/future-undergraduate-student-scholarships/vice-chancellors-scholars",
     "description": "Học bổng 100% học phí cho học sinh lớp 12 hoặc mới tốt nghiệp có thành tích học tập xuất sắc và tố chất lãnh đạo, theo học cử nhân tại cơ sở Sài Gòn Nam hoặc Hà Nội.",
@@ -5787,7 +5819,7 @@
     "type": "scholarship",
     "company": {
       "name": "RMIT Việt Nam",
-      "slug": null
+      "slug": "rmit"
     },
     "official_url": "https://www.rmit.edu.vn/study-at-rmit/scholarships/future-undergraduate-student-scholarships/computer-science-scholarship",
     "description": "Học bổng 50% học phí cho học sinh Việt Nam có thành tích THPT nổi bật, theo học Cử nhân Khoa học Máy tính tại cơ sở Sài Gòn Nam hoặc Hà Nội.",
@@ -5814,7 +5846,8 @@
     "type": "scholarship",
     "company": {
       "name": "Đại học Fulbright Việt Nam",
-      "slug": null
+      "slug": null,
+      "domain": "fulbright.edu.vn"
     },
     "official_url": "https://fulbright.edu.vn/fulbright-university-scholarship",
     "description": "Hệ thống sáu hạng học bổng từ 20% đến toàn phần học phí chương trình cử nhân khai phóng, xét theo thành tích học tập và đóng góp cho cộng đồng.",
@@ -5841,7 +5874,8 @@
     "type": "scholarship",
     "company": {
       "name": "Đại học Anh Quốc Việt Nam (BUV)",
-      "slug": null
+      "slug": null,
+      "domain": "buv.edu.vn"
     },
     "official_url": "https://buv.edu.vn/en/admission-and-fees/scholarships/vice-chancellors-scholarship",
     "description": "Học bổng 90% học phí chương trình dự bị và đại học cho các ứng viên xuất sắc nhất từ các trường THPT trên cả nước, theo học bằng cử nhân Anh Quốc ngay tại Việt Nam.",
@@ -5868,7 +5902,8 @@
     "type": "scholarship",
     "company": {
       "name": "Đại học Anh Quốc Việt Nam (BUV)",
-      "slug": null
+      "slug": null,
+      "domain": "buv.edu.vn"
     },
     "official_url": "https://buv.edu.vn/en/admission-and-fees/scholarships/the-british-ambassadors-scholarship",
     "description": "Học bổng toàn phần học phí chương trình dự bị và đại học, mang tên Đại sứ Anh tại Việt Nam, dành cho ứng viên xuất sắc từ các trường THPT trên cả nước.",
@@ -5895,7 +5930,8 @@
     "type": "scholarship",
     "company": {
       "name": "Trường Đại học Khoa học và Công nghệ Hà Nội (USTH)",
-      "slug": null
+      "slug": null,
+      "domain": "usth.edu.vn"
     },
     "official_url": "https://usth.edu.vn/thong-bao-tiep-nhan-don-dang-ky-hoc-bong-dot-1-nam-hoc-2026-2027-31620/",
     "description": "Bộ học bổng tân sinh viên gồm Tài năng, Kiến tạo, Khuyến khích học tập, Ươm mầm khoa học, Vượt khó, mức từ 20% đến 100% học phí cho thí sinh Việt Nam xét tuyển vào trường.",
@@ -5922,7 +5958,8 @@
     "type": "scholarship",
     "company": {
       "name": "Trường Đại học FPT",
-      "slug": null
+      "slug": null,
+      "domain": "fpt.edu.vn"
     },
     "official_url": "https://daihoc.fpt.edu.vn/hoc-bong/",
     "description": "Chương trình học bổng 50-100% học phí toàn khóa cho học sinh lớp 12 cả nước, gồm sáu hạng mục từ học thuật, công nghệ, khởi nghiệp đến lãnh đạo và vượt khó.",
@@ -5950,7 +5987,8 @@
     "type": "scholarship",
     "company": {
       "name": "Đại học Việt Đức (VGU)",
-      "slug": null
+      "slug": null,
+      "domain": "vgu.edu.vn"
     },
     "official_url": "https://tuyensinh.vgu.edu.vn/en/hocbong",
     "description": "Học bổng miễn giảm 25%, 50% hoặc toàn phần học phí cho tân sinh viên cử nhân, xét theo điểm TestAS, giải thưởng học sinh giỏi, chứng chỉ quốc tế và kết quả xét tuyển.",
@@ -5977,7 +6015,8 @@
     "type": "scholarship",
     "company": {
       "name": "The University of Auckland",
-      "slug": null
+      "slug": null,
+      "domain": "auckland.ac.nz"
     },
     "official_url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-vietnam-high-achievers-scholarship-1244-all.html",
     "description": "Học bổng giảm 25% học phí giai đoạn đầu cho sinh viên quốc tế từ Việt Nam học thạc sĩ, được mời nộp biểu mẫu bổ sung sau khi đã có thư mời nhập học.",
@@ -6004,7 +6043,8 @@
     "type": "scholarship",
     "company": {
       "name": "Trường Đại học Hoa Sen",
-      "slug": null
+      "slug": null,
+      "domain": "hoasen.edu.vn"
     },
     "official_url": "https://www.hoasen.edu.vn/tuyensinh/hoc-bong-tinh-hoa-hsu-2026/",
     "description": "Học bổng 70% học phí toàn khóa cho thí sinh đạt một trong bốn điều kiện về học bạ, điểm thi tốt nghiệp THPT, điểm đánh giá năng lực hoặc IELTS để vào học đại học tại trường.",
@@ -6024,5 +6064,857 @@
     "added_at": "2026-10-09",
     "updated_at": "2026-10-09",
     "notes": "Bài đăng trên hoasen.edu.vn ngày 28/01/2026 ghi đây là học bổng giá trị cao nhất của trường cho tuyển sinh 2026, áp dụng mọi chương trình đào tạo; trường còn các học bổng khác (35 năm HSU 35%, Giáo dục 25%, Doanh nghiệp 15%, ngành TOP 50% học phí năm nhất). Có nút 'Đăng ký xét học bổng' nhưng trang không nêu ngày mở/đóng đơn riêng; trường mở xét tuyển bổ sung đến 30/08/2026 theo bài khác (chưa fetch)."
+  },
+  {
+    "slug": "schwarzman-scholars",
+    "name": "Schwarzman Scholars",
+    "type": "scholarship",
+    "company": {
+      "name": "Schwarzman Scholars (Đại học Thanh Hoa)",
+      "slug": null,
+      "domain": "schwarzmanscholars.org"
+    },
+    "official_url": "https://www.schwarzmanscholars.org/admissions/",
+    "description": "Chương trình thạc sĩ một năm tại Đại học Thanh Hoa cho người trẻ có tố chất lãnh đạo, gắn với Trung Quốc và vai trò toàn cầu của nước này, tài trợ toàn phần.",
+    "tracks": [
+      "Thạc sĩ",
+      "Trung Quốc"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "1 năm",
+    "eligibility": "Ứng viên 18-28 tuổi, hoàn thành đại học trước khi nhập học, mọi ngành; cần chứng chỉ tiếng Anh (TOEFL iBT 100, IELTS 7 hoặc tương đương) trừ khi đã học bằng tiếng Anh từ 2 năm; nộp qua đợt U.S./Global.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang admissions ghi tuyển chọn người trẻ toàn cầu, đợt U.S./Global kế tiếp mở khoảng Apr-Sep 2027 (chưa có ngày cụ thể). Hạn đợt gần nhất lấy từ trang connect.schwarzmanscholars.org/apply. Cụm 'tài trợ toàn phần' lấy từ mô tả tìm kiếm của trang chính thức, trang admissions không nêu số tiền. Người Việt nộp theo đợt U.S./Global, không phải đợt China."
+  },
+  {
+    "slug": "ubc-international-scholars-program",
+    "name": "UBC International Scholars Program",
+    "type": "scholarship",
+    "company": {
+      "name": "University of British Columbia",
+      "slug": null,
+      "domain": "ubc.ca"
+    },
+    "official_url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/",
+    "description": "Chương trình học bổng đại học xét cả thành tích lẫn nhu cầu tài chính cho học sinh quốc tế có thành tích học tập nổi bật và đóng góp cộng đồng, kèm chương trình phát triển lãnh đạo.",
+    "tracks": [
+      "Đại học",
+      "Canada"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "Thời gian chương trình cử nhân",
+    "eligibility": "Học sinh quốc tế vào thẳng đại học từ trường phổ thông, học bằng đầu tiên, điểm toàn A hoặc tương đương, chứng minh được nhu cầu tài chính đáng kể, được trường đề cử cộng một giáo viên giới thiệu; đạt chuẩn tiếng Anh của trường.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Chương trình có bốn nhóm giải, trường tự xét theo đủ điều kiện, ứng viên không chọn giải. Trang ghi ứng viên nộp chương trình này sẽ không được xét giải học bổng theo thành tích. Giá trị giải không ghi rõ trên trang này. Hạn nộp bổ sung giấy tờ 2027-01-31."
+  },
+  {
+    "slug": "eth-excellence-scholarship-esop",
+    "name": "Excellence Scholarship & Opportunity Programme (ESOP)",
+    "type": "scholarship",
+    "company": {
+      "name": "ETH Zürich",
+      "slug": null,
+      "domain": "ethz.ch"
+    },
+    "official_url": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
+    "description": "Học bổng toàn phần cho sinh viên cao học xuất sắc, chi trả sinh hoạt phí và miễn học phí, kèm cố vấn và mạng lưới từ quỹ của trường.",
+    "tracks": [
+      "Thạc sĩ",
+      "Thụy Sĩ"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "3-4 học kỳ",
+    "eligibility": "Sinh viên đang hoàn thành cử nhân với kết quả thuộc nhóm 10% đầu (tự đánh giá), chưa học hoặc có bằng thạc sĩ tại trường; nộp qua hệ thống eApply cùng hồ sơ thạc sĩ kèm đề cương luận văn.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Phải nộp trong đợt đầu của hồ sơ thạc sĩ; ngoài giấy tờ nhập học cần thêm đề cương luận văn (pre-proposal) và hai giảng viên giới thiệu nếu chương trình không yêu cầu thư giới thiệu. Mức hỗ trợ CHF 12.000 mỗi học kỳ, từ khoá nhập học kế tiếp là CHF 13.500, cùng miễn học phí. Có thể có phỏng vấn điện thoại hoặc video."
+  },
+  {
+    "slug": "epfl-master-excellence-fellowships",
+    "name": "Master Excellence Fellowships EPFL",
+    "type": "scholarship",
+    "company": {
+      "name": "EPFL",
+      "slug": null,
+      "domain": "epfl.ch"
+    },
+    "official_url": "https://www.epfl.ch/education/master/master-excellence-fellowships/how-to-apply/",
+    "description": "Học bổng hỗ trợ sinh hoạt phí theo từng học kỳ cho sinh viên thạc sĩ xuất sắc, xét dựa trên thành tích học tập, năng lực và động lực.",
+    "tracks": [
+      "Thạc sĩ",
+      "Thụy Sĩ"
+    ],
+    "fields": [
+      "engineering",
+      "tech"
+    ],
+    "duration": "2-4 học kỳ",
+    "eligibility": "Mọi ứng viên đăng ký chương trình thạc sĩ của trường, mỗi người chỉ xin một chương trình; không áp dụng cho người đã có bằng thạc sĩ hoặc đang học thạc sĩ tại trường; cần hai thư giới thiệu từ giảng viên.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Đăng ký trong form thạc sĩ bằng cách đánh dấu ô xét học bổng xuất sắc, hồ sơ phải được thanh toán phí và xác nhận trước hạn 15 tháng 12, thư giới thiệu nộp muộn hơn một tuần theo email xác nhận. Mức CHF 10.000 mỗi học kỳ, tối đa 4 học kỳ; gia hạn năm hai cần điểm trung bình 5.0 và 50 tín chỉ. Trang không ghi năm của hạn nên không tạo cycle."
+  },
+  {
+    "slug": "warwick-postgraduate-research-scholarships",
+    "name": "Warwick Postgraduate Research Scholarships (Chancellor's)",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Warwick",
+      "slug": null,
+      "domain": "warwick.ac.uk"
+    },
+    "official_url": "https://warwick.ac.uk/services/dc/schols_fund/applicants/competitions/",
+    "description": "Cuộc thi học bổng nghiên cứu sinh toàn phần của trường, gồm các giải Chancellor's theo khoa và liên ngành, chi trả học phí và trợ cấp sinh hoạt không phân biệt quốc tịch.",
+    "tracks": [
+      "Tiến sĩ",
+      "Anh"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "Khoảng 3,5 năm",
+    "eligibility": "Ứng viên mọi quốc tịch nộp hồ sơ vào chương trình nghiên cứu như PhD, MPhil/PhD hoặc EngD nhập học mùa thu năm sau, chưa là nghiên cứu sinh của trường; nộp đơn học bổng riêng qua cổng học bổng.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi một đơn dùng cho nhiều nhánh gồm Faculty Chancellors và Interdisciplinary Chancellors; nhánh China Scholarship Council không dành cho người Việt. Hạn nộp hồ sơ chương trình 2026-12-07, thư giới thiệu 2026-12-21, kết quả công bố khoảng 2027-03-05. Gồm học phí, trợ cấp theo mức UKRI cho 3,5 năm và RTSG £5.000 cho nhánh Chancellor's."
+  },
+  {
+    "slug": "manchester-global-futures-scholarship-vietnam",
+    "name": "Global Futures Scholarship (Đông Nam Á - Việt Nam)",
+    "type": "scholarship",
+    "company": {
+      "name": "The University of Manchester",
+      "slug": null,
+      "domain": "manchester.ac.uk"
+    },
+    "official_url": "https://www.manchester.ac.uk/study/international/country-specific-information/vietnam/scholarships/",
+    "description": "Học bổng theo thành tích dưới dạng giảm học phí quốc tế cho sinh viên cư trú tại Việt Nam và một số nước Đông Nam Á, dành cho bậc đại học và thạc sĩ học toàn thời gian tại trường.",
+    "tracks": [
+      "Đại học",
+      "Thạc sĩ",
+      "Anh"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "3 năm (đại học) hoặc 1 năm (thạc sĩ)",
+    "eligibility": "Sinh viên tự túc cư trú chủ yếu tại Việt Nam trong ba năm gần nhất, đã có thư mời nhập học hệ toàn thời gian; đại học cần A-level, IB hoặc tương đương, thạc sĩ cần bằng cử nhân học tại Đông Nam Á.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Mẫu đơn chỉ được gửi email sau khi có thư mời nhập học, từ tháng 12/2026. Đại học: £12.000 mỗi năm trong ba năm, hạn 2027-04-23; thạc sĩ: £12.000, hạn 2027-05-14. Loại trừ MBA, y khoa, nha khoa, kiến trúc và một số ngành khác."
+  },
+  {
+    "slug": "ucl-global-masters-scholarship",
+    "name": "UCL Global Master's Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University College London",
+      "slug": null,
+      "domain": "ucl.ac.uk"
+    },
+    "official_url": "https://www.ucl.ac.uk/scholarships/ucl-global-masters-scholarship",
+    "description": "Học bổng xét theo nhu cầu tài chính giúp sinh viên quốc tế có hoàn cảnh thu nhập thấp học thạc sĩ toàn thời gian tại trường, trả vào học phí rồi chuyển phần còn lại cho sinh hoạt.",
+    "tracks": [
+      "Thạc sĩ",
+      "Anh"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "1 năm",
+    "eligibility": "Sinh viên nộp phí quốc tế, thu nhập gia đình thấp, đã nộp đủ hồ sơ nhập học (kèm thư giới thiệu) vào chương trình thạc sĩ giảng dạy toàn thời gian tại trường; không áp dụng cho hệ học từ xa.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Giá trị £15.000 cho một năm; chương trình hai năm chia đôi mỗi năm. Chọn theo nhu cầu tài chính, ứng viên vào vòng ngắn sẽ phải nộp bằng chứng thu nhập. Nộp qua cổng Portico, mỗi chương trình thạc sĩ một đơn riêng; trang hướng dẫn chung International Masters Awards dùng cùng hạn."
+  },
+  {
+    "slug": "unsw-international-scientia-coursework-scholarship",
+    "name": "International Scientia Coursework Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "UNSW Sydney",
+      "slug": null,
+      "domain": "unsw.edu.au"
+    },
+    "official_url": "https://www.scholarships.unsw.edu.au/scholarships/id/1988",
+    "description": "Học bổng học phí cho sinh viên quốc tế bậc đại học và thạc sĩ coursework, xét theo thành tích, kỹ năng lãnh đạo và hoạt động ngoại khoá, đăng ký qua cổng học bổng riêng của trường.",
+    "tracks": [
+      "Đại học",
+      "Thạc sĩ",
+      "Úc"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "Theo thời lượng tối thiểu của chương trình",
+    "eligibility": "Sinh viên quốc tế đã có thư mời nhập học chính thức vào chương trình đại học hoặc thạc sĩ coursework toàn thời gian tại trường; không gồm hệ online và UNSW Canberra.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Mức: học phí toàn phần hoặc AUD 20.000 mỗi năm cho thời lượng tối thiểu của chương trình. Trang ghi hai ngày mở khác nhau (06/07/2026 trong nội dung, 15/07/2026 ở đầu trang) nên không điền opens_at. Phải có thư mời nhập học trước hạn nộp. Cùng đơn còn xét một số giải khác theo ngành hoặc quốc tịch nhưng giải Scientia mở cho mọi sinh viên quốc tế."
+  },
+  {
+    "slug": "aauw-international-fellowships",
+    "name": "AAUW International Fellowships",
+    "type": "scholarship",
+    "company": {
+      "name": "American Association of University Women (AAUW)",
+      "slug": null,
+      "domain": "aauw.org"
+    },
+    "official_url": "https://www.aauw.org/resources/programs/fellowships-grants/aauw-international-fellowships/",
+    "description": "Học bổng dành cho phụ nữ không phải công dân hoặc thường trú nhân Mỹ học cao học và tiến sĩ ngành STEM tại Mỹ, ưu tiên người có thành tích học tập và đóng góp cho phụ nữ, trẻ em gái.",
+    "tracks": [
+      "Thạc sĩ",
+      "Tiến sĩ",
+      "Mỹ"
+    ],
+    "fields": [
+      "tech",
+      "engineering"
+    ],
+    "duration": "Một năm học, có thể tính theo chương trình",
+    "eligibility": "Nữ giới không phải công dân hoặc thường trú nhân Mỹ, theo học chương trình thạc sĩ, tiến sĩ học thuật hoặc chuyên ngành STEM toàn thời gian tại Mỹ; một số ít suất cho nước khác ngoài nước của mình.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Chương trình nhận hồ sơ qua cổng AAUW, ngành được xác định theo danh sách chương trình STEM của DHS. Trang không nêu số tiền trong phần fetch được. Dùng cho khoá học bắt đầu trong khoảng đến tháng 9 năm sau."
+  },
+  {
+    "slug": "lund-university-global-scholarship",
+    "name": "Lund University Global Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Lund University",
+      "slug": null,
+      "domain": "lunduniversity.lu.se"
+    },
+    "official_url": "https://www.lunduniversity.lu.se/study/admission-degree-studies/scholarships-and-awards/lund-university-global-scholarship",
+    "description": "Học bổng theo thành tích học tập, giảm một phần hoặc toàn bộ học phí cho sinh viên ngoài khối châu Âu vào học thạc sĩ tại trường, nộp qua cổng học bổng riêng.",
+    "tracks": [
+      "Thạc sĩ",
+      "Thụy Điển"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "Theo thời lượng chương trình",
+    "eligibility": "Công dân ngoài EU/EEA phải đóng học phí, nộp qua đợt tuyển chính thức vào thạc sĩ (hiếm khi là vài chương trình cử nhân), chọn chương trình của trường là nguyện vọng đầu trên universityadmissions.se.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Chỉ chi học phí, không gồm sinh hoạt phí; tỷ lệ miễn phụ thuộc ngân sách chương trình. Phải nộp hồ sơ nhập học và lệ phí trước khi nộp học bổng, cần thư động lực tối đa 600 từ. Trang ghi đợt thường mở đầu tháng 2, chưa có ngày chính xác nên không điền opens_at; hạn đợt gần nhất đã đóng."
+  },
+  {
+    "slug": "reach-oxford-scholarship",
+    "name": "Reach Oxford Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Oxford",
+      "slug": null,
+      "domain": "ox.ac.uk"
+    },
+    "official_url": "https://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/oxford-bursaries-and-scholarships/reach-oxford",
+    "description": "Học bổng đại học toàn phần cho sinh viên đến từ nước thu nhập thấp có thành tích học tập cao nhất, chi học phí, sinh hoạt phí và vé máy bay hằng năm.",
+    "tracks": [
+      "Đại học",
+      "Anh"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "3-4 năm",
+    "eligibility": "Công dân các nước nhận hỗ trợ phát triển chính thức, trong đó có Việt Nam; sinh viên mới bậc đại học, đã có thư mời nhập học, ưu tiên người chưa học đại học, có nhu cầu tài chính và dự định về nước.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Chỉ xét sinh viên đã được nhận học; không gồm ngành y. Hướng dẫn nộp đơn khoá nhập học kế tiếp sẽ đăng trên trang vào tháng 1/2027; hạn học bổng 2027-01-26, lựa chọn vào tháng 4 và kết quả cuối tháng 5/2027. Trang đánh giá cạnh tranh rất cao."
+  },
+  {
+    "slug": "jardine-oxford-cambridge-postgraduate-scheme",
+    "name": "Jardine Foundation Oxford & Cambridge Postgraduate Scheme",
+    "type": "scholarship",
+    "company": {
+      "name": "Jardine Foundation",
+      "slug": null,
+      "domain": "jardine-foundation.org"
+    },
+    "official_url": "https://www.jardine-foundation.org/scholarship-schemes",
+    "description": "Học bổng sau đại học toàn phần tại hai trường đại học hàng đầu nước Anh cho người trẻ khu vực Đông Á và Đông Nam Á có tiềm năng lãnh đạo và gắn bó cộng đồng.",
+    "tracks": [
+      "Thạc sĩ",
+      "Tiến sĩ",
+      "Anh"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 4 năm",
+    "eligibility": "Công dân hoặc cư dân Việt Nam ít nhất 7 năm, giai đoạn đầu sự nghiệp, đã được một trong các college đối tác nhận; xét cả thành tích, tiềm năng lãnh đạo, đóng góp cộng đồng và nhu cầu tài chính.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Quỹ ghi đơn lấy tại phòng tuyển sinh các college đối tác vào khoảng tháng 2, tuyển chọn tháng 3, phỏng vấn tháng 4; có thể xin thêm theo diện đồng tài trợ qua Oxford hoặc Cambridge Trust (hai đơn riêng). Ngày hạn cụ thể không có trên trang quỹ. Diện đại học Oxbridge đã dừng từ khoá nhập học 2027."
+  },
+  {
+    "slug": "amsterdam-merit-scholarship",
+    "name": "Amsterdam Merit Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Amsterdam",
+      "slug": null,
+      "domain": "uva.nl"
+    },
+    "official_url": "https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/amsterdam-merit-scholarship/amsterdam-merit-scholarship.html",
+    "description": "Học bổng dành cho sinh viên xuất sắc ngoài khối châu Âu học thạc sĩ tại trường, hồ sơ nộp qua phòng tuyển sinh của từng khoa hoặc trường sau đại học.",
+    "tracks": [
+      "Thạc sĩ",
+      "Hà Lan"
+    ],
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Sinh viên giữ hộ chiếu ngoài EU/EEA đã nộp hồ sơ vào chương trình thạc sĩ của trường; tiêu chí cụ thể và cách nộp khác nhau theo từng khoa.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang trung tâm chỉ ghi hạn khác nhau theo khoa hoặc trường sau đại học, không có ngày chung và không có số tiền nên không tạo cycle. Cần xem trang từng khoa để biết hạn và tiêu chí."
+  },
+  {
+    "slug": "rotary-yoneyama-overseas-candidates",
+    "name": "Rotary Yoneyama Memorial Scholarship (diện ứng viên ở nước ngoài)",
+    "type": "scholarship",
+    "company": {
+      "name": "Rotary Yoneyama Memorial Foundation",
+      "slug": null,
+      "domain": "rotary-yoneyama.or.jp"
+    },
+    "official_url": "https://www.rotary-yoneyama.or.jp/english/overseas",
+    "description": "Học bổng hằng tháng cho sinh viên nước ngoài sắp vào đại học hoặc cao học tại Nhật Bản, kèm khoản hỗ trợ chi phí đi lại sang Nhật.",
+    "tracks": [
+      "Đại học",
+      "Thạc sĩ",
+      "Tiến sĩ",
+      "Nhật Bản"
+    ],
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Sinh viên nước ngoài sắp nhập học đại học hoặc cao học tại Nhật; có JLPT N3 trở lên; tự nộp hồ sơ vào trường và đính kèm bản sao hồ sơ nhập học; bậc cao học cần thư giới thiệu của giáo sư; không nhận research student.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang chính thức ghi: học bổng 100.000 yen/tháng (đại học), 140.000 yen/tháng (thạc sĩ, tiến sĩ); hỗ trợ đi lại tối đa 250.000 yen. Đợt nộp áp dụng cho nhập học tháng 4 và mùa thu (9/10) năm sau. Kết quả báo đến giữa tháng 3 năm sau. Quốc tịch cụ thể không bị giới hạn trên trang; chưa đọc bản hướng dẫn PDF."
+  },
+  {
+    "slug": "fast-retailing-foundation-vietnam-scholarship",
+    "name": "Fast Retailing Foundation Scholarship (dành cho học sinh Việt Nam)",
+    "type": "scholarship",
+    "company": {
+      "name": "Fast Retailing Foundation",
+      "slug": null,
+      "domain": "fastretailing-foundation.or.jp"
+    },
+    "official_url": "https://www.fastretailing-foundation.or.jp/eng/scholarships/vietnam.html",
+    "description": "Học bổng toàn phần cho học sinh Việt Nam vào các trường đại học chỉ định ở Nhật, gồm học phí, hỗ trợ chuẩn bị và trợ cấp hằng tháng đến khi tốt nghiệp.",
+    "tracks": [
+      "Đại học",
+      "Nhật Bản"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "Đến khi tốt nghiệp đại học",
+    "eligibility": "Học sinh Việt Nam muốn học đại học tại các trường chỉ định ở Nhật (chương trình cử nhân dạy bằng tiếng Anh); chi tiết điều kiện (điểm, tiếng Anh, giấy tờ) nằm trong file PDF Application Guidelines trên trang, chưa đọc.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang chính thức ghi: khoảng 10 học sinh mỗi năm, nhập học mùa xuân và mùa thu 2027; chi phí gồm học phí, 200.000 yen hỗ trợ chuẩn bị, trợ cấp 144.000-160.000 yen/tháng; tối đa 4.500.000 yen/năm. Phỏng vấn vòng 1 ngày 17-18/10/2026 và vòng cuối ngày 3/11/2026 tại Hà Nội hoặc TP.HCM."
+  },
+  {
+    "slug": "aflsp-kyoto-university",
+    "name": "Asian Future Leaders Scholarship Program (AFLSP) tại Đại học Kyoto",
+    "type": "scholarship",
+    "company": {
+      "name": "Đại học Kyoto (chương trình của Bai Xian Asia Institute)",
+      "slug": null,
+      "domain": "kyoto-u.ac.jp"
+    },
+    "official_url": "https://www.aflsp.kyoto-u.ac.jp/",
+    "description": "Học bổng hai năm bậc thạc sĩ cho thanh niên châu Á học tại Kyoto, gồm học phí, phụ cấp sinh hoạt và chương trình bồi dưỡng lãnh đạo.",
+    "tracks": [
+      "Thạc sĩ",
+      "Nhật Bản"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "2 năm",
+    "eligibility": "Công dân một trong các nước/vùng được liệt kê (có Việt Nam); đang nộp vào chương trình thạc sĩ chính quy của Đại học Kyoto; xem thêm Eligibility and Selection Criteria trên trang AFLSP@KU.",
+    "recurring": "multiple",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang AFLSP@KU ghi: phụ cấp tổng khoảng 150.000-220.000 yen/tháng cộng miễn phí nhập học và học phí (số tiền thay đổi theo tỷ giá). Đợt nhập học tháng 4/2027 mở 4-13/11/2026; hướng dẫn nhập học tháng 10/2027 dự kiến công bố khoảng tháng 1/2027 và nộp khoảng tháng 4."
+  },
+  {
+    "slug": "yenching-scholars-peking-university",
+    "name": "Yenching Scholars (Yenching Academy, Đại học Bắc Kinh)",
+    "type": "scholarship",
+    "company": {
+      "name": "Yenching Academy, Đại học Bắc Kinh",
+      "slug": null,
+      "domain": "pku.edu.cn"
+    },
+    "official_url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
+    "description": "Học bổng toàn diện cho chương trình thạc sĩ liên ngành về Trung Quốc, gồm học phí, chỗ ở, trợ cấp hằng tháng, vé khứ hồi và chi phí đi thực địa.",
+    "tracks": [
+      "Thạc sĩ",
+      "Trung Quốc"
+    ],
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Công dân không mang quốc tịch Trung Quốc, có hộ chiếu hợp lệ; tốt nghiệp đại học hoặc sắp tốt nghiệp vào tháng 8 năm nhập học; thành tích học tập xuất sắc; quan tâm nghiên cứu liên ngành về Trung Quốc; tiếng Anh IELTS 7.0 hoặc TOEFL iBT 100 (miễn nếu tốt nghiệp chương trình dạy bằng tiếng Anh).",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang tuyển sinh ghi nhận đợt cho khóa 2027. Sinh viên của các trường đối tác phải qua vòng sơ tuyển nội bộ của trường mình; chưa kiểm tra trường Việt Nam nào là đối tác. Trang không nêu thời lượng chương trình."
+  },
+  {
+    "slug": "hong-kong-phd-fellowship-scheme",
+    "name": "Hong Kong PhD Fellowship Scheme (HKPFS)",
+    "type": "scholarship",
+    "company": {
+      "name": "Research Grants Council (UGC), Hong Kong",
+      "slug": null,
+      "domain": "ugc.edu.hk"
+    },
+    "official_url": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
+    "description": "Học bổng nghiên cứu sinh toàn thời gian tại tám trường đại học Hong Kong, gồm trợ cấp sinh hoạt hằng năm và kinh phí đi lại học thuật, không phân biệt quốc tịch.",
+    "tracks": [
+      "Tiến sĩ",
+      "Hong Kong"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 3 năm",
+    "eligibility": "Ứng viên mới vào chương trình PhD toàn thời gian tại một trong tám trường tham gia (CityU, HKBU, Lingnan, CUHK, EdUHK, PolyU, HKUST, HKU), không phân biệt quốc tịch; học lực, tiềm năng nghiên cứu, kỹ năng giao tiếp và khả năng lãnh đạo xuất sắc.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang RGC ghi: năm 2026/27 trợ cấp HK$344.400/năm và HK$14.400/năm cho đi lại, tối đa 3 năm; 400 suất cho năm học 2027/28. Quy trình hai bước: nộp đơn ban đầu lên RGC rồi nộp hồ sơ tuyển sinh vào trường (hạn mọi trường đều là 1/12/2026 lúc 23:59)."
+  },
+  {
+    "slug": "hkust-future-leaders-award",
+    "name": "HKUST Future Leaders Award",
+    "type": "scholarship",
+    "company": {
+      "name": "Hong Kong University of Science and Technology (HKUST)",
+      "slug": null,
+      "domain": "hkust.edu.hk"
+    },
+    "official_url": "https://join.hkust.edu.hk/future-leaders-award",
+    "description": "Học bổng cho sinh viên quốc tế xuất sắc có hoàn cảnh tài chính khó khăn, mức một lần hoặc toàn phần học phí kèm trợ cấp sinh hoạt, nộp riêng cùng hồ sơ nhập học.",
+    "tracks": [
+      "Đại học",
+      "Hong Kong"
+    ],
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Sinh viên không phải người Hong Kong, vào thẳng từ trung học (không nhận ứng viên đã học sau trung học); thể hiện nghị lực vượt khó và tiềm năng đóng góp; đạt yêu cầu tuyển sinh HKUST và được đề cử nhập học ở vòng Early; mức cao cần chứng minh hoàn cảnh tài chính đặc biệt khó khăn.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang chính thức ghi hai mức: HK$50.000 một lần, hoặc toàn bộ học phí kèm trợ cấp sinh hoạt (có thể gia hạn) cho diện cực khó khăn. Thời hạn hiển thị trên trang là của đợt 2025; trang join.hkust.edu.hk/intlscholarships ghi cổng nộp cho khóa vào 2027/28 sắp mở, nên cần kiểm tra lại ngày. Hồ sơ gồm Statement of Circumstance, Declaration on Family Finances và thư giới thiệu."
+  },
+  {
+    "slug": "singapore-moe-asean-scholarship-vietnam",
+    "name": "ASEAN Scholarship (Bộ Giáo dục Singapore) dành cho học sinh Việt Nam",
+    "type": "scholarship",
+    "company": {
+      "name": "Bộ Giáo dục Singapore (MOE)",
+      "slug": null,
+      "domain": "moe.gov.sg"
+    },
+    "official_url": "https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarship/vietnam",
+    "description": "Học bổng bốn năm bậc trung học tại Singapore cho học sinh Việt Nam, gồm học phí, ký túc xá, trợ cấp hằng năm, vé máy bay khứ hồi và lệ phí thi.",
+    "tracks": [
+      "Trung học",
+      "Singapore"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "4 năm (từ Secondary 3 đến Pre-University 2)",
+    "eligibility": "Công dân Việt Nam sinh từ 2/1/2010 đến 1/1/2013, hiện học lớp 8, 9 hoặc 10; tiếng Anh tốt; kết quả học tập ổn định; có thành tích hoạt động ngoại khóa. Gia hạn hằng năm theo kết quả học tập.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang MOE ghi: đợt 2026 đã đóng; vòng thi tuyển 10/5/2026; phỏng vấn 1-8/7/2026; trao học bổng dự kiến 9/2026; sang Singapore dự kiến 11/2026. Đợt 2027 chưa mở. Quyền lợi gồm tiền trợ cấp kèm ký túc xá, trợ cấp ổn định chỗ ở, vé khứ hồi, học phí, lệ phí thi O-Level và A-Level, bảo hiểm y tế được trợ giá."
+  },
+  {
+    "slug": "malaysian-technical-cooperation-programme-mtcp-scholarship",
+    "name": "Malaysian Technical Cooperation Programme (MTCP) Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Bộ Ngoại giao Malaysia (MTCP)",
+      "slug": null,
+      "domain": "kln.gov.my"
+    },
+    "official_url": "https://mtcp.kln.gov.my/scholarship",
+    "description": "Học bổng chính phủ Malaysia cho sinh viên các nước đang phát triển học thạc sĩ tại các trường đại học công lập, gồm học phí, phụ cấp và vé máy bay khứ hồi.",
+    "tracks": [
+      "Thạc sĩ",
+      "Malaysia"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "24-36 tháng",
+    "eligibility": "Công dân các nước thuộc diện MTCP; không quá 45 tuổi vào ngày nộp; tốt nghiệp đại học loại Second Class Upper hoặc CGPA 3.00 trở lên; IELTS 6.0, TOEFL iBT 60 hoặc đã học bằng tiếng Anh.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang MTCP mô tả học bổng thạc sĩ (coursework, mixed mode, research). Trang Đại sứ quán Malaysia tại Hà Nội đăng thông báo đợt 2026, cho thấy diện nước hưởng lợi áp dụng với Việt Nam; danh sách 144 nước chưa kiểm tra trực tiếp."
+  },
+  {
+    "slug": "turkiye-burslari-turkiye-scholarships",
+    "name": "Türkiye Scholarships (Türkiye Bursları)",
+    "type": "scholarship",
+    "company": {
+      "name": "Chính phủ Thổ Nhĩ Kỳ (Türkiye Bursları)",
+      "slug": null,
+      "domain": "turkiyeburslari.gov.tr"
+    },
+    "official_url": "https://www.turkiyeburslari.gov.tr/",
+    "description": "Học bổng chính phủ Thổ Nhĩ Kỳ cho bậc cao đẳng, đại học, thạc sĩ, tiến sĩ, gồm hỗ trợ tài chính, học phí, chỗ ở, bảo hiểm y tế và xếp trường.",
+    "tracks": [
+      "Đại học",
+      "Thạc sĩ",
+      "Tiến sĩ",
+      "Thổ Nhĩ Kỳ"
+    ],
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Sinh viên quốc tế từ mọi quốc gia nộp cho bậc cao đẳng, cử nhân, thạc sĩ, tiến sĩ; điều kiện chi tiết về tuổi và điểm số chưa có trong các trang đã đọc.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang lịch chính thức ghi kỳ nộp thường niên 10/1-20/2, đánh giá tháng 3-4, phỏng vấn tháng 4-6, công bố đầu tháng 8. Ngoài ra có học bổng nghiên cứu (nhiều kỳ trong năm) và Success Scholarship (tháng 10-11); các chương trình này có kỳ nộp riêng, chưa kiểm tra riêng cho người Việt."
+  },
+  {
+    "slug": "korea-foundation-graduate-studies-scholarship",
+    "name": "KF Scholarship for Graduate Studies (Korea Foundation)",
+    "type": "scholarship",
+    "company": {
+      "name": "Korea Foundation",
+      "slug": null,
+      "domain": "kf.or.kr"
+    },
+    "official_url": "https://www.kf.or.kr/kfEng/cm/cntnts/cntntsView.do?mi=2219&cntntsId=1638",
+    "description": "Học bổng hỗ trợ học phí cho sinh viên nước ngoài đang học thạc sĩ hoặc tiến sĩ ngành Hàn Quốc học, nhằm đào tạo thế hệ học giả mới.",
+    "tracks": [
+      "Thạc sĩ",
+      "Tiến sĩ",
+      "Hàn Quốc học"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "1 năm (thạc sĩ gia hạn tối đa 2 năm, tiến sĩ tối đa 3 năm)",
+    "eligibility": "Sinh viên không mang quốc tịch Hàn Quốc, đang theo học thạc sĩ hoặc tiến sĩ ngành Hàn Quốc học (loại trừ khoa học tự nhiên, y, kỹ thuật, MBA, luật, biên phiên dịch); với Việt Nam nộp qua trường hoặc cơ quan có thỏa thuận với KF.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang KF xếp Việt Nam vào Nhóm 4 (Châu Á) và Nhóm 6 (ASEAN), nộp qua trường có ký thỏa thuận với KF; kỳ nộp theo từng nước nên không có ngày cụ thể cho Việt Nam trong nguồn đã đọc, vì vậy bỏ cycle. Mức hỗ trợ là học phí, khác nhau theo nước."
+  },
+  {
+    "slug": "tuoi-tre-tiep-suc-den-truong",
+    "name": "Học bổng Tiếp sức đến trường (báo Tuổi Trẻ)",
+    "type": "scholarship",
+    "company": {
+      "name": "Báo Tuổi Trẻ",
+      "slug": null,
+      "domain": "tuoitre.vn"
+    },
+    "official_url": "https://tuoitre.vn/dang-ky-hoc-bong-tiep-suc-den-truong.htm",
+    "description": "Hỗ trợ tài chính cho tân sinh viên có hoàn cảnh khó khăn nhưng nỗ lực vươn lên, đã trúng tuyển đại học hoặc cao đẳng, để các em yên tâm bước vào giảng đường.",
+    "tracks": [
+      "Đại học",
+      "Cao đẳng",
+      "Tân sinh viên",
+      "Việt Nam"
+    ],
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Tân sinh viên trúng tuyển đại học hoặc cao đẳng, có giấy xác nhận nhập học; ưu tiên mồ côi, hộ nghèo/cận nghèo, vùng thiên tai, khuyết tật, cha mẹ bệnh nặng, gia đình gặp biến cố và có nỗ lực vươn lên. Tự đăng ký hoặc được người khác giới thiệu qua cổng trực tuyến.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Tuổi Trẻ là đơn vị tổ chức (không phải bài repost); cổng đăng ký tuoitre.vn/dang-ky-hoc-bong-tiep-suc-den-truong.htm chuyển sang tiepsucdentruong.web.app. Bài 16/08/2026 ghi cổng đăng ký đổi mới từ ngày 16-8; bài 14/09/2026 ghi hạn cuối 16-9; cổng ghi đã đóng ngày 16/09/2026. Bài báo ghi khoảng 15 triệu đồng/suất, có suất đặc biệt 50 triệu/4 năm (số suất và tiền thay đổi theo mùa). Ban tổ chức xác minh với địa phương, có thể phỏng vấn trực tuyến. Mùa thứ 24 năm 2026, chưa thấy thông báo mùa kế tiếp."
+  },
+  {
+    "slug": "vingroup-science-technology-phd-scholarship",
+    "name": "Học bổng Khoa học Công nghệ đào tạo Tiến sĩ du học nước ngoài của Vingroup",
+    "type": "scholarship",
+    "company": {
+      "name": "Vingroup (do VinUniversity vận hành)",
+      "slug": null,
+      "domain": "vingroup.net"
+    },
+    "official_url": "https://scholarships.vinuni.edu.vn/",
+    "description": "Học bổng toàn phần gồm học phí, sinh hoạt phí hằng tháng và vé máy bay cho công dân Việt Nam học tiến sĩ ngành khoa học công nghệ tại các đại học hàng đầu thế giới.",
+    "tracks": [
+      "Tiến sĩ",
+      "Du học",
+      "Khoa học công nghệ"
+    ],
+    "fields": [
+      "tech",
+      "engineering"
+    ],
+    "duration": "toàn thời gian chương trình tiến sĩ theo đại học tiếp nhận",
+    "eligibility": "Công dân Việt Nam không quá 35 tuổi khi bắt đầu tiến sĩ; đã hoặc sắp tốt nghiệp đại học, GPA chuyên ngành tối thiểu 8/10; IELTS Academic 6.5 hoặc TOEFL iBT 79 (hoặc bằng từ nước nói tiếng Anh); 2 thư giới thiệu, bài luận, CV. Phải về Việt Nam làm việc theo thời gian bằng thời gian nhận học bổng.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Từ khóa 2026 chỉ nhận tiến sĩ (FAQ). Domain scholarships.vinuni.edu.vn do VinUniversity vận hành chương trình của Tập đoàn Vingroup (thông báo ghi rõ). Thông báo năm học 2027/28 (PDF): Quy trình 1 (đã có thư mời tiến sĩ) mở hồ sơ dự kiến tháng 12/2026, hạn dự kiến 18:00 ngày 15/04/2027; Quy trình 2 (chưa có thư mời) hạn 30/07/2026 đã qua. Trang chủ ghi hồ sơ năm học 2026-2027 đã đóng. Các mốc đều ghi là 'dự kiến'."
+  },
+  {
+    "slug": "van-lang-talent-scholarship",
+    "name": "Học bổng Tài năng VLU (VLU Talent) - Đại học Văn Lang",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Văn Lang",
+      "slug": null,
+      "domain": "vlu.edu.vn"
+    },
+    "official_url": "https://www.vlu.edu.vn/admissions/scholarship/hoc-bong-dai-hoc",
+    "description": "Khoản học bổng đầu khóa giá trị cao dành cho tân sinh viên nổi bật về học tập, ngoại ngữ, nghệ thuật, thể thao hoặc dự án cộng đồng, ưu tiên người có tiềm năng lãnh đạo.",
+    "tracks": [
+      "Đại học",
+      "Tân sinh viên",
+      "Chương trình Tiêu chuẩn"
+    ],
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Học sinh THPT đăng ký ứng tuyển và nhập học chương trình Tiêu chuẩn của Văn Lang (không áp dụng Global Elite, Global Standard, Global Partnership); mức cao nhất xét hồ sơ thành tích (giải thưởng học thuật, nghệ thuật, thể thao, dự án cộng đồng).",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang VLU ghi mức 1 (100 triệu đồng/suất) phải đăng ký ứng tuyển tại tuyensinh.vlu.edu.vn/xet-tuyen/xet-hoc-bong trước 30/6/2026; mức 2 và mức 3 xét tự động theo điểm đầu vào, không nộp hồ sơ nên không tính vào mục này. Chưa thấy trang công bố đợt cho khóa tiếp theo."
+  },
+  {
+    "slug": "van-lang-vgs-global-elite-scholarship",
+    "name": "Học bổng Tinh hoa Toàn cầu VGS Global Elite - Đại học Văn Lang",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Văn Lang",
+      "slug": null,
+      "domain": "vlu.edu.vn"
+    },
+    "official_url": "https://tuyensinh.vlu.edu.vn/xet-tuyen/xet-hoc-bong",
+    "description": "Miễn 100% học phí toàn khóa cho học sinh xuất sắc vào chương trình cử nhân tinh hoa quốc tế, có một học kỳ tại đại học đối tác top 40 thế giới và thực tập tại tập đoàn đối tác.",
+    "tracks": [
+      "Đại học",
+      "Tân sinh viên",
+      "Chương trình Tinh hoa Quốc tế"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "toàn khóa",
+    "eligibility": "Học sinh đạt thành tích học thuật cấp quốc gia, quốc tế hoặc giải Nhất học sinh giỏi cấp tỉnh/thành; IELTS Academic từ 6.0 trở lên hoặc tương đương (được bổ sung trước 31/12/2026); ưu tiên người tham gia hoặc khởi xướng dự án cộng đồng, thể hiện tiềm năng lãnh đạo.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang tuyển sinh VLU ghi học bổng tương đương 800 triệu đồng/suất, đăng ký trước 30/6/2026, người nhận được xét trúng tuyển thẳng theo quy chế Bộ GD&ĐT. Chưa thấy trang công bố đợt cho khóa tiếp theo."
+  },
+  {
+    "slug": "fulbright-khoi-tri-scholarship",
+    "name": "Học bổng Khởi Trí (Khởi Trí Scholarship) - Đại học Fulbright Việt Nam",
+    "type": "scholarship",
+    "company": {
+      "name": "Đại học Fulbright Việt Nam",
+      "slug": null,
+      "domain": "fulbright.edu.vn"
+    },
+    "official_url": "https://fulbright.edu.vn/khoi-tri-scholarship",
+    "description": "Học bổng trừ trực tiếp vào học phí cử nhân Fulbright, xét qua video tiếng Anh 3-5 phút trình bày ý tưởng về một đại học của tương lai dành cho giới trẻ Việt Nam.",
+    "tracks": [
+      "Đại học",
+      "Tân sinh viên",
+      "Việt Nam"
+    ],
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Ứng viên chương trình cử nhân Fulbright khóa nhập học 09/2026 (đã hoặc sắp nộp hồ sơ, đã có thư nhận hoặc đã nhập học); phải hoàn tất đơn tuyển sinh Fulbright và nộp video tiếng Anh 3-5 phút, đăng công khai TikTok hoặc YouTube chế độ không công khai; có phỏng vấn với hội đồng.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi giá trị mỗi suất 180-600 triệu đồng, xét độc lập với học bổng học thuật Fulbright University Scholarship (đã có trong dữ liệu). Chủ đề năm 2026 gắn với kỷ niệm 10 năm thành lập trường nên chưa rõ có lặp lại."
+  },
+  {
+    "slug": "samsung-galaxy-campus-friends",
+    "name": "Galaxy Campus Friends (Samsung Việt Nam)",
+    "type": "ambassador",
+    "company": {
+      "name": "Samsung Việt Nam",
+      "slug": null,
+      "domain": "samsung.com"
+    },
+    "official_url": "https://www.samsung.com/vn/mobile/galaxy-campus/about/",
+    "description": "Đại sứ sáng tạo nội dung đồng hành cùng Samsung Galaxy, dành cho sinh viên và cử nhân trẻ 18–25 tuổi; được trải nghiệm hệ sinh thái Galaxy, đào tạo kỹ năng và dự sự kiện ra mắt sản phẩm.",
+    "tracks": [
+      "Sáng tạo nội dung",
+      "Trải nghiệm sản phẩm Galaxy",
+      "Sự kiện và dự án truyền thông"
+    ],
+    "fields": [
+      "tech"
+    ],
+    "duration": "1 năm",
+    "eligibility": "Công dân Việt Nam 18–25 tuổi, đang học hoặc đã tốt nghiệp cử nhân tại các trường đại học (kể cả bảo lưu), mọi chuyên ngành; có mạng xã hội với tổng tối thiểu 1.000 lượt theo dõi.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang samsung.com/vn/mobile/galaxy-campus/about và /tnc (đã fetch) mô tả mùa 3 'All Star 2026', điều kiện, quyền lợi nhưng KHÔNG ghi ngày đăng ký. Ngày lấy từ trang sự kiện của Đại học Hoa Sen (đã fetch): đăng ký 25/02/2026 - 15/03/2026. Bài launch trên samsung.com/vn/explore/brand (đã fetch) là mùa 1 (đăng ký 23/10/2023-12/11/2023), cho thấy chương trình lặp lại nhiều mùa; mùa 1,2 cũ vẫn được đăng ký lại."
+  },
+  {
+    "slug": "shopee-campus-ambassador-program",
+    "name": "Shopee Campus Ambassador Program (CAP)",
+    "type": "ambassador",
+    "company": {
+      "name": "Shopee Việt Nam",
+      "slug": "shopee"
+    },
+    "official_url": "https://www.cake.me/companies/shopee-viet-nam/jobs/the-cap-2026-application-is-now-open",
+    "description": "Đại sứ sinh viên sáng tạo nội dung #LifeAtShopee, hỗ trợ truyền thông tuyển dụng và sự kiện Shopee Careers tại trường; nhận trợ cấp voucher hàng tháng và giấy chứng nhận hoàn thành.",
+    "tracks": [
+      "Sáng tạo nội dung",
+      "Truyền thông tuyển dụng",
+      "Tổ chức sự kiện trường học"
+    ],
+    "fields": [
+      "business",
+      "general"
+    ],
+    "duration": "4 tháng",
+    "eligibility": "Sinh viên năm 2 hoặc năm 3 tại các trường đại học ở TP.HCM và Hà Nội; có thể đồng hành cả chương trình.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang tuyển dụng chính thức của Shopee Việt Nam trên Cake (ATS, đã fetch) ghi quy trình: nộp đơn rồi phỏng vấn nhân sự; đồng hành tháng 7 đến tháng 11. Chỉ ghi hạn nộp 28/06/2026, không ghi ngày mở nên opens_at null. Trang Đại học FPT (đã fetch) xác nhận cùng hạn. Kết quả tìm kiếm có tin CAP 2025 trên ybox (chưa fetch) nên đánh dấu yearly. Chưa tìm được trang trên careers.shopee.vn (JS, không đọc được)."
   }
 ]
