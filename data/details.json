@@ -656,6 +656,58 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "anu-international-achievement-award",
+    "overview": "ANU International Achievement Award là học bổng giảm học phí của Đại học Quốc gia Úc (ANU), nhằm thu hút sinh viên quốc tế có năng lực học thuật vào các chương trình cử nhân và sau đại học theo hình thức học phần. Mức giảm là 20%, 25% (nhóm Đông Nam Á) hoặc 50% (nhóm Thái Bình Dương). Học bổng kéo dài theo thời gian của chương trình học, tối đa 4 năm. Học bổng chấm dứt khi kết thúc thời hạn, khi sinh viên không còn đủ điều kiện hoặc thôi học.",
+    "eligibility": [
+      "Là sinh viên quốc tế mới nhập học, hoặc đang học tại ANU và đã nhận thư mời nhập học ở bậc AQF cao hơn.",
+      "Bậc cử nhân cần Selection Rank từ 85 (hoặc tương đương theo quy đổi của ANU); bậc sau đại học cần GPA tối thiểu 5.5 (hoặc tương đương).",
+      "Cư trú tại quốc gia không thuộc diện của học bổng Vice-Chancellor's International Achievement Award (Trung Quốc gồm Đài Loan, Hồng Kông, Ma Cao; Nhật Bản; Mông Cổ; Hàn Quốc; Triều Tiên).",
+      "Không nhận tài trợ bên ngoài chi trả toàn bộ hoặc một phần học phí tại ANU.",
+      "Áp dụng cho mọi chương trình đủ điều kiện, trừ Doctor of Medicine and Surgery (MChD) và Master of Digital Transformation and Entrepreneurship (MDTE).",
+      "Mỗi bậc học chỉ được nhận một lần, trừ trường hợp học tiếp Honours một năm sau cử nhân hoặc nhận gói chương trình liên thông (vd Graduate Certificate lên Thạc sĩ)."
+    ],
+    "benefits": [
+      "Giảm 20% học phí cho nhóm cử nhân và sau đại học thông thường; 25% cho nhóm Đông Nam Á; 50% cho nhóm Thái Bình Dương.",
+      "Thời hạn bằng thời gian chương trình học, tối đa 4 năm; khoản giảm được trừ vào học phí đầu mỗi học kỳ.",
+      "Có thể nhận đồng thời với các hỗ trợ tài chính khác trong phạm vi quy định của ANU về học bổng, trợ cấp và bursary."
+    ],
+    "selection_process": [
+      "Bước 1: Nộp hồ sơ nhập học vào ANU; không cần nộp đơn riêng cho học bổng.",
+      "Bước 2: ANU tự động xét các ứng viên đủ điều kiện, quy đổi bằng cấp đầu vào sang thang điểm chung và xếp hạng theo thành tích học thuật.",
+      "Bước 3: Người được chọn nhận thư mời học bổng ghi rõ mức giá trị.",
+      "Bước 4: Chấp nhận riêng biệt cả thư mời nhập học và thư mời học bổng."
+    ],
+    "stipend": "Học bổng chỉ giảm học phí, không có trợ cấp sinh hoạt; sinh viên tự chi trả sách vở, chỗ ở và các chi phí học tập khác.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng riêng không?",
+        "a": "Không. Mọi sinh viên quốc tế đủ điều kiện đã nộp hồ sơ nhập học ANU, kể cả người đã chấp nhận thư mời nhập học, đều được xét tự động."
+      },
+      {
+        "q": "Hạn nộp hồ sơ là khi nào?",
+        "a": "ANU cho biết học bổng mở quanh năm vì được xét cùng hồ sơ nhập học."
+      },
+      {
+        "q": "Có thể bảo lưu học bổng không?",
+        "a": "Không. Theo điều kiện của học bổng, học bổng không được bảo lưu."
+      },
+      {
+        "q": "Khi nào học bổng bị chấm dứt?",
+        "a": "Khi không còn đủ điều kiện, hết thời hạn, thôi học, vi phạm quy định học thuật hoặc kỷ luật, nhận cùng lúc hai học bổng học thuật/thể thao của ANU, hoặc vượt mức trần hỗ trợ tài chính."
+      },
+      {
+        "q": "Học bổng có cam kết việc làm sau khi tốt nghiệp không?",
+        "a": "Không. Theo điều kiện của học bổng, ANU không cam kết tuyển dụng người nhận học bổng."
+      }
+    ],
+    "sources": [
+      "https://study.anu.edu.au/scholarships/find-scholarship/anu-international-achievement-award",
+      "https://d3gu8jtw4r0om.cloudfront.net/files/2026-10/Conditions%20of%20Award%20%2862_2026%29.pdf"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "apero-fipo-fresher-product-owner",
     "overview": "17FIPO là chương trình tuyển dụng và đào tạo Fresher Product Owner có lương của Apero Technologies Group, dành cho sinh viên năm cuối hoặc người mới tốt nghiệp đại học chưa có kinh nghiệm làm Product. Chương trình kéo dài 4 tháng. Hai tháng đầu, học viên học tập trung theo các sprint, đi từ ý tưởng, xây dựng đến vận hành sản phẩm. Hai tháng sau, học viên đảm nhận vai trò Product Owner trong dự án thực tế tại các venture thuộc Apero. Theo tin tuyển dụng, học viên hoàn thành chương trình có cơ hội trở thành nhân viên chính thức và được xếp lương ở cấp Junior.",
     "eligibility": [
@@ -1414,6 +1466,60 @@
       "https://www.facebook.com/groups/755120958600593/posts/2092307298215279/"
     ],
     "confidence": "medium",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "boston-university-presidential-scholarship",
+    "overview": "Presidential Scholarship là học bổng merit của Boston University dành cho tân sinh viên năm nhất có thành tích học tập xuất sắc và nổi bật ngoài lớp học, như vai trò lãnh đạo ở trường hoặc cộng đồng. Học bổng mở cho cả công dân, thường trú nhân Mỹ và sinh viên quốc tế. Mỗi năm học bổng trị giá một nửa học phí, áp dụng từ khóa nhập học mùa thu 2026. Học bổng có thể gia hạn tối đa bốn năm đại học, tương đương 8 học kỳ thu và xuân, nếu người nhận đáp ứng điều kiện gia hạn.",
+    "eligibility": [
+      "Tân sinh viên năm nhất bắt đầu học tại Boston University, áp dụng từ khóa nhập học mùa thu 2026",
+      "Công dân Mỹ, thường trú nhân Mỹ hoặc sinh viên quốc tế",
+      "Có thành tích học tập xuất sắc, nằm trong nhóm sinh viên giỏi nhất của khóa",
+      "Thể hiện năng lực ngoài lớp học như lãnh đạo, sáng tạo, chủ động và có đóng góp cho trường hoặc cộng đồng",
+      "Nộp hồ sơ nhập học kèm giấy tờ hỗ trợ trước hạn 1/12",
+      "Để gia hạn, phần lớn học bổng merit yêu cầu GPA tối thiểu 2.00, học đạt ít nhất 12 tín chỉ mỗi kỳ và giữ kỷ luật tốt"
+    ],
+    "benefits": [
+      "Mỗi năm được miễn một nửa học phí",
+      "Tự động gia hạn tối đa 8 học kỳ thu và xuân, tương đương bốn năm đại học, nếu đáp ứng điều kiện",
+      "Được công nhận là Presidential Scholar, nhóm sinh viên có thành tích nổi bật của trường"
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ nhập học và giấy tờ hỗ trợ trước 1/12, không cần bài luận hay mẫu đơn học bổng riêng",
+      "Vòng 2: Hội đồng Tuyển sinh xét hồ sơ, dựa trên thành tích học tập và hoạt động ngoài lớp học, rồi trao học bổng"
+    ],
+    "locations": [
+      "Boston (Mỹ)"
+    ],
+    "stipend": "Học bổng trị giá một nửa học phí mỗi năm.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn riêng để được xét học bổng không?",
+        "a": "Không. Ứng viên không cần viết thêm bài luận hay điền mẫu đơn riêng, chỉ cần hoàn tất hồ sơ nhập học trước 1/12."
+      },
+      {
+        "q": "Sinh viên quốc tế có được xét không?",
+        "a": "Có. Học bổng dành cho cả công dân, thường trú nhân Mỹ và sinh viên quốc tế."
+      },
+      {
+        "q": "Học bổng có giá trị bao nhiêu và kéo dài bao lâu?",
+        "a": "Mỗi năm học bổng bằng một nửa học phí và có thể gia hạn tối đa bốn năm đại học."
+      },
+      {
+        "q": "Cần làm gì để giữ học bổng các năm sau?",
+        "a": "Phần lớn học bổng merit của trường yêu cầu GPA tối thiểu 2.00, học đạt ít nhất 12 tín chỉ mỗi kỳ, giữ kỷ luật tốt và đáp ứng các điều kiện trong hướng dẫn học bổng."
+      },
+      {
+        "q": "Nếu không đủ điều kiện gia hạn thì sao?",
+        "a": "Sinh viên mất học bổng merit nhưng vẫn cần hỗ trợ tài chính có thể nộp đơn xin hỗ trợ dựa trên nhu cầu tài chính, nếu đáp ứng tiêu chí."
+      }
+    ],
+    "sources": [
+      "https://www.bu.edu/admissions/tuition-aid/scholarships-financial-aid/first-year-merit/",
+      "https://www.bu.edu/admissions/tuition-aid/scholarships-financial-aid/first-year-merit/presidential/",
+      "https://www.bu.edu/finaid/how-aid-works/types-of-aid/scholarships-grants/merit-based/how-scholarships-are-renewed/"
+    ],
+    "confidence": "high",
     "updated_at": "2026-10-09"
   },
   {
@@ -2235,6 +2341,113 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "constructor-university-academic-achievement-scholarship",
+    "overview": "Academic Achievement Scholarship là học bổng giảm một phần học phí của Constructor University, trường đại học tư thục tại Bremen (Đức). Học bổng được xét theo năm học, dành cho thí sinh vào bậc cử nhân và thạc sĩ đã có thư mời nhập học còn hiệu lực. Mức học bổng dựa trên điểm trung bình (GPA) ở trường phổ thông. Với kỳ nhập học mùa thu 2027, mức tối đa là 11.000 euro mỗi năm học. Thí sinh không cần nộp đơn riêng và được báo mức học bổng ngay sau khi trúng tuyển.",
+    "eligibility": [
+      "Có thư mời nhập học còn hiệu lực vào Constructor University",
+      "Áp dụng cho thí sinh nộp hồ sơ vào chương trình cử nhân và thạc sĩ (kỳ nhập học mùa thu 2027)",
+      "Mức học bổng xét theo điểm trung bình (GPA) ở trường phổ thông",
+      "Mọi thí sinh trúng tuyển đều được xét tự động, không cần nộp đơn học bổng riêng"
+    ],
+    "benefits": [
+      "Giảm một phần học phí, tối đa 11.000 euro mỗi năm học (kỳ nhập học mùa thu 2027)",
+      "Biết mức học bổng ngay sau khi được nhận vào trường",
+      "Sinh viên không nhận được các học bổng khác vẫn có thể nhập học với điều kiện thông thường, gồm học bổng này và lựa chọn hoãn đóng học phí",
+      "Có thể dùng kèm chương trình hoãn học phí: chỉ bắt đầu trả lại khi thu nhập đạt mức tối thiểu đã định"
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ nhập học vào chương trình cử nhân hoặc thạc sĩ của Constructor University",
+      "Vòng 2: trường xét tuyển và gửi thư mời nhập học",
+      "Vòng 3: trường tự động xét học bổng theo GPA phổ thông và báo mức học bổng ngay sau khi trúng tuyển"
+    ],
+    "locations": [
+      "Bremen, Đức"
+    ],
+    "stipend": "Học bổng giảm một phần học phí, tối đa 11.000 euro mỗi năm học cho kỳ nhập học mùa thu 2027; học phí niêm yết năm học 2027/2028 là 11.925 euro mỗi học kỳ.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn riêng để xin học bổng này không?",
+        "a": "Không. Mọi thí sinh trúng tuyển đều được xét tự động theo GPA phổ thông."
+      },
+      {
+        "q": "Khi nào tôi biết mình được bao nhiêu học bổng?",
+        "a": "Trường báo mức học bổng ngay sau khi thí sinh được nhận vào học."
+      },
+      {
+        "q": "Mức học bổng tối đa là bao nhiêu?",
+        "a": "Theo trang học bổng cho kỳ nhập học mùa thu 2027, mức tối đa là 11.000 euro mỗi năm học."
+      },
+      {
+        "q": "Học viên thạc sĩ có được xét không?",
+        "a": "Có. Với kỳ nhập học mùa thu 2027, thí sinh nộp hồ sơ vào cả chương trình cử nhân và thạc sĩ đều được xét."
+      },
+      {
+        "q": "Học bổng này có liên quan đến Talent Scholarship không?",
+        "a": "Có. Talent Scholarship trả toàn bộ học phí bằng cách kết hợp phiên bản mở rộng của học bổng này với khoản hoãn học phí, nhưng phải qua vòng tuyển chọn riêng."
+      }
+    ],
+    "sources": [
+      "https://constructor.university/scholarships",
+      "https://constructor.university/admission-aid/financing-undergraduate",
+      "https://constructor.university/admission-aid/financing-graduate"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "constructor-university-talent-scholarship",
+    "overview": "Talent Scholarship là học bổng của Constructor University, trị giá 10.000 euro mỗi năm học, dành cho những ứng viên xuất sắc nhất. Học bổng này được trao thay cho học bổng Academic Achievement chứ không cộng dồn. Ứng viên ở mọi quốc gia đều được xét nếu nộp hồ sơ nhập học trước ngày 1/2/2026. Trường xét dựa trên GPA và hoạt động ngoại khóa, sau đó phỏng vấn những người được đề cử. Học bổng chỉ có hiệu lực khi ứng viên đủ điều kiện và đang có thư mời nhập học còn hiệu lực.",
+    "eligibility": [
+      "Mở cho mọi thí sinh nộp hồ sơ nhập học vào Constructor University trước ngày 1/2/2026.",
+      "Phải có kết quả SAT và nộp kèm hồ sơ nhập học thì mới được xét học bổng.",
+      "Được đánh giá theo GPA ở trường phổ thông và mức độ tham gia ngoại khóa như olympic, cuộc thi, hội thảo, trại hè, workshop, khóa học.",
+      "Phải đủ điều kiện và có thư mời nhập học còn hiệu lực từ trường.",
+      "Trường còn dành thêm suất cho học sinh tốt nghiệp phổ thông tại Đức, hạn chót 1/7/2026."
+    ],
+    "benefits": [
+      "Hỗ trợ 10.000 euro học phí mỗi năm học.",
+      "Thay thế học bổng Academic Achievement, vốn chỉ hỗ trợ tối đa 7.000 euro mỗi năm."
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ nhập học kèm kết quả SAT và chứng nhận hoạt động ngoại khóa trước 1/2/2026, không cần đơn xin học bổng riêng.",
+      "Vòng 2: trường xét GPA và hoạt động ngoại khóa; người được đề cử được báo qua email.",
+      "Vòng 3: phỏng vấn với nhóm tuyển chọn tài năng (Talent Recruitment Team) của trường.",
+      "Vòng 4: nhóm tuyển chọn tài năng cùng giảng viên quyết định cuối cùng dựa trên hồ sơ và kết quả phỏng vấn."
+    ],
+    "locations": [
+      "Bremen (Đức)"
+    ],
+    "stipend": "Học bổng hỗ trợ học phí 10.000 euro mỗi năm học.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng riêng không?",
+        "a": "Không. Ứng viên được xét tự động qua hồ sơ nhập học, miễn là có nộp kèm kết quả SAT."
+      },
+      {
+        "q": "Có nhận được cùng lúc Talent Scholarship và học bổng Academic Achievement không?",
+        "a": "Không. Talent Scholarship được trao thay cho học bổng Academic Achievement."
+      },
+      {
+        "q": "Kết quả SAT có bắt buộc không?",
+        "a": "Có. Phải có kết quả SAT và nộp cùng hồ sơ thì mới được xét học bổng này."
+      },
+      {
+        "q": "Có cách nào để hồ sơ mạnh hơn không?",
+        "a": "Trường khuyên tải lên và nêu rõ các chứng nhận hoạt động ngoại khóa liên quan như giải olympic, cuộc thi, trại hè hay khóa học."
+      },
+      {
+        "q": "Nếu không nhận được học bổng thì sao?",
+        "a": "Ứng viên vẫn có thể nhập học theo điều kiện thông thường. Trường có thể cấp học bổng Academic Achievement và cho chọn hình thức hoãn trả học phí."
+      }
+    ],
+    "sources": [
+      "https://constructor.university/scholarships#talent-scholarship",
+      "https://constructor.university/scholarships"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "crowe-vietnam-internship-program",
     "overview": "Đây là chương trình thực tập kiểm toán năm 2026–2027 của Crowe Việt Nam tại văn phòng Hà Nội và TP.HCM, dành cho sinh viên năm cuối hoặc người mới tốt nghiệp khối ngành kiểm toán, kế toán, tài chính, kinh tế. Thực tập sinh hỗ trợ các nhóm kiểm toán và phụ trách một số phần hành cơ bản. Chương trình chạy từ tháng 11/2026 đến hết tháng 3/2027; ở TP.HCM, hai tháng đầu chủ yếu là đào tạo bán thời gian, sau đó làm toàn thời gian trong mùa cao điểm. Kết thúc thực tập, người phù hợp có thể được mời làm Trợ lý kiểm toán chính thức.",
     "eligibility": [
@@ -2416,6 +2629,126 @@
       "https://tuyensinhhuongnghiep.vn/15-suat-hoc-bong-toan-phan-du-hoc-cuba-danh-cho-hoc-sinh-sinh-vien.htm"
     ],
     "confidence": "medium",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "cuhk-admission-scholarships-non-local",
+    "overview": "CUHK Admission Scholarships là học bổng đầu vào mà Đại học Trung văn Hồng Kông (CUHK) trao cho tân sinh viên cử nhân, cả local lẫn non-local, dựa trên thành tích học tập hoặc ngoài học tập xuất sắc. Sinh viên non-local từ các vùng ngoài Trung Quốc Đại lục, gồm cả Việt Nam, được xét tự động khi trúng tuyển chương trình cử nhân toàn thời gian. Mỗi suất có giá trị từ HK$5.000 đến toàn bộ học phí. Nhiều suất được gia hạn trong thời gian học chuẩn, thường là 4 năm, nếu sinh viên đạt tiến bộ học tập.",
+    "eligibility": [
+      "Là tân sinh viên trúng tuyển chương trình cử nhân toàn thời gian tại CUHK.",
+      "Là sinh viên non-local từ vùng ngoài Trung Quốc Đại lục, ví dụ người cần visa hoặc giấy phép nhập cảnh để du học Hồng Kông.",
+      "Có bằng cấp đạt yêu cầu tuyển sinh cử nhân, như A-Level, IB hoặc bằng THPT đủ điều kiện vào đại học ở nước sở tại.",
+      "Tiếng Anh tối thiểu IELTS Academic 6.0, hoặc TOEFL iBT 80 nếu thi trước 21/01/2026, hoặc 4.5/6 nếu thi từ 21/01/2026.",
+      "Có thành tích học tập hoặc ngoài học tập xuất sắc; việc xét chọn mang tính cạnh tranh.",
+      "Với suất được gia hạn, sinh viên phải duy trì tiến bộ học tập đạt yêu cầu trong thời gian học chuẩn."
+    ],
+    "benefits": [
+      "Học bổng từ HK$5.000 đến toàn bộ học phí; học phí non-local năm 2027-28 là HK$230.000 mỗi năm.",
+      "Một số suất kèm phụ cấp tới HK$66.000 mỗi năm.",
+      "Nhiều suất được gia hạn suốt thời gian học chuẩn nếu sinh viên đạt tiến bộ học tập.",
+      "Nhiều người nhận được ghi danh Honours at Entrance trên bảng điểm chính thức; danh hiệu này không kèm tiền.",
+      "Tân sinh viên đặc biệt xuất sắc có thể nhận thêm University Exchange Scholarship từ HK$10.000 đến HK$80.000.",
+      "Trường có thể đề cử tân sinh viên phù hợp cho HKSAR Government Scholarship, trị giá HK$80.000 mỗi năm với sinh viên non-local."
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ tuyển sinh cử nhân online, phí HK$500; vòng Advance Offer hạn 12/11/2026, vòng Regular hạn 07/01/2027.",
+      "Hồ sơ gồm hộ chiếu, bài luận cá nhân không quá 6.000 ký tự, bảng điểm, kết quả kỳ thi và một thư giới thiệu.",
+      "Vòng 2: phỏng vấn, chỉ dành cho ứng viên lọt danh sách ngắn ở một số ngành.",
+      "Vòng 3: trường tự động xét học bổng cho người trúng tuyển, không cần nộp đơn riêng.",
+      "Vòng 4: thông báo học bổng cùng thư mời nhập học; vòng Advance Offer từ 12/2026, vòng Regular từ 02/2027.",
+      "Vòng 5: xác nhận nhập học bằng cách đóng đợt phí đầu HK$10.000 trước hạn quy định."
+    ],
+    "locations": [
+      "Hồng Kông"
+    ],
+    "stipend": "Ngoài phần học bổng từ HK$5.000 đến toàn bộ học phí, một số suất kèm phụ cấp tới HK$66.000 mỗi năm.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng riêng không?",
+        "a": "Không. Người trúng tuyển chương trình cử nhân toàn thời gian được tự động xét học bổng đầu vào."
+      },
+      {
+        "q": "Khi nào biết mình có học bổng?",
+        "a": "Học bổng, nếu có, được thông báo cùng thư mời nhập học. Kết quả được gửi dần từ 12/2026 đến 07/2027."
+      },
+      {
+        "q": "Sinh viên quốc tế có được hỗ trợ tài chính không?",
+        "a": "Sinh viên quốc tế không được nhận hỗ trợ tài chính (financial aid), nhưng có thể nhận học bổng đầu vào nếu xuất sắc."
+      },
+      {
+        "q": "Hạn nộp hồ sơ cho khóa nhập học 2027 là khi nào?",
+        "a": "Vòng Advance Offer hạn 12/11/2026, vòng Regular hạn 07/01/2027. Ai không nhận Advance Offer sẽ tự động được xét tiếp ở vòng Regular."
+      },
+      {
+        "q": "Học bổng có được duy trì qua các năm không?",
+        "a": "Nhiều suất được gia hạn trong thời gian học chuẩn nếu sinh viên đạt tiến bộ học tập; một số suất khác chỉ trao một lần."
+      }
+    ],
+    "sources": [
+      "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/",
+      "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/",
+      "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/",
+      "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/",
+      "https://admission.cuhk.edu.hk/fees-financing-your-studies/fees/"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "cuhk-hksar-government-scholarship-non-local",
+    "overview": "Học bổng HKSAR Government Scholarship, còn gọi là Scholarship for Outstanding Performance, được chi từ quỹ học bổng do chính quyền Hồng Kông lập năm 2008. Học bổng dành cho sinh viên học toàn thời gian các chương trình bậc cử nhân trở lên do nhà nước tài trợ. Sinh viên non-local nhận HK$80.000 mỗi năm. CUHK chọn sinh viên năm nhất phù hợp để đề cử lên Education Bureau. Học bổng áp dụng trong thời gian chuẩn của chương trình và được gia hạn hằng năm nếu kết quả học tập đạt yêu cầu.",
+    "eligibility": [
+      "Sinh viên non-local mới nhập học năm nhất bậc cử nhân tại CUHK",
+      "Học chương trình toàn thời gian bậc cử nhân trở lên do nhà nước Hồng Kông tài trợ",
+      "Sinh viên không thuộc Trung Quốc đại lục cần có bằng cấp đáp ứng yêu cầu tuyển sinh cử nhân của CUHK",
+      "Thành tích học tập xuất sắc là tiêu chí chính",
+      "Có thể xét thêm đóng góp cho trường hoặc xã hội, khả năng lãnh đạo, kỹ năng giao tiếp và sự gắn bó với cộng đồng Hồng Kông",
+      "Không cần nộp đơn, CUHK tự xác định và đề cử ứng viên"
+    ],
+    "benefits": [
+      "HK$80.000 mỗi năm cho sinh viên non-local (sinh viên local nhận HK$40.000)",
+      "Áp dụng trong suốt thời gian chuẩn của chương trình học",
+      "Được gia hạn hằng năm nếu kết quả học tập đạt yêu cầu",
+      "Người nhận non-local đến từ các nền kinh tế thành viên APEC được trao danh hiệu Hong Kong, China-APEC Scholarship"
+    ],
+    "selection_process": [
+      "Vòng 1: Sinh viên được CUHK nhận vào học cử nhân năm nhất, không cần nộp đơn riêng",
+      "Vòng 2: CUHK tự xác định sinh viên mới đủ điều kiện dựa trên thành tích",
+      "Vòng 3: CUHK đề cử sinh viên phù hợp lên Education Bureau của chính quyền Hồng Kông",
+      "Vòng 4: Trường thông báo kết quả trao học bổng cho sinh viên được chọn"
+    ],
+    "locations": [
+      "Hồng Kông"
+    ],
+    "stipend": "HK$80.000 mỗi năm (khoảng US$10.300) cho sinh viên non-local, gia hạn hằng năm nếu kết quả học tập đạt yêu cầu.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng này không?",
+        "a": "Không. CUHK tự xác định sinh viên năm nhất phù hợp, đề cử lên Education Bureau và thông báo cho người được chọn."
+      },
+      {
+        "q": "Sinh viên quốc tế nhận được bao nhiêu?",
+        "a": "Sinh viên non-local nhận HK$80.000 mỗi năm, gấp đôi mức HK$40.000 của sinh viên local."
+      },
+      {
+        "q": "Học bổng kéo dài bao lâu?",
+        "a": "Học bổng áp dụng trong thời gian chuẩn của chương trình và được gia hạn mỗi năm nếu kết quả học tập đạt yêu cầu."
+      },
+      {
+        "q": "Tiêu chí xét chọn gồm những gì?",
+        "a": "Thành tích học tập xuất sắc. Ngoài ra có thể xét đóng góp cho trường hoặc xã hội, khả năng lãnh đạo, kỹ năng giao tiếp và sự gắn bó với cộng đồng Hồng Kông."
+      },
+      {
+        "q": "Học bổng này do ai tài trợ?",
+        "a": "Học bổng được chi từ HKSAR Government Scholarship Fund, quỹ do chính quyền Hồng Kông thành lập năm 2008."
+      }
+    ],
+    "sources": [
+      "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/",
+      "https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/publicly-funded-programmes/scholarship.html",
+      "https://www.studyinhongkong.edu.hk/en/hong-kong-education/scholarships.php"
+    ],
+    "confidence": "high",
     "updated_at": "2026-10-09"
   },
   {
@@ -3058,6 +3391,115 @@
     ],
     "sources": [
       "https://www.durham.ac.uk/study/scholarships/international/durham-inspiring-excellence-scholarships/undergraduate/"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "duytan-advanced-international-talent-scholarship",
+    "overview": "Đây là học bổng tài năng của Trường Đại học Duy Tân dành cho thí sinh trúng tuyển năm 2026 vào các chương trình Tiên tiến & Quốc tế chuẩn CMU, PSU, CSU và PNU. Người nhận được miễn 100% học phí trong suốt khoá học nếu tổng điểm xét tuyển 3 môn trong kỳ thi THPT 2026 đạt từ 25 điểm. Mỗi chuyên ngành có 5 suất. Để giữ học bổng qua các năm, sinh viên phải đạt mức GPA tối thiểu mỗi năm học.",
+    "eligibility": [
+      "Thí sinh đăng ký học một chuyên ngành thuộc chương trình Tiên tiến & Quốc tế chuẩn CMU, PSU, CSU hoặc PNU của Đại học Duy Tân năm 2026",
+      "Tổng điểm xét tuyển 3 môn trong kỳ thi THPT năm 2026 đạt từ 25 điểm trở lên",
+      "Điểm xét học bổng dựa trên kết quả thi thực tế, không cộng điểm ưu tiên khu vực hay đối tượng",
+      "Ngành theo chuẩn CMU: Công nghệ Phần mềm, An ninh Mạng, Hệ thống Thông tin Quản lý",
+      "Ngành theo chuẩn PSU: Quản trị Kinh doanh, Tài chính Ngân hàng, Kế toán & Kiểm toán, Quản trị Khách sạn, Du lịch & Lữ hành, Nhà hàng; CSU: Xây dựng, Kiến trúc; PNU: Điện - Điện tử, Cơ Điện tử",
+      "Để giữ học bổng, GPA mỗi năm cần đạt 3.2/4.0 với khối Kỹ thuật và 3.4/4.0 với khối Kinh tế, đồng thời tuân thủ quy định học thuật của Bộ GD&ĐT"
+    ],
+    "benefits": [
+      "Học bổng toàn phần: miễn 100% học phí cho toàn bộ khoá học",
+      "Có thể giữ học bổng qua tất cả các năm nếu đạt GPA tối thiểu mỗi năm",
+      "Nếu thí sinh đạt nhiều tiêu chí học bổng cùng lúc, trường xét mức cao nhất"
+    ],
+    "selection_process": [
+      "Bước 1: Đăng ký xét tuyển vào một chuyên ngành chuẩn CMU, PSU, CSU hoặc PNU năm 2026",
+      "Bước 2: Trường xét điểm thi THPT 2026 thực tế (không cộng điểm ưu tiên), yêu cầu tổng 3 môn từ 25 điểm",
+      "Bước 3: Trao học bổng theo thứ tự nộp hồ sơ trong từng đợt xét tuyển cho đến khi hết 5 suất của mỗi chuyên ngành",
+      "Các năm sau: Xét duy trì học bổng hằng năm dựa trên GPA của năm học"
+    ],
+    "stipend": "Học bổng miễn toàn bộ học phí, không chi trả trợ cấp và không đổi được thành tiền mặt.",
+    "faq": [
+      {
+        "q": "Mỗi chuyên ngành có bao nhiêu suất học bổng?",
+        "a": "Mỗi chuyên ngành thuộc các chương trình CMU, PSU, CSU và PNU có 5 suất."
+      },
+      {
+        "q": "Điểm ưu tiên khu vực có được cộng khi xét học bổng không?",
+        "a": "Không. Trường chỉ dùng điểm thi thực tế, không cộng điểm ưu tiên khu vực hay đối tượng."
+      },
+      {
+        "q": "Có thể nhường học bổng cho người khác hoặc nhận bằng tiền mặt không?",
+        "a": "Không. Học bổng không chuyển nhượng được cho người khác và không quy đổi thành tiền mặt."
+      },
+      {
+        "q": "Cần đạt điều kiện gì để giữ học bổng qua các năm?",
+        "a": "GPA mỗi năm cần đạt tối thiểu 3.2/4.0 với khối Kỹ thuật hoặc 3.4/4.0 với khối Kinh tế, đồng thời tuân thủ quy định học thuật và thi cử của Bộ GD&ĐT."
+      },
+      {
+        "q": "Nếu đạt nhiều tiêu chí học bổng cùng lúc thì sao?",
+        "a": "Thí sinh sẽ nhận mức học bổng cao nhất."
+      }
+    ],
+    "sources": [
+      "https://duytan.edu.vn/tuyen-sinh/Page/ScholarshipDetail.aspx?id=103"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "duytan-talent-program-scholarship",
+    "overview": "Đây là học bổng của Trường Đại học Duy Tân dành cho thí sinh trúng tuyển vào các ngành thuộc Chương trình Tài năng của Khoa Quản lý Nam Khuê năm 2026. Thí sinh Việt Nam có 45 suất toàn phần, miễn 100% học phí, và 45 suất bán phần, miễn 50% học phí. Học bổng áp dụng trong suốt thời gian khóa học chính thức, nhưng sinh viên phải đạt mức GPA tối thiểu mỗi năm để tiếp tục được nhận. Thí sinh có quốc tịch Lào được xét theo số suất và điều kiện riêng.",
+    "eligibility": [
+      "Thí sinh Việt Nam đã tốt nghiệp THPT và trúng tuyển vào một ngành thuộc Chương trình Tài năng của Khoa Quản lý Nam Khuê năm 2026.",
+      "Diện đoạt giải: đạt giải học sinh giỏi quốc gia hoặc Hội thi khoa học kỹ thuật do Bộ GD&ĐT tổ chức năm 2024–2026, được tuyển thẳng vào đúng ngành hoặc ngành gần với môn đoạt giải.",
+      "Diện đoạt giải: giải Nhất, Nhì, Ba kèm điểm tiếng Anh từ 7 hoặc IELTS từ 5.5 được xét toàn phần; giải Khuyến khích kèm tiếng Anh từ 6 hoặc IELTS từ 5.5 được xét bán phần.",
+      "Diện điểm thi THPT 2026: từ 25 điểm theo tổ hợp xét tuyển, kèm tiếng Anh từ 7 hoặc IELTS từ 5.5, được xét toàn phần; từ 23 điểm, kèm tiếng Anh từ 6 hoặc IELTS từ 5.5, được xét bán phần.",
+      "Điều kiện duy trì hằng năm: khối Kỹ thuật cần GPA 3.2/4 với toàn phần, 3.0/4 với bán phần; khối Xã hội/Kinh tế cần 3.4/4 với toàn phần, 3.2/4 với bán phần.",
+      "Cam kết: nếu bỏ học hoặc chuyển trường trong năm thứ nhất hay đầu năm thứ hai, sinh viên phải bồi hoàn cho trường học phí của năm học đầu tiên."
+    ],
+    "benefits": [
+      "Học bổng toàn phần miễn 100% học phí toàn khóa, gồm 45 suất cho thí sinh Việt Nam năm 2026.",
+      "Học bổng bán phần miễn 50% học phí toàn khóa, gồm 45 suất cho thí sinh Việt Nam năm 2026.",
+      "Thí sinh đạt nhiều tiêu chí cùng lúc sẽ được nhận mức học bổng cao nhất.",
+      "Học lớp nhỏ khoảng 30–40 sinh viên, có giảng viên nước ngoài, được bồi dưỡng tiếng Anh giao tiếp và tiếng Anh chuyên ngành.",
+      "Có các hoạt động tham quan, kiến tập và thực tập tại doanh nghiệp trong và ngoài nước, cùng hoạt động giao lưu với sinh viên các trường ASEAN.",
+      "Sinh viên có thể học liên tục 5 năm để lấy bằng Thạc sĩ."
+    ],
+    "selection_process": [
+      "Bước 1: trúng tuyển vào một ngành thuộc Chương trình Tài năng của Khoa Quản lý Nam Khuê theo diện đoạt giải hoặc theo điểm thi THPT 2026.",
+      "Bước 2: nộp hồ sơ đăng ký xét học bổng trong từng đợt xét tuyển.",
+      "Bước 3: nhà trường xét theo thứ tự nộp hồ sơ cho đến khi đủ số suất; điểm xét dựa trên kết quả thi thực tế, không cộng điểm ưu tiên khu vực hoặc đối tượng.",
+      "Bước 4: nhập học đúng hạn để được nhận học bổng, vì thí sinh nhập học trễ sẽ không được cấp."
+    ],
+    "locations": [
+      "Đà Nẵng"
+    ],
+    "stipend": "Chương trình không có trợ cấp tiền mặt; học bổng chỉ miễn 100% hoặc 50% học phí toàn khóa và không được quy đổi thành tiền.",
+    "faq": [
+      {
+        "q": "Có thể đổi học bổng thành tiền mặt hoặc chuyển cho người khác không?",
+        "a": "Không. Học bổng không được chuyển nhượng và không được quy đổi thành tiền mặt."
+      },
+      {
+        "q": "Nếu nhập học trễ hạn thì còn được nhận học bổng không?",
+        "a": "Không. Học bổng chỉ được cấp trong thời gian khóa học chính thức, và thí sinh nhập học trễ hạn sẽ không được nhận."
+      },
+      {
+        "q": "Điểm ưu tiên khu vực và đối tượng có được cộng khi xét học bổng không?",
+        "a": "Không. Điểm xét học bổng chỉ dựa trên kết quả thi thực tế."
+      },
+      {
+        "q": "Sau năm đầu, làm sao để tiếp tục giữ học bổng?",
+        "a": "Sinh viên cần đạt GPA hằng năm theo quy định: khối Kỹ thuật cần 3.2/4 với toàn phần và 3.0/4 với bán phần; khối Xã hội/Kinh tế cần 3.4/4 với toàn phần và 3.2/4 với bán phần."
+      },
+      {
+        "q": "Nếu bỏ học hoặc chuyển trường sớm thì sao?",
+        "a": "Sinh viên Việt Nam nhận học bổng mà bỏ học hoặc chuyển trường trong năm thứ nhất hay đầu năm thứ hai phải bồi hoàn học phí của năm học đầu tiên."
+      }
+    ],
+    "sources": [
+      "https://duytan.edu.vn/tuyen-sinh/Page/ScholarshipDetail.aspx?id=104",
+      "https://duytan.edu.vn/vien-quan-ly-nam-khue/vien-quan-ly-nam-khue-ben-do-cua-nhung-sinh-vien-tai-nang-xt0"
     ],
     "confidence": "high",
     "updated_at": "2026-10-09"
@@ -6003,6 +6445,113 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "haui-english-program-entrance-scholarship",
+    "overview": "Đây là học bổng đầu vào năm 2026 của Đại học Công nghiệp Hà Nội dành cho tân sinh viên nhập học 15 chương trình đại học đào tạo bằng tiếng Anh, thuộc các nhóm ngành công nghệ thông tin, cơ khí – ô tô, điện – điện tử, kinh tế và du lịch – khách sạn. Quỹ học bổng dự kiến khoảng 3 tỷ đồng, chia thành 3 mức: miễn 100% học phí toàn khoá, giảm 50% học phí toàn khoá, hoặc miễn 100% học phí năm thứ nhất. Học bổng được chia theo từng học kỳ. Sinh viên phải đáp ứng điều kiện học tập và rèn luyện mỗi học kỳ để tiếp tục được nhận.",
+    "eligibility": [
+      "Nhập học một chương trình đại học đào tạo bằng tiếng Anh của HaUI năm 2026.",
+      "Mức 1: đạt giải nhất, nhì hoặc ba kỳ thi học sinh giỏi, thi khoa học kỹ thuật cấp quốc gia, quốc tế hoặc thi tay nghề ASEAN, quốc tế trong vòng 3 năm; hoặc là thủ khoa nhóm chương trình với điểm xét tuyển từ 26,00 trở lên.",
+      "Mức 2: không thuộc diện mức 1 và có điểm xét tuyển từ 25,00 trở lên.",
+      "Mức 3: không thuộc diện mức 1 và 2, có điểm xét tuyển từ 24,00 trở lên.",
+      "Để giữ học bổng, mỗi học kỳ chính phải đăng ký đủ khối lượng học tối thiểu, có kết quả rèn luyện loại tốt và điểm trung bình học kỳ từ 2.5/4.0 trở lên."
+    ],
+    "benefits": [
+      "Mức 1: miễn 100% học phí toàn khoá. Diện đạt giải không giới hạn số suất, diện thủ khoa dự kiến có 5 suất (mỗi nhóm chương trình 1 suất).",
+      "Mức 2: giảm 50% học phí toàn khoá, dự kiến 15 suất chia cho 5 nhóm chương trình.",
+      "Mức 3: miễn 100% học phí năm thứ nhất, dự kiến 15 suất chia cho 5 nhóm chương trình.",
+      "Tổng quỹ học bổng cho các chương trình đào tạo bằng tiếng Anh dự kiến khoảng 3 tỷ đồng."
+    ],
+    "selection_process": [
+      "Bước 1: thí sinh trúng tuyển và nhập học một chương trình đào tạo bằng tiếng Anh của HaUI năm 2026.",
+      "Bước 2: xét mức 1 cho thí sinh có giải thưởng quốc gia, quốc tế hoặc là thủ khoa nhóm chương trình với điểm xét tuyển từ 26,00 trở lên.",
+      "Bước 3: xét mức 2 rồi đến mức 3 theo điểm xét tuyển từ cao xuống thấp cho đến khi đủ số suất của từng nhóm chương trình.",
+      "Khi nhiều người bằng nhau, ưu tiên lần lượt: tổng điểm xét tuyển, chứng chỉ ngoại ngữ, điểm không tính ưu tiên, điểm thi tốt nghiệp môn Toán, thứ tự nguyện vọng."
+    ],
+    "stipend": "Học bổng được trừ trực tiếp vào học phí, không được quy đổi thành tiền mặt, không được bảo lưu hay chuyển nhượng.",
+    "faq": [
+      {
+        "q": "Học bổng áp dụng cho những ngành nào?",
+        "a": "Áp dụng cho 15 chương trình đào tạo bằng tiếng Anh, gồm Công nghệ thông tin, Khoa học máy tính, Cơ khí, Cơ điện tử, Ô tô, Điện – điện tử, Điện tử – viễn thông, Kế toán, Marketing, Quản trị kinh doanh, Tài chính – Ngân hàng và một số ngành du lịch, khách sạn, nhà hàng."
+      },
+      {
+        "q": "Nếu đạt cùng lúc nhiều mức học bổng thì sao?",
+        "a": "Sinh viên chỉ nhận mức học bổng cao nhất mà mình đạt được tại thời điểm xét."
+      },
+      {
+        "q": "Có thể đổi học bổng thành tiền mặt hoặc bảo lưu không?",
+        "a": "Không. Học bổng không quy đổi thành tiền mặt, không bảo lưu và không chuyển nhượng vì bất kỳ lý do nào."
+      },
+      {
+        "q": "Làm sao để giữ học bổng ở các học kỳ sau?",
+        "a": "Mỗi học kỳ chính cần đăng ký đủ khối lượng học tối thiểu, có kết quả rèn luyện loại tốt và điểm trung bình học kỳ từ 2.5/4.0 trở lên."
+      },
+      {
+        "q": "Trường hợp nào bị dừng hoặc thu hồi học bổng?",
+        "a": "Khi sinh viên không tiếp tục học, không đạt điều kiện duy trì, bị đình chỉ học tập, vi phạm pháp luật hoặc vi phạm nội quy của trường."
+      }
+    ],
+    "sources": [
+      "https://tuyensinh.haui.edu.vn/tin-tuc/hoc-bong-dai-hoc-cong-nghiep-ha-noi-nam-2026/69ca2e2995dfe0072a789cfa"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "haui-entrance-scholarship",
+    "overview": "Đây là học bổng đầu vào năm 2026 của Trường Đại học Công nghiệp Hà Nội dành cho tân sinh viên nhập học các ngành thuộc chương trình đào tạo chuẩn trình độ đại học. Tổng quỹ dự kiến khoảng 3 tỷ đồng, chia thành 3 mức theo từng nhóm ngành: miễn 100% học phí toàn khoá, 100% học phí năm thứ nhất hoặc 100% học phí học kỳ 1. Học bổng được phân bổ theo từng học kỳ. Để tiếp tục nhận học bổng, sinh viên phải duy trì kết quả học tập và rèn luyện theo yêu cầu của trường.",
+    "eligibility": [
+      "Nhập học ngành hoặc chương trình đào tạo chuẩn trình độ đại học của HaUI năm 2026",
+      "Mức 1: đạt giải nhất, nhì hoặc ba kỳ thi học sinh giỏi, khoa học kỹ thuật hoặc tay nghề cấp quốc gia, ASEAN hay quốc tế trong vòng 3 năm",
+      "Mức 1 (theo điểm): là thủ khoa của nhóm ngành và có điểm xét tuyển từ 26,00 trở lên",
+      "Mức 2: không thuộc diện mức 1 và có điểm xét tuyển từ 25,00 trở lên",
+      "Mức 3: không thuộc diện mức 1 và mức 2, có điểm xét tuyển từ 24,00 trở lên",
+      "Duy trì học bổng: đăng ký đủ khối lượng học tối thiểu, rèn luyện loại tốt và điểm trung bình học kỳ từ 2.5/4.0 trở lên"
+    ],
+    "benefits": [
+      "Mức 1: miễn 100% học phí toàn khoá; diện có giải thưởng không giới hạn số suất, diện thủ khoa dự kiến có 7 suất (mỗi nhóm ngành 1 suất)",
+      "Mức 2: miễn 100% học phí năm thứ nhất, dự kiến có 30 suất chia theo 7 nhóm ngành",
+      "Mức 3: miễn 100% học phí học kỳ 1 năm thứ nhất (không gồm học phí Giáo dục quốc phòng và an ninh), dự kiến có 61 suất",
+      "Tổng quỹ học bổng đầu vào cho chương trình chuẩn dự kiến khoảng 3 tỷ đồng",
+      "Sinh viên đạt nhiều loại học bổng cùng lúc sẽ được nhận mức cao nhất"
+    ],
+    "selection_process": [
+      "Bước 1: xét diện mức 1 theo giải thưởng quốc gia, quốc tế hoặc theo vị trí thủ khoa nhóm ngành với điểm từ 26,00",
+      "Bước 2: xét mức 2 theo điểm xét tuyển từ cao xuống thấp, từ 25,00 điểm, đến khi đủ số suất của từng nhóm ngành",
+      "Bước 3: xét mức 3 theo điểm xét tuyển từ cao xuống thấp, từ 24,00 điểm, đến khi đủ số suất của từng nhóm ngành",
+      "Khi bằng điểm: ưu tiên tổng điểm xét tuyển, rồi điểm không tính ưu tiên, điểm thi tốt nghiệp môn Toán, sau đó thứ tự nguyện vọng"
+    ],
+    "locations": [
+      "Hà Nội"
+    ],
+    "stipend": "Học bổng chỉ miễn giảm học phí, không quy đổi thành tiền mặt và không được chuyển nhượng.",
+    "faq": [
+      {
+        "q": "Có thể bảo lưu học bổng hoặc nhận bằng tiền mặt không?",
+        "a": "Không. Học bổng chỉ áp dụng cho sinh viên nhập học năm 2026, không được bảo lưu, quy đổi thành tiền mặt hay chuyển nhượng."
+      },
+      {
+        "q": "Đạt nhiều mức học bổng cùng lúc thì nhận mức nào?",
+        "a": "Sinh viên được nhận mức học bổng cao nhất trong số các mức đạt được tại thời điểm xét."
+      },
+      {
+        "q": "Cần làm gì để giữ học bổng các kỳ sau?",
+        "a": "Mỗi học kỳ chính phải đăng ký đủ khối lượng học tối thiểu, đạt rèn luyện loại tốt và có điểm trung bình học kỳ từ 2.5/4.0 trở lên."
+      },
+      {
+        "q": "Học bổng có thể bị thu hồi không?",
+        "a": "Có. Trường có thể ngừng cấp hoặc thu hồi nếu sinh viên thôi học, không đủ điều kiện duy trì, bị đình chỉ học tập hoặc vi phạm pháp luật, nội quy."
+      },
+      {
+        "q": "Mức 3 có bao gồm học phí Giáo dục quốc phòng và an ninh không?",
+        "a": "Không. Mức 3 miễn 100% học phí học kỳ 1 năm thứ nhất nhưng không bao gồm học phí Giáo dục quốc phòng và an ninh."
+      }
+    ],
+    "sources": [
+      "https://tuyensinh.haui.edu.vn/tin-tuc/hoc-bong-dai-hoc-cong-nghiep-ha-noi-nam-2026/69ca2e2995dfe0072a789cfa"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "hcmut-hoc-bong-hop-tac-va-chia-se",
     "overview": "Học bổng Hợp tác và Chia sẻ năm học 2026–2027 do Công ty TNHH Hóa chất Đăng Hưng tài trợ, Phòng Công tác Sinh viên Trường Đại học Bách khoa – ĐHQG-HCM triển khai. Năm nay có 06 suất cho tân sinh viên khóa 2026 hệ đại học chính quy có hoàn cảnh khó khăn, ưu tiên khoa Kỹ thuật Hóa học. Mỗi suất gồm học phí 02 học kỳ chính và chi phí ở ký túc xá. Sinh viên giữ được kết quả học tập theo yêu cầu có thể tiếp tục nhận học bổng trong suốt thời gian đào tạo chuẩn.",
     "eligibility": [
@@ -6052,6 +6601,58 @@
       "https://hcmut.edu.vn/news/item/24585",
       "https://fme.hcmut.edu.vn/wp-content/uploads/2026/08/2026.08.19_259_TB-CTSV_TB-HOC-BONG-HOP-TAC-VA-CHIA-SE.signed.pdf",
       "https://fme.hcmut.edu.vn/thong-bao-hoc-bong-hop-tac-va-chia-se-nam-hoc-2026-2027-danh-cho-sinh-vien-khoa-2026.html"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "hcmute-hoc-bong-khuyen-tai",
+    "overview": "Học bổng Khuyến tài là chính sách khuyến khích thí sinh trong mùa tuyển sinh đại học chính quy năm 2026 của Trường Đại học Công nghệ Kỹ thuật TP.HCM, tên trước đây là Trường Đại học Sư phạm Kỹ thuật TP.HCM. Học bổng dành cho thí sinh trúng tuyển có tổng điểm thi tốt nghiệp THPT 2026 của 3 môn xét tuyển đạt từ 26 điểm trở lên. Số tiền nhận được bằng số điểm nhân với 1.000.000 đồng. Mỗi ngành chỉ chọn 1 thí sinh có điểm cao nhất.",
+    "eligibility": [
+      "Là thí sinh trúng tuyển đại học chính quy vào Trường trong năm 2026.",
+      "Tổng điểm 3 môn thi tốt nghiệp THPT 2026 theo tổ hợp xét tuyển đạt từ 26 điểm trở lên.",
+      "Tổng điểm không gồm điểm ưu tiên và điểm cộng của Trường.",
+      "Chỉ tính điểm thi THPT 2026 và điểm thi môn năng khiếu. Điểm tiếng Anh quy đổi từ chứng chỉ ngoại ngữ không được tính.",
+      "Tổ hợp được dùng là tổ hợp có tổng điểm cao nhất trong các tổ hợp của ngành trúng tuyển.",
+      "Thí sinh phải có điểm cao nhất ngành, vì mỗi ngành chỉ có 1 suất."
+    ],
+    "benefits": [
+      "Nhận số tiền thưởng bằng tổng điểm 3 môn xét tuyển nhân với 1.000.000 đồng.",
+      "Học bổng Khuyến tài nằm trong quỹ hơn 60 tỷ đồng Trường dành cho học bổng tuyển sinh, khuyến khích học tập và hỗ trợ sinh viên năm 2026."
+    ],
+    "selection_process": [
+      "Bước 1: Thí sinh trúng tuyển vào một ngành của Trường trong đợt tuyển sinh năm 2026.",
+      "Bước 2: Trường tính tổng điểm 3 môn thi THPT 2026 theo tổ hợp của ngành trúng tuyển và lọc thí sinh đạt từ 26 điểm.",
+      "Bước 3: Mỗi ngành chọn 1 thí sinh có tổng điểm cao nhất.",
+      "Bước 4: Nếu bằng điểm, xét lần lượt điểm môn chính, rồi thành tích cá nhân được cộng điểm, sau cùng là chứng chỉ ngoại ngữ.",
+      "Bước 5: Phòng Công tác sinh viên công bố danh sách dự kiến khen thưởng và nhận học bổng."
+    ],
+    "stipend": "Số tiền thưởng bằng tổng điểm 3 môn xét tuyển nhân với 1.000.000 đồng.",
+    "faq": [
+      {
+        "q": "Điểm ưu tiên và điểm cộng có được tính vào tổng điểm xét học bổng không?",
+        "a": "Không. Học bổng chỉ xét tổng điểm thi của 3 môn, không gồm điểm ưu tiên và điểm cộng."
+      },
+      {
+        "q": "Điểm tiếng Anh quy đổi từ chứng chỉ ngoại ngữ có được dùng để xét không?",
+        "a": "Không. Trường chỉ dùng điểm thi THPT 2026 và điểm thi môn năng khiếu, không tính điểm quy đổi từ chứng chỉ ngoại ngữ."
+      },
+      {
+        "q": "Mỗi ngành có bao nhiêu suất học bổng Khuyến tài?",
+        "a": "Mỗi ngành chọn 1 thí sinh có điểm cao nhất trong số các thí sinh đạt từ 26 điểm trở lên."
+      },
+      {
+        "q": "Nếu nhiều thí sinh bằng điểm thì xét thế nào?",
+        "a": "Trường xét lần lượt: điểm môn chính cao hơn, sau đó là thành tích cá nhân được cộng điểm xét tuyển, cuối cùng là chứng chỉ ngoại ngữ."
+      },
+      {
+        "q": "Môn chính của các ngành năng khiếu và ngành tiếng Anh là môn nào?",
+        "a": "Với Thiết kế thời trang, Thiết kế đồ họa, Kiến trúc và Kiến trúc nội thất, môn chính là môn năng khiếu. Với Ngôn ngữ Anh và Sư phạm Tiếng Anh, môn chính là Tiếng Anh."
+      }
+    ],
+    "sources": [
+      "https://ffl.hcmute.edu.vn/sites/default/files/2026-06/THONG%20TIN%20TUYEN%20SINH%20DAI%20HOC%20CHINH%20QUY%202026_FN_T%20-%20Signed%20%28up%29.pdf",
+      "https://www.facebook.com/ute.sao/posts/danh-s%C3%A1ch-d%E1%BB%B1-ki%E1%BA%BFn-khen-th%C6%B0%E1%BB%9Fng-v%C3%A0-h%E1%BB%8Dc-b%E1%BB%95ng-khuy%E1%BA%BFn-t%C3%A0i-n%C4%83m-2026-nguy%C3%AAn-t%E1%BA%AFc-x%C3%A9t-ch%E1%BB%89/1623886979779292/"
     ],
     "confidence": "high",
     "updated_at": "2026-10-09"
@@ -6229,6 +6830,114 @@
       "https://forum.uit.edu.vn/t/hitachi-digital-services-hiring-20-ai-engineering-interns/159610"
     ],
     "confidence": "medium",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "hku-faculty-of-engineering-global-scholarship",
+    "overview": "Đây là học bổng đầu vào của Khoa Kỹ thuật, Đại học Hồng Kông (HKU). Năm 2026, khoa đổi tên và làm mới học bổng đầu vào dành cho sinh viên kỹ thuật bậc đại học thành chương trình này. Học bổng dành cho sinh viên non-local (không phải người Hồng Kông) xuất sắc mới nhập học chính quy năm nhất ở một số chương trình kỹ thuật, ưu tiên ứng viên đến từ các khu vực ít được đại diện. Đây là khoản trao một lần, không gia hạn, tối đa bằng nửa học phí và được giải ngân trong năm học đầu tiên. Với kỳ nhập học 2027, học bổng được xét cho thí sinh nộp hồ sơ theo diện Non-JUPAS.",
+    "eligibility": [
+      "Là sinh viên non-local, nhập học chính quy năm nhất bậc đại học tại Khoa Kỹ thuật của HKU.",
+      "Nộp hồ sơ vào một trong các chương trình: BEng(Elite), Kỹ thuật Dữ liệu và Hệ thống (DASE), Cơ khí, Xây dựng, Robotics (đang chờ trường phê duyệt).",
+      "Hoặc nộp vào: BEng + MScEng Trí tuệ nhân tạo trong Kỹ thuật, Global Engineering and Business Programme, hoặc Kỹ thuật Máy tính/Điện/Điện tử.",
+      "Được xét dựa trên kết quả các kỳ thi tuyển sinh được công nhận, cùng năng khiếu và niềm đam mê nổi bật với ngành kỹ thuật.",
+      "Ưu tiên ứng viên đến từ các khu vực ít được đại diện."
+    ],
+    "benefits": [
+      "Học bổng trao một lần, không gia hạn, trị giá tối đa bằng một nửa học phí.",
+      "Được chia làm hai đợt bằng nhau, chi trả sau khi hoàn thành học kỳ 1 và học kỳ 2 của năm học đầu tiên.",
+      "Được phép nhận cùng lúc với các học bổng khác của HKU."
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ vào một chương trình kỹ thuật đủ điều kiện; ứng viên được xét tự động, không cần nộp đơn học bổng riêng.",
+      "Vòng 2: ứng viên đủ điều kiện được chọn vào danh sách phỏng vấn theo hình thức xét duyệt liên tục (rolling).",
+      "Vòng 3: ứng viên được đề cử lên Hội đồng xét chọn, nơi quyết định số suất và mức học bổng tùy theo nguồn kinh phí."
+    ],
+    "locations": [
+      "Hồng Kông"
+    ],
+    "stipend": "Mỗi suất trị giá từ 10.000 HKD đến tối đa 50% học phí của một năm học, trao một lần trong năm đầu.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng riêng không?",
+        "a": "Không. Ứng viên non-local nộp hồ sơ vào các chương trình đủ điều kiện sẽ được xét học bổng tự động."
+      },
+      {
+        "q": "Học bổng có được gia hạn sang các năm sau không?",
+        "a": "Không. Đây là khoản trao một lần, không gia hạn, chỉ áp dụng cho năm học đầu tiên."
+      },
+      {
+        "q": "Học bổng được chi trả thế nào?",
+        "a": "Học bổng được chia làm hai đợt bằng nhau, chi trả sau khi sinh viên hoàn thành lần lượt học kỳ 1 và học kỳ 2 của năm nhất."
+      },
+      {
+        "q": "Có thể nhận học bổng này cùng các học bổng khác của HKU không?",
+        "a": "Có. Học bổng được phép nhận đồng thời với các học bổng khác do HKU cấp."
+      },
+      {
+        "q": "Có phải phỏng vấn không?",
+        "a": "Có. Ứng viên đủ điều kiện sẽ được chọn vào danh sách phỏng vấn theo hình thức xét duyệt liên tục, sau đó được đề cử lên hội đồng xét chọn."
+      }
+    ],
+    "sources": [
+      "https://admissions.hku.hk/fees-and-scholarships/scholarships/hku-faculty-of-engineering-global-scholarship",
+      "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=851",
+      "https://ugadmissions.engg.hku.hk/apply-scholarships/"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "hku-tongcheng-travel-scholarship",
+    "overview": "Học bổng đầu vào do Tongcheng Travel Holdings tài trợ tại Đại học Hồng Kông (HKU), với khoản đóng góp cam kết 3 triệu HKD. Học bổng dành cho tân sinh viên xuất sắc năm nhất của ba ngành Trí tuệ nhân tạo ứng dụng, Trí tuệ nhân tạo và Khoa học dữ liệu, và Khoa học máy tính. Mỗi năm có tối đa 6 suất, xét dựa trên kết quả kỳ thi tuyển sinh công khai. Theo trang của HKU, quỹ được lập trong ba năm, bắt đầu từ năm học 2024-25.",
+    "eligibility": [
+      "Là tân sinh viên năm nhất vừa trúng tuyển vào HKU",
+      "Trúng tuyển một trong các ngành: BASc (Applied Artificial Intelligence), BEng (Artificial Intelligence and Data Science) hoặc BEng (Computer Science)",
+      "Có kết quả xuất sắc trong kỳ thi tuyển sinh công khai dùng để xét vào trường",
+      "Dành cho cả sinh viên trong nước (local) và quốc tế (non-local); sinh viên Việt Nam thuộc nhóm non-local"
+    ],
+    "benefits": [
+      "Sinh viên non-local nhận 300.000 HKD mỗi người",
+      "Sinh viên local nhận 80.000 HKD mỗi người",
+      "HKU và Tongcheng Travel cho biết sẽ bàn thêm các hoạt động giúp sinh viên tiếp cận doanh nghiệp và phát triển nghề nghiệp"
+    ],
+    "selection_process": [
+      "Không cần nộp hồ sơ xin học bổng",
+      "Bước 1: trúng tuyển vào một trong ba ngành đủ điều kiện của HKU",
+      "Bước 2: nhà trường tự động xét các sinh viên đủ điều kiện dựa trên kết quả kỳ thi tuyển sinh công khai",
+      "Bước 3: chọn tối đa 6 người nhận học bổng mỗi năm"
+    ],
+    "locations": [
+      "Hồng Kông"
+    ],
+    "stipend": "Sinh viên non-local nhận 300.000 HKD mỗi người, sinh viên local nhận 80.000 HKD mỗi người.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng không?",
+        "a": "Không. Nhà trường tự động xét tất cả sinh viên đủ điều kiện sau khi họ trúng tuyển."
+      },
+      {
+        "q": "Sinh viên quốc tế nhận được bao nhiêu?",
+        "a": "Sinh viên non-local nhận 300.000 HKD mỗi người. Mức dành cho sinh viên local là 80.000 HKD."
+      },
+      {
+        "q": "Mỗi năm có bao nhiêu suất?",
+        "a": "Mỗi năm có tối đa 6 suất, chia chung cho tân sinh viên năm nhất của cả ba ngành."
+      },
+      {
+        "q": "Những ngành nào được xét?",
+        "a": "Ba ngành được xét là BASc (Applied Artificial Intelligence), BEng (Artificial Intelligence and Data Science) và BEng (Computer Science)."
+      },
+      {
+        "q": "Ai tài trợ học bổng này?",
+        "a": "Tongcheng Travel Holdings, một công ty du lịch trực tuyến của Trung Quốc niêm yết tại Hồng Kông, đã cam kết tài trợ 3 triệu HKD cho học bổng."
+      }
+    ],
+    "sources": [
+      "https://admissions.hku.hk/fees-and-scholarships/scholarships/tongcheng-travel-scholarship",
+      "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=793",
+      "https://www.giving.hku.hk/post/tongcheng-travel-scholarship-for-future-leaders-in-artificial-intelligence-data-science-and-internet"
+    ],
+    "confidence": "high",
     "updated_at": "2026-10-09"
   },
   {
@@ -7109,6 +7818,61 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "kaist-international-undergraduate-scholarship",
+    "overview": "Học bổng KAIST dành cho sinh viên quốc tế trúng tuyển hệ cử nhân của Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc (KAIST). Người học được miễn toàn bộ học phí trong 8 học kỳ, nhận sinh hoạt phí hằng tháng và được cấp bảo hiểm y tế. Học bổng không có quy trình xét riêng: thí sinh quốc tế trúng tuyển sẽ tự động được nhận. Với kỳ tuyển sinh năm 2027, đợt sớm nhận hồ sơ từ 22/9 đến 22/10/2026, đợt thường từ 10/11/2026 đến 14/1/2027.",
+    "eligibility": [
+      "Đã hoặc sẽ tốt nghiệp THPT trước 28/2/2027 (nhập học kỳ xuân, chỉ có đợt sớm) hoặc trước 31/8/2027 (nhập học kỳ thu, có đợt sớm và đợt thường).",
+      "Có quốc tịch nước ngoài. Người có song tịch Hàn Quốc không được nộp hồ sơ theo diện sinh viên quốc tế.",
+      "Cả cha lẫn mẹ đều không có quốc tịch Hàn Quốc. Nếu là người gốc Hàn, thí sinh phải học toàn bộ từ tiểu học đến THPT ở ngoài Hàn Quốc.",
+      "Chỉ xét tuyển sinh viên năm nhất, không nhận chuyển tiếp. Khi nhập học, sinh viên không được đang theo học chương trình cấp bằng ở trường khác.",
+      "Năm nhất chưa chia ngành. Cuối học kỳ thứ hai, sinh viên tự chọn ngành và không bị giới hạn chỉ tiêu theo khoa.",
+      "Từ sau năm nhất, sinh viên phải giữ GPA trên 2,7/4,3 thì mới tiếp tục được nhận học bổng."
+    ],
+    "benefits": [
+      "Miễn toàn bộ học phí trong 8 học kỳ.",
+      "Sinh hoạt phí 350.000 KRW mỗi tháng.",
+      "Được cấp bảo hiểm y tế.",
+      "Thí sinh trúng tuyển tự động nhận học bổng, không phải nộp đơn hay qua vòng xét riêng."
+    ],
+    "selection_process": [
+      "Vòng 1: Nộp đơn online kèm hồ sơ và đánh dấu mục KAIST scholarship ở phần kê khai nguồn tài chính. Đợt sớm: 22/9–22/10/2026; đợt thường: 10/11/2026–14/1/2027.",
+      "Vòng 2: Nộp thư giới thiệu, hạn chót là 29/10/2026 (đợt sớm) hoặc 21/1/2027 (đợt thường).",
+      "Vòng 3: Phỏng vấn online nếu trường thấy cần, dự kiến ngày 22/12/2026 (đợt sớm) hoặc 3/3/2027 (đợt thường).",
+      "Vòng 4: Công bố kết quả ngày 7/1/2027 (đợt sớm) hoặc 25/3/2027 (đợt thường). Thí sinh trúng tuyển được nhận học bổng.",
+      "Vòng 5: Xác nhận nhập học, trước tháng 2 đối với kỳ xuân, trước tháng 5 hoặc tháng 8 đối với kỳ thu, tùy đợt."
+    ],
+    "stipend": "Sinh hoạt phí 350.000 KRW mỗi tháng, kèm miễn toàn bộ học phí và bảo hiểm y tế.",
+    "faq": [
+      {
+        "q": "Có phải nộp đơn xin học bổng riêng không?",
+        "a": "Không. Thí sinh chỉ cần đánh dấu mục KAIST scholarship ở phần kê khai nguồn tài chính trong đơn xét tuyển online."
+      },
+      {
+        "q": "Ai được nhận học bổng?",
+        "a": "Mọi hồ sơ đều được xét trong quá trình tuyển sinh. Thí sinh quốc tế trúng tuyển sẽ tự động được nhận học bổng."
+      },
+      {
+        "q": "Thí sinh có bắt buộc phải phỏng vấn không?",
+        "a": "Không. Trường chỉ phỏng vấn online khi thấy cần và sẽ liên hệ riêng từng thí sinh qua email."
+      },
+      {
+        "q": "Sinh viên đại học trường khác có được chuyển tiếp sang KAIST không?",
+        "a": "Không. KAIST không có chương trình chuyển tiếp cho sinh viên quốc tế, nên thí sinh phải nộp hồ sơ như sinh viên năm nhất."
+      },
+      {
+        "q": "Làm sao để tiếp tục được nhận học bổng?",
+        "a": "Từ sau năm nhất, sinh viên phải giữ GPA trên 2,7/4,3."
+      }
+    ],
+    "sources": [
+      "https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/",
+      "https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline",
+      "https://admission.kaist.ac.kr/intl-undergraduate/before/sub02"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "katalon-internship-program",
     "overview": "Katalon Internship Program là chương trình thực tập của Katalon. Chương trình giúp sinh viên học qua công việc thực tế để chuẩn bị đi làm trong thời kỳ AI. Đối tượng là sinh viên Việt Nam có thành tích tốt, đang học trong nước hoặc du học. Kỳ thực tập kéo dài 6 tháng tại TP.HCM, đợt gần nhất bắt đầu từ tháng 9/2026.",
     "eligibility": [
@@ -7391,6 +8155,111 @@
     "sources": [
       "https://www.kf.or.kr/kfEng/cm/cntnts/cntntsView.do?mi=2219&cntntsId=1638",
       "https://jobs.neu.edu.vn/posts/han-quoc-hoc-bong-ban-phan-bac-thac-si-va-tien-si-korea-foundation-2025-2026-202508181550"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "korea-university-anam-global-scholarship",
+    "overview": "Anam Global Scholarship là học bổng của Đại học Korea dành cho tân sinh viên quốc tế bậc cử nhân. Học bổng miễn toàn bộ học phí trong 8 học kỳ. Thí sinh năm nhất không cần nộp hồ sơ học bổng riêng vì trường tự động xét dựa trên kết quả đánh giá tuyển sinh. Muốn tiếp tục nhận học bổng, sinh viên phải đạt yêu cầu về số tín chỉ và GPA của học kỳ trước.",
+    "eligibility": [
+      "Thí sinh quốc tế nộp hồ sơ năm nhất vào chương trình cử nhân của Đại học Korea được xét tự động.",
+      "Học bổng được xét dựa trên kết quả đánh giá hồ sơ tuyển sinh.",
+      "Để tiếp tục nhận học bổng, học kỳ trước phải tích lũy tối thiểu 12 tín chỉ.",
+      "Để tiếp tục nhận học bổng, GPA học kỳ trước phải đạt từ 3,5 trở lên."
+    ],
+    "benefits": [
+      "Miễn 100% học phí trong 8 học kỳ bậc cử nhân.",
+      "Không cần nộp hồ sơ học bổng riêng vì mọi thí sinh năm nhất đều được xét tự động."
+    ],
+    "selection_process": [
+      "Vòng 1: Nộp đơn và tải hồ sơ PDF lên trực tuyến, đóng lệ phí xét tuyển trước hạn. Với kỳ nhập học mùa xuân 2027, hạn nộp là từ 3/8 đến 31/8/2026.",
+      "Vòng 2: Gửi bộ hồ sơ giấy qua đường bưu điện. Với kỳ mùa xuân 2027, hạn gửi là đến ngày 7/9/2026 theo giờ Hàn Quốc.",
+      "Vòng 3: Trường đánh giá hồ sơ tuyển sinh, đồng thời xét học bổng tự động dựa trên kết quả này.",
+      "Vòng 4: Công bố kết quả trực tuyến. Với kỳ mùa xuân 2027, kết quả có vào ngày 27/11/2026.",
+      "Vòng 5: Nhập học và hoàn tất thủ tục đăng ký. Với kỳ mùa xuân 2027, thời gian dự kiến là tháng 1/2027.",
+      "Kỳ nhập học mùa thu 2027 dự kiến nhận hồ sơ vào tháng 3/2027, ngày cụ thể sẽ được thông báo sau."
+    ],
+    "locations": [
+      "Seoul, Hàn Quốc"
+    ],
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng riêng không?",
+        "a": "Không cần. Mọi thí sinh năm nhất nộp hồ sơ cử nhân đều được xét tự động dựa trên kết quả đánh giá tuyển sinh."
+      },
+      {
+        "q": "Học bổng hỗ trợ những gì và trong bao lâu?",
+        "a": "Học bổng miễn toàn bộ học phí trong 8 học kỳ."
+      },
+      {
+        "q": "Cần làm gì để tiếp tục nhận học bổng?",
+        "a": "Ở học kỳ trước, sinh viên phải tích lũy tối thiểu 12 tín chỉ và đạt GPA từ 3,5 trở lên."
+      },
+      {
+        "q": "Khi nào nộp hồ sơ cho kỳ nhập học mùa xuân 2027?",
+        "a": "Hạn nộp đơn trực tuyến là từ 3/8 đến 31/8/2026. Hồ sơ giấy phải được gửi qua bưu điện trước ngày 7/9/2026."
+      },
+      {
+        "q": "Kết quả được thông báo như thế nào?",
+        "a": "Kết quả chỉ được công bố trực tuyến, trường không thông báo riêng cho từng thí sinh. Với kỳ mùa xuân 2027, ngày công bố là 27/11/2026."
+      }
+    ],
+    "sources": [
+      "https://oia.korea.ac.kr/oia2026/KU-Scholarships.do",
+      "https://oia.korea.ac.kr/oia2026/Admission-Guide.do"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "korea-university-global-leader-scholarship-a",
+    "overview": "Global Leader Scholarship A là học bổng của Đại học Korea (Hàn Quốc) dành cho sinh viên quốc tế được nhận vào hệ cử nhân. Học bổng miễn toàn bộ học phí trong 4 học kỳ với tân sinh viên và 2 học kỳ với sinh viên chuyển tiếp. Thí sinh không phải nộp đơn riêng: mọi hồ sơ đều được xét tự động dựa trên kết quả xét tuyển. Để tiếp tục nhận học bổng, sinh viên phải đạt yêu cầu về số tín chỉ và GPA của học kỳ trước.",
+    "eligibility": [
+      "Thí sinh quốc tế nộp hồ sơ vào hệ cử nhân của Đại học Korea, gồm tân sinh viên và sinh viên chuyển tiếp",
+      "Mọi thí sinh đều được xét tự động; kết quả học bổng dựa trên đánh giá hồ sơ tuyển sinh",
+      "Để duy trì học bổng, sinh viên phải tích lũy ít nhất 12 tín chỉ trong học kỳ trước",
+      "Để duy trì học bổng, GPA của học kỳ trước phải đạt từ 3,5 trở lên"
+    ],
+    "benefits": [
+      "Tân sinh viên được miễn 100% học phí trong 4 học kỳ",
+      "Sinh viên chuyển tiếp được miễn 100% học phí trong 2 học kỳ"
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ online và đóng lệ phí xét tuyển, từ 3/8 đến 31/8/2026 cho kỳ nhập học mùa xuân 2027",
+      "Vòng 2: gửi hồ sơ giấy qua đường bưu điện, hạn chót 7/9/2026 theo giờ Hàn Quốc",
+      "Vòng 3: trường xét hồ sơ tuyển sinh, đồng thời dùng kết quả này để xét học bổng mà không cần đơn riêng",
+      "Vòng 4: công bố kết quả online ngày 27/11/2026; trường không thông báo riêng cho từng thí sinh",
+      "Vòng 5: làm thủ tục nhập học và đóng phí vào tháng 1/2027 (trường sẽ công bố ngày cụ thể)"
+    ],
+    "locations": [
+      "Seoul, Hàn Quốc"
+    ],
+    "faq": [
+      {
+        "q": "Có cần nộp đơn riêng để xin học bổng này không?",
+        "a": "Không. Mọi thí sinh nộp hồ sơ cử nhân đều được xét tự động, nên không cần nộp đơn riêng."
+      },
+      {
+        "q": "Học bổng được xét theo tiêu chí nào?",
+        "a": "Học bổng được xét dựa trên kết quả đánh giá hồ sơ tuyển sinh."
+      },
+      {
+        "q": "Sinh viên chuyển tiếp có được nhận học bổng không?",
+        "a": "Có. Sinh viên chuyển tiếp được miễn toàn bộ học phí trong 2 học kỳ, còn tân sinh viên được miễn trong 4 học kỳ."
+      },
+      {
+        "q": "Làm thế nào để giữ học bổng ở các học kỳ sau?",
+        "a": "Ở học kỳ trước, sinh viên phải tích lũy ít nhất 12 tín chỉ và đạt GPA từ 3,5 trở lên."
+      },
+      {
+        "q": "Hạn nộp hồ sơ cho kỳ nhập học gần nhất là khi nào?",
+        "a": "Với kỳ mùa xuân 2027, hạn nộp hồ sơ online là 31/8/2026 và hạn gửi hồ sơ giấy là 7/9/2026."
+      }
+    ],
+    "sources": [
+      "https://oia.korea.ac.kr/oia2026/KU-Scholarships.do",
+      "https://oia.korea.ac.kr/oia2026/Admission-Guide.do"
     ],
     "confidence": "high",
     "updated_at": "2026-10-09"
@@ -8660,6 +9529,56 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "melbourne-international-undergraduate-scholarship",
+    "overview": "Melbourne International Undergraduate Scholarship là học bổng bậc cử nhân của University of Melbourne. Học bổng dành cho sinh viên quốc tế là công dân các nước có GDP danh nghĩa bình quân đầu người từ 10.000 USD trở xuống; Việt Nam có trong danh sách này. Học bổng được trao từ năm 2027 sẽ giảm 20% học phí trong suốt khóa học. Các học bổng trao trước năm 2027 giảm 25% học phí. Từ năm 2027, số suất học bổng tăng lên 225.",
+    "eligibility": [
+      "Là công dân một nước có GDP bình quân đầu người từ 10.000 USD trở xuống theo số liệu của World Bank; Việt Nam có trong danh sách",
+      "Có thư mời nhập học hệ Overseas Fee cho chương trình cử nhân, bắt đầu học trong năm được xét học bổng",
+      "Chưa từng học bậc đại học hoặc cao đẳng trước đó; các môn học mở rộng thuộc chương trình lớp 12 không bị tính",
+      "Được xếp hạng theo kết quả cuối cấp THPT hoặc dự bị đại học; trường không dùng điểm dự đoán",
+      "Áp dụng cho nhiều khối ngành, gồm kỹ thuật, công nghệ thông tin, kinh doanh, khoa học, luật, sức khỏe và nghệ thuật"
+    ],
+    "benefits": [
+      "Từ năm 2027, giảm 20% học phí trong suốt khóa học",
+      "Học bổng trao trước năm 2027 giảm 25% học phí trong suốt khóa học",
+      "Từ năm 2027, số suất học bổng tăng lên 225",
+      "Có thể bảo lưu học bổng sang năm học tiếp theo"
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ xin học một chương trình cử nhân; ứng viên được tự động xét học bổng, không cần nộp đơn riêng",
+      "Vòng 2: trường xếp hạng ứng viên theo kết quả cuối cấp THPT hoặc dự bị đại học; điểm chuẩn được xem xét lại hằng năm",
+      "Vòng 3: ứng viên được chọn nhận thông báo trong vòng 5 ngày làm việc sau khi có thư mời nhập học"
+    ],
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng riêng không?",
+        "a": "Không. Ứng viên đã nộp hồ sơ xin học một chương trình cử nhân sẽ được tự động xét học bổng."
+      },
+      {
+        "q": "Khi nào biết kết quả học bổng?",
+        "a": "Ứng viên được chọn sẽ nhận thông báo trong vòng 5 ngày làm việc sau khi có thư mời nhập học. Trường không thông báo cho ứng viên không được chọn."
+      },
+      {
+        "q": "Trường có xét học bổng bằng điểm dự đoán không?",
+        "a": "Không. Trường chỉ xét kết quả cuối cấp THPT hoặc dự bị đại học, và điểm chuẩn có thể thay đổi giữa các năm."
+      },
+      {
+        "q": "Có được nhận cùng lúc với học bổng khác không?",
+        "a": "Không được nhận cùng lúc với học bổng hoặc khoản tài trợ khác có tài trợ hoặc giảm học phí."
+      },
+      {
+        "q": "Có thể bảo lưu học bổng không?",
+        "a": "Có. Học bổng có thể được bảo lưu sang năm học tiếp theo."
+      }
+    ],
+    "sources": [
+      "https://scholarships.unimelb.edu.au/awards/melbourne-international-undergraduate-scholarship",
+      "https://scholarships.unimelb.edu.au/eligible-countries"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "mext-embassy-recommendation-vietnam",
     "overview": "Đây là học bổng của Bộ Giáo dục, Văn hóa, Thể thao, Khoa học và Công nghệ Nhật Bản (MEXT). Người Việt Nam được Đại sứ quán Nhật Bản tiến cử để sang Nhật học nghiên cứu sinh (bậc sau đại học), đại học, cao đẳng kỹ thuật hoặc trung cấp chuyên nghiệp. Đợt dành cho năm 2027 nhận hồ sơ từ 23/4 đến 29/5/2026, nhập học vào tháng 4 hoặc tháng 9–10/2027. Bậc đại học được cấp học bổng 5 năm, trong đó có 1 năm dự bị; ngành y, nha, thú y và dược hệ 6 năm được 7 năm. Nghiên cứu sinh được cấp theo thời gian chuẩn của khóa học và có thể xin gia hạn để học lên.",
     "eligibility": [
@@ -8889,6 +9808,160 @@
       "https://jobs.neu.edu.vn/jobs/momo-talent-2026-from-trainee-to-future-leader-momo-1202605191512",
       "https://ybox.vn/tuyen-dung/hn-hcm-chuong-trinh-tuyen-dung-momo-talent-2026-from-trainee-to-future-leader-tai-cong-ty-ky-lan-cong-nghe-momo-danh-cho-ung-vien-moi-tot-nghiep-hoac-duoi-2-nam-kinh-nghiem-6a06e4c773257002f75037d7",
       "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=891&id=17404"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "monash-international-leadership-scholarship",
+    "overview": "Monash International Leadership Scholarship là học bổng của Đại học Monash dành cho sinh viên quốc tế từ mọi quốc gia đã nhận thư mời học cử nhân của trường. Học bổng chi trả toàn bộ học phí trong suốt chương trình cử nhân, mỗi năm có 4 suất. Người nhận học bổng còn có cơ hội rèn luyện kỹ năng học tập và lãnh đạo khi làm đại sứ của trường.",
+    "eligibility": [
+      "Là sinh viên quốc tế và đã nhận thư mời học cử nhân không điều kiện của Monash.",
+      "Dự định học toàn thời gian một chương trình cử nhân tại cơ sở của Monash ở Úc.",
+      "Không áp dụng cho sinh viên Monash hiện tại hoặc người chuyển từ cơ sở Monash khác hay từ trường đại học khác ở Úc.",
+      "Không áp dụng cho người học chương trình lớp 12 của Úc, chương trình dự bị Monash College hoặc Monash University Foundation Year.",
+      "Không áp dụng cho chương trình Bachelor of Medical Science and Doctor of Medicine (MD).",
+      "Phải duy trì điểm trung bình có trọng số (WAM) từ 70 trở lên mỗi học kỳ để giữ học bổng."
+    ],
+    "benefits": [
+      "Được chi trả 100% học phí cho đến khi hoàn thành số tín chỉ tối thiểu của chương trình cử nhân.",
+      "Học bổng không bao gồm bảo hiểm y tế du học sinh (OSHC), chi phí chỗ ở và sinh hoạt.",
+      "Được mời ứng tuyển vào Monash Minds, chương trình phát triển lãnh đạo dành cho sinh viên năm nhất.",
+      "Có cơ hội phát triển kỹ năng học tập và lãnh đạo khi làm đại sứ cho Monash."
+    ],
+    "selection_process": [
+      "Vòng 1: Nộp hồ sơ xin học và nhận thư mời học cử nhân của Monash; không cần nộp đơn riêng cho học bổng.",
+      "Vòng 2: Trường tự động xét học bổng dựa trên thành tích học tập."
+    ],
+    "locations": [
+      "Các cơ sở của Đại học Monash tại Úc"
+    ],
+    "stipend": "Học bổng chi trả 100% học phí và không bao gồm chi phí sinh hoạt, chỗ ở hay bảo hiểm y tế du học sinh.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn riêng để xin học bổng này không?",
+        "a": "Không. Sinh viên quốc tế đã nhận thư mời học cử nhân của Monash sẽ được tự động xét học bổng."
+      },
+      {
+        "q": "Mỗi năm có bao nhiêu suất học bổng?",
+        "a": "Mỗi năm có 4 suất học bổng."
+      },
+      {
+        "q": "Làm thế nào để giữ học bổng qua các năm?",
+        "a": "Sinh viên phải duy trì điểm trung bình có trọng số (WAM) từ 70 trở lên mỗi học kỳ và cung cấp hồ sơ cá nhân khi trường yêu cầu để dùng cho hoạt động truyền thông, tuyển sinh."
+      },
+      {
+        "q": "Học bổng có được bảo lưu không?",
+        "a": "Có, nhưng chỉ được bảo lưu trong cùng một năm dương lịch."
+      },
+      {
+        "q": "Tiêu chí xét chọn là gì?",
+        "a": "Học bổng được xét dựa trên thành tích học tập."
+      }
+    ],
+    "sources": [
+      "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-leadership-scholarship-5571Z"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "monash-international-merit-scholarship",
+    "overview": "Monash International Merit Scholarship là học bổng dựa trên thành tích học tập của Đại học Monash, dành cho sinh viên quốc tế từ mọi quốc gia đã nhận thư mời vào bậc cử nhân. Người nhận học bổng được cấp 15.000 đô la mỗi năm cho đến khi hoàn thành số tín chỉ tối thiểu của chương trình, áp dụng cho các suất trao từ năm 2026. Mỗi năm trường trao 20 suất. Để giữ học bổng, sinh viên phải duy trì điểm trung bình loại giỏi trong từng học kỳ.",
+    "eligibility": [
+      "Là sinh viên quốc tế và đã nhận thư mời nhập học bậc cử nhân của Monash không kèm điều kiện",
+      "Dự định học toàn thời gian một chương trình cử nhân tại cơ sở của Monash ở Úc",
+      "Không áp dụng cho sinh viên đang học tại Monash hoặc người chuyển từ cơ sở Monash khác hay từ đại học khác ở Úc",
+      "Không áp dụng cho người học lớp 12 theo chương trình của Úc, ngành Bachelor of Medical Science and Doctor of Medicine (MD), hoặc chương trình dự bị (Monash College, Foundation Year)",
+      "Phải giữ điểm trung bình từ 70% trở lên trong mỗi học kỳ để tiếp tục nhận học bổng"
+    ],
+    "benefits": [
+      "15.000 đô la mỗi năm (tương ứng 48 tín chỉ) cho đến khi hoàn thành số tín chỉ tối thiểu của chương trình, áp dụng cho suất trao từ năm 2026",
+      "Suất trao trước năm 2026 nhận 10.000 đô la mỗi năm",
+      "Được mời nộp đơn vào Monash Minds, chương trình lãnh đạo dành cho sinh viên năm nhất"
+    ],
+    "selection_process": [
+      "Vòng 1: nhận thư mời nhập học bậc cử nhân không điều kiện từ Monash",
+      "Vòng 2: được xét tự động dựa trên thành tích học tập, không cần nộp đơn riêng"
+    ],
+    "locations": [
+      "Úc"
+    ],
+    "stipend": "15.000 đô la mỗi năm trong suốt chương trình cử nhân, áp dụng cho học bổng trao từ năm 2026.",
+    "faq": [
+      {
+        "q": "Có cần nộp hồ sơ xin học bổng không?",
+        "a": "Không. Ai đã nhận thư mời nhập học bậc cử nhân của Monash sẽ được xét tự động."
+      },
+      {
+        "q": "Mỗi năm có bao nhiêu suất?",
+        "a": "Mỗi năm có 20 suất."
+      },
+      {
+        "q": "Làm sao để giữ học bổng các năm sau?",
+        "a": "Phải duy trì điểm trung bình từ 70% trở lên mỗi học kỳ và cung cấp hồ sơ cá nhân để trường dùng trong hoạt động truyền thông, tuyển sinh."
+      },
+      {
+        "q": "Có được bảo lưu học bổng không?",
+        "a": "Có, nhưng chỉ được bảo lưu trong cùng một năm dương lịch."
+      },
+      {
+        "q": "Sinh viên học chương trình dự bị của Monash có được xét không?",
+        "a": "Không. Học viên các chương trình dự bị như Monash College và Monash University Foundation Year không thuộc diện xét."
+      }
+    ],
+    "sources": [
+      "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "monash-malaysia-high-achiever-award",
+    "overview": "Monash High Achiever Award (dành cho tân sinh viên) là học bổng miễn giảm học phí của Monash University Malaysia. Học bổng dành cho sinh viên Malaysia và quốc tế có kết quả THPT xuất sắc khi vào hầu hết các chương trình cử nhân. Mức hỗ trợ là RM10.000 mỗi năm, chia đều cho từng học kỳ. Học bổng được duy trì trong thời gian học chuẩn của chương trình nếu sinh viên đạt tiến độ học tập yêu cầu.",
+    "eligibility": [
+      "Mở cho cả sinh viên Malaysia và sinh viên quốc tế đã nhận thư mời nhập học chính thức (full offer) của Monash University Malaysia.",
+      "Đã hoàn thành Year 12 của Úc hoặc bằng THPT quốc tế được trường công nhận, với điểm ATAR hoặc mức tương đương xuất sắc theo đánh giá của trường.",
+      "Áp dụng cho mọi chương trình cử nhân, trừ Bachelor of Medical Science and Doctor of Medicine và Bachelor of Pharmacy (Honours).",
+      "Không áp dụng cho người đã bắt đầu học đại học, hoặc chuyển tiếp có miễn tín chỉ hay được công nhận học phần trước (advanced standing).",
+      "Để giữ học bổng, sinh viên phải đạt điểm duy trì ghi trong thư mời, đăng ký đủ 24 tín chỉ mỗi kỳ và tốt nghiệp đúng thời gian chuẩn, không được gia hạn.",
+      "Trong suốt khóa học, sinh viên không được nhận thêm bất kỳ hình thức hỗ trợ tài chính nào khác."
+    ],
+    "benefits": [
+      "Miễn học phí RM10.000 mỗi năm, chia thành RM5.000 cho mỗi học kỳ.",
+      "Học bổng được duy trì trong thời gian học chuẩn của chương trình nếu sinh viên đạt tiến độ học tập yêu cầu."
+    ],
+    "selection_process": [
+      "Bước 1: Nộp hồ sơ nhập học vào một chương trình cử nhân. Hồ sơ này cũng được tính là hồ sơ xin học bổng, không cần nộp đơn riêng.",
+      "Bước 2: Trường tự động xét học bổng cho mọi hồ sơ nhập học đáp ứng tiêu chí.",
+      "Bước 3: Ứng viên trúng tuyển nhận thông báo học bổng cùng với thư mời nhập học.",
+      "Bước 4: Hoàn tất các bước xác nhận nhận học bổng trước ngày hết hạn ghi trong thư mời nhập học."
+    ],
+    "stipend": "Học bổng là khoản miễn học phí RM10.000 mỗi năm, chia đều RM5.000 cho mỗi học kỳ.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng riêng không?",
+        "a": "Không. Hồ sơ nhập học được tính luôn là hồ sơ xin học bổng, và trường tự động xét cho các hồ sơ đáp ứng tiêu chí."
+      },
+      {
+        "q": "Hạn nộp hồ sơ là khi nào?",
+        "a": "Hạn nộp theo hạn nhận hồ sơ nhập học của từng chương trình."
+      },
+      {
+        "q": "Ngành nào không được xét học bổng này?",
+        "a": "Bachelor of Medical Science and Doctor of Medicine và Bachelor of Pharmacy (Honours)."
+      },
+      {
+        "q": "Có thể nhận thêm học bổng hoặc hỗ trợ tài chính khác không?",
+        "a": "Không. Người nhận học bổng không được nhận thêm hỗ trợ tài chính nào khác trong suốt khóa học."
+      },
+      {
+        "q": "Làm sao biết mình có được học bổng hay không?",
+        "a": "Nếu đủ điều kiện, bạn sẽ nhận thông báo học bổng cùng với thư mời nhập học và cần xác nhận trước ngày hết hạn ghi trong thư."
+      }
+    ],
+    "sources": [
+      "https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships"
     ],
     "confidence": "high",
     "updated_at": "2026-10-09"
@@ -9513,6 +10586,64 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "nottingham-international-undergraduate-excellence-scholarship",
+    "overview": "Đây là học bổng tự động của University of Nottingham dành cho sinh viên quốc tế đạt điểm AAA hoặc mức tương đương quốc tế khi vào năm nhất cử nhân toàn thời gian tại cơ sở ở Anh. Học bổng trị giá 5.000 bảng Anh và được trừ vào học phí năm nhất. Sinh viên không cần nộp hồ sơ xin học bổng riêng; trường xét dựa trên hồ sơ nhập học và kết quả học tập. Học bổng chỉ áp dụng cho năm đầu và không tự động gia hạn.",
+    "eligibility": [
+      "Là sinh viên quốc tế đóng học phí theo mức dành cho sinh viên nước ngoài (overseas).",
+      "Bắt đầu năm nhất một chương trình cử nhân toàn thời gian (RQF bậc 4) tại cơ sở của trường ở Anh.",
+      "Theo học một trong các bằng BA, BSc/MSci, BEng/MEng, LLB, BArch, MMath hoặc MNutr; không áp dụng cho Thú y, Dược, Y khoa và năm dự bị (Foundation Year).",
+      "Đạt điểm AAA hoặc mức tương đương quốc tế, được xác nhận khi trúng tuyển chính thức.",
+      "Tự túc tài chính, không nhận học bổng khác của trường hoặc tài trợ từ tổ chức bên ngoài.",
+      "Sinh viên chuyển tiếp từ chương trình Kaplan (University of Nottingham International College, Digital Pathways) không thuộc diện xét học bổng này."
+    ],
+    "benefits": [
+      "Được giảm 5.000 bảng Anh vào học phí năm nhất.",
+      "Khoản giảm được chia đều vào các đợt đóng học phí và trừ thẳng trên hóa đơn; trường không chi tiền mặt.",
+      "Học bổng chỉ dùng cho học phí, không dùng cho sinh hoạt phí hay các chi phí khác."
+    ],
+    "selection_process": [
+      "Bước 1: Chọn chương trình cử nhân phù hợp và kiểm tra yêu cầu đầu vào dành cho quốc gia của mình.",
+      "Bước 2: Nộp đơn nhập học, phần lớn qua hệ thống UCAS.",
+      "Bước 3: Nhận thư mời nhập học và đáp ứng các điều kiện kèm theo, nếu thư mời có điều kiện.",
+      "Bước 4: Xác nhận kết quả đạt AAA hoặc tương đương và nhập học đúng hạn.",
+      "Bước 5: Được xét cấp học bổng tự động dựa trên hồ sơ nhập học, không cần nộp đơn riêng."
+    ],
+    "locations": [
+      "Nottingham, Vương quốc Anh"
+    ],
+    "stipend": "Học bổng trị giá 5.000 bảng Anh, trừ trực tiếp vào học phí năm nhất; trường không chi tiền mặt.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng này không?",
+        "a": "Không. Học bổng được cấp tự động khi bạn nhập học và xác nhận đạt AAA hoặc mức tương đương."
+      },
+      {
+        "q": "Học bổng có kéo dài các năm sau không?",
+        "a": "Không. Học bổng cử nhân chỉ áp dụng cho năm nhất và không tự động gia hạn kể cả khi kéo dài thời gian học."
+      },
+      {
+        "q": "Có thể nhận cùng lúc với học bổng khác không?",
+        "a": "Không. Học bổng quốc tế không được kết hợp với các học bổng cạnh tranh khác của trường; nếu được cấp nhiều học bổng, chỉ học bổng có giá trị cao nhất được áp dụng."
+      },
+      {
+        "q": "Nếu hoãn nhập học sang năm sau thì học bổng có được bảo lưu không?",
+        "a": "Không. Học bổng không được hoãn sang năm học sau, kể cả khi thư mời nhập học được hoãn."
+      },
+      {
+        "q": "Trường hợp nào phải hoàn trả học bổng?",
+        "a": "Bạn phải hoàn trả nếu sau đó bị xác định không đủ điều kiện, vi phạm điều khoản, cung cấp thông tin sai, hoặc thôi học trước khi hoàn thành khóa học (hoàn trả theo tỷ lệ phần khóa học còn lại)."
+      }
+    ],
+    "sources": [
+      "https://www.nottingham.ac.uk/studywithus/international-applicants/scholarships-funding-finance/international-undergraduate-excellence-scholarship.aspx",
+      "https://www.nottingham.ac.uk/studywithus/international-applicants/scholarships-funding-finance/termsconditions.aspx",
+      "https://www.nottingham.ac.uk/studywithus/ugstudy/campaigns/int-info-page.html",
+      "https://www.nottingham.ac.uk/studywithus/international-applicants/scholarships-funding-finance/undergraduate-scholarships.aspx"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "nthu-international-student-scholarship",
     "overview": "Học bổng của Đại học Quốc lập Thanh Hoa (NTHU, Đài Loan) dành cho sinh viên quốc tế học lấy bằng tại trường. Với bậc cử nhân, học bổng miễn học phí, phí tạp vụ và phí tín chỉ. Tùy loại học bổng, sinh viên có thể được thêm phụ cấp sinh hoạt NT$5,000 mỗi tháng. Học bổng được xét theo từng năm học và kéo dài tối đa 4 năm kể từ khi nhập học. Với sinh viên sắp tốt nghiệp, học bổng chỉ được chi đến hết tháng tốt nghiệp.",
     "eligibility": [
@@ -9619,6 +10750,109 @@
       "https://sict.haui.edu.vn/vn/tuyen-dung/cong-ty-ntq-solution-tuyen-dung-fresher-nam-2024/70879",
       "https://www.facebook.com/tuyendung.ntqsolution/posts/-ch%C6%B0%C6%A1ng-tr%C3%ACnh-%C4%91%C6%B0%E1%BB%A3c-mong-ch%E1%BB%9D-nh%E1%BA%A5t-n%C4%83m-%C4%91%C3%A3-ra-m%E1%BA%AFt-%C6%B0%C6%A1m-m%E1%BA%A7m-t%C3%A0i-n%C4%83ng-c%C3%B4ng-ngh%E1%BB%87-c%C3%B9ng-f/1199769118819036/",
       "https://career.ntq.com.vn/insight/ntq-incubates-young-technology-talents"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "nttu-hoc-bong-hoc-sinh-gioi-xuat-sac",
+    "overview": "Học bổng Học sinh Giỏi Xuất sắc là chính sách tuyển sinh năm 2026 của Trường Đại học Nguyễn Tất Thành dành cho tân sinh viên có kết quả học tập tốt. Học bổng giảm 80%, 90% hoặc 100% học phí học kỳ 1, tùy theo điểm thi tốt nghiệp THPT 2026, điểm học bạ hoặc điểm thi đánh giá năng lực. Học bổng chỉ áp dụng cho học kỳ đầu tiên.",
+    "eligibility": [
+      "Tân sinh viên nhập học khóa 2026 hệ đại học chính quy hoặc chuẩn quốc tế tại Trường Đại học Nguyễn Tất Thành.",
+      "Xét theo điểm thi tốt nghiệp THPT 2026: từ 25 điểm được 80%, từ 26 điểm được 90%, từ 27 điểm được 100% học phí học kỳ 1.",
+      "Xét theo học bạ: từ 28 điểm được 80%, từ 28,5 điểm được 90%, từ 29 điểm được 100% học phí học kỳ 1.",
+      "Xét theo điểm đánh giá năng lực: từ 700 điểm được 80%, từ 750 điểm được 90%, từ 800 điểm được 100% học phí học kỳ 1.",
+      "Nếu đủ điều kiện nhiều chính sách học bổng, sinh viên chỉ được chọn một chính sách có giá trị cao nhất."
+    ],
+    "benefits": [
+      "Giảm 80%, 90% hoặc 100% học phí học kỳ 1, tùy mức điểm đạt được.",
+      "Có thể xét bằng một trong ba loại điểm: thi tốt nghiệp THPT, học bạ hoặc đánh giá năng lực."
+    ],
+    "stipend": "Đây là học bổng giảm học phí học kỳ 1, với mức 80%, 90% hoặc 100% tùy ngưỡng điểm.",
+    "faq": [
+      {
+        "q": "Học bổng được áp dụng trong bao lâu?",
+        "a": "Học bổng chỉ áp dụng cho học phí học kỳ 1 của năm nhập học."
+      },
+      {
+        "q": "Có được nhận cùng lúc với học bổng khác của trường không?",
+        "a": "Không. Sinh viên chỉ được chọn một chính sách học bổng có giá trị cao nhất."
+      },
+      {
+        "q": "Xét bằng học bạ thì cần bao nhiêu điểm?",
+        "a": "Từ 28 điểm được 80%, từ 28,5 điểm được 90%, từ 29 điểm được 100% học phí học kỳ 1."
+      },
+      {
+        "q": "Có thể dùng điểm đánh giá năng lực để xét học bổng không?",
+        "a": "Có. Từ 700 điểm được 80%, từ 750 điểm được 90%, từ 800 điểm được 100% học phí học kỳ 1."
+      },
+      {
+        "q": "Đăng ký xét tuyển sớm có lợi gì không?",
+        "a": "Trường khuyến khích đăng ký xét tuyển sớm để tăng cơ hội nhận mức học bổng cao."
+      }
+    ],
+    "sources": [
+      "https://tuyensinh.ntt.edu.vn/chinh-sach-hoc-bong",
+      "https://tuyensinh.ntt.edu.vn/hoc-bong-hoc-sinh-gioi-xuat-sac-nttu-2026-co-hoi-nhan-den-100-hoc-phi-hk1-p875.html"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "nttu-hoc-bong-tai-nang-nang-buoc-thu-khoa",
+    "overview": "Đây là chính sách học bổng của Trường Đại học Nguyễn Tất Thành dành cho tân sinh viên khóa 2026 có thành tích nổi bật. Học bổng dành cho thủ khoa đầu vào và thí sinh đạt giải học sinh giỏi, nghệ thuật, năng khiếu hoặc thể thao. Mức giảm là 50% hoặc 100% học phí toàn khóa. Học bổng được áp dụng cho năm học đầu tiên và được duy trì ở các năm sau nếu sinh viên đạt yêu cầu về học tập và rèn luyện.",
+    "eligibility": [
+      "Tân sinh viên trình độ đại học chính quy hoặc chuẩn quốc tế nhập học năm 2026",
+      "Thủ khoa đầu vào toàn trường có điểm xét trên 27/30, hoặc thủ khoa đầu vào của từng khoa có điểm xét trên 25/30",
+      "Đạt giải trong kỳ thi học sinh giỏi cấp quốc gia hoặc cấp tỉnh, hoặc trong các cuộc thi nghệ thuật quốc gia",
+      "Đạt giải Nhất, Nhì hoặc Ba trong các cuộc thi năng khiếu, nghệ thuật, thể thao cấp tỉnh",
+      "Mỗi sinh viên chỉ được chọn một chính sách học bổng có giá trị cao nhất",
+      "Để giữ học bổng, điểm trung bình cuối mỗi năm phải từ 3.2/4 và điểm rèn luyện từ 80/100 trở lên"
+    ],
+    "benefits": [
+      "Thủ khoa đầu vào toàn trường được giảm 100% học phí toàn khóa",
+      "Thủ khoa đầu vào của mỗi khoa được giảm 50% học phí toàn khóa",
+      "Sinh viên đạt giải Nhất, Nhì, Ba cấp quốc gia hoặc giải cao tại cuộc thi nghệ thuật quốc gia được giảm 100% học phí toàn khóa",
+      "Sinh viên đạt giải Tư hoặc Khuyến khích cấp quốc gia, hoặc huy chương Vàng, Bạc, Đồng học sinh giỏi cấp tỉnh được giảm 50% học phí toàn khóa",
+      "Sinh viên đạt giải Nhất, Nhì, Ba các cuộc thi năng khiếu, nghệ thuật, thể thao cấp tỉnh được giảm 50% học phí toàn khóa",
+      "Tân sinh viên được tặng voucher học ngoại ngữ trị giá 5 triệu đồng tại trung tâm ngoại ngữ của trường"
+    ],
+    "selection_process": [
+      "Bước 1: Đăng ký xét tuyển vào trường theo một trong các phương thức tuyển sinh năm 2026",
+      "Bước 2: Nộp hồ sơ đăng ký xét học bổng sớm qua kênh chính thức của trường, kèm minh chứng thành tích",
+      "Bước 3: Trúng tuyển và nhập học; học bổng được áp dụng cho năm học đầu tiên",
+      "Bước 4: Cuối mỗi năm, trường xét kết quả học tập và rèn luyện để quyết định duy trì học bổng"
+    ],
+    "locations": [
+      "TP.HCM"
+    ],
+    "faq": [
+      {
+        "q": "Có được nhận cùng lúc nhiều loại học bổng của trường không?",
+        "a": "Không. Mỗi sinh viên chỉ được chọn một chính sách học bổng có giá trị cao nhất."
+      },
+      {
+        "q": "Muốn giữ học bổng ở các năm sau thì cần đạt điều kiện gì?",
+        "a": "Điểm trung bình cuối năm phải đạt loại Giỏi, từ 3.2/4 trở lên, và điểm rèn luyện phải đạt loại Tốt, từ 80/100 trở lên."
+      },
+      {
+        "q": "Thủ khoa của từng khoa được hỗ trợ bao nhiêu?",
+        "a": "Thủ khoa đầu vào của mỗi khoa có điểm xét trên 25/30 được giảm 50% học phí toàn khóa."
+      },
+      {
+        "q": "Đạt giải học sinh giỏi cấp tỉnh có được xét học bổng không?",
+        "a": "Có. Thí sinh đạt huy chương Vàng, Bạc hoặc Đồng học sinh giỏi cấp tỉnh được giảm 50% học phí toàn khóa."
+      },
+      {
+        "q": "Sinh viên nhận học bổng sẽ học ở đâu?",
+        "a": "Sinh viên học tại các cơ sở của trường ở TP.HCM, tùy theo khoa quản lý ngành học."
+      }
+    ],
+    "sources": [
+      "https://tuyensinh.ntt.edu.vn/chinh-sach-hoc-bong",
+      "https://hocbong.ntt.edu.vn/",
+      "https://tuyensinh.ntt.edu.vn/hoc-bong-nttu-2026-ho-tro-den-100-hoc-phi-dang-ky-som-nhan-uu-dai-lon-p845.html",
+      "https://ntt.edu.vn/nttu-nhan-ho-so-dang-ky-xet-hoc-bong-som-xuyen-suot-dip-le-30-4-1-5/"
     ],
     "confidence": "high",
     "updated_at": "2026-10-09"
@@ -9741,6 +10975,123 @@
       "https://greatyop.com/national-taiwan-university-scholarships/"
     ],
     "confidence": "medium",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "nus-asean-undergraduate-scholarship",
+    "overview": "ASEAN Undergraduate Scholarship là học bổng cấp trường của Đại học Quốc gia Singapore (NUS) dành cho tân sinh viên xuất sắc là công dân các nước ASEAN ngoài Singapore, trong đó có Việt Nam. Ứng viên không cần nộp đơn riêng: NUS tự xét và chọn danh sách ngắn từ hồ sơ xin nhập học bậc cử nhân. Học bổng kéo dài theo thời gian học chuẩn của chương trình và được gia hạn từng học kỳ nếu sinh viên đạt yêu cầu về học tập và hạnh kiểm. NUS không bảo đảm việc làm cho sinh viên sau khi tốt nghiệp.",
+    "eligibility": [
+      "Là công dân một nước thành viên ASEAN (không tính Singapore), trong đó có Việt Nam.",
+      "Nộp hồ sơ vào một chương trình cử nhân toàn thời gian tại NUS với tư cách tân sinh viên; không nhận người chuyển từ đại học trong hoặc ngoài Singapore.",
+      "Có kết quả học tập THPT xuất sắc.",
+      "Có tố chất và tiềm năng lãnh đạo, cùng thành tích hoạt động ngoại khoá tốt.",
+      "Phải nhận MOE Tuition Grant, đồng nghĩa với cam kết làm việc 3 năm cho công ty đăng ký tại Singapore ngay sau khi tốt nghiệp.",
+      "Để được gia hạn mỗi học kỳ, sinh viên phải duy trì GPA từ 3,50 trở lên (hoặc tương đương) và có hạnh kiểm tốt."
+    ],
+    "benefits": [
+      "Chi trả 100% học phí cử nhân sau khi đã trừ khoản trợ cấp MOE Tuition Grant.",
+      "Sinh hoạt phí S$5.800 mỗi năm.",
+      "Phụ cấp chỗ ở S$3.000 mỗi năm.",
+      "Hỗ trợ một lần S$1.750 để mua máy tính khi nhập học.",
+      "Bản thân học bổng không kèm cam kết làm việc; có thể chuyển sang chương trình khác, trừ Nha khoa, Luật, Y khoa và Âm nhạc.",
+      "Áp dụng cho cả chương trình bằng kép và bằng liên kết; với chương trình bằng song song thì chỉ chi trả phần cử nhân."
+    ],
+    "selection_process": [
+      "Vòng 1: Nộp hồ sơ xin nhập học cử nhân NUS. Với bằng quốc tế (trừ IB), kỳ tuyển năm học 2027/2028 nhận hồ sơ từ 16/12/2026 đến 17/02/2027.",
+      "Vòng 2: NUS tự động xét học bổng cho mọi ứng viên đủ điều kiện và đánh giá dựa trên chất lượng hồ sơ.",
+      "Vòng 3: Ứng viên vào danh sách ngắn nhận email mời phỏng vấn; các buổi phỏng vấn diễn ra từ tháng 1 đến tháng 7.",
+      "Vòng 4: Ứng viên đã phỏng vấn nhận kết quả học bổng trước giữa tháng 7."
+    ],
+    "locations": [
+      "Singapore"
+    ],
+    "stipend": "Sinh hoạt phí S$5.800 mỗi năm, phụ cấp chỗ ở S$3.000 mỗi năm và hỗ trợ một lần S$1.750 để mua máy tính.",
+    "faq": [
+      {
+        "q": "Có phải nộp đơn xin học bổng riêng không?",
+        "a": "Không. Mọi ứng viên đủ điều kiện nộp hồ sơ nhập học cử nhân NUS đều được tự động xét học bổng."
+      },
+      {
+        "q": "Học bổng có ràng buộc cam kết làm việc không?",
+        "a": "Bản thân học bổng không có. Tuy nhiên sinh viên bắt buộc nhận MOE Tuition Grant, khoản này kèm cam kết làm việc 3 năm cho công ty đăng ký tại Singapore sau khi tốt nghiệp."
+      },
+      {
+        "q": "Cần làm gì để giữ học bổng qua các học kỳ?",
+        "a": "Học bổng được gia hạn mỗi học kỳ nếu sinh viên duy trì GPA từ 3,50 trở lên (hoặc tương đương) và có hạnh kiểm tốt."
+      },
+      {
+        "q": "Khi nào biết kết quả học bổng?",
+        "a": "Phỏng vấn diễn ra từ tháng 1 đến tháng 7. Ứng viên đã phỏng vấn được báo kết quả trước giữa tháng 7."
+      },
+      {
+        "q": "Có được nhận thêm học bổng khác cùng lúc không?",
+        "a": "Chỉ được nhận thêm học bổng, trợ cấp hoặc giải thưởng khác khi đã có sự chấp thuận trước của trường."
+      }
+    ],
+    "sources": [
+      "https://nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/asean-undergraduate-scholarship",
+      "https://nus.edu.sg/oam/scholarships/important-dates-and-application",
+      "https://www.nus.edu.sg/oam/admissions/important-dates"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "nus-international-undergraduate-scholarship",
+    "overview": "Học bổng đại học cấp trường của Đại học Quốc gia Singapore (NUS), dành cho tân sinh viên quốc tế xuất sắc thuộc mọi quốc tịch, trừ công dân Singapore. Ứng viên được xét học bổng ngay khi nộp hồ sơ tuyển sinh cử nhân toàn thời gian, không cần nộp đơn riêng. Học bổng kéo dài theo thời gian học chuẩn của chương trình và được xét duy trì theo từng học kỳ. NUS không bảo đảm việc làm sau khi tốt nghiệp. Do bắt buộc nhận MOE Tuition Grant, sinh viên phải làm việc cho công ty đăng ký tại Singapore 3 năm sau khi tốt nghiệp.",
+    "eligibility": [
+      "Công dân mọi quốc gia trừ Singapore, bao gồm Việt Nam",
+      "Nộp hồ sơ tuyển sinh vào một chương trình cử nhân toàn thời gian tại NUS, áp dụng cho tân sinh viên",
+      "Có kết quả học tập THPT xuất sắc",
+      "Có phẩm chất và tiềm năng lãnh đạo nổi bật, cùng thành tích hoạt động ngoại khóa xuất sắc",
+      "Không áp dụng cho ứng viên chuyển trường từ đại học trong nước Singapore hoặc nước ngoài",
+      "Phải nhận MOE Tuition Grant và cam kết làm việc 3 năm tại công ty đăng ký ở Singapore sau tốt nghiệp; Y và Nha khoa có cam kết riêng 5–6 năm với Bộ Y tế Singapore"
+    ],
+    "benefits": [
+      "Chi trả 100% học phí đại học sau khi đã trừ trợ cấp học phí MOE Tuition Grant",
+      "Sinh hoạt phí S$5.800 mỗi năm",
+      "Phụ cấp chỗ ở S$5.000 mỗi năm",
+      "Phụ cấp mua máy tính S$1.750, trả một lần khi nhập học",
+      "Áp dụng cho chương trình bằng kép và bằng liên kết; được chuyển theo khi sinh viên đổi chương trình học"
+    ],
+    "selection_process": [
+      "Vòng 1: Nộp hồ sơ tuyển sinh cử nhân NUS. Với bằng quốc tế (trừ IB), hạn nộp kỳ 2027/2028 là 16/12/2026–17/02/2027; hồ sơ hợp lệ được tự động xét học bổng",
+      "Vòng 2: NUS sàng lọc và đánh giá mức độ phù hợp với học bổng dựa trên chất lượng hồ sơ tuyển sinh",
+      "Vòng 3: Ứng viên lọt danh sách ngắn được báo qua email và phỏng vấn trong khoảng tháng 1 đến tháng 7",
+      "Vòng 4: Ứng viên đã phỏng vấn nhận kết quả học bổng trước giữa tháng 7"
+    ],
+    "locations": [
+      "Singapore"
+    ],
+    "stipend": "Mỗi năm học bổng chi S$5.800 sinh hoạt phí và S$5.000 phụ cấp chỗ ở, kèm S$1.750 phụ cấp máy tính trả một lần khi nhập học.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn học bổng riêng không?",
+        "a": "Không. Mọi ứng viên đủ điều kiện nộp hồ sơ tuyển sinh cử nhân NUS đều được tự động xét học bổng này."
+      },
+      {
+        "q": "Học bổng có ràng buộc sau tốt nghiệp không?",
+        "a": "Bản thân học bổng không có ràng buộc. Tuy nhiên, người nhận phải nhận MOE Tuition Grant, đi kèm cam kết làm việc 3 năm cho công ty đăng ký tại Singapore ngay sau khi tốt nghiệp."
+      },
+      {
+        "q": "Cần đạt điều kiện gì để duy trì học bổng?",
+        "a": "Học bổng được gia hạn mỗi học kỳ nếu GPA từ 3.5 trở lên (hoặc tương đương) và hạnh kiểm tốt. Ngành Luật, Y và Nha khoa áp dụng yêu cầu thuộc nhóm 80% đứng đầu khóa."
+      },
+      {
+        "q": "Có được nhận đồng thời học bổng khác không?",
+        "a": "Không được nhận đồng thời học bổng, trợ cấp hay giải thưởng khác nếu chưa được NUS chấp thuận trước."
+      },
+      {
+        "q": "Khi nào biết kết quả học bổng?",
+        "a": "Chỉ ứng viên lọt danh sách ngắn được mời phỏng vấn qua email. Phỏng vấn diễn ra từ tháng 1 đến tháng 7, và kết quả được báo trước giữa tháng 7."
+      }
+    ],
+    "sources": [
+      "https://nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/nus-international-undergraduate-scholarship",
+      "https://nus.edu.sg/oam/scholarships/important-dates-and-application",
+      "https://www.nus.edu.sg/oam/admissions/important-dates"
+    ],
+    "confidence": "high",
     "updated_at": "2026-10-09"
   },
   {
@@ -10038,6 +11389,57 @@
       "https://forum.uit.edu.vn/t/alphasphere-hiring-the-next-alpha-training-program-for-qc-intern/163647"
     ],
     "confidence": "medium",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "otago-global-scholarship",
+    "overview": "University of Otago Global Scholarship là học bổng đầu vào của University of Otago (New Zealand) dành cho sinh viên quốc tế mới bắt đầu học cử nhân toàn thời gian. Đối tượng là người mang hộ chiếu thuộc danh sách các nước được chỉ định, trong đó có Việt Nam, và/hoặc người theo học chương trình do trường chỉ định. Học bổng trị giá 15.000 NZD, có thời hạn một năm và chỉ được trừ trực tiếp vào học phí. Số suất không giới hạn; ứng viên được xét tự động trong quá trình tuyển sinh.",
+    "eligibility": [
+      "Đã tốt nghiệp THPT hoặc học tại một cơ sở được công nhận cấp chứng nhận đủ điều kiện vào đại học, ở nước ngoài hoặc tại New Zealand",
+      "Dự định học cử nhân toàn thời gian tại Otago từ năm nhất cho đến khi tốt nghiệp; người học chương trình chứng chỉ dự bị (foundation certificate) không đủ điều kiện",
+      "Mang hộ chiếu thuộc danh sách các nước được chỉ định (có Việt Nam) và/hoặc theo học chương trình do trường chỉ định",
+      "Học trực tiếp tại cơ sở của trường trong suốt quá trình học",
+      "Không đủ điều kiện nếu được chính phủ nước mình hoặc chính phủ New Zealand tài trợ",
+      "Phải được nhận vào chương trình học; trường dựa vào kết quả xét tuyển để đánh giá tiềm năng học thuật"
+    ],
+    "benefits": [
+      "Học bổng 15.000 NZD trừ vào học phí, thời hạn một năm",
+      "Sinh viên nhập học kỳ 2 (tháng 7) nhận 7.500 NZD trong kỳ đó, phần còn lại được trừ vào học kỳ 1 (tháng 2) của năm kế tiếp",
+      "Có thể giữ đồng thời học bổng NZUA dành cho Việt Nam và International Academic Excellence Scholarship, tổng giá trị tối đa khoảng 65.000 NZD"
+    ],
+    "selection_process": [
+      "Vòng 1: Nộp hồ sơ nhập học qua hệ thống eVision; ứng viên học ở ngoài New Zealand cần chọn đồng ý được xét học bổng quốc tế",
+      "Vòng 2: Trường tự động xét học bổng trong quá trình tuyển sinh, dựa trên kết quả trúng tuyển chương trình và quốc tịch trên hộ chiếu",
+      "Vòng 3: Nhận thư mời học bổng, sau đó chủ động chấp nhận học bổng và chấp nhận offer nhập học trước hạn ghi trong thư"
+    ],
+    "stipend": "Học bổng trị giá 15.000 NZD trong một năm, chỉ được trừ vào học phí và không chi trả bằng tiền mặt.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng riêng không?",
+        "a": "Không. Ứng viên được xét tự động trong quá trình tuyển sinh, nhưng người học ở ngoài New Zealand phải chọn đồng ý được xét học bổng quốc tế khi nộp hồ sơ trên eVision."
+      },
+      {
+        "q": "Hạn nộp hồ sơ là khi nào?",
+        "a": "Với ứng viên ở ngoài New Zealand, đợt xét mở từ ngày 1/5 của năm trước khi nhập học. Hạn chót là 10/12 cho kỳ nhập học tháng 2 và 30/4 cho kỳ nhập học tháng 7."
+      },
+      {
+        "q": "Nhập học vào kỳ tháng 7 có được nhận học bổng không?",
+        "a": "Có. Sinh viên được trừ 7.500 NZD vào học phí kỳ 2, phần còn lại được trừ vào học kỳ 1 của năm sau."
+      },
+      {
+        "q": "Có thể bảo lưu học bổng không?",
+        "a": "Không. Nếu không nhập học đúng ngày ghi trong offer, học bổng hết hiệu lực. Nếu chuyển sang kỳ nhập học khác, sinh viên sẽ được xét lại điều kiện."
+      },
+      {
+        "q": "Có thể nhận cùng lúc nhiều học bổng của trường không?",
+        "a": "Thông thường học bổng này không đi kèm học bổng đầu vào bậc cử nhân khác của trường và sinh viên nhận suất có giá trị cao nhất. Riêng NZUA dành cho Việt Nam và International Academic Excellence Scholarship thì có thể giữ cùng lúc."
+      }
+    ],
+    "sources": [
+      "https://www.otago.ac.nz/courses/scholarships/global-scholarships",
+      "https://www.otago.ac.nz/international/future-students/fees-scholarships/international-scholarships"
+    ],
+    "confidence": "high",
     "updated_at": "2026-10-09"
   },
   {
@@ -10678,6 +12080,68 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "postech-international-undergraduate-tuition-scholarship",
+    "overview": "Học bổng cơ bản (học bổng học phí) của POSTECH dành cho sinh viên quốc tế trúng tuyển hệ cử nhân qua diện tuyển sinh quốc tế. Diện này được mở lần đầu từ kỳ nhập học mùa thu 2026. Học phí kỳ đầu được miễn toàn bộ. Từ kỳ thứ hai, sinh viên tiếp tục được miễn học phí nếu đạt tiêu chí duy trì, tối đa 8 học kỳ chính quy. Tiêu chí duy trì giống như với sinh viên Hàn Quốc.",
+    "eligibility": [
+      "Trúng tuyển hệ cử nhân POSTECH qua diện tuyển sinh quốc tế dành cho sinh viên nước ngoài",
+      "Người có quốc tịch nước ngoài nhưng trúng tuyển qua diện trong nước hoặc diện Hàn kiều không thuộc đối tượng nhận học bổng này",
+      "Để duy trì học bổng: tích lũy tối thiểu 12 tín chỉ trong học kỳ trước",
+      "Để duy trì học bổng: đạt ngưỡng GPA, tức GPA 3,3 hoặc hạng percentile 87 (tương đương 3,0/4,3 theo trang tuyển sinh quốc tế)",
+      "Chương trình tuyển ứng viên có năng lực và tố chất phù hợp với các ngành STEM"
+    ],
+    "benefits": [
+      "Miễn toàn bộ học phí kỳ đầu, tiếp tục miễn học phí tối đa 8 học kỳ chính quy nếu đạt tiêu chí duy trì",
+      "Sinh viên diện quốc tế nhận trợ cấp sinh hoạt 500.000 KRW mỗi tháng, kể cả kỳ nghỉ, không yêu cầu GPA",
+      "Học bổng nhập học hoàn lại chi phí thực tế vé máy bay một chiều và đi lại trong Hàn Quốc, tối đa 2.500.000 KRW",
+      "Nhận 300.000 KRW một lần khi đạt TOPIK cấp 4 trở lên trong thời gian học",
+      "Có thể làm việc bán thời gian trong trường trong học kỳ (work-study), tối đa 300.000 KRW mỗi tháng",
+      "Sau khi hoàn thành ít nhất 3 học kỳ, nhận phiếu học tập Pathfinder 2.500.000 KRW mỗi năm, tổng 10.000.000 KRW trong 4 năm"
+    ],
+    "selection_process": [
+      "Bước 1: nộp hồ sơ vào diện tuyển sinh quốc tế",
+      "Bước 2: xét duyệt hồ sơ",
+      "Bước 3: công bố kết quả",
+      "Bước 4: xác nhận nhập học và đăng ký",
+      "Bước 5: nhận giấy báo nhập học và xin visa",
+      "Bước 6: bắt đầu học kỳ; thông thường học bổng được xét tự động trong quá trình tuyển sinh, không cần nộp đơn riêng"
+    ],
+    "locations": [
+      "Pohang, Hàn Quốc"
+    ],
+    "stipend": "Ngoài miễn học phí, sinh viên diện quốc tế nhận trợ cấp sinh hoạt 500.000 KRW mỗi tháng, kể cả kỳ nghỉ.",
+    "faq": [
+      {
+        "q": "Có phải nộp đơn xin học bổng riêng không?",
+        "a": "Thông thường không. Sinh viên quốc tế trúng tuyển được xét tự động cho các học bổng phù hợp trong quá trình tuyển sinh, nhưng một số khoản có thể yêu cầu nộp đơn riêng."
+      },
+      {
+        "q": "Người nước ngoài trúng tuyển qua diện trong nước có nhận được học bổng này không?",
+        "a": "Không. Học bổng chỉ dành cho sinh viên trúng tuyển qua diện tuyển sinh quốc tế, không áp dụng cho diện trong nước hoặc diện Hàn kiều."
+      },
+      {
+        "q": "Học bổng miễn học phí kéo dài bao lâu?",
+        "a": "Kỳ đầu được miễn toàn bộ học phí. Từ kỳ thứ hai, học bổng được duy trì nếu đạt tiêu chí về tín chỉ và GPA, tối đa 8 học kỳ chính quy."
+      },
+      {
+        "q": "Trợ cấp sinh hoạt có yêu cầu điểm GPA không?",
+        "a": "Không. Trợ cấp 500.000 KRW mỗi tháng dành cho mọi sinh viên cử nhân diện quốc tế và không có yêu cầu về GPA."
+      },
+      {
+        "q": "Học bổng được chi trả bằng đơn vị tiền tệ nào?",
+        "a": "Mọi khoản học bổng đều được công bố và chi trả bằng won Hàn Quốc (KRW)."
+      }
+    ],
+    "sources": [
+      "https://www.postech.ac.kr/eng/admission-aid/scholarship_information.do",
+      "https://www.postech.ac.kr/eng/admission-aid/scholarship_types.do",
+      "https://adm-iu.postech.ac.kr/user/comm/menu/e2afb97fa1b8f43c574be0dabef78f87/content/index.do",
+      "https://adm-iu.postech.ac.kr/user/admission/guide/international.do",
+      "https://adm-iu.postech.ac.kr/user/index.do"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "prudential-the-strivers",
     "overview": "The Strivers là chương trình phát triển nhân tài trẻ của Prudential Việt Nam, gồm hai lộ trình. Management Trainee (MT) luân chuyển qua nhiều phòng ban trong 18 tháng. Functional Trainee (FT) đi sâu vào một chuyên môn trong khoảng 4–4,5 năm. Chương trình dành cho người mới tốt nghiệp hoặc có dưới 2 năm kinh nghiệm. Theo đợt 2025, mục tiêu là lên vị trí quản lý sau khoảng 2,5 năm với MT và FT Nhân sự, hoặc sau 4–4,5 năm với FT Định phí (Actuary).",
     "eligibility": [
@@ -10899,6 +12363,60 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "pxu-talent-scholarship",
+    "overview": "Học bổng Tài năng PXU 2026 là chương trình học bổng tuyển sinh của Trường Đại học Phú Xuân, dành cho thí sinh có giải học sinh giỏi hoặc điểm xét tuyển cao khi đăng ký vào ngành Công nghệ thông tin, Quản trị kinh doanh hoặc Công nghệ kỹ thuật ô tô. Chương trình có ba mức miễn học phí: 100%, 70% và 50%. Học bổng được duy trì trong suốt khóa học nếu sinh viên giữ kết quả học tập theo quy định, thay vì chỉ nhận một lần khi nhập học.",
+    "eligibility": [
+      "Là thí sinh nhập học năm 2026 và đăng ký một trong ba ngành: Công nghệ thông tin, Quản trị kinh doanh, Công nghệ kỹ thuật ô tô.",
+      "Mức 100%: có giải HSG quốc gia từ Khuyến khích trở lên, giải HSG cấp tỉnh từ giải Ba trở lên, hoặc tổng điểm tổ hợp (thi THPT hoặc học bạ) từ 28 điểm.",
+      "Mức 70%: tổng điểm tổ hợp xét tuyển theo điểm thi tốt nghiệp THPT từ 26 đến dưới 28 điểm.",
+      "Mức 50%: tổng điểm tổ hợp xét tuyển theo điểm thi tốt nghiệp THPT từ 24 đến dưới 26 điểm.",
+      "Để giữ học bổng ở năm 2 và năm 3, học kỳ liền trước phải đạt loại Khá, điểm tổng kết từ 2.5 trở lên.",
+      "Mỗi sinh viên chỉ nhận một học bổng có giá trị cao nhất mà mình đủ điều kiện, các học bổng không được cộng dồn."
+    ],
+    "benefits": [
+      "100 suất miễn 100% học phí cho ba ngành áp dụng.",
+      "50 suất miễn 70% học phí và 50 suất miễn 50% học phí.",
+      "Năm nhất sinh viên đóng học phí bình thường, phần được miễn sẽ được hoàn trả khi lên năm hai.",
+      "Học bổng được duy trì qua các năm nếu sinh viên đạt yêu cầu học tập.",
+      "Với mức 100%, nếu một học kỳ không đạt điều kiện thì học bổng chỉ tạm dừng một học kỳ và được nhận lại khi điểm tổng kết đạt lại từ 2.5.",
+      "Trường cho biết sinh viên được thực tập, trải nghiệm nghề nghiệp từ năm thứ hai và học theo chương trình gắn với doanh nghiệp."
+    ],
+    "selection_process": [
+      "Bước 1: Đăng ký xét tuyển vào một trong ba ngành áp dụng học bổng.",
+      "Bước 2: Nhà trường xét mức học bổng dựa trên giải học sinh giỏi hoặc tổng điểm tổ hợp xét tuyển.",
+      "Bước 3: Thí sinh để lại thông tin qua form tư vấn để được hướng dẫn về hồ sơ, thời hạn nộp và điều kiện xét duyệt."
+    ],
+    "stipend": "Học bổng là khoản miễn 50%, 70% hoặc 100% học phí, không phải trợ cấp tiền mặt.",
+    "faq": [
+      {
+        "q": "Học bổng áp dụng cho những ngành nào?",
+        "a": "Ba mức học bổng Tài năng áp dụng cho các ngành Công nghệ thông tin, Quản trị kinh doanh và Công nghệ kỹ thuật ô tô."
+      },
+      {
+        "q": "Năm nhất có phải đóng học phí không?",
+        "a": "Có. Năm nhất sinh viên đóng học phí bình thường, sau đó được hoàn trả phần được miễn khi lên năm hai."
+      },
+      {
+        "q": "Học bổng có được duy trì sau năm nhất không?",
+        "a": "Có, nếu học kỳ liền trước đạt loại Khá và điểm tổng kết từ 2.5 trở lên."
+      },
+      {
+        "q": "Có được nhận cùng lúc nhiều học bổng của trường không?",
+        "a": "Không. Mỗi sinh viên chỉ nhận một học bổng có giá trị cao nhất mà mình đủ điều kiện."
+      },
+      {
+        "q": "Mức 70% và 50% có xét bằng điểm học bạ không?",
+        "a": "Không. Hai mức này chỉ xét theo tổng điểm tổ hợp từ điểm thi tốt nghiệp THPT. Riêng mức 100% chấp nhận cả điểm thi lẫn điểm học bạ."
+      }
+    ],
+    "sources": [
+      "https://pxu.edu.vn/news/hoc-bong-tai-nang-pxu-2026",
+      "https://pxu.edu.vn/hoc-bong"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "qualcomm-ai-residency",
     "overview": "Qualcomm AI Residency Program là chương trình đào tạo nhân tài AI tại Việt Nam, giúp người tham gia chuẩn bị cho sự nghiệp nghiên cứu hoặc kỹ sư AI. Chương trình dành cho sinh viên năm cuối hoặc người mới tốt nghiệp ngành Khoa học máy tính và các ngành liên quan. Có hai nhánh: Research Residency kéo dài 24 tháng và Engineering Residency kéo dài 12 tháng. Theo nguồn tuyển dụng, kinh nghiệm nghiên cứu ở nhánh Research có thể mở ra cơ hội vào các chương trình tiến sĩ uy tín trên thế giới. Đến nay đã có hơn 120 người hoàn thành chương trình.",
     "eligibility": [
@@ -10957,6 +12475,61 @@
       "https://vn.linkedin.com/jobs/view/ai-resident-engineering-at-qualcomm-4401455158",
       "https://www.linkedin.com/jobs/view/ai-resident-research-at-qualcomm-4231933111",
       "https://vn.linkedin.com/jobs/view/ai-resident-research-at-qualcomm-4208397915"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "queens-university-deans-international-award",
+    "overview": "Dean's International Award là nhóm học bổng đầu vào của Queen's University dành cho sinh viên quốc tế. Học bổng được trao dựa trên thành tích học tập khi sinh viên vào năm nhất của chương trình cử nhân đầu vào tại một trong bốn khoa: Arts and Science, Engineering and Applied Science, Commerce hoặc Health Sciences. Mỗi khoa có giải riêng, giá trị từ 5.000 đến 25.000 đô la mỗi năm. Học bổng kéo dài 4 năm, được duy trì thêm 3 năm sau năm đầu nếu sinh viên vẫn học toàn thời gian trong khoa đã nhập học.",
+    "eligibility": [
+      "Là sinh viên quốc tế đóng học phí quốc tế; sinh viên quốc tế đóng học phí nội địa không đủ điều kiện",
+      "Không phải công dân Canada, người có hai quốc tịch trong đó có Canada, hoặc thường trú nhân Canada",
+      "Lần đầu vào năm nhất bậc sau trung học; người tốt nghiệp chương trình CEGEP 2 năm chuyển vào năm hai vẫn được xét",
+      "Vào chương trình cử nhân đầu vào thuộc Arts and Science, Engineering and Applied Science, Bachelor of Commerce hoặc Bachelor of Health Sciences",
+      "Sinh viên chương trình Bachelor of Nursing không được xét giải của khoa Health Sciences",
+      "Muốn giữ học bổng phải tiếp tục học toàn thời gian trong khoa đã nhập học"
+    ],
+    "benefits": [
+      "Arts and Science: 5.000, 10.000, 15.000, 20.000 hoặc 25.000 đô la mỗi năm",
+      "Commerce (Smith School of Business): 15.000, 20.000 hoặc 25.000 đô la mỗi năm",
+      "Engineering and Applied Science: 10.000, 15.000, 20.000 hoặc 25.000 đô la mỗi năm",
+      "Health Sciences: 10.000 hoặc 15.000 đô la mỗi năm",
+      "Học bổng kéo dài 4 năm, được gia hạn thêm 3 năm sau năm đầu nếu đáp ứng điều kiện"
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ xin nhập học bậc đại học tại Queen's University; không có đơn xin học bổng riêng",
+      "Vòng 2: trường tự động xét học bổng cho mọi ứng viên đủ điều kiện, dựa trên thành tích học tập",
+      "Vòng 3: xếp mức giải dựa trên điểm trung bình xét giải, tính theo cùng cách và tiêu chí dùng khi xét tuyển của hệ giáo dục mà ứng viên theo học"
+    ],
+    "locations": [
+      "Kingston, Ontario, Canada"
+    ],
+    "stipend": "Từ 5.000 đến 25.000 đô la mỗi năm tùy khoa và mức giải, kéo dài 4 năm.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn riêng để xin học bổng không?",
+        "a": "Không. Sinh viên quốc tế nộp hồ sơ nhập học bậc đại học sẽ được xét tự động, không cần đơn xin học bổng."
+      },
+      {
+        "q": "Học bổng có được gia hạn sau năm nhất không?",
+        "a": "Có. Học bổng được gia hạn thêm 3 năm nếu sinh viên vẫn học toàn thời gian trong khoa đã nhập học."
+      },
+      {
+        "q": "Sinh viên quốc tế đóng học phí nội địa có được xét không?",
+        "a": "Không. Học bổng chỉ dành cho sinh viên đóng học phí quốc tế."
+      },
+      {
+        "q": "Điểm nào được dùng để xét học bổng với học sinh ngoài hệ giáo dục Canada?",
+        "a": "Điểm trung bình xét giải được tính theo cùng cách và cùng tiêu chí trường dùng khi xét tuyển."
+      },
+      {
+        "q": "Sinh viên ngành Điều dưỡng có được nhận giải của khoa Health Sciences không?",
+        "a": "Không. Sinh viên chương trình Bachelor of Nursing không đủ điều kiện nhận giải này."
+      }
+    ],
+    "sources": [
+      "https://www.queensu.ca/registrar/financial-aid/specific-students/international"
     ],
     "confidence": "high",
     "updated_at": "2026-10-09"
@@ -12111,6 +13684,62 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "sheffield-international-undergraduate-scholarship",
+    "overview": "Đây là học bổng của Đại học Sheffield (Anh) dành cho sinh viên quốc tế tự túc học phí, nhập học cử nhân toàn thời gian vào tháng 9/2027. Học bổng giảm 2.500 bảng học phí cho mỗi năm học, tối đa 10.000 bảng với chương trình 4 năm. Từ năm thứ hai trở đi, học bổng chỉ được duy trì nếu năm trước sinh viên đạt điểm trung bình từ 60% và tích lũy đủ ít nhất 120 tín chỉ. Trường tự động xét và trao học bổng, sinh viên không cần nộp đơn riêng.",
+    "eligibility": [
+      "Bắt đầu học cử nhân tại Đại học Sheffield vào tháng 9/2027. Áp dụng cho mọi ngành, trừ Y khoa (A100/A101) và Nha khoa (A200).",
+      "Chọn Sheffield là lựa chọn firm hoặc insurance trước 16h (giờ Anh) ngày 2/6/2027.",
+      "Tự túc học phí, đóng mức học phí dành cho sinh viên quốc tế và không thuộc diện được tổ chức nào tài trợ toàn bộ học phí.",
+      "Chỉ dành cho hệ toàn thời gian. Học online hoặc từ xa không được xét.",
+      "Sinh viên học năm dự bị (foundation year) không thuộc USIC thì không đủ điều kiện.",
+      "Có thể vào thẳng năm 2 hoặc năm 3, với điều kiện không nhận học bổng hay giải thưởng từ chương trình liên kết với trường cũ."
+    ],
+    "benefits": [
+      "Giảm 2.500 bảng học phí mỗi năm học, tối đa 10.000 bảng với chương trình 4 năm.",
+      "Học bổng được trừ thẳng vào học phí, không nhận bằng tiền mặt.",
+      "Không cần nộp đơn xin học bổng, cả năm đầu lẫn các năm sau.",
+      "Được gia hạn mỗi năm nếu năm trước đạt điểm trung bình từ 60% và có tối thiểu 120 tín chỉ.",
+      "Không áp dụng cho năm thực tập tại doanh nghiệp, năm đi làm hay năm học ở nước ngoài, dù năm đó bắt buộc hay tự chọn."
+    ],
+    "selection_process": [
+      "Vòng 1: Nộp hồ sơ vào một chương trình cử nhân toàn thời gian khóa tháng 9/2027 và nhận thư mời nhập học.",
+      "Vòng 2: Chọn Sheffield là lựa chọn firm hoặc insurance trước 16h (giờ Anh) ngày 2/6/2027.",
+      "Vòng 3: Trường tự động xét và trao học bổng cho người đủ điều kiện dưới dạng giảm học phí.",
+      "Vòng 4: Mỗi năm học tiếp theo, trường xét duy trì dựa trên điểm trung bình từ 60% và tối thiểu 120 tín chỉ của năm trước."
+    ],
+    "locations": [
+      "Sheffield, Vương quốc Anh"
+    ],
+    "stipend": "Không có trợ cấp tiền mặt. Học bổng giảm 2.500 bảng học phí mỗi năm, tối đa 10.000 bảng cho chương trình 4 năm.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng riêng không?",
+        "a": "Không. Trường tự động trao học bổng nếu bạn chọn Sheffield là lựa chọn firm hoặc insurance trước 16h (giờ Anh) ngày 2/6/2027."
+      },
+      {
+        "q": "Làm sao để giữ học bổng các năm sau?",
+        "a": "Năm học trước phải đạt điểm trung bình từ 60% và tích lũy tối thiểu 120 tín chỉ."
+      },
+      {
+        "q": "Có thể bảo lưu học bổng nếu hoãn nhập học không?",
+        "a": "Không. Nếu hoãn nhập học sang năm khác, bạn sẽ mất học bổng này."
+      },
+      {
+        "q": "Có được nhận cùng lúc với học bổng khác không?",
+        "a": "Không được kết hợp với học bổng hay ưu đãi khác của trường, trừ khi có ghi rõ, và cũng không kết hợp với tài trợ từ bên ngoài. Khoản vay phải hoàn trả đủ thì không bị tính."
+      },
+      {
+        "q": "Năm thực tập hay năm học ở nước ngoài có được giảm học phí không?",
+        "a": "Không. Học bổng không áp dụng cho năm thực tập tại doanh nghiệp, năm đi làm hay năm học ở nước ngoài."
+      }
+    ],
+    "sources": [
+      "https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "shinhan-internship",
     "overview": "Shinhan Internship là chương trình thực tập của Ngân hàng Shinhan Việt Nam. Chương trình dành cho sinh viên đại học muốn tìm hiểu hoạt động ngân hàng trong môi trường thực tế. Mỗi khu vực miền Bắc và miền Nam có một đợt tuyển riêng. Đợt 2026 nhận hồ sơ từ ngày 21/08 đến 21/09/2026 theo thông báo của ngân hàng. Thực tập sinh được giao việc theo phân công của quản lý đơn vị. Sau thực tập, các bạn có cơ hội tham gia chương trình Shinhan Trainee 2027.",
     "eligibility": [
@@ -12501,6 +14130,115 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "skku-global-leader-scholarship",
+    "overview": "SKKU Global Leader Scholarship là học bổng của Đại học Sungkyunkwan (Hàn Quốc) dành cho tân sinh viên quốc tế bậc đại học có kết quả xét tuyển nổi bật. Học bổng gồm ba loại: loại A dành cho một số quốc gia nhận viện trợ ODA, loại B cho thí sinh xuất sắc khối STEM, loại C cho tân sinh viên các khoa Global. Người nhận được giảm 50% học phí trong 4 năm (8 học kỳ), với điều kiện duy trì kết quả học tập mỗi học kỳ. Thí sinh không cần nộp đơn xin học bổng riêng; trường đề cử dựa trên kết quả xét tuyển.",
+    "eligibility": [
+      "Là tân sinh viên quốc tế bậc đại học có kết quả xét tuyển nổi bật; không cần nộp đơn học bổng riêng.",
+      "Loại A: có quốc tịch thuộc danh sách nước nhận ODA của OECD DAC, nước đó có không quá 3 sinh viên đang học tại SKKU và được miễn thị thực khi nhập cảnh Hàn Quốc.",
+      "Loại B: thí sinh xuất sắc khối STEM; người đạt giải Olympic quốc tế Toán, Khoa học, Tin học hoặc lĩnh vực liên quan trong thời gian học lớp 10–12 có thể được ưu tiên.",
+      "Loại C: tân sinh viên nổi bật của các ngành Global Business Administration, Global Economics và Global Biomedical Engineering.",
+      "Trường xét tổng hợp điểm xét tuyển, quốc tịch, đơn vị tuyển sinh và thành tích giải thưởng, tùy theo từng loại.",
+      "Để giữ học bổng: học kỳ trước phải hoàn thành ít nhất 12 tín chỉ (9 tín chỉ với học kỳ liền trước học kỳ cuối), đạt GPA từ 3,5 và không có điểm F."
+    ],
+    "benefits": [
+      "Giảm 50% học phí trong 4 năm, tức 8 học kỳ, nếu duy trì đủ điều kiện học tập.",
+      "Loại C: được ưu tiên xếp ký túc xá và được chi trả toàn bộ phí ký túc xá nếu được xếp phòng."
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ xét tuyển đại học hệ sinh viên quốc tế của SKKU; thí sinh loại B có thể nộp kèm thư giới thiệu học bổng của hiệu trưởng hoặc lãnh đạo tổ chức liên quan.",
+      "Vòng 2: trường đánh giá hồ sơ xét tuyển và đề cử học bổng trong số tân sinh viên nổi bật; có thể phỏng vấn nếu cần.",
+      "Vòng 3: sau khi công bố kết quả trúng tuyển, trường thông báo riêng cho từng người được đề cử."
+    ],
+    "locations": [
+      "Seoul, Hàn Quốc",
+      "Suwon, Hàn Quốc"
+    ],
+    "stipend": "Học bổng tương đương 50% học phí mỗi học kỳ trong 8 học kỳ; riêng loại C được chi trả thêm toàn bộ phí ký túc xá nếu được xếp phòng.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng riêng không?",
+        "a": "Không. Trường đề cử dựa trên kết quả xét tuyển; thí sinh chỉ cần nộp hồ sơ xét tuyển đại học."
+      },
+      {
+        "q": "Khi nào biết mình được nhận học bổng?",
+        "a": "Sau khi công bố kết quả trúng tuyển, trường thông báo riêng cho từng người được đề cử."
+      },
+      {
+        "q": "Học bổng kéo dài bao lâu?",
+        "a": "Tối đa 4 năm (8 học kỳ), với điều kiện duy trì yêu cầu học tập mỗi học kỳ."
+      },
+      {
+        "q": "Cần đạt điều kiện gì để giữ học bổng?",
+        "a": "Học kỳ trước phải hoàn thành ít nhất 12 tín chỉ (9 tín chỉ với học kỳ liền trước học kỳ cuối), đạt GPA từ 3,5 và không có điểm F."
+      },
+      {
+        "q": "Loại B ưu tiên những ai?",
+        "a": "Thí sinh khối STEM từng đạt giải Olympic quốc tế Toán, Khoa học, Tin học hoặc lĩnh vực liên quan trong thời gian học lớp 10–12."
+      }
+    ],
+    "sources": [
+      "https://admission-global.skku.edu/eng/grad/scholarship_undergrad.html"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "skku-samsung-global-sungkyun-scholarship",
+    "overview": "Samsung Global Sungkyun Scholarship là học bổng bậc đại học do Đại học Sungkyunkwan (SKKU, Hàn Quốc) xét cho tân sinh viên quốc tế. Ứng viên được đề cử trong số tân sinh viên xuất sắc, dựa trên kết quả xét tuyển đầu vào. Học bổng có hai loại A và B. Cả hai loại đều miễn toàn bộ học phí và phí nhập học trong 4 năm (8 học kỳ). Loại A có thêm sinh hoạt phí, chế độ ký túc xá, mentoring 1-1 và tư vấn riêng. Sinh viên phải đạt điều kiện tín chỉ và GPA mỗi học kỳ để tiếp tục nhận học bổng.",
+    "eligibility": [
+      "Tân sinh viên quốc tế bậc đại học trúng tuyển vào SKKU và được đề cử là sinh viên xuất sắc theo kết quả xét tuyển",
+      "Mỗi học kỳ học tối thiểu 12 tín chỉ (học kỳ thứ 7 được phép học 9 tín chỉ) và không có điểm F",
+      "GPA học kỳ từ 3,7 trở lên (hai học kỳ đầu từ 3,5), hoặc GPA tích lũy từ 3,7 trở lên",
+      "Không đạt điều kiện một lần sẽ không nhận học bổng ở học kỳ kế tiếp; không đạt hai lần sẽ bị loại khỏi chương trình",
+      "Thời gian nhận học bổng tối đa là 4 năm học (8 học kỳ)"
+    ],
+    "benefits": [
+      "Cả loại A và B: miễn toàn bộ học phí trong 4 năm (8 học kỳ), gồm cả phí nhập học",
+      "Loại A: sinh hoạt phí 570.000 KRW mỗi tháng (3.400.000 KRW mỗi học kỳ)",
+      "Loại A: ưu tiên xếp ký túc xá và được chi trả toàn bộ phí ký túc xá nếu được xếp phòng",
+      "Loại A: chương trình mentoring 1-1 với cựu sinh viên, giáo sư hoặc chuyên gia trong lĩnh vực sinh viên chọn",
+      "Loại A: được tham gia chương trình tư vấn dành riêng"
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ vào chương trình tuyển sinh đại học dành cho sinh viên quốc tế của SKKU (kỳ Thu 2026 có hai đợt nộp hồ sơ)",
+      "Vòng 2: trường đánh giá hồ sơ xét tuyển và có thể phỏng vấn nếu cần",
+      "Vòng 3: đề cử trong số tân sinh viên xuất sắc; kết quả được thông báo riêng cho người được đề cử sau đợt công bố trúng tuyển thứ hai"
+    ],
+    "locations": [
+      "Seoul, Hàn Quốc (cơ sở Khoa học Xã hội và Nhân văn)",
+      "Suwon, Hàn Quốc (cơ sở Khoa học Tự nhiên)"
+    ],
+    "stipend": "Học bổng loại A có sinh hoạt phí 570.000 KRW mỗi tháng (3.400.000 KRW mỗi học kỳ); loại B không có khoản này.",
+    "faq": [
+      {
+        "q": "Học bổng loại A và loại B khác nhau thế nào?",
+        "a": "Cả hai loại đều miễn toàn bộ học phí và phí nhập học trong 8 học kỳ. Loại A có thêm sinh hoạt phí hằng tháng, ưu tiên ký túc xá kèm miễn phí ký túc xá, mentoring 1-1 và tư vấn riêng."
+      },
+      {
+        "q": "Ứng viên được chọn dựa trên tiêu chí nào?",
+        "a": "Trường đề cử trong số tân sinh viên quốc tế xuất sắc, dựa trên kết quả xét tuyển đầu vào. Trường có thể phỏng vấn nếu cần."
+      },
+      {
+        "q": "Khi nào biết mình được đề cử?",
+        "a": "Trường thông báo riêng cho người được đề cử sau đợt công bố trúng tuyển thứ hai."
+      },
+      {
+        "q": "Cần làm gì để giữ học bổng?",
+        "a": "Mỗi học kỳ cần học ít nhất 12 tín chỉ (học kỳ 7 được phép 9 tín chỉ), không có điểm F và đạt GPA từ 3,7 (học kỳ hoặc tích lũy). Riêng hai học kỳ đầu, GPA học kỳ chỉ cần từ 3,5."
+      },
+      {
+        "q": "Nếu không đạt điều kiện GPA thì sao?",
+        "a": "Nếu không đạt một lần, sinh viên không nhận học bổng ở học kỳ tiếp theo. Nếu không đạt hai lần, sinh viên bị loại và mất học bổng ở các học kỳ còn lại."
+      }
+    ],
+    "sources": [
+      "https://admission-global.skku.edu/eng/grad/scholarship_undergrad.html",
+      "https://admission-global.skku.edu/"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "smu-asean-undergraduate-scholarship",
     "overview": "Học bổng ASEAN Undergraduate Scholarship của Đại học Quản lý Singapore (SMU) dành cho công dân các nước ASEAN, trừ Singapore, trong đó có Việt Nam, khi nộp hồ sơ vào một chương trình cử nhân toàn thời gian tại SMU. Học bổng trả toàn bộ phần học phí còn lại sau trợ cấp học phí MOE Tuition Grant, kèm các khoản sinh hoạt phí, chỗ ở và máy tính. Thời gian học chuẩn là 4 năm. Bản thân học bổng không có ràng buộc, nhưng người nhận phải nhận MOE Tuition Grant. Khoản trợ cấp này đi kèm cam kết làm việc 3 năm cho một công ty đăng ký tại Singapore ngay sau khi tốt nghiệp.",
     "eligibility": [
@@ -12792,6 +14530,108 @@
       "https://stipendiumhungaricum.hu/wp-content/uploads/2025/10/BA_MA_OTM_Call_for_Applications_2026_27.pdf",
       "https://stipendiumhungaricum.hu/wp-content/uploads/2025/10/PhD_Call_for_Applications_2026_27.pdf",
       "https://nguonhocbong.com/scholarships/thong-bao-hoc-bong-hiep-dinh-hung-ga-ri/"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "stu-talent-scholarship",
+    "overview": "Học bổng Tài năng là học bổng tuyển sinh năm 2026 của Trường Đại học Công nghệ Sài Gòn (STU), dành cho tân sinh viên đại học chính quy năm học 2026–2027. Học bổng có hai mức: miễn 100% học phí trong 4 năm cho thủ khoa toàn trường, mỗi phương thức xét tuyển có 1 suất; và miễn 50% học phí trong 4 năm cho thí sinh trúng tuyển đợt 1, tổng cộng 80 suất. Học bổng được giữ trong suốt khóa học nếu sinh viên đạt yêu cầu học tập ở từng học kỳ.",
+    "eligibility": [
+      "Trúng tuyển và nhập học hệ đại học chính quy tại STU năm 2026.",
+      "Điểm tối thiểu: học bạ từ 25, thi tốt nghiệp THPT từ 23 hoặc đánh giá năng lực từ 900; không cộng điểm ưu tiên tuyển sinh.",
+      "Mức 100%: là thủ khoa toàn trường theo phương thức xét tuyển. Mức 50%: trúng tuyển đợt xét tuyển thứ nhất.",
+      "Để giữ học bổng: điểm trung bình học kỳ liền trước từ 7.0 trở lên và không có môn nào không đạt.",
+      "Phải chấp hành tốt nội quy, quy chế của trường và đóng học phí đúng hạn trong suốt thời gian nhận học bổng.",
+      "Mỗi thí sinh chỉ nhận một học bổng, là học bổng có giá trị cao nhất trong số các học bổng mà thí sinh đủ điều kiện."
+    ],
+    "benefits": [
+      "Thủ khoa toàn trường được miễn 100% học phí trong 4 năm; mỗi phương thức xét tuyển có 1 suất.",
+      "Thí sinh trúng tuyển đợt 1 có thể được miễn 50% học phí trong 4 năm; có 80 suất cho 20 ngành, mỗi phương thức mỗi ngành 1 suất.",
+      "Học bổng không chi trả học phí cho các môn học lại, học cải thiện điểm hoặc học kỳ hè.",
+      "Không cần nộp hồ sơ riêng; trường tự động xét dựa trên kết quả trúng tuyển."
+    ],
+    "selection_process": [
+      "Bước 1: Đăng ký xét tuyển vào STU bằng học bạ, điểm thi tốt nghiệp THPT hoặc điểm đánh giá năng lực.",
+      "Bước 2: Trúng tuyển và hoàn tất thủ tục nhập học.",
+      "Bước 3: Trường tự động xét học bổng theo điểm xét tuyển, không tính điểm ưu tiên.",
+      "Bước 4: Chốt danh sách học bổng 50% trong 4 năm của đợt 1 vào 17h00 ngày 21/08/2026.",
+      "Bước 5: Chốt danh sách thủ khoa toàn trường (học bổng 100%) ở đợt bổ sung, vào cuối ngày 11/09/2026.",
+      "Nếu có nhiều thí sinh đồng hạng, trường xét theo quy trình ưu tiên hoặc công nhận đồng hạng."
+    ],
+    "faq": [
+      {
+        "q": "Có cần nộp hồ sơ riêng để nhận Học bổng Tài năng không?",
+        "a": "Không. Học bổng được xét tự động dựa trên kết quả trúng tuyển và nhập học."
+      },
+      {
+        "q": "Điểm tối thiểu để được xét Học bổng Tài năng là bao nhiêu?",
+        "a": "Học bạ từ 25 điểm, thi tốt nghiệp THPT từ 23 điểm hoặc đánh giá năng lực từ 900 điểm. Điểm ưu tiên tuyển sinh không được tính."
+      },
+      {
+        "q": "Làm sao để giữ học bổng trong suốt 4 năm?",
+        "a": "Điểm trung bình học kỳ liền trước phải từ 7.0 trở lên, không có môn không đạt, đồng thời chấp hành nội quy và đóng học phí đúng hạn."
+      },
+      {
+        "q": "Nếu đủ điều kiện nhận nhiều học bổng thì sao?",
+        "a": "Mỗi thí sinh chỉ nhận một học bổng, là học bổng có giá trị cao nhất trong số các học bổng mà thí sinh đủ điều kiện."
+      },
+      {
+        "q": "Khi nào trường chốt danh sách học bổng?",
+        "a": "Học bổng 50% trong 4 năm chốt vào 17h00 ngày 21/08/2026. Học bổng thủ khoa toàn trường chốt vào cuối ngày 11/09/2026. Các mốc này có thể thay đổi theo kế hoạch tuyển sinh của trường."
+      }
+    ],
+    "sources": [
+      "https://www.stu.edu.vn/chinh-sach-hoc-bong-tuyen-sinh-nam-2026-co-hoi-vang-cho-tan-sinh-vien.html"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "stu-thu-khoa-nganh-scholarship",
+    "overview": "Học bổng Thủ khoa ngành là một hạng mục trong chính sách học bổng tuyển sinh 2026 của Trường Đại học Công nghệ Sài Gòn (STU), dành cho khóa đại học chính quy năm học 2026–2027. Học bổng trao cho thí sinh có điểm xét tuyển cao nhất của từng ngành theo mỗi phương thức xét tuyển, với tổng cộng 80 suất cho 20 ngành. Người nhận được giảm 50% học phí trong năm học thứ nhất.",
+    "eligibility": [
+      "Trúng tuyển và nhập học hệ đại học chính quy của STU khóa tuyển sinh 2026.",
+      "Có điểm xét tuyển cao nhất ngành theo phương thức mình xét tuyển (mỗi phương thức của mỗi ngành có 1 suất).",
+      "Điểm tối thiểu: học bạ từ 24, thi tốt nghiệp THPT từ 22 hoặc đánh giá năng lực từ 850.",
+      "Điểm xét học bổng là điểm xét tuyển, không cộng điểm ưu tiên tuyển sinh.",
+      "Nếu nhiều thí sinh cùng đạt điểm thủ khoa, trường công nhận đồng hạng."
+    ],
+    "benefits": [
+      "Giảm 50% học phí năm học thứ nhất.",
+      "Thí sinh không phải làm hồ sơ riêng vì học bổng được xét tự động từ kết quả trúng tuyển."
+    ],
+    "selection_process": [
+      "Bước 1: Đăng ký xét tuyển vào STU theo một trong các phương thức học bạ, thi tốt nghiệp THPT hoặc đánh giá năng lực.",
+      "Bước 2: Trúng tuyển và hoàn tất thủ tục nhập học.",
+      "Bước 3: Trường tự động xếp hạng điểm xét tuyển theo từng ngành và từng phương thức để chọn thủ khoa.",
+      "Bước 4: Chốt danh sách trong đợt xét bổ sung, dự kiến vào cuối ngày 11/09/2026."
+    ],
+    "stipend": "Học bổng không có tiền trợ cấp; người nhận được giảm 50% học phí năm học thứ nhất.",
+    "faq": [
+      {
+        "q": "Có cần nộp hồ sơ xin học bổng Thủ khoa ngành không?",
+        "a": "Không. Trường xét tự động dựa trên kết quả trúng tuyển và nhập học."
+      },
+      {
+        "q": "Khi nào trường chốt danh sách học bổng Thủ khoa ngành?",
+        "a": "Học bổng này thuộc đợt xét bổ sung, chốt danh sách vào cuối ngày 11/09/2026. Mốc này có thể thay đổi theo kế hoạch tuyển sinh của trường."
+      },
+      {
+        "q": "Nếu đủ điều kiện nhiều loại học bổng thì được nhận mấy suất?",
+        "a": "Mỗi thí sinh chỉ nhận một học bổng có giá trị cao nhất trong các loại mình đủ điều kiện."
+      },
+      {
+        "q": "Điểm ưu tiên khu vực hoặc đối tượng có được tính khi xét học bổng không?",
+        "a": "Không. Học bổng xét theo kết quả xét tuyển và không tính điểm ưu tiên tuyển sinh."
+      },
+      {
+        "q": "Nếu có nhiều thí sinh cùng điểm thủ khoa thì sao?",
+        "a": "Trường công nhận đồng hạng cho các thí sinh có cùng điểm thủ khoa."
+      }
+    ],
+    "sources": [
+      "https://www.stu.edu.vn/chinh-sach-hoc-bong-tuyen-sinh-nam-2026-co-hoi-vang-cho-tan-sinh-vien.html"
     ],
     "confidence": "high",
     "updated_at": "2026-10-09"
@@ -13798,6 +15638,54 @@
       "https://www.icdf.org.tw/wSite/ct?xItem=12505&ctNode=31562&mp=2",
       "https://www.icdf.org.tw/wSite/ct?xItem=69338&ctNode=31566&mp=2",
       "https://www.icdf.org.tw/wSite/DownloadFile?type=attach&file=f1784095512094.pdf&realname=2026+TaiwanICDF+Scholarship+Application+Guidebook.+v3.pdf"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "tdtu-hoc-bong-thu-khoa-dau-vao",
+    "overview": "Học bổng Thủ khoa đầu vào là một trong các học bổng tân sinh viên năm 2026 của Trường Đại học Tôn Đức Thắng (TDTU), dành cho tân sinh viên có điểm xét học bổng cao nhất. Học bổng chi trả toàn bộ học phí năm học 2026-2027 theo khung chương trình tiêu chuẩn của năm thứ nhất. Từ năm học thứ hai, sinh viên có thể nhận học bổng Học tập - Rèn luyện nếu đáp ứng các điều kiện của học bổng này.",
+    "eligibility": [
+      "Là sinh viên trúng tuyển và nhập học tại TDTU trong đợt tuyển sinh đại học năm 2026.",
+      "Có điểm xét tuyển cao nhất, tính theo điểm thi tốt nghiệp THPT trên tất cả các phương thức xét tuyển.",
+      "Điểm ưu tiên tuyển sinh không được cộng vào điểm dùng để xét học bổng."
+    ],
+    "benefits": [
+      "Được miễn 100% học phí năm học 2026-2027 theo khung chương trình đào tạo tiêu chuẩn của năm thứ nhất.",
+      "Được tặng kỷ niệm chương và vòng nguyệt quế vinh danh.",
+      "Từ năm thứ hai, có cơ hội nhận học bổng Học tập - Rèn luyện nếu đáp ứng điều kiện của học bổng đó."
+    ],
+    "selection_process": [
+      "Trường tự xét học bổng dựa trên dữ liệu tuyển sinh, sinh viên không cần nộp đơn.",
+      "Học bổng được trao vào cuối năm học, thời gian nhận cụ thể được thông báo trên cổng thông tin sinh viên."
+    ],
+    "stipend": "Học bổng toàn phần, tương đương 100% học phí năm học 2026-2027 theo khung chương trình tiêu chuẩn.",
+    "faq": [
+      {
+        "q": "Có cần nộp hồ sơ để xét học bổng Thủ khoa đầu vào không?",
+        "a": "Không cần. Trường tự xét dựa trên dữ liệu tuyển sinh."
+      },
+      {
+        "q": "Điểm ưu tiên có được cộng khi xét học bổng không?",
+        "a": "Không. Trường chỉ xét điểm xét tuyển tính theo điểm thi tốt nghiệp THPT, không cộng điểm ưu tiên."
+      },
+      {
+        "q": "Học bổng có được duy trì cho các năm học sau không?",
+        "a": "Học bổng chỉ áp dụng cho năm thứ nhất. Từ năm thứ hai, sinh viên có thể nhận học bổng Học tập - Rèn luyện nếu đáp ứng điều kiện."
+      },
+      {
+        "q": "Khi nào sinh viên nhận được học bổng?",
+        "a": "Học bổng được trao vào cuối năm học, thời gian cụ thể được thông báo trên cổng thông tin sinh viên."
+      },
+      {
+        "q": "Học bổng chi trả bao nhiêu học phí?",
+        "a": "Học bổng chi trả 100% học phí năm thứ nhất theo khung chương trình đào tạo tiêu chuẩn."
+      }
+    ],
+    "sources": [
+      "https://admission.tdtu.edu.vn/hoc-tai-tdtu/hoc-phi-hoc-bong-2026",
+      "https://student.tdtu.edu.vn/hoc-bong-tan-sinh-vien/hoc-bong-thu-khoa-dau-vao-0",
+      "https://student.tdtu.edu.vn/chinh-sach/hoc-bong"
     ],
     "confidence": "high",
     "updated_at": "2026-10-09"
@@ -15109,6 +16997,110 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "uit-hoc-bong-thu-khoa",
+    "overview": "Học bổng Thủ khoa thuộc chương trình học bổng “Toàn diện – Sáng tạo – Phụng sự” năm 2026 của Trường Đại học Công nghệ Thông tin, ĐHQG-HCM. Học bổng có 1 suất trị giá 80 triệu đồng, dành cho thí sinh khóa tuyển 2026 có điểm trúng tuyển cao nhất, không tính điểm ưu tiên. Học bổng được chi theo từng học kỳ trong 4 học kỳ. Sinh viên chỉ tiếp tục được nhận nếu đáp ứng các điều kiện duy trì về kết quả học tập và kỷ luật.",
+    "eligibility": [
+      "Thí sinh thuộc khóa tuyển 2026 và trúng tuyển vào Trường Đại học Công nghệ Thông tin, ĐHQG-HCM.",
+      "Có điểm trúng tuyển cao nhất toàn trường, không tính điểm ưu tiên.",
+      "Để nhận tiếp ở các học kỳ sau, điểm trung bình học kỳ phải từ 8.0 trở lên và điểm rèn luyện từ 80 trở lên.",
+      "Không vi phạm quy chế học vụ và không bị bất kỳ hình thức kỷ luật nào của Nhà trường.",
+      "Phải hoàn tất học phí theo quy định trước khi Nhà trường xét trao học bổng của từng học kỳ."
+    ],
+    "benefits": [
+      "Tổng giá trị học bổng là 80 triệu đồng cho 1 suất.",
+      "Học bổng được chi theo từng học kỳ và kéo dài trong 4 học kỳ."
+    ],
+    "selection_process": [
+      "Bước 1: Nhà trường xác định thí sinh trúng tuyển có điểm cao nhất, không tính điểm ưu tiên.",
+      "Bước 2: Nếu nhiều thí sinh bằng điểm, ưu tiên người có điểm thành phần Đánh giá năng lực (ĐGNL) cao hơn.",
+      "Bước 3: Ban Giám hiệu xem xét và quyết định các trường hợp đặc biệt.",
+      "Bước 4: Sau khi sinh viên đóng học phí mỗi học kỳ, Nhà trường xét điều kiện duy trì để tiếp tục trao học bổng."
+    ],
+    "stipend": "Học bổng trị giá 80 triệu đồng mỗi suất và được chi theo từng học kỳ trong 4 học kỳ.",
+    "faq": [
+      {
+        "q": "Mỗi năm có bao nhiêu suất Học bổng Thủ khoa?",
+        "a": "Năm 2026 có 1 suất, dành cho thí sinh trúng tuyển có điểm cao nhất, không tính điểm ưu tiên."
+      },
+      {
+        "q": "Nếu nhiều thí sinh có cùng điểm cao nhất thì xét thế nào?",
+        "a": "Nhà trường ưu tiên thí sinh có điểm thành phần Đánh giá năng lực (ĐGNL) cao hơn."
+      },
+      {
+        "q": "Cần đạt điều kiện gì để tiếp tục nhận học bổng?",
+        "a": "Điểm trung bình học kỳ phải từ 8.0 trở lên, điểm rèn luyện từ 80 trở lên và không vi phạm quy chế học vụ hay bị kỷ luật."
+      },
+      {
+        "q": "Bảo lưu hoặc tạm dừng học có được nhận học bổng không?",
+        "a": "Không. Sinh viên không được nhận học bổng trong học kỳ xin tạm dừng hoặc bảo lưu."
+      },
+      {
+        "q": "Nếu đạt nhiều học bổng cùng lúc thì sao?",
+        "a": "Sinh viên chỉ được xét theo học bổng có giá trị cao hơn."
+      }
+    ],
+    "sources": [
+      "https://tuyensinh.uit.edu.vn/2026-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2026"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "uit-hoc-bong-toan-dien-sang-tao-phung-su",
+    "overview": "Học bổng Toàn diện – Sáng tạo – Phụng sự năm 2026 của Trường Đại học Công nghệ Thông tin (ĐHQG-HCM) dành cho thí sinh khóa tuyển 2026 có giải Olympic khu vực/quốc tế hoặc giải học sinh giỏi quốc gia THPT. Mức học bổng từ 120 đến 240 triệu đồng tùy thành tích, không giới hạn số suất. Học bổng được xét và cấp theo từng học kỳ, tối đa 8 học kỳ, với điều kiện sinh viên duy trì kết quả học tập, rèn luyện và có tham gia đội tuyển hoặc nghiên cứu khoa học.",
+    "eligibility": [
+      "Thí sinh khóa tuyển 2026 trúng tuyển vào trường, có thành tích đạt được trong các năm 2024, 2025 hoặc 2026.",
+      "Có huy chương Olympic khu vực (APIO, APhO) hoặc quốc tế (IOI, IMO, IPhO), hoặc cúp Vàng/Bạc/Đồng khối Siêu cúp Olympic Tin học Việt Nam.",
+      "Hoặc đạt giải nhất, nhì, ba môn Tin học, hoặc giải nhất, nhì môn Toán, Lý, Hóa, Văn, Anh trong kỳ thi chọn học sinh giỏi quốc gia THPT.",
+      "Để giữ học bổng: điểm trung bình học kỳ từ 8.0 trở lên, điểm rèn luyện từ 80 trở lên và không vi phạm quy chế hay kỷ luật.",
+      "Mỗi năm học phải là thành viên đội tuyển của trường tại kỳ thi lớn (OLP Tin học, Olympic AI, ICPC Regional...) hoặc có bài báo Scopus/Q1–Q3."
+    ],
+    "benefits": [
+      "240 triệu đồng cho huy chương Olympic khu vực/quốc tế, giải nhất HSG quốc gia môn Tin, hoặc cúp khối Siêu cúp Olympic Tin học Việt Nam; được xét thẳng vào lớp tài năng.",
+      "200 triệu đồng cho giải nhì HSG quốc gia môn Tin hoặc đồng giải ba khối Siêu cúp Olympic Tin học Việt Nam; được xét thẳng vào lớp tài năng.",
+      "160 triệu đồng cho giải nhất HSG quốc gia môn Toán, Lý, Hóa, Văn hoặc Anh; được ưu tiên xét vào lớp tài năng.",
+      "120 triệu đồng cho giải nhì HSG quốc gia môn Toán, Lý, Hóa, Văn, Anh hoặc giải ba môn Tin; được ưu tiên xét vào lớp tài năng.",
+      "Học bổng được chia ra cấp theo từng học kỳ, tối đa 8 học kỳ; nếu đạt nhiều tiêu chí, sinh viên nhận mức cao nhất."
+    ],
+    "selection_process": [
+      "Bước 1: trúng tuyển vào Trường Đại học Công nghệ Thông tin, khóa tuyển 2026.",
+      "Bước 2: sau khi nhập học, sinh viên tự gửi minh chứng thành tích cho phòng công tác sinh viên của trường.",
+      "Bước 3: đóng đủ học phí của học kỳ theo quy định.",
+      "Bước 4: trường xét điều kiện duy trì và trao học bổng theo từng học kỳ."
+    ],
+    "locations": [
+      "TP.HCM"
+    ],
+    "stipend": "Tổng giá trị từ 120 đến 240 triệu đồng tùy thành tích, chia ra cấp theo từng học kỳ, tối đa 8 học kỳ.",
+    "faq": [
+      {
+        "q": "Học bổng có giới hạn số suất không?",
+        "a": "Không. Với cả bốn mức học bổng, mọi thí sinh đáp ứng tiêu chí đều được xét."
+      },
+      {
+        "q": "Thành tích của những năm nào được công nhận?",
+        "a": "Thành tích đạt được trong các năm 2024, 2025 và 2026."
+      },
+      {
+        "q": "Nếu đạt nhiều tiêu chí cùng lúc thì nhận thế nào?",
+        "a": "Sinh viên chỉ nhận một mức học bổng, là mức có giá trị cao nhất."
+      },
+      {
+        "q": "Bảo lưu hoặc tạm dừng học có được nhận học bổng không?",
+        "a": "Không. Sinh viên không nhận học bổng trong học kỳ xin tạm dừng hoặc bảo lưu."
+      },
+      {
+        "q": "Vi phạm kỷ luật thì học bổng xử lý ra sao?",
+        "a": "Sinh viên vi phạm kỷ luật sẽ bị ngừng cấp học bổng vĩnh viễn."
+      }
+    ],
+    "sources": [
+      "https://tuyensinh.uit.edu.vn/2026-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2026"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "um-nl-global-studies-scholarship",
     "overview": "UM NL Global Studies Scholarship là học bổng toàn phần của Đại học Maastricht (Hà Lan), dành cho sinh viên năm nhất chương trình cử nhân Global Studies năm học 2027-2028. Ứng viên phải đến từ quốc gia đủ điều kiện, có hoàn cảnh tài chính khó khăn và tiềm năng phát triển cá nhân. Học bổng gồm miễn học phí và trợ cấp sinh hoạt hằng tháng. Mỗi năm học chỉ trao một suất. Theo các trang tổng hợp học bổng, thời hạn là 36 tháng, tương ứng toàn bộ chương trình cử nhân 3 năm.",
     "eligibility": [
@@ -15334,6 +17326,59 @@
       "https://ybox.vn/tuyen-dung/hn-cong-ty-cong-nghe-va-ho-tro-thuong-mai-dien-tu-upbase-tuyen-dung-thuc-tap-sinh-chuong-trinh-quan-tri-vien-tap-su-management-trainee-full-time-2026-699ebef930f49903094d07e8?feed=true",
       "https://glints.com/vn/opportunities/jobs/chuong-trinh-tts-quan-tri-tai-nang-2026-management-trainee/aab0c575-41f3-442a-8497-1b81ef2ba2c5",
       "https://vn.linkedin.com/jobs/view/upbase-management-trainee-program-2026-ch%C6%B0%C6%A1ng-tr%C3%ACnh-ph%C3%A1t-tri%E1%BB%83n-qu%E1%BA%A3n-l%C3%BD-t%C6%B0%C6%A1ng-lai-t%E1%BA%A1i-upbase-at-upbase-tech-driven-ecommerce-enabler-4432144876"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "uq-international-excellence-scholarship",
+    "overview": "UQ International Excellence Scholarship là học bổng của The University of Queensland, hỗ trợ học phí cho sinh viên quốc tế có thành tích cao bắt đầu chương trình đại học hoặc sau đại học theo tín chỉ tại UQ năm 2027. Học bổng giảm 25% học phí trong suốt thời gian của chương trình đã đăng ký. Ứng viên không cần nộp đơn riêng vì hồ sơ xin học được xét tự động. Số suất trao mỗi năm không cố định.",
+    "eligibility": [
+      "Là sinh viên quốc tế, tức không phải công dân Úc, công dân New Zealand hay thường trú nhân Úc, và bắt đầu học tại UQ năm 2027.",
+      "Học toàn thời gian một chương trình đại học hoặc sau đại học theo tín chỉ có từ 16 đơn vị học phần trở lên, thường là 8 đơn vị mỗi học kỳ.",
+      "Không áp dụng cho một số chương trình như Y, Nha, Điều dưỡng, Hộ sinh, Dược lâm sàng, Vật lý trị liệu, Thú y, phần lớn chương trình Tâm lý học và MBA.",
+      "Đạt điểm đầu vào và yêu cầu tiếng Anh của chương trình, đồng thời hoàn thành mọi điều kiện ghi trong thư mời nhập học.",
+      "Có điểm cạnh tranh trong nhóm ứng viên đã nhận thư mời của cùng kỳ nhập học, theo đánh giá của trường.",
+      "Chưa nhận học bổng hay khoản giảm học phí khác của UQ (trừ UQ English Language Scholarship) và không có học bổng hoặc tài trợ toàn phần từ tổ chức khác."
+    ],
+    "benefits": [
+      "Giảm 25% học phí trong suốt thời gian của chương trình học.",
+      "Khoản giảm được trừ trước hạn đóng học phí của mỗi học kỳ.",
+      "Không cần nộp đơn riêng vì ứng viên được xét tự động khi nộp hồ sơ xin học.",
+      "Ứng viên đang có học bổng hoặc tài trợ bán phần từ bên ngoài vẫn có thể được xét, tùy quyết định của trường."
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ xin học một chương trình đủ điều kiện tại UQ. Hồ sơ được tự động xét học bổng.",
+      "Vòng 2: trường so sánh điểm của ứng viên trong nhóm đã nhận thư mời của cùng kỳ nhập học.",
+      "Vòng 3: ứng viên được báo kết quả cùng thư mời vô điều kiện, hoặc khi đã đáp ứng hết điều kiện của thư mời có điều kiện.",
+      "Vòng 4: chấp nhận thư mời nhập học và đóng tiền đặt cọc học phí trước hạn được thông báo để xác nhận học bổng.",
+      "Sau khi nhập học: phải học toàn thời gian và đạt tiến độ học tập theo quy định để giữ học bổng."
+    ],
+    "faq": [
+      {
+        "q": "Có cần nộp đơn riêng cho học bổng này không?",
+        "a": "Không. Khi nộp hồ sơ xin học một chương trình tại UQ, ứng viên được xét học bổng tự động."
+      },
+      {
+        "q": "Nếu hoãn nhập học sang kỳ sau thì có giữ được học bổng không?",
+        "a": "Có thể mất học bổng. Trường sẽ xét lại điều kiện theo kỳ nhập học mới nếu phù hợp."
+      },
+      {
+        "q": "Đổi sang chương trình khác sau khi nhận học bổng thì sao?",
+        "a": "Có thể không còn đủ điều kiện. Trường sẽ xét lại theo tiêu chí tại thời điểm đổi chương trình và danh sách chương trình bị loại trừ."
+      },
+      {
+        "q": "Đang có học bổng bán phần từ tổ chức khác thì có được xét không?",
+        "a": "Có thể được xét, tùy quyết định của trường. Người có học bổng hoặc tài trợ toàn phần bên ngoài thì không đủ điều kiện."
+      },
+      {
+        "q": "Khi nào học bổng có thể bị chấm dứt?",
+        "a": "Khi không nhập học đúng kỳ dự kiến, vi phạm kỷ luật nghiêm trọng, không đạt tiến độ học tập hoặc không còn đáp ứng tiêu chí xét chọn."
+      }
+    ],
+    "sources": [
+      "https://scholarships.uq.edu.au/scholarship/uq-international-excellence-scholarship",
+      "https://scholarships.uq.edu.au/sites/default/files/2026-07/UQ_International_Excellence_Scholarship_TCs_2027.pdf"
     ],
     "confidence": "high",
     "updated_at": "2026-10-09"
@@ -17289,6 +19334,60 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "vuw-undergraduate-international-scholarship",
+    "overview": "Học bổng của Victoria University of Wellington (New Zealand) dành cho sinh viên quốc tế mới vào năm nhất chương trình cử nhân, học toàn thời gian tại trường. Đây là học bổng bán phần trị giá 15.000 NZD, được trừ thẳng vào học phí và chỉ áp dụng cho một năm học. Sinh viên không cần nộp đơn riêng: trường tự xét khi nhận hồ sơ vào chương trình và báo kết quả trong thư mời nhập học.",
+    "eligibility": [
+      "Là sinh viên quốc tế đóng học phí quốc tế đầy đủ và là sinh viên mới của trường",
+      "Có thư mời nhập học chương trình cử nhân, có điều kiện hoặc không điều kiện, và học toàn thời gian tại trường",
+      "Vẫn đủ điều kiện nếu đang học hoặc vừa học xong khóa Tiếng Anh học thuật (EAP) hay Dự bị đại học (Foundation Studies) của trường",
+      "Không áp dụng cho sinh viên trao đổi, du học ngắn hạn (Study Abroad), sinh viên liên kết đào tạo (twinning) hoặc người được chuyển đổi tín chỉ từ bằng cấp trước",
+      "Không áp dụng cho người được chính phủ nước mình hoặc chính phủ New Zealand tài trợ",
+      "Không áp dụng cho công dân, thường trú nhân hoặc người có thị thực cư trú của Úc hoặc New Zealand"
+    ],
+    "benefits": [
+      "Được giảm 15.000 NZD học phí cho năm học đầu tiên của chương trình",
+      "Khoản giảm được trừ thẳng vào học phí, sinh viên chỉ đóng phần còn lại cho trường",
+      "Được nhận đồng thời với học bổng khác nếu điều kiện của học bổng kia cho phép"
+    ],
+    "selection_process": [
+      "Vòng 1: Nộp hồ sơ xin học chương trình cử nhân, không cần nộp đơn học bổng riêng",
+      "Vòng 2: Trường tự xét điều kiện nhận học bổng khi xử lý hồ sơ nhập học",
+      "Vòng 3: Kết quả học bổng được ghi trong thư mời nhập học (Offer of Place)",
+      "Vòng 4: Học bổng chỉ được trao chính thức khi sinh viên đã đăng ký các môn năm nhất"
+    ],
+    "locations": [
+      "Wellington, New Zealand"
+    ],
+    "stipend": "Học bổng trị giá 15.000 NZD, được trừ vào học phí năm đầu tiên chứ không trả bằng tiền mặt.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng riêng không?",
+        "a": "Không. Trường tự xét khi bạn nộp hồ sơ vào chương trình cử nhân và báo kết quả trong thư mời nhập học."
+      },
+      {
+        "q": "Hạn chót của học bổng là khi nào?",
+        "a": "Hạn chót trùng với hạn nộp hồ sơ của chương trình học mà bạn đăng ký."
+      },
+      {
+        "q": "Nếu được mời vào nhiều chương trình thì có nhận được nhiều suất học bổng không?",
+        "a": "Không. Mỗi sinh viên chỉ được trao chính thức một suất, vào lúc đăng ký các môn năm nhất."
+      },
+      {
+        "q": "Có thể bảo lưu học bổng sang kỳ nhập học khác không?",
+        "a": "Có thể xin chuyển sang kỳ nhập học khác trong cùng năm dương lịch, nhưng không được chuyển sang năm sau."
+      },
+      {
+        "q": "Nếu bỏ học sau khi đã nhận học bổng thì sao?",
+        "a": "Tùy quyết định của trường, bạn có thể phải hoàn lại một phần hoặc toàn bộ giá trị học bổng."
+      }
+    ],
+    "sources": [
+      "https://www.wgtn.ac.nz/scholarships/current/vuw-undergraduate-international-scholarship"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "warwick-postgraduate-research-scholarships",
     "overview": "Đây là đợt tuyển học bổng nghiên cứu sinh của Đại học Warwick cho khóa nhập học mùa thu 2027. Trường cấp tối đa 80 suất qua sáu nhánh. Nhánh Chancellor's gồm tối đa 30 suất theo khoa và 12 suất liên ngành. Học bổng dành cho người thuộc mọi quốc tịch đăng ký PhD, MPhil/PhD hoặc EngD tại trường, chi trả toàn bộ học phí và trợ cấp sinh hoạt theo mức UKRI trong 3,5 năm. Chỉ cần nộp một hồ sơ học bổng để được xét cho tất cả các nhánh mà ứng viên đủ điều kiện.",
     "eligibility": [
@@ -17409,6 +19508,164 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "waseda-partial-tuition-waiver-scholarship-pre-enrollment",
+    "overview": "Đây là học bổng giảm một phần học phí của Đại học Waseda, áp dụng cho sinh viên quốc tế tự túc tài chính trúng tuyển School of Political Science and Economics (SPSE). Giá trị học bổng tương đương học phí học kỳ mùa thu và kéo dài 1 năm. Trường xét học bổng cùng lúc với hồ sơ nhập học nên ứng viên không cần nộp đơn riêng. Đây là học bổng trước nhập học, trường nêu làm ví dụ cho khóa AY2025, và danh sách học bổng có thể thay đổi theo từng năm.",
+    "eligibility": [
+      "Sinh viên quốc tế tự túc tài chính, được SPSE của Đại học Waseda nhận vào học.",
+      "Không áp dụng cho sinh viên nhận học bổng chính phủ, hoặc có học phí do chính phủ nước ngoài hay tổ chức học bổng chi trả.",
+      "Ứng viên có tiềm năng học tập nổi bật, được đánh giá qua hồ sơ, học bạ và/hoặc phỏng vấn.",
+      "Chương trình cử nhân dạy bằng tiếng Anh (EDP) của SPSE chỉ tuyển đầu vào tháng 9 và không yêu cầu tiếng Nhật.",
+      "Khi xét tuyển AO, ứng viên cần nộp điểm TOEFL iBT hoặc IELTS (Academic), trừ trường hợp được miễn; trường không đặt điểm tối thiểu."
+    ],
+    "benefits": [
+      "Nhận khoản tiền tương đương học phí học kỳ mùa thu.",
+      "Học bổng có thời hạn 1 năm.",
+      "Không cần nộp đơn riêng, vì trường xét học bổng song song với hồ sơ tuyển sinh."
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ tuyển sinh AO trực tuyến cho chương trình EDP của SPSE.",
+      "Vòng 2: trường xét toàn diện hồ sơ, gồm điểm thi chuẩn hóa và năng lực tiếng Anh; không có bài thi viết.",
+      "Vòng 3: phỏng vấn trực tuyến, chỉ khi trường thấy cần.",
+      "Vòng 4: trường thông báo người nhận học bổng khi công bố kết quả xét hồ sơ hoặc trong giai đoạn làm thủ tục nhập học."
+    ],
+    "stipend": "Học bổng bằng học phí học kỳ mùa thu; theo bảng phí năm nhất (tính trên mức năm 2025), học phí kỳ thu 2026 là 540.500 yên.",
+    "faq": [
+      {
+        "q": "Có phải nộp đơn xin học bổng riêng không?",
+        "a": "Không. Trường xét học bổng cùng hồ sơ tuyển sinh và sẽ tự liên hệ với ứng viên được chọn."
+      },
+      {
+        "q": "Sinh viên đang nhận học bổng chính phủ có được xét không?",
+        "a": "Không. Học bổng chỉ dành cho sinh viên quốc tế tự túc tài chính, không áp dụng cho người có học phí do chính phủ hay tổ chức học bổng chi trả."
+      },
+      {
+        "q": "Học bổng này có được cấp mỗi năm không?",
+        "a": "Không chắc chắn. Danh sách học bổng thay đổi hằng năm và có thể không có trong năm bạn nhập học."
+      },
+      {
+        "q": "Tiêu chí xét chọn có được công khai không?",
+        "a": "Không. Đây là học bổng xét theo thành tích trước nhập học, và trường không công bố chi tiết quy trình chọn."
+      },
+      {
+        "q": "Học bổng kéo dài bao lâu?",
+        "a": "Học bổng có thời hạn 1 năm, với giá trị tương đương học phí học kỳ mùa thu."
+      }
+    ],
+    "sources": [
+      "https://www.waseda.jp/fpse/pse/en/applicants/tuition/",
+      "https://www.waseda.jp/fpse/pse/en/applicants/admission-faq/"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "waseda-spse-global-leader-international-student-scholarship",
+    "overview": "Đây là học bổng xét trước khi nhập học của School of Political Science and Economics (SPSE), Đại học Waseda. Học bổng dành cho sinh viên quốc tế năm nhất tự túc tài chính, có tiềm năng học tập nổi bật. Giá trị là 1.000.000 yên, cấp trong 1 năm. Trường xét học bổng cùng lúc với hồ sơ tuyển sinh. Danh sách học bổng có thể thay đổi theo từng năm.",
+    "eligibility": [
+      "Là sinh viên quốc tế tự túc tài chính, nhập học năm nhất tại SPSE.",
+      "Không áp dụng cho người nhận học bổng chính phủ hoặc người được chính phủ nước ngoài hay tổ chức học bổng trả học phí.",
+      "Có tiềm năng học tập nổi bật, đánh giá qua hồ sơ, học bạ và/hoặc phỏng vấn.",
+      "Chương trình cử nhân dạy bằng tiếng Anh không yêu cầu tiếng Nhật và không giới hạn quốc tịch.",
+      "Cần nộp điểm TOEFL iBT hoặc IELTS Academic, trừ khi tiếng Anh là ngôn ngữ thứ nhất hoặc đã học đủ lâu ở trường dạy hoàn toàn bằng tiếng Anh."
+    ],
+    "benefits": [
+      "Nhận 1.000.000 yên trong thời hạn 1 năm.",
+      "Không phải nộp đơn xin học bổng riêng vì trường xét cùng hồ sơ nhập học.",
+      "Sau khi nhập học, sinh viên quốc tế vẫn có thể nộp đơn các học bổng khác của trường, gồm loại xét theo hoàn cảnh và loại xét theo thành tích."
+    ],
+    "selection_process": [
+      "Vòng 1: Nộp hồ sơ tuyển sinh online, dự kiến từ ngày 7/1 đến 28/1/2027 cho khóa nhập học tháng 9/2027.",
+      "Vòng 2: Trường đánh giá tổng thể hồ sơ, gồm điểm thi chuẩn hóa và trình độ tiếng Anh. Không có bài thi viết.",
+      "Vòng 3: Phỏng vấn online nếu cần, dự kiến ngày 16 hoặc 17/4/2027. Trường gửi lời mời cùng số báo danh vào ngày 13/4/2027.",
+      "Vòng 4: Công bố kết quả tuyển sinh dự kiến ngày 22/4/2027. Người được chọn nhận học bổng sẽ được báo khi có kết quả xét hồ sơ hoặc khi làm thủ tục nhập học."
+    ],
+    "stipend": "Học bổng trị giá 1.000.000 yên, cấp trong 1 năm.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng riêng không?",
+        "a": "Không. Trường xét học bổng cùng hồ sơ tuyển sinh và tự liên hệ với người được chọn."
+      },
+      {
+        "q": "Sinh viên đang nhận học bổng chính phủ có được xét không?",
+        "a": "Không. Học bổng chỉ dành cho sinh viên quốc tế tự túc tài chính."
+      },
+      {
+        "q": "Năm nào trường cũng có học bổng này không?",
+        "a": "Không chắc chắn. Danh sách học bổng thay đổi hằng năm và có thể không mở trong năm bạn nhập học."
+      },
+      {
+        "q": "Trường có công bố tiêu chí chọn chi tiết không?",
+        "a": "Không. Trường cho biết chi tiết quy trình chọn người nhận học bổng không được công bố."
+      },
+      {
+        "q": "Có cần biết tiếng Nhật để theo học không?",
+        "a": "Không. Sinh viên chương trình dạy bằng tiếng Anh có thể lấy đủ tín chỉ tốt nghiệp chỉ bằng các môn học tiếng Anh."
+      }
+    ],
+    "sources": [
+      "https://www.waseda.jp/fpse/pse/en/applicants/tuition/",
+      "https://www.waseda.jp/fpse/pse/en/applicants/admissions/",
+      "https://www.waseda.jp/fpse/pse/en/applicants/admission-faq/"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "waterloo-international-student-entrance-scholarship",
+    "overview": "International Student Entrance Scholarship là học bổng đầu vào của University of Waterloo, trị giá 10.000 đô la, dành cho sinh viên quốc tế đóng học phí quốc tế và trúng tuyển năm nhất hệ cử nhân toàn thời gian. Sinh viên không cần nộp đơn: ai đủ điều kiện sẽ được cấp tự động. Học bổng chỉ áp dụng cho năm đầu, chia làm hai đợt và trừ thẳng vào học phí của hai học kỳ đầu. Không giới hạn số người nhận.",
+    "eligibility": [
+      "Là sinh viên quốc tế đóng học phí quốc tế, trúng tuyển năm nhất một chương trình cử nhân toàn thời gian tại Waterloo; sinh viên nộp hồ sơ từ CEGEP cũng đủ điều kiện",
+      "Không áp dụng cho Medical Sciences, Doctor of Medicine (St. George's University), Bachelor of Social Work, Doctor of Optometry và Doctor of Pharmacy",
+      "Không áp dụng cho sinh viên chuyển tiếp có công nhận tín chỉ hoặc sinh viên học chương trình 2+2 và các chương trình tương tự",
+      "Phải học toàn thời gian (từ 3 môn trở lên) trong học kỳ thứ nhất và thứ hai",
+      "Phải tiếp tục là sinh viên đóng học phí quốc tế; nếu tình trạng cư trú thay đổi và không còn đóng học phí quốc tế thì mất quyền nhận",
+      "Không yêu cầu điểm trung bình riêng, chỉ cần đáp ứng các điều kiện ghi trong thư mời nhập học"
+    ],
+    "benefits": [
+      "Tổng cộng 10.000 đô la cho năm nhất, chia hai đợt, mỗi đợt 5.000 đô la",
+      "Đợt 1 có vào cuối tháng 7 để trả học phí kỳ 1; đợt 2 có vào cuối tháng 11 để trả học phí kỳ 2",
+      "Có thể nhận cùng lúc với các học bổng đầu vào khác của Waterloo, như học bổng President's, Merit hoặc học bổng của khoa",
+      "Không cần nộp đơn hay giấy tờ, cũng không cần cung cấp thông tin ngân hàng"
+    ],
+    "selection_process": [
+      "Bước 1: nộp hồ sơ và được nhận vào năm nhất một chương trình cử nhân toàn thời gian đủ điều kiện",
+      "Bước 2: trường tự động xét và cấp học bổng, sinh viên không cần nộp đơn",
+      "Bước 3: từ khoảng giữa tháng 4, học bổng hiện trong mục Awards and financial aid trên cổng thông tin dành cho người nộp hồ sơ",
+      "Bước 4: tiền được trừ vào học phí kỳ 1 (cuối tháng 7) và kỳ 2 (cuối tháng 11), với điều kiện vẫn học toàn thời gian"
+    ],
+    "locations": [
+      "Waterloo, Canada"
+    ],
+    "stipend": "Tổng 10.000 đô la cho năm nhất, trừ thẳng vào học phí hai kỳ đầu, mỗi kỳ 5.000 đô la; không chi trả trực tiếp bằng tiền mặt.",
+    "faq": [
+      {
+        "q": "Có cần nộp đơn xin học bổng không?",
+        "a": "Không. Sinh viên đủ điều kiện được cấp tự động và không phải nộp giấy tờ hay thông tin ngân hàng."
+      },
+      {
+        "q": "Có nhận được học bổng này cùng với các học bổng khác của Waterloo không?",
+        "a": "Có. Học bổng này không thay thế hay làm giảm các học bổng đầu vào khác mà sinh viên được nhận."
+      },
+      {
+        "q": "Học bổng có kéo dài nhiều năm hoặc nhận bằng tiền mặt được không?",
+        "a": "Không. Học bổng chỉ áp dụng cho năm nhất và chỉ được trừ vào học phí kỳ 1 và kỳ 2, mỗi kỳ 5.000 đô la."
+      },
+      {
+        "q": "Số suất có giới hạn hay phải cạnh tranh không?",
+        "a": "Không giới hạn số suất. Mọi sinh viên đáp ứng điều kiện đều được nhận."
+      },
+      {
+        "q": "Sinh viên học chương trình BASE có được nhận không?",
+        "a": "Có. Học bổng được cấp khi sinh viên bắt đầu chương trình cử nhân, nếu lúc đó vẫn đáp ứng điều kiện."
+      }
+    ],
+    "sources": [
+      "https://uwaterloo.ca/future-students/financing/international-scholarships"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "wincommerce-cua-hang-truong-tiem-nang",
     "overview": "Cửa hàng Trưởng Tiềm năng 2026 (Mùa 8, Gen WIN) là chương trình thực tập 4 tháng của WinCommerce, đào tạo người trẻ trở thành cửa hàng trưởng của chuỗi WinMart+. Chương trình dành cho người 20–28 tuổi đã tốt nghiệp từ THPT đến đại học, sinh viên năm cuối hoặc người mới ra trường có dưới 2 năm kinh nghiệm. Học viên lần lượt làm nhân viên bán hàng, cửa hàng phó rồi cửa hàng trưởng tập sự. Khi hoàn thành, học viên được thăng cấp Tân Cửa hàng Trưởng và chính thức phụ trách vận hành một cửa hàng.",
     "eligibility": [
@@ -17522,6 +19779,106 @@
       "https://worldquantbrain.com/consultant",
       "https://www.hutech.edu.vn/khoacntt/tuyen-dung/14624275-it-open-day-2025-cong-ty-worldquant-thong-bao-tuyen-dung",
       "https://www.quantt.co.uk/resources/worldquant-brain"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "wright-state-southeast-asia-merit-scholarship",
+    "overview": "Southeast Asia Merit Scholarship là học bổng của Wright State University dành cho sinh viên bậc cử nhân đến từ các nước Đông Nam Á, trong đó có Việt Nam, nhập học lần đầu vào năm học 2026–27. Học bổng được trao ngay khi trường chấp nhận hồ sơ nhập học, trị giá 12.000 USD mỗi năm học. Sinh viên có thể nhận tối đa 8 học kỳ học toàn thời gian bậc cử nhân nếu tiếp tục đáp ứng các điều kiện duy trì.",
+    "eligibility": [
+      "Đã học THPT tại một nước Đông Nam Á: Việt Nam, Philippines, Indonesia, Campuchia, Lào, Myanmar, Malaysia, Singapore hoặc Thái Lan",
+      "Nhập học lần đầu bậc cử nhân tại Wright State vào năm học 2026–27",
+      "Là sinh viên quốc tế dùng visa F1 và thuộc diện phải đóng phụ phí học phí dành cho người không cư trú",
+      "Học toàn thời gian",
+      "Cam kết tham gia tích cực các hoạt động sinh viên",
+      "Để được gia hạn: duy trì GPA từ 2.5 và tích lũy đủ 24 tín chỉ trong học kỳ Thu và Xuân mỗi năm"
+    ],
+    "benefits": [
+      "Học bổng 12.000 USD mỗi năm học, chia đều cho học kỳ Thu và học kỳ Xuân",
+      "Được gia hạn hằng năm, tối đa 8 học kỳ học toàn thời gian bậc cử nhân",
+      "Khoản học bổng chỉ được dùng để trả học phí bậc cử nhân"
+    ],
+    "selection_process": [
+      "Vòng 1: nộp hồ sơ xin nhập học bậc cử nhân vào Wright State; nên nộp sớm vì quỹ học bổng có hạn",
+      "Vòng 2: học bổng được xét và trao cùng lúc khi trường chấp nhận hồ sơ nhập học",
+      "Hằng năm: cuối học kỳ Xuân, trường xem lại điểm để quyết định có gia hạn học bổng hay không"
+    ],
+    "stipend": "Học bổng trị giá 12.000 USD mỗi năm học, chia đều cho hai học kỳ Thu và Xuân, chỉ dùng để trả học phí.",
+    "faq": [
+      {
+        "q": "Có thể nhận học bổng này cùng với học bổng thành tích khác của trường không?",
+        "a": "Không. Mỗi sinh viên chỉ được nhận một học bổng thành tích hoặc học lực của trường."
+      },
+      {
+        "q": "Tiền học bổng được dùng vào việc gì?",
+        "a": "Chỉ được dùng để trả học phí bậc cử nhân, và được chia đều cho học kỳ Thu và học kỳ Xuân."
+      },
+      {
+        "q": "Làm sao để giữ học bổng qua các năm?",
+        "a": "Cần học toàn thời gian, duy trì GPA tích lũy từ 2.5 và đạt tổng cộng 24 tín chỉ trong học kỳ Thu và Xuân mỗi năm."
+      },
+      {
+        "q": "Nếu không đạt yêu cầu GPA hoặc số tín chỉ thì sao?",
+        "a": "Sinh viên có thể nộp đơn khiếu nại kèm bản giải trình và giấy tờ chứng minh. Nếu được chấp thuận, sinh viên phải đạt GPA 2.5 và 12 tín chỉ mỗi kỳ để tiếp tục nhận học bổng."
+      },
+      {
+        "q": "Có cần nộp hồ sơ sớm không?",
+        "a": "Có. Quỹ học bổng có hạn nên trường khuyến khích nộp hồ sơ nhập học bậc cử nhân càng sớm càng tốt."
+      }
+    ],
+    "sources": [
+      "https://www.wright.edu/enrollment-services/financial-aid/international-undergraduate-student-scholarships"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "wright-state-vietnam-academic-merit-scholarship",
+    "overview": "Học bổng Vietnam Academic Merit Scholarship của Wright State University dành cho sinh viên Việt Nam học bậc cử nhân, nhập học lần đầu trong năm học 2025–26. Học bổng được trao ngay khi trúng tuyển, trị giá 12.000 USD mỗi năm học và có thể gia hạn. Sinh viên giữ đủ điều kiện được nhận tối đa 8 học kỳ toàn thời gian. Với khóa 2026–27, trang của trường đăng một học bổng khác là Southeast Asia Merit Scholarship, cùng mức tiền, dành cho sinh viên từ nhiều nước Đông Nam Á.",
+    "eligibility": [
+      "Từng học trung học phổ thông tại Việt Nam",
+      "Là sinh viên quốc tế bậc cử nhân, nhập học lần đầu trong năm học 2025–26",
+      "Dùng visa F1 và thuộc diện đóng phụ phí học phí dành cho người không cư trú",
+      "Học toàn thời gian",
+      "Cam kết tham gia tích cực các hoạt động sinh viên",
+      "Để gia hạn: giữ GPA từ 2.5 và tích lũy đủ 24 tín chỉ trong hai học kỳ Thu và Xuân mỗi năm"
+    ],
+    "benefits": [
+      "Được 12.000 USD mỗi năm học, có thể gia hạn",
+      "Tiền được chia đều cho học kỳ Thu và học kỳ Xuân",
+      "Nhận tối đa 8 học kỳ học cử nhân toàn thời gian nếu vẫn đáp ứng điều kiện",
+      "Chỉ dùng để trả học phí bậc cử nhân"
+    ],
+    "selection_process": [
+      "Vòng 1: Nộp hồ sơ xin nhập học bậc cử nhân tại Wright State, càng sớm càng tốt vì quỹ học bổng có hạn",
+      "Vòng 2: Học bổng được xét và trao cùng lúc với kết quả trúng tuyển"
+    ],
+    "stipend": "12.000 USD mỗi năm học, chia đều cho hai học kỳ Thu và Xuân, chỉ dùng để trả học phí bậc cử nhân.",
+    "faq": [
+      {
+        "q": "Có thể nhận cùng lúc học bổng này và một học bổng thành tích khác của trường không?",
+        "a": "Không. Mỗi sinh viên chỉ được nhận một học bổng thành tích học tập (Academic Performance/Merit) của trường."
+      },
+      {
+        "q": "Cần làm gì để tiếp tục nhận học bổng các năm sau?",
+        "a": "Cần học toàn thời gian, giữ GPA tích lũy từ 2.5 và đạt tổng cộng 24 tín chỉ trong hai học kỳ Thu và Xuân mỗi năm."
+      },
+      {
+        "q": "Nếu không đạt điều kiện duy trì thì có bị mất học bổng ngay không?",
+        "a": "Sinh viên có thể nộp đơn kháng nghị kèm bản giải trình và giấy tờ chứng minh. Nếu được chấp thuận, sinh viên phải đạt GPA 2.5 và 12 tín chỉ trong kỳ đó để tiếp tục nhận học bổng."
+      },
+      {
+        "q": "Học bổng có dùng để trả chi phí ăn ở được không?",
+        "a": "Không. Học bổng chỉ dùng để trả học phí bậc cử nhân."
+      },
+      {
+        "q": "Sinh viên nhập học năm 2026–27 có được xét học bổng này không?",
+        "a": "Học bổng này ghi áp dụng cho năm học 2025–26. Với khóa 2026–27, trường đăng Southeast Asia Merit Scholarship, cũng 12.000 USD mỗi năm, dành cho sinh viên từng học trung học ở Đông Nam Á."
+      }
+    ],
+    "sources": [
+      "https://www.wright.edu/enrollment-services/financial-aid/international-undergraduate-student-scholarships#vietnam-academic-merit-scholarship"
     ],
     "confidence": "high",
     "updated_at": "2026-10-09"

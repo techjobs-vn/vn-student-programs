@@ -9721,5 +9721,1458 @@
       "full_funding",
       "needs_english_cert"
     ]
+  },
+  {
+    "slug": "nus-asean-undergraduate-scholarship",
+    "name": "ASEAN Undergraduate Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "National University of Singapore (NUS)",
+      "slug": null,
+      "domain": "nus.edu.sg"
+    },
+    "official_url": "https://nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/asean-undergraduate-scholarship",
+    "description": "Học bổng 100% học phí sau trợ cấp MOE, S$5.800 sinh hoạt phí mỗi năm, S$1.750 máy tính một lần và S$3.000 phụ cấp chỗ ở mỗi năm cho tân sinh viên công dân ASEAN (gồm Việt Nam) tại NUS.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Theo thời gian học chuẩn của chương trình",
+    "eligibility": "Công dân ASEAN (không tính Singapore, gồm Việt Nam) nộp hồ sơ cử nhân toàn thời gian tại NUS, có năng lực lãnh đạo, hoạt động ngoại khoá tốt và kết quả THPT xuất sắc; không nhận ứng viên chuyển trường.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Phải nhận MOE Tuition Grant nên bị ràng buộc làm việc 3 năm cho công ty đăng ký tại Singapore sau tốt nghiệp (theo trang). Ứng viên được shortlist sẽ phỏng vấn; duy trì GPA từ 3.50. Trang không nêu năm cụ thể của đợt xét.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding"
+    ]
+  },
+  {
+    "slug": "nus-international-undergraduate-scholarship",
+    "name": "NUS International Undergraduate Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "National University of Singapore (NUS)",
+      "slug": null,
+      "domain": "nus.edu.sg"
+    },
+    "official_url": "https://nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/nus-international-undergraduate-scholarship",
+    "description": "Học bổng 100% học phí sau trợ cấp MOE, S$5.800 sinh hoạt phí mỗi năm, S$1.750 máy tính một lần và S$5.000 phụ cấp chỗ ở mỗi năm cho tân sinh viên quốc tế xuất sắc (mọi quốc tịch trừ Singapore) tại NUS.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Theo thời gian học chuẩn của chương trình",
+    "eligibility": "Công dân mọi nước trừ Singapore (gồm Việt Nam) nộp hồ sơ cử nhân toàn thời gian tại NUS, có năng lực lãnh đạo, hoạt động ngoại khoá xuất sắc và kết quả THPT xuất sắc; không nhận ứng viên chuyển trường.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Phải nhận MOE Tuition Grant nên bị ràng buộc làm việc 3 năm cho công ty đăng ký tại Singapore sau tốt nghiệp (theo trang). Ứng viên được shortlist sẽ phỏng vấn; duy trì GPA từ 3.5. Trang không nêu năm cụ thể của đợt xét.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding"
+    ]
+  },
+  {
+    "slug": "kaist-international-undergraduate-scholarship",
+    "name": "KAIST Scholarship (International Undergraduate)",
+    "type": "scholarship",
+    "company": {
+      "name": "Korea Advanced Institute of Science and Technology (KAIST)",
+      "slug": null,
+      "domain": "kaist.ac.kr"
+    },
+    "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/",
+    "description": "Miễn toàn bộ học phí 8 học kỳ, sinh hoạt phí 350.000 KRW mỗi tháng và bảo hiểm y tế cho sinh viên quốc tế trúng tuyển hệ cử nhân KAIST.",
+    "fields": [
+      "general"
+    ],
+    "duration": "8 học kỳ",
+    "eligibility": "Thí sinh quốc tế nộp hồ sơ cử nhân KAIST; sau năm nhất phải giữ GPA trên 2,7/4,3 để tiếp tục nhận.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Phải tích chọn 'KAIST scholarship' ở mục Statement of Financial Resources khi nộp hồ sơ online; trúng tuyển là tự động được nhận (theo trang). Trang học bổng không ghi năm nên dùng lịch tuyển sinh 2027 trên trang Calendar.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding"
+    ]
+  },
+  {
+    "slug": "korea-university-global-leader-scholarship-a",
+    "name": "Global Leader Scholarship A (Korea University)",
+    "type": "scholarship",
+    "company": {
+      "name": "Korea University",
+      "slug": null,
+      "domain": "korea.ac.kr"
+    },
+    "official_url": "https://oia.korea.ac.kr/oia2026/KU-Scholarships.do",
+    "description": "Miễn 100% học phí 4 học kỳ cho tân sinh viên (hệ chuyển tiếp 2 học kỳ) của Đại học Korea; tất cả thí sinh nộp hồ sơ đều được xét tự động theo kết quả xét tuyển.",
+    "fields": [
+      "general"
+    ],
+    "duration": "4 học kỳ",
+    "eligibility": "Mọi thí sinh quốc tế nộp hồ sơ cử nhân; để giữ học bổng phải đạt tối thiểu 12 tín chỉ và GPA từ 3,5 ở học kỳ trước.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Trang chỉ ghi điều kiện giữ học bổng, không nêu năm. Cùng trang còn Global Leader B (50% học phí 4 học kỳ) nhưng chỉ lấy tối đa 2 mục mỗi trường.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "tuition_waiver"
+    ]
+  },
+  {
+    "slug": "korea-university-anam-global-scholarship",
+    "name": "Anam Global Scholarship (Korea University)",
+    "type": "scholarship",
+    "company": {
+      "name": "Korea University",
+      "slug": null,
+      "domain": "korea.ac.kr"
+    },
+    "official_url": "https://oia.korea.ac.kr/oia2026/KU-Scholarships.do#anam-global-scholarship",
+    "description": "Miễn 100% học phí trong 8 học kỳ cho tân sinh viên bậc cử nhân của Đại học Korea; mọi thí sinh năm nhất nộp hồ sơ đều được xét tự động theo kết quả xét tuyển.",
+    "fields": [
+      "general"
+    ],
+    "duration": "8 học kỳ",
+    "eligibility": "Thí sinh năm nhất quốc tế nộp hồ sơ cử nhân; để giữ học bổng phải đạt tối thiểu 12 tín chỉ và GPA từ 3,5 ở học kỳ trước.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Cùng trang với Global Leader Scholarship A (dùng #anam-global-scholarship để phân biệt URL). Trang không nói rõ số suất hay có cộng dồn với học bổng khác.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "tuition_waiver"
+    ]
+  },
+  {
+    "slug": "postech-international-undergraduate-tuition-scholarship",
+    "name": "POSTECH Basic Scholarship (International Undergraduate Tuition Scholarship)",
+    "type": "scholarship",
+    "company": {
+      "name": "Pohang University of Science and Technology (POSTECH)",
+      "slug": null,
+      "domain": "postech.ac.kr"
+    },
+    "official_url": "https://www.postech.ac.kr/eng/admission-aid/scholarship_information.do",
+    "description": "Mọi sinh viên quốc tế trúng tuyển hệ cử nhân POSTECH qua diện tuyển sinh quốc tế đều nhận học bổng toàn phần khi nhập học, hỗ trợ học phí tối đa 8 học kỳ nếu đạt tiêu chí duy trì.",
+    "fields": [
+      "general"
+    ],
+    "duration": "8 học kỳ",
+    "eligibility": "Sinh viên quốc tế trúng tuyển qua diện tuyển sinh quốc tế (người nước ngoài vào theo diện trong nước hoặc Hàn kiều không thuộc diện này); duy trì tối thiểu 12 tín chỉ và GPA 3,3 hoặc hạng percentile 87 ở học kỳ trước.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Tên 'Basic Scholarship' là loại học bổng chung của trường, mục dành cho sinh viên quốc tế ghi 'Tuition Scholarship'; người kiểm tra cần quyết định có coi đây là tên riêng hay không. Trang cập nhật 17/7/2025 và không ghi năm; kỳ tuyển quốc tế đầu tiên là Fall 2026 (theo adm-iu.postech.ac.kr). Ngoài học phí còn có hỗ trợ không học phí (trợ cấp ổn định ban đầu, sinh hoạt phí...) nhưng trang chỉ liệt kê, không nêu mức.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding"
+    ]
+  },
+  {
+    "slug": "skku-samsung-global-sungkyun-scholarship",
+    "name": "Samsung Global Sungkyun Scholarship for International Students",
+    "type": "scholarship",
+    "company": {
+      "name": "Sungkyunkwan University (SKKU)",
+      "slug": null,
+      "domain": "skku.edu"
+    },
+    "official_url": "https://admission-global.skku.edu/eng/grad/scholarship_undergrad.html",
+    "description": "Học phí toàn phần 4 năm (8 học kỳ, gồm phí nhập học); loại A thêm sinh hoạt phí 570.000 KRW mỗi tháng, ưu tiên ký túc xá và mentoring 1-1. Đề cử trong số tân sinh viên xuất sắc theo kết quả xét tuyển.",
+    "fields": [
+      "general"
+    ],
+    "duration": "8 học kỳ",
+    "eligibility": "Tân sinh viên quốc tế xuất sắc được đề cử theo kết quả xét tuyển (có thể phỏng vấn); duy trì 12 tín chỉ và GPA từ 3,7 (3,5 ở hai học kỳ đầu) để giữ học bổng.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Kết quả đề cử báo riêng cho người được chọn sau khi công bố vòng 2. Trang không nói rõ khác biệt A và B ngoài các khoản phụ cấp.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding"
+    ]
+  },
+  {
+    "slug": "skku-global-leader-scholarship",
+    "name": "SKKU Global Leader Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Sungkyunkwan University (SKKU)",
+      "slug": null,
+      "domain": "skku.edu"
+    },
+    "official_url": "https://admission-global.skku.edu/eng/grad/scholarship_undergrad.html#skku-global-leader-scholarship",
+    "description": "Học bổng 50% học phí trong 4 năm (8 học kỳ) cho tân sinh viên quốc tế xuất sắc được đề cử theo kết quả xét tuyển: loại B cho thí sinh STEM, loại C cho các khoa Global; loại A chỉ cho một số quốc gia ODA.",
+    "fields": [
+      "general"
+    ],
+    "duration": "8 học kỳ",
+    "eligibility": "Tân sinh viên quốc tế được đề cử theo kết quả xét tuyển; duy trì 12 tín chỉ và GPA từ 3,5 để giữ học bổng.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Loại A chỉ dành cho quốc tịch thuộc danh sách ODA của OECD có từ 3 sinh viên trở xuống tại SKKU và thuộc diện miễn visa, cần kiểm tra Việt Nam có thuộc danh sách hay không; loại B (STEM, ưu tiên giải Olympic) và C (Global Business Administration, Global Economics, Global Biomedical Engineering) không giới hạn quốc tịch theo trang. Cùng trang với học bổng Samsung nên URL thêm #phần.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "waseda-spse-global-leader-international-student-scholarship",
+    "name": "Global Leader International Student Scholarship (Waseda SPSE)",
+    "type": "scholarship",
+    "company": {
+      "name": "Waseda University",
+      "slug": null,
+      "domain": "waseda.jp"
+    },
+    "official_url": "https://www.waseda.jp/fpse/pse/en/applicants/tuition/",
+    "description": "Học bổng JPY 1.000.000 trong 1 năm cho sinh viên quốc tế tự túc tài chính trúng tuyển School of Political Science and Economics của Waseda, xét cùng hồ sơ nhập học.",
+    "fields": [
+      "general"
+    ],
+    "duration": "1 năm",
+    "eligibility": "Sinh viên quốc tế tự túc tài chính (không thuộc diện học bổng chính phủ) có tiềm năng học tập nổi bật theo hồ sơ, học bạ và/hoặc phỏng vấn (năm nhất).",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Chỉ thấy trên trang của School of Political Science and Economics (các trường thành viên khác như SILS chỉ nói có học bổng trước nhập học, không nêu tên hay mức). Trang ghi ví dụ AY2025 và chương trình thay đổi mỗi năm, cần kiểm tra mức AY2026/27. Trang gốc Waseda International Admissions Office không nêu tên học bổng nào nên được thay bằng trang này.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "cash_award",
+      "needs_english_cert"
+    ]
+  },
+  {
+    "slug": "waseda-partial-tuition-waiver-scholarship-pre-enrollment",
+    "name": "Waseda University Partial Tuition-Waiver Scholarship for Privately Financed International Students",
+    "type": "scholarship",
+    "company": {
+      "name": "Waseda University",
+      "slug": null,
+      "domain": "waseda.jp"
+    },
+    "official_url": "https://www.waseda.jp/fpse/pse/en/applicants/tuition/#partial-tuition-waiver",
+    "description": "Học bổng tương đương học phí học kỳ mùa thu trong 1 năm, xét cùng hồ sơ nhập học cho sinh viên quốc tế tự túc tài chính trúng tuyển School of Political Science and Economics của Waseda.",
+    "fields": [
+      "general"
+    ],
+    "duration": "1 năm",
+    "eligibility": "Sinh viên quốc tế tự túc tài chính (không thuộc diện học bổng chính phủ) có tiềm năng học tập nổi bật theo hồ sơ, học bạ và/hoặc phỏng vấn.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Cùng trang với học bổng Global Leader nên URL thêm #phần. Mức này là bản 'trước nhập học' của SPSE; trang School of Fundamental Science and Engineering (waseda.jp/fsci/en/about/tuition/) ghi cùng tên là 50% học phí năm, xét sau nhập học, nên mức dễ khác nhau theo trường và năm.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding",
+      "needs_english_cert"
+    ]
+  },
+  {
+    "slug": "monash-malaysia-high-achiever-award",
+    "name": "Monash High Achiever Award (for new students)",
+    "type": "scholarship",
+    "company": {
+      "name": "Monash University Malaysia",
+      "slug": null,
+      "domain": "monash.edu.my"
+    },
+    "official_url": "https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships",
+    "description": "Miễn học phí RM10.000 mỗi năm (RM5.000 mỗi học kỳ) cho sinh viên Malaysia và quốc tế có kết quả THPT xuất sắc vào mọi ngành cử nhân tại Monash Malaysia, trừ vài ngành y dược.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Theo thời gian học chuẩn của chương trình",
+    "eligibility": "Thí sinh đã nhận full offer của Monash Malaysia, có bằng THPT quốc tế được trường chấp nhận với điểm ATAR hoặc tương đương xuất sắc; không áp dụng cho người đã học đại học hoặc chuyển tiếp có miễn tín chỉ.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Nộp hồ sơ nhập học là coi như nộp học bổng; thư offer gửi kèm thông báo học bổng và phải chấp nhận trước hạn ghi trong thư. Không áp dụng cho Bachelor of Medical Science, Doctor of Medicine và Bachelor of Pharmacy (Honours). Phải giữ điểm duy trì, học đủ 24 tín chỉ mỗi kỳ và không nhận hỗ trợ tài chính khác. Trang không nêu năm; URL ban đầu (/financial-assistance/undergraduate-scholarships) báo page_not_found nên dùng trang merit-scholarships.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "hku-faculty-of-engineering-global-scholarship",
+    "name": "HKU Faculty of Engineering Global Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "The University of Hong Kong (HKU)",
+      "slug": null,
+      "domain": "hku.hk"
+    },
+    "official_url": "https://admissions.hku.hk/fees-and-scholarships/scholarships/hku-faculty-of-engineering-global-scholarship",
+    "description": "Học bổng một lần, không gia hạn, tối đa nửa học phí cho sinh viên non-local xuất sắc nộp vào các chương trình Kỹ thuật của HKU, ưu tiên ứng viên từ khu vực ít đại diện.",
+    "fields": [
+      "engineering"
+    ],
+    "duration": "Một lần, trong năm học đầu tiên",
+    "eligibility": "Sinh viên non-local nộp vào các chương trình Faculty of Engineering liệt kê trên trang (BEng Elite, DASE, ME, CivE, Robotics, AIE, GEBP, CE/EE/ElecE), xét theo thành tích học tập và năng khiếu kỹ thuật; shortlist phỏng vấn.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Chia hai đợt bằng nhau sau khi hoàn thành học kỳ 1 và 2 của năm nhất; có thể cộng dồn với học bổng khác của trường. Trang không nêu năm. Trang entrance scholarships cho IB và A-Level của HKU không đọc được nên chưa ghi.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "hku-tongcheng-travel-scholarship",
+    "name": "Tongcheng Travel Scholarship (HKU)",
+    "type": "scholarship",
+    "company": {
+      "name": "The University of Hong Kong (HKU)",
+      "slug": null,
+      "domain": "hku.hk"
+    },
+    "official_url": "https://admissions.hku.hk/fees-and-scholarships/scholarships/tongcheng-travel-scholarship",
+    "description": "Tối đa 6 suất mỗi năm cho sinh viên năm nhất ngành Applied AI, AI và Data Science hoặc Computer Science của HKU; sinh viên non-local nhận tối đa HK$300.000 mỗi người.",
+    "fields": [
+      "tech"
+    ],
+    "eligibility": "Sinh viên non-local trúng tuyển BASc (Applied Artificial Intelligence), BEng (AI and Data Science) hoặc BEng (Computer Science) với kết quả thi tuyển công khai xuất sắc.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Trang nêu 'public examination results' mà không nói rõ cách quy đổi cho chứng chỉ quốc tế (IB, A-Level, SAT), cần kiểm tra. Thông tin trang thuộc tuyển sinh 2026; 2027 có thể thay đổi.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "cash_award"
+    ]
+  },
+  {
+    "slug": "cuhk-admission-scholarships-non-local",
+    "name": "CUHK Admission Scholarships (non-local undergraduates)",
+    "type": "scholarship",
+    "company": {
+      "name": "The Chinese University of Hong Kong (CUHK)",
+      "slug": null,
+      "domain": "cuhk.edu.hk"
+    },
+    "official_url": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/",
+    "description": "Học bổng đầu vào từ HK$5.000 đến toàn bộ học phí (nhiều suất kèm phụ cấp tới HK$66.000 mỗi năm, nhiều suất gia hạn theo học lực) cho sinh viên cử nhân mới, gồm sinh viên non-local từ các vùng ngoài Đại lục.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Nhiều suất gia hạn trong thời gian học chuẩn nếu đạt tiến bộ học tập",
+    "eligibility": "Sinh viên non-local từ các vùng khác ngoài Trung Quốc Đại lục, có bằng cấp đạt yêu cầu tuyển sinh cử nhân và thành tích học tập hoặc ngoài học tập xuất sắc.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Không cần nộp đơn: trường tự chọn và thông báo riêng cho sinh viên. Khoản dành riêng cho sinh viên non-local nằm ở mục học bổng khác trong cùng trang (HKSAR Government Scholarship...).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding",
+      "needs_english_cert"
+    ]
+  },
+  {
+    "slug": "cuhk-hksar-government-scholarship-non-local",
+    "name": "HKSAR Government Scholarship (CUHK nomination, non-local)",
+    "type": "scholarship",
+    "company": {
+      "name": "The Chinese University of Hong Kong (CUHK)",
+      "slug": null,
+      "domain": "cuhk.edu.hk"
+    },
+    "official_url": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/#hksar-government-scholarship",
+    "description": "Học bổng HK$80.000 mỗi năm cho sinh viên non-local do CUHK đề cử sinh viên cử nhân năm nhất xuất sắc lên Education Bureau của chính quyền Hồng Kông.",
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Sinh viên cử nhân năm nhất non-local xuất sắc về học tập, do CUHK đề cử; không cần nộp đơn.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Học bổng của chính quyền Hồng Kông, CUHK chỉ đề cử (trang CUHK không liệt kê quốc gia đủ điều kiện nên Việt Nam không bị loại trừ theo trang nhưng cần kiểm tra thêm). Cùng trang với CUHK Admission Scholarships nên URL thêm #phần.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "cash_award",
+      "school_nomination"
+    ]
+  },
+  {
+    "slug": "haui-entrance-scholarship",
+    "name": "Học bổng đầu vào HaUI (chương trình đào tạo chuẩn)",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Công nghiệp Hà Nội (HaUI)",
+      "slug": null,
+      "domain": "haui.edu.vn"
+    },
+    "official_url": "https://tuyensinh.haui.edu.vn/tin-tuc/hoc-bong-dai-hoc-cong-nghiep-ha-noi-nam-2026/69ca2e2995dfe0072a789cfa",
+    "description": "Học bổng đầu vào của HaUI cho tân sinh viên 2026 vào chương trình chuẩn: 3 mức 100% học phí toàn khoá (giải HSG quốc gia/quốc tế hoặc thủ khoa nhóm ngành từ 26 điểm), 100% học phí năm 1 (từ 25 điểm), 100% học phí học kỳ 1 (từ 24 điểm).",
+    "fields": [
+      "general"
+    ],
+    "duration": "toàn khoá (mức 1), năm thứ nhất (mức 2), học kỳ 1 (mức 3)",
+    "eligibility": "Thí sinh nhập học chương trình đào tạo chuẩn trình độ đại học của HaUI năm 2026 và đạt điểm xét tuyển hoặc giải thưởng theo từng mức.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét tự động theo điểm xét tuyển, không có đơn riêng. Số suất dự kiến 7 / 30 / 61 theo nhóm ngành, tổng quỹ khoảng 3 tỷ đồng. Bài đăng 30/03/2026 không nêu mốc nộp; cần người kiểm tra xem điểm xét tuyển/đợt xét thực tế của khoá 2026 đã đóng chưa.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "haui-english-program-entrance-scholarship",
+    "name": "Học bổng đầu vào HaUI (chương trình đào tạo bằng tiếng Anh)",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Công nghiệp Hà Nội (HaUI)",
+      "slug": null,
+      "domain": "haui.edu.vn"
+    },
+    "official_url": "https://tuyensinh.haui.edu.vn/tin-tuc/hoc-bong-dai-hoc-cong-nghiep-ha-noi-nam-2026/69ca2e2995dfe0072a789cfa#chuong-trinh-tieng-anh",
+    "description": "Học bổng đầu vào của HaUI cho tân sinh viên 2026 vào 15 chương trình đào tạo bằng tiếng Anh: 100% học phí toàn khoá (giải HSG/khoa học kỹ thuật hoặc thủ khoa từ 26 điểm), 50% học phí toàn khoá (từ 25 điểm), 100% học phí năm 1 (từ 24 điểm).",
+    "fields": [
+      "general"
+    ],
+    "duration": "toàn khoá (mức 1, 2), năm thứ nhất (mức 3)",
+    "eligibility": "Sinh viên nhập học chương trình đào tạo bằng tiếng Anh trình độ đại học của HaUI năm 2026 và đạt điểm xét tuyển hoặc giải thưởng theo từng mức.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét tự động theo điểm xét tuyển, không có đơn riêng. Cùng bài đăng với mục chương trình chuẩn nên official_url dùng #chuong-trinh-tieng-anh; số suất dự kiến 5 / 15 / 15. Cần người kiểm tra như mục chương trình chuẩn.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "duytan-talent-program-scholarship",
+    "name": "Học bổng Chương trình Tài năng Đại học Duy Tân",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Duy Tân",
+      "slug": null,
+      "domain": "duytan.edu.vn"
+    },
+    "official_url": "https://duytan.edu.vn/tuyen-sinh/Page/ScholarshipDetail.aspx?id=104",
+    "description": "Học bổng toàn phần (miễn 100% học phí toàn khoá) hoặc bán phần (50%) cho thí sinh trúng tuyển Chương trình Tài năng của Khoa Quản lý Nam Khuê năm 2026; 45 suất toàn phần và 45 suất bán phần cho thí sinh Việt Nam.",
+    "fields": [
+      "general"
+    ],
+    "duration": "toàn khoá",
+    "eligibility": "Thí sinh Việt Nam đoạt giải học sinh giỏi quốc gia/hội thi khoa học kỹ thuật (kèm tiếng Anh) hoặc có điểm xét tuyển THPT 2026 từ 23 (bán phần) / 25 (toàn phần) điểm kèm tiếng Anh; thí sinh Lào có mức riêng.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét tự động theo điểm xét tuyển, không có đơn riêng. Danh sách xét theo thứ tự nộp hồ sơ xét tuyển; duy trì bằng GPA hằng năm (khối kỹ thuật 3.2/3.0, kinh tế-xã hội 3.4/3.2). Trang cũng có 30 + 60 suất cho thí sinh Lào. Cần người kiểm tra phạm vi 'Chương trình Tài năng' chỉ ở Khoa Quản lý Nam Khuê.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "tuition_waiver"
+    ]
+  },
+  {
+    "slug": "duytan-advanced-international-talent-scholarship",
+    "name": "Học bổng Tài năng chương trình Tiên tiến và Quốc tế CMU, PSU, CSU, PNU (Đại học Duy Tân)",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Duy Tân",
+      "slug": null,
+      "domain": "duytan.edu.vn"
+    },
+    "official_url": "https://duytan.edu.vn/tuyen-sinh/Page/ScholarshipDetail.aspx?id=103",
+    "description": "Học bổng toàn phần (100% học phí toàn khoá) cho thí sinh vào các chuyên ngành chuẩn CMU, PSU, CSU, PNU của Duy Tân năm 2026, có tổng điểm xét tuyển 3 môn kỳ thi THPT 2026 từ 25 điểm; 5 suất mỗi chuyên ngành.",
+    "fields": [
+      "general"
+    ],
+    "duration": "toàn khoá",
+    "eligibility": "Thí sinh đăng ký chuyên ngành chương trình Tiên tiến và Quốc tế CMU, PSU, CSU hoặc PNU, đạt từ 25 điểm xét tuyển THPT 2026 (không tính điểm ưu tiên).",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét tự động theo điểm xét tuyển, không có đơn riêng. Xét theo thứ tự nộp hồ sơ xét tuyển cho đến hết số suất; duy trì bằng GPA hằng năm (kỹ thuật 3.2, kinh tế 3.4).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "tuition_waiver"
+    ]
+  },
+  {
+    "slug": "pxu-talent-scholarship",
+    "name": "Học bổng Tài năng PXU",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Phú Xuân (PXU)",
+      "slug": null,
+      "domain": "pxu.edu.vn"
+    },
+    "official_url": "https://pxu.edu.vn/news/hoc-bong-tai-nang-pxu-2026",
+    "description": "Học bổng Tài năng PXU 2026 gồm 100 suất miễn 100% học phí (CNTT, Quản trị kinh doanh, Công nghệ kỹ thuật ô tô), 50 suất miễn 70% và 50 suất miễn 50% học phí, xét theo giải HSG hoặc điểm xét tuyển.",
+    "fields": [
+      "general"
+    ],
+    "duration": "theo chính sách học phí của trường",
+    "eligibility": "Thí sinh có giải HSG quốc gia/tỉnh hoặc tổ hợp xét tuyển từ 28 điểm (mức 100%); điểm thi tốt nghiệp THPT 26 đến dưới 28 (mức 70%) hoặc 24 đến dưới 26 (mức 50%).",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét tự động theo điểm xét tuyển, không có đơn riêng. Bài đăng 12/07/2026. Trang pxu.edu.vn/hoc-bong gọi chương trình là 'Học bổng khuyến tài' và nêu cơ chế duy trì năm 2-3; cần người kiểm tra việc đặt tên. Khoản 10 triệu đồng cho nguyện vọng 1 không đưa vào vì không có tên riêng.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "stu-talent-scholarship",
+    "name": "Học bổng Tài năng STU",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Công nghệ Sài Gòn (STU)",
+      "slug": null,
+      "domain": "stu.edu.vn"
+    },
+    "official_url": "https://www.stu.edu.vn/chinh-sach-hoc-bong-tuyen-sinh-nam-2026-co-hoi-vang-cho-tan-sinh-vien.html",
+    "description": "Học bổng Tài năng khoá tuyển sinh 2026 của STU: miễn 100% học phí 4 năm cho thủ khoa toàn trường (1 suất mỗi phương thức xét tuyển) và miễn 50% học phí 4 năm (80 suất, 1 suất/phương thức/ngành) cho thí sinh trúng tuyển đợt 1.",
+    "fields": [
+      "general"
+    ],
+    "duration": "4 năm",
+    "eligibility": "Thí sinh trúng tuyển và nhập học STU năm 2026 có điểm học bạ từ 25, điểm thi THPT từ 23 hoặc điểm ĐGNL từ 900.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét tự động theo điểm xét tuyển, không có đơn riêng. Trang gốc nêu 'không cần làm hồ sơ riêng'. Hạn duy trì GPA học kỳ liền kề từ 7.0. Mốc chốt danh sách: đợt 1 ngày 21/08/2026, đợt bổ sung (thủ khoa toàn trường) 11/09/2026.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "stu-thu-khoa-nganh-scholarship",
+    "name": "Học bổng Thủ khoa ngành STU",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Công nghệ Sài Gòn (STU)",
+      "slug": null,
+      "domain": "stu.edu.vn"
+    },
+    "official_url": "https://www.stu.edu.vn/chinh-sach-hoc-bong-tuyen-sinh-nam-2026-co-hoi-vang-cho-tan-sinh-vien.html#thu-khoa-nganh",
+    "description": "Học bổng Thủ khoa ngành khoá tuyển sinh 2026 của STU: miễn 50% học phí năm thứ nhất cho thí sinh có điểm xét tuyển cao nhất mỗi ngành theo từng phương thức, 80 suất cho 20 ngành.",
+    "fields": [
+      "general"
+    ],
+    "duration": "năm học thứ nhất",
+    "eligibility": "Thí sinh trúng tuyển, nhập học STU năm 2026, là thủ khoa ngành với điểm học bạ từ 24, điểm thi THPT từ 22 hoặc điểm ĐGNL từ 850.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét tự động theo điểm xét tuyển, không có đơn riêng. Cùng trang với Học bổng Tài năng STU nên official_url dùng #thu-khoa-nganh. Mỗi thí sinh chỉ nhận một học bổng có giá trị cao nhất.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "tdtu-hoc-bong-thu-khoa-dau-vao",
+    "name": "Học bổng Thủ khoa đầu vào TDTU",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Tôn Đức Thắng",
+      "slug": null,
+      "domain": "tdtu.edu.vn"
+    },
+    "official_url": "https://admission.tdtu.edu.vn/hoc-tai-tdtu/hoc-phi-hoc-bong-2026",
+    "description": "Học bổng Thủ khoa đầu vào của TDTU cấp 100% học phí năm học 2026-2027 cho tân sinh viên có điểm xét học bổng cao nhất.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Năm học 2026-2027",
+    "eligibility": "Tân sinh viên khoá tuyển sinh 2026 có điểm xét học bổng cao nhất theo quy định của trường.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét tự động theo điểm xét tuyển, không có đơn riêng. Trang chỉ nêu 'điểm xét học bổng cao nhất', không nêu số suất hay cách tính điểm; không thấy mốc ngày. Cần người kiểm tra thể lệ chi tiết (có thể ở thông báo riêng của trường). Trang còn liệt kê nhiều học bổng khác (Khuyến tài top 5%, học bổng chương trình tiếng Anh 100/50/20% học phí học kỳ đầu...) nhưng không có mức hoặc điều kiện cụ thể, chưa đưa vào.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "tuition_waiver"
+    ]
+  },
+  {
+    "slug": "nttu-hoc-bong-tai-nang-nang-buoc-thu-khoa",
+    "name": "Học bổng Tài năng & Nâng bước thủ khoa NTTU",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Nguyễn Tất Thành",
+      "slug": null,
+      "domain": "ntt.edu.vn"
+    },
+    "official_url": "https://tuyensinh.ntt.edu.vn/chinh-sach-hoc-bong",
+    "description": "Giảm 100% học phí toàn khoá cho thủ khoa đầu vào toàn trường (trên 27/30 điểm), 50% cho thủ khoa mỗi khoa (trên 25/30), và giảm 50-100% cho thí sinh đạt giải học sinh giỏi, nghệ thuật.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Toàn khoá, duy trì nếu học lực Giỏi (3.2/4) và rèn luyện Tốt (80/100) trở lên",
+    "eligibility": "Tân sinh viên khoá 2026 là thủ khoa đầu vào hoặc đạt giải học sinh giỏi quốc gia/tỉnh, cuộc thi nghệ thuật, năng khiếu theo bảng mức của trường.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét tự động theo điểm xét tuyển/giải thưởng khi nhập học, không có đơn riêng. Trang không nêu hạn nộp; thí sinh chỉ được chọn một chính sách học bổng giá trị cao nhất. Cần người kiểm tra cách nộp minh chứng giải thưởng.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "nttu-hoc-bong-hoc-sinh-gioi-xuat-sac",
+    "name": "Học bổng Học sinh Giỏi Xuất sắc NTTU",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Nguyễn Tất Thành",
+      "slug": null,
+      "domain": "ntt.edu.vn"
+    },
+    "official_url": "https://tuyensinh.ntt.edu.vn/chinh-sach-hoc-bong#hoc-sinh-gioi-xuat-sac",
+    "description": "Học bổng 80-100% học phí học kỳ 1 cho tân sinh viên khoá 2026 có điểm thi tốt nghiệp THPT từ 25, điểm học bạ từ 28 hoặc điểm ĐGNL từ 700.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Học kỳ 1",
+    "eligibility": "Tân sinh viên khoá 2026 đạt ngưỡng điểm thi tốt nghiệp THPT 2026, học bạ hoặc đánh giá năng lực theo bảng mức của trường.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét tự động theo điểm xét tuyển, không có đơn riêng. Mức 100%/90%/80% tương ứng 27/26/25 điểm thi THPT, 29/28,5/28 điểm học bạ, 800/750/700 điểm ĐGNL; chỉ áp dụng cho học phí học kỳ 1. Anchor trong URL là của bộ dữ liệu để tránh trùng, trang gốc không có anchor này. Học bổng 'Khuyến học' (tới 12 triệu, 2000 suất, nhập học trước 15/09/2026) cũng có trên trang nhưng vượt giới hạn 2 mục/trường và đã quá hạn nhập học.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "hcmute-hoc-bong-khuyen-tai",
+    "name": "Học bổng Khuyến tài HCMUTE",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Sư phạm Kỹ thuật TP.HCM",
+      "slug": null,
+      "domain": "hcmute.edu.vn"
+    },
+    "official_url": "https://ffl.hcmute.edu.vn/sites/default/files/2026-06/THONG%20TIN%20TUYEN%20SINH%20DAI%20HOC%20CHINH%20QUY%202026_FN_T%20-%20Signed%20%28up%29.pdf",
+    "description": "Học bổng Khuyến tài thưởng 1.000.000 đồng cho mỗi điểm thi THPT 2026 của 3 môn xét tuyển, cho thí sinh trúng tuyển đạt từ 26 điểm; mỗi ngành chọn 1 thí sinh cao điểm nhất.",
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Thí sinh trúng tuyển năm 2026 có tổng điểm 3 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển từ 26 trở lên (không tính điểm ưu tiên, điểm cộng), cao nhất ngành.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét tự động theo điểm thi THPT, không có đơn riêng. Nguồn là PDF 'Thông tin tuyển sinh đại học chính quy 2026' đăng trên subdomain khoa Ngoại ngữ (ffl.hcmute.edu.vn) của HCMUTE; trang tin hcmute.edu.vn từ URL ban đầu chỉ nói về khoá 2024 (37 thí sinh, chi 4 đợt theo 4 học kỳ) nên không dùng làm nguồn. Cần người kiểm tra xem có trang tuyển sinh chính (tuyensinh.hcmute.edu.vn) thay thế PDF này không (trang đó lỗi proxy khi đọc).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "cash_award"
+    ]
+  },
+  {
+    "slug": "uit-hoc-bong-toan-dien-sang-tao-phung-su",
+    "name": "Học bổng Toàn diện – Sáng tạo – Phụng sự (UIT)",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Công nghệ Thông tin, ĐHQG-HCM",
+      "slug": null,
+      "domain": "uit.edu.vn"
+    },
+    "official_url": "https://tuyensinh.uit.edu.vn/2026-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2026",
+    "description": "Học bổng tuyển sinh 2026 trị giá 120-240 triệu đồng cho thí sinh đạt huy chương Olympic quốc tế/khu vực hoặc giải học sinh giỏi quốc gia môn Tin học, Toán, Lý, Hoá, Văn, Anh; cấp theo học kỳ, tối đa 8 học kỳ.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 8 học kỳ",
+    "eligibility": "Thí sinh khoá tuyển 2026 có thành tích Olympic hoặc giải học sinh giỏi quốc gia trong các năm 2024-2026, trúng tuyển vào UIT.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét theo thành tích giải thưởng khi nhập học, không có đơn riêng nhưng sinh viên phải chủ động gửi minh chứng qua email ctsv@uit.edu.vn ngay sau nhập học. Điều kiện duy trì: điểm trung bình học kỳ từ 8.0, rèn luyện từ 80 và tham gia đội tuyển trường hoặc có bài báo khoa học. Trang đăng 16/04/2026, không nêu hạn.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "cash_award"
+    ]
+  },
+  {
+    "slug": "uit-hoc-bong-thu-khoa",
+    "name": "Học bổng Thủ khoa UIT",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Công nghệ Thông tin, ĐHQG-HCM",
+      "slug": null,
+      "domain": "uit.edu.vn"
+    },
+    "official_url": "https://tuyensinh.uit.edu.vn/2026-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2026#hoc-bong-thu-khoa",
+    "description": "Học bổng Thủ khoa trị giá 80 triệu đồng cho 1 thí sinh trúng tuyển có điểm trúng tuyển cao nhất (không tính điểm ưu tiên), cấp theo học kỳ trong 4 học kỳ.",
+    "fields": [
+      "general"
+    ],
+    "duration": "4 học kỳ",
+    "eligibility": "Thí sinh khoá tuyển 2026 trúng tuyển vào UIT có điểm trúng tuyển cao nhất, không tính điểm ưu tiên.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét tự động theo điểm xét tuyển, không có đơn riêng. Chỉ 1 suất; trùng điểm ưu tiên điểm thành phần ĐGNL cao hơn. Duy trì: điểm trung bình học kỳ từ 8.0 và rèn luyện từ 80. Anchor trong URL là của bộ dữ liệu để tránh trùng, trang gốc không có anchor này. Cùng trang còn có học bổng 30 triệu cho thủ khoa chương trình Tiên tiến (đã bỏ vì giới hạn 2 mục/trường).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "cash_award"
+    ]
+  },
+  {
+    "slug": "monash-international-merit-scholarship",
+    "name": "Monash International Merit Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Monash University",
+      "slug": null,
+      "domain": "monash.edu"
+    },
+    "official_url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770",
+    "description": "Học bổng học thuật của Monash cho sinh viên quốc tế từ mọi quốc gia đã có thư mời nhập học cử nhân không điều kiện, 15.000 đô la mỗi năm trong suốt chương trình (từ năm 2026), 20 suất mỗi năm.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Suốt chương trình cử nhân (giữ điểm trung bình từ 70% mỗi học kỳ)",
+    "eligibility": "Sinh viên quốc tế đã có thư mời cử nhân không điều kiện, học toàn thời gian tại cơ sở Monash ở Úc; không áp dụng cho sinh viên Monash hiện tại, học viên chương trình dự bị hoặc ngành Medical Science và MD.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Trang ghi mức 15.000 AUD/năm cho học bổng trao từ 2026 (trước 2026 là 10.000/năm); trang không nêu đơn vị tiền tệ, cần kiểm tra.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "cash_award"
+    ]
+  },
+  {
+    "slug": "monash-international-leadership-scholarship",
+    "name": "Monash International Leadership Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Monash University",
+      "slug": null,
+      "domain": "monash.edu"
+    },
+    "official_url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-leadership-scholarship-5571Z",
+    "description": "Học bổng toàn phần học phí của Monash cho sinh viên quốc tế từ mọi quốc gia có thư mời cử nhân không điều kiện, xét theo thành tích học tập, 4 suất mỗi năm; người nhận làm đại sứ của trường.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Suốt chương trình cử nhân (giữ điểm trung bình WAM 70 mỗi học kỳ)",
+    "eligibility": "Sinh viên quốc tế đã có thư mời cử nhân không điều kiện, học toàn thời gian tại cơ sở Monash ở Úc; loại trừ sinh viên Monash hiện tại, học viên chương trình dự bị và ngành Medical Science, MD.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Học phí 100% không gồm bảo hiểm OSHC, chỗ ở và sinh hoạt phí. Đã từng bị loại ở vòng trước vì xét tự động và không riêng cho người Việt; nay nhận theo quy tắc mới.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "tuition_waiver"
+    ]
+  },
+  {
+    "slug": "anu-international-achievement-award",
+    "name": "ANU International Achievement Award",
+    "type": "scholarship",
+    "company": {
+      "name": "The Australian National University",
+      "slug": null,
+      "domain": "anu.edu.au"
+    },
+    "official_url": "https://study.anu.edu.au/scholarships/find-scholarship/anu-international-achievement-award",
+    "description": "Giảm 20%, 25% hoặc 50% học phí (tùy nhóm quốc gia) tối đa 4 năm cho sinh viên quốc tế đạt Selection Rank từ 85; có nhóm Đông Nam Á 25%. Tự động xét khi nộp hồ sơ nhập học ANU.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 4 năm",
+    "eligibility": "Sinh viên quốc tế mới nhập học đạt Selection Rank từ 85 (hoặc tương đương), cư trú tại quốc gia không thuộc nhóm Trung Quốc, Nhật Bản, Mông Cổ, Hàn Quốc; không có tài trợ học phí bên ngoài.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Trang không liệt kê mức cụ thể cho Việt Nam (chỉ ghi nhóm South East Asia 25%); mức chính thức nằm trong thư mời, cần người kiểm tra. Học bổng này gồm cả bậc sau đại học.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "melbourne-international-undergraduate-scholarship",
+    "name": "Melbourne International Undergraduate Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "The University of Melbourne",
+      "slug": null,
+      "domain": "unimelb.edu.au"
+    },
+    "official_url": "https://scholarships.unimelb.edu.au/awards/melbourne-international-undergraduate-scholarship",
+    "description": "Học bổng cử nhân của University of Melbourne cho công dân các nước có GDP bình quân đầu người từ 10.000 USD trở xuống (Việt Nam có trong danh sách); giảm 25% học phí, từ 2027 là 20% và tăng lên 225 suất.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Suốt khóa học",
+    "eligibility": "Công dân nước nằm trong danh sách đủ điều kiện của trường, có thư mời hệ Overseas Fee bậc cử nhân và chưa học đại học trước đó; chọn theo kết quả cuối cấp THPT hoặc dự bị cao nhất.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Danh sách nước đủ điều kiện của trường có Việt Nam nhưng được cập nhật định kỳ theo dữ liệu World Bank; cần kiểm tra lại khi đăng.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "uq-international-excellence-scholarship",
+    "name": "UQ International Excellence Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "The University of Queensland",
+      "slug": null,
+      "domain": "uq.edu.au"
+    },
+    "official_url": "https://scholarships.uq.edu.au/scholarship/uq-international-excellence-scholarship",
+    "description": "Giảm 25% học phí mỗi học kỳ trong suốt chương trình cho sinh viên quốc tế nhập học toàn thời gian từ 2027, xét theo điểm cạnh tranh trong nhóm sinh viên có thư mời. Tự động xét khi nộp hồ sơ.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Suốt chương trình",
+    "eligibility": "Sinh viên quốc tế nộp hồ sơ học toàn thời gian nhập học năm 2027, đạt điểm đầu vào và yêu cầu tiếng Anh; chưa nhận học bổng hay giảm học phí khác của UQ, không có học bổng toàn phần bên ngoài.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Trang áp dụng cho cả bậc thạc sĩ coursework; người nhận phải chấp nhận học bổng trước hạn ghi trong thư mời.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "vuw-undergraduate-international-scholarship",
+    "name": "VUW Undergraduate International Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Victoria University of Wellington",
+      "slug": null,
+      "domain": "wgtn.ac.nz"
+    },
+    "official_url": "https://www.wgtn.ac.nz/scholarships/current/vuw-undergraduate-international-scholarship",
+    "description": "Học bổng 15.000 đô la New Zealand trừ vào học phí năm nhất cho sinh viên quốc tế mới vào chương trình cử nhân tại Victoria University of Wellington; thông báo trong thư mời nhập học.",
+    "fields": [
+      "general"
+    ],
+    "duration": "1 năm",
+    "eligibility": "Sinh viên quốc tế đóng học phí đầy đủ, có thư mời cử nhân (có điều kiện hoặc không), học toàn thời gian tại trường; không áp dụng cho người được chính phủ nước mình hoặc New Zealand tài trợ.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Trang chỉ nêu mức $15,000; đơn vị NZD suy ra từ trường, cần kiểm tra.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "otago-global-scholarship",
+    "name": "University of Otago Global Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Otago",
+      "slug": null,
+      "domain": "otago.ac.nz"
+    },
+    "official_url": "https://www.otago.ac.nz/courses/scholarships/global-scholarships",
+    "description": "Học bổng đầu vào 15.000 đô la New Zealand trừ vào học phí năm nhất cho sinh viên cử nhân quốc tế mang hộ chiếu một số nước, trong đó có Việt Nam, hoặc học một số chương trình do trường chỉ định.",
+    "fields": [
+      "general"
+    ],
+    "duration": "1 năm",
+    "eligibility": "Học sinh đã tốt nghiệp THPT, học toàn thời gian bậc cử nhân tại cơ sở Otago từ năm nhất, mang hộ chiếu thuộc danh sách (có Việt Nam); người nhận tài trợ chính phủ không đủ điều kiện.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng: thí sinh chỉ đánh dấu muốn xét học bổng quốc tế trong hồ sơ eVision. Khác với Otago International Academic Excellence đã có. Trang ghi quyền đổi danh sách nước và chương trình; đơn vị $ là NZD theo trường.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "sheffield-international-undergraduate-scholarship",
+    "name": "University of Sheffield International Undergraduate Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "The University of Sheffield",
+      "slug": null,
+      "domain": "sheffield.ac.uk"
+    },
+    "official_url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027",
+    "description": "Giảm 2.500 bảng mỗi năm học phí (tối đa 10.000 bảng cho chương trình 4 năm) cho sinh viên quốc tế nhập học cử nhân tháng 9/2027, giữ điểm trung bình từ 60%. Trừ vào học phí tự động.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 4 năm, mỗi năm 2.500 bảng",
+    "eligibility": "Sinh viên quốc tế tự túc học phí, nhập học cử nhân toàn thời gian tháng 9/2027 (trừ Y và Nha) và chọn Sheffield là lựa chọn firm hoặc insurance trước hạn trường nêu.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Không áp dụng năm thực tập hoặc năm ở nước ngoài; không bảo lưu được sang năm sau.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "nottingham-international-undergraduate-excellence-scholarship",
+    "name": "University of Nottingham International Undergraduate Excellence Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Nottingham",
+      "slug": null,
+      "domain": "nottingham.ac.uk"
+    },
+    "official_url": "https://www.nottingham.ac.uk/studywithus/international-applicants/scholarships-funding-finance/international-undergraduate-excellence-scholarship.aspx",
+    "description": "Học bổng 5.000 bảng trừ vào học phí năm nhất cho sinh viên quốc tế đạt điểm AAA (hoặc tương đương quốc tế) khi nhập học cử nhân tại cơ sở Anh của Nottingham; cấp tự động.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Năm nhất",
+    "eligibility": "Sinh viên quốc tế đóng học phí, vào năm nhất cử nhân toàn thời gian tại cơ sở Anh (các bằng BA, BSc, BEng, LLB...), đạt AAA hoặc tương đương, tự túc và không có học bổng khác.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Loại trừ ngành Thú y, Dược, Y, năm Foundation và sinh viên đi lên từ Kaplan; trang không nêu cách quy đổi điểm Việt Nam sang AAA, cần người kiểm tra.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "waterloo-international-student-entrance-scholarship",
+    "name": "International Student Entrance Scholarship (University of Waterloo)",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Waterloo",
+      "slug": null,
+      "domain": "uwaterloo.ca"
+    },
+    "official_url": "https://uwaterloo.ca/future-students/financing/international-scholarships",
+    "description": "Học bổng 10.000 đô la cho năm nhất, chia hai đợt 5.000 đô la vào học phí hai kỳ đầu, dành cho sinh viên quốc tế đóng học phí quốc tế được nhận vào chương trình cử nhân toàn thời gian của Waterloo. Không giới hạn số suất.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Năm nhất",
+    "eligibility": "Sinh viên quốc tế đóng học phí quốc tế, được nhận vào năm nhất chương trình cử nhân toàn thời gian; trừ một số chương trình y, dược, công tác xã hội, sinh viên chuyển tiếp hoặc hoãn từ năm trước.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Trang ghi ký hiệu $ không nêu đơn vị tiền tệ (nhiều khả năng CAD), cần kiểm tra.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "boston-university-presidential-scholarship",
+    "name": "Boston University Presidential Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Boston University",
+      "slug": null,
+      "domain": "bu.edu"
+    },
+    "official_url": "https://www.bu.edu/admissions/tuition-aid/scholarships-financial-aid/first-year-merit/",
+    "description": "Học bổng merit nửa học phí mỗi năm cho tân sinh viên xuất sắc, gồm cả sinh viên quốc tế; chỉ cần nộp hồ sơ nhập học đúng hạn 1/12, áp dụng từ khóa nhập học mùa thu 2026.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Theo năm, giá trị nửa học phí mỗi năm",
+    "eligibility": "Tân sinh viên năm nhất (công dân, thường trú nhân Mỹ hoặc sinh viên quốc tế) có thành tích học tập, lãnh đạo, hoạt động cộng đồng nổi bật; hoàn tất hồ sơ nhập học trước 1/12.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng (nộp hồ sơ nhập học là đủ). Trang không nêu số suất hay số năm giữ học bổng; cần người kiểm tra trang con Presidential Scholarship.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "wright-state-vietnam-academic-merit-scholarship",
+    "name": "Vietnam Academic Merit Scholarship (Wright State University)",
+    "type": "scholarship",
+    "company": {
+      "name": "Wright State University",
+      "slug": null,
+      "domain": "wright.edu"
+    },
+    "official_url": "https://www.wright.edu/enrollment-services/financial-aid/international-undergraduate-student-scholarships#vietnam-academic-merit-scholarship",
+    "description": "Học bổng dành riêng cho sinh viên Việt Nam: 12.000 đô la mỗi năm, tối đa 8 học kỳ, trao khi nhận vào Wright State. Trang ghi áp dụng cho sinh viên nhập học năm học 2025–26.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 8 học kỳ toàn thời gian (giữ GPA 2.5 và 24 tín chỉ mỗi năm)",
+    "eligibility": "Sinh viên Việt Nam từng học THPT tại Việt Nam, dùng visa F1, học toàn thời gian bậc cử nhân và cam kết tham gia hoạt động sinh viên.",
+    "recurring": "unknown",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học (trao khi nhận vào trường), không có đơn riêng. Trang chỉ nêu năm học 2025-26, có thể đã lỗi thời so với Southeast Asia Merit Scholarship 2026-27 (cũng nhận người Việt); cần người kiểm tra. Quỹ giới hạn, nên nộp hồ sơ sớm.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "wright-state-southeast-asia-merit-scholarship",
+    "name": "Southeast Asia Merit Scholarship (Wright State University)",
+    "type": "scholarship",
+    "company": {
+      "name": "Wright State University",
+      "slug": null,
+      "domain": "wright.edu"
+    },
+    "official_url": "https://www.wright.edu/enrollment-services/financial-aid/international-undergraduate-student-scholarships#southeast-asia-merit-scholarship",
+    "description": "Học bổng 12.000 đô la mỗi năm, tối đa 8 học kỳ, cho sinh viên cử nhân Đông Nam Á (có Việt Nam) vào Wright State năm học 2026–27, trao khi nhận vào trường.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 8 học kỳ toàn thời gian (giữ GPA 2.5 và 24 tín chỉ mỗi năm)",
+    "eligibility": "Sinh viên từng học THPT tại một nước Đông Nam Á (nêu rõ có Việt Nam), dùng visa F1, học toàn thời gian bậc cử nhân và cam kết tham gia hoạt động sinh viên.",
+    "recurring": "unknown",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học (trao khi nhận vào trường), không có đơn riêng. Mỗi sinh viên chỉ nhận một học bổng merit của trường nên không cộng dồn với Vietnam Academic Merit. Quỹ giới hạn.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "queens-university-deans-international-award",
+    "name": "Dean's International Award (Queen's University)",
+    "type": "scholarship",
+    "company": {
+      "name": "Queen's University",
+      "slug": null,
+      "domain": "queensu.ca"
+    },
+    "official_url": "https://www.queensu.ca/registrar/financial-aid/specific-students/international",
+    "description": "Học bổng merit 5.000 đến 25.000 đô la mỗi năm tùy khoa, gia hạn 4 năm, cho sinh viên quốc tế vào năm nhất Arts and Science, Engineering, Commerce hoặc Health Sciences; được xét tự động khi nộp hồ sơ.",
+    "fields": [
+      "general"
+    ],
+    "duration": "4 năm (gia hạn khi học toàn thời gian trong khoa đã nhập học)",
+    "eligibility": "Sinh viên quốc tế đóng học phí quốc tế, vào năm nhất lần đầu bậc đại học tại các khoa Arts and Science, Engineering and Applied Science, Commerce hoặc Health Sciences.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Mức khác nhau theo khoa (Arts and Science 5-25 nghìn, Commerce 15-25 nghìn, Engineering 10-25 nghìn, Health Sciences 10-15 nghìn); trang ghi $ không nêu đơn vị, nhiều khả năng CAD, cần kiểm tra. Khác Major Admission Awards (chỉ cho công dân/thường trú nhân Canada).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "cash_award"
+    ]
+  },
+  {
+    "slug": "constructor-university-talent-scholarship",
+    "name": "Talent Scholarship (Constructor University)",
+    "type": "scholarship",
+    "company": {
+      "name": "Constructor University",
+      "slug": null,
+      "domain": "constructor.university"
+    },
+    "official_url": "https://constructor.university/scholarships#talent-scholarship",
+    "description": "Học bổng 10.000 euro mỗi năm (thay cho học bổng Academic Achievement) cho thí sinh xuất sắc nộp hồ sơ vào Constructor University trước 1/2/2026, xét theo GPA và hoạt động ngoại khóa, có phỏng vấn.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Theo năm học",
+    "eligibility": "Thí sinh mọi quốc gia nộp hồ sơ nhập học trước 1/2/2026, có kết quả SAT, được đề cử theo GPA và hoạt động ngoại khóa rồi qua phỏng vấn với nhóm tuyển sinh.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng (nhưng có phỏng vấn và cần SAT). Quỹ giới hạn, trao đến khi hết. Trang ghi thêm suất riêng cho học sinh trường Đức hạn 1/7/2026, không liên quan.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "constructor-university-academic-achievement-scholarship",
+    "name": "Academic Achievement Scholarship (Constructor University)",
+    "type": "scholarship",
+    "company": {
+      "name": "Constructor University",
+      "slug": null,
+      "domain": "constructor.university"
+    },
+    "official_url": "https://constructor.university/scholarships#academic-achievement-scholarship",
+    "description": "Học bổng học phí một phần lên đến 7.000 euro mỗi năm, mọi thí sinh có thư mời nhập học đều được xét theo điểm GPA phổ thông; biết mức ngay sau khi nhận vào trường.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Theo năm học",
+    "eligibility": "Thí sinh có thư mời nhập học đang hiệu lực vào Constructor University, mức xét theo GPA phổ thông.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Trang ghi 'up to €7,000'; mức chính xác phụ thuộc GPA và công bố sau khi nhận vào trường.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
   }
 ]
