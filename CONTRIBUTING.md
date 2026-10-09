@@ -83,6 +83,7 @@ Không cần cài package nào, chỉ cần Node.js ≥ 22.
 | `company.slug` | ✓ | Slug công ty trên techjobs.vn (`techjobs.vn/companies/<slug>`), hoặc `null` |
 | `company.domain` | | Domain website công ty, không có `https://` (ví dụ `ey.com`); dùng để lấy logo khi công ty chưa có trên techjobs.vn |
 | `official_url` | ✓ | https, domain công ty/ATS; không nhận mạng xã hội |
+| `highlights` | | Học bổng: các khoá hiển thị thành badge trên danh sách, chỉ ghi điều nguồn nói rõ. Mức hỗ trợ (tối đa một): `full_funding` · `tuition_waiver` · `partial_funding` · `cash_award`. Khác: `living_stipend` · `needs_work_experience` · `return_commitment` · `needs_english_cert` · `need_based` · `school_nomination` |
 | `description` | | 1–2 câu tiếng Việt (tối đa 280 ký tự) tóm tắt chương trình và đối tượng; chỉ dùng thông tin có nguồn |
 | `tracks` | | Tên các nhánh/vị trí trong chương trình |
 | `fields` | ✓ | Lĩnh vực, một hoặc nhiều: `tech` · `finance` · `audit-consulting` · `business` · `operations` · `engineering` · `hr` · `general` (xem [phạm vi](#phạm-vi)) |

@@ -41,12 +41,18 @@ const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 // Short summary shown under the program name on listing pages.
 const MAX_DESCRIPTION = 280;
+// Facts shown as badges on the scholarship list; every key must be stated by the program's own sources.
+export const HIGHLIGHT_KEYS = [
+  "full_funding", "tuition_waiver", "partial_funding", "cash_award", "living_stipend",
+  "needs_work_experience", "return_commitment", "needs_english_cert", "need_based", "school_nomination",
+];
+const FUNDING_KEYS = ["full_funding", "tuition_waiver", "partial_funding", "cash_award"];
 // Bare hostname of the company website, used to fetch a logo when the company has no techjobs.vn slug.
 const DOMAIN_RE = /^(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z]{2,}$/;
 
 const PROGRAM_FIELDS = new Set([
   "slug", "name", "type", "company", "official_url", "description", "tracks", "fields", "duration",
-  "eligibility", "recurring", "active", "is_visible", "source", "added_at",
+  "eligibility", "recurring", "highlights", "active", "is_visible", "source", "added_at",
   "updated_at", "notes",
 ]);
 const CYCLE_FIELDS = new Set([
@@ -117,6 +123,14 @@ function validateProgram(p) {
     errors.push(`${label}: tracks must be an array of strings`);
   }
 
+  if (p.highlights !== undefined) {
+    const list = p.highlights;
+    if (!Array.isArray(list) || list.some((k) => !HIGHLIGHT_KEYS.includes(k)) || new Set(list).size !== list.length || list.length > HIGHLIGHT_KEYS.length) {
+      errors.push(`${label}: highlights must be unique keys from ${HIGHLIGHT_KEYS.join(", ")}`);
+    } else if (list.filter((k) => FUNDING_KEYS.includes(k)).length > 1) {
+      errors.push(`${label}: highlights may hold at most one funding level (${FUNDING_KEYS.join(", ")})`);
+    }
+  }
   if (p.description !== undefined && !(typeof p.description === "string" && p.description.trim() && p.description.length <= MAX_DESCRIPTION)) {
     errors.push(`${label}: description must be a non-empty string of at most ${MAX_DESCRIPTION} characters`);
   }
