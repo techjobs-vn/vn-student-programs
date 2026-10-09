@@ -5663,6 +5663,7 @@
     "eligibility": "Quốc tịch ngoài EEA; nộp vào chương trình cử nhân hoặc thạc sĩ toàn thời gian tại trường tham gia; đáp ứng yêu cầu của trường; chưa có bằng cấp từ cơ sở giáo dục Hà Lan.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate",
       "master"
     ],
@@ -5743,6 +5744,7 @@
     "eligibility": "Người Việt Nam. Nghiên cứu sinh: sinh sau 02/04/1992 và đã hoặc sắp tốt nghiệp đại học. Đại học, cao đẳng kỹ thuật, trung cấp chuyên nghiệp: sinh sau 02/04/2002 và đã hoặc sắp tốt nghiệp THPT.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate",
       "phd"
     ],
@@ -5781,6 +5783,7 @@
     "eligibility": "Công dân Việt Nam (nước NIIED mời), dưới 25 tuổi tính đến 01/03 của năm tuyển, tốt nghiệp THPT trước 31/12 năm tuyển, chưa tốt nghiệp THPT hay đại học ở Hàn Quốc. Điểm tổng kết từ 80/100, hoặc top 20% lớp, hoặc GPA tối thiểu 2,64/4,0. Cha mẹ không mang quốc tịch Hàn Quốc.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "abroad",
@@ -5817,6 +5820,7 @@
     "eligibility": "Công dân Việt Nam. Theo thông báo của Tổng lãnh sự quán Ấn Độ tại TP.HCM: tuổi 18-40 cho đại học và thạc sĩ, tối đa 50 cho tiến sĩ; không nhận ngành y, y tế phụ trợ, thời trang, luật và các khóa tích hợp 5 năm. Nộp online qua cổng A2A của ICCR.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate",
       "master",
       "phd"
@@ -5896,6 +5900,7 @@
     "eligibility": "Người nước ngoài tốt nghiệp THPT trở lên, học lực xuất sắc, phẩm chất tốt; không phải công dân hay kiều bào Đài Loan; không đang là sinh viên tại Đài Loan; không nhận học bổng khác của chính phủ Đài Loan. Phải nộp riêng hồ sơ nhập học vào trường.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate",
       "master",
       "phd"
@@ -5934,6 +5939,7 @@
     "eligibility": "Công dân hoặc thường trú nhân các nước ASEAN (trừ Singapore); thành tích học tập xuất sắc ở bậc phổ thông, hoạt động ngoại khóa tốt, có tố chất lãnh đạo; học chương trình đại học toàn thời gian lấy bằng đầu tiên. Phải duy trì CGPA từ 3,5/5,0.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "abroad",
@@ -6046,6 +6052,7 @@
     "eligibility": "Công dân ASEAN, Khối Thịnh vượng chung hoặc OIC (không chỉ giới hạn các nhóm này); 18-25 tuổi cho văn bằng và đại học, không quá 35 tuổi cho thạc sĩ; không áp dụng cho thường trú nhân Brunei. Hồ sơ cần được Bộ Ngoại giao hoặc đầu mối học bổng quốc gia xác nhận.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate",
       "master"
     ],
@@ -6082,6 +6089,7 @@
     "eligibility": "Ứng viên nộp hồ sơ vào chương trình cử nhân VinUni (Kinh doanh & Quản lý, Kỹ thuật & Khoa học máy tính, Khoa học sức khỏe, Nghệ thuật & Khoa học). Xét tổng thể theo 4 tiêu chí AACC (năng lực, khát vọng, sáng tạo, quyết tâm), không chỉ dựa vào điểm số/GPA.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -6116,6 +6124,7 @@
     "eligibility": "Công dân Việt Nam; đang học lớp 12 (dự kiến tốt nghiệp 2027) hoặc đã tốt nghiệp THPT không quá 2 năm; GPA có trọng số lớp 10-11 và học kỳ 1 lớp 12 từ 9.0/10; IELTS Academic 6.5 (không kỹ năng nào dưới 6.0) hoặc tương đương; có tố chất lãnh đạo và hoạt động ngoại khóa; đã nộp hồ sơ nhập học RMIT Việt Nam cho chương trình cử nhân.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -6151,6 +6160,7 @@
     "eligibility": "Công dân Việt Nam; đang học lớp 12 (dự kiến tốt nghiệp 2027) hoặc tốt nghiệp THPT không quá 2 năm; GPA có trọng số từ 8.0/10 và điểm Toán có trọng số từ 8.0/10 (lớp 10, 11, học kỳ 1 lớp 12); IELTS Academic 6.5 (không kỹ năng nào dưới 6.0) hoặc tương đương; đã nộp hồ sơ vào Bachelor of Computer Science.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -6187,6 +6197,7 @@
     "eligibility": "Mọi thí sinh nộp hồ sơ vào chương trình cử nhân Fulbright đều được nộp đơn học bổng. Điều kiện nhập học: GPA THPT từ 7.0/10 (hoặc tương đương), có hoạt động ngoại khóa thể hiện một trong ba phẩm chất Fulbright tìm kiếm, IELTS 6.0 (hoặc TOEFL iBT 70, Duolingo 95).",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -6223,6 +6234,7 @@
     "eligibility": "Công dân Việt Nam đang sống tại Việt Nam, không quá 30 tuổi; đã hoặc đang học lớp 12 với điểm trung bình từ 8.5; IELTS 6.5 (không kỹ năng nào dưới 6.0) hoặc tương đương; có thành tích học tập, hoạt động cộng đồng và tiềm năng lãnh đạo; chưa nhận học bổng khác tại thời điểm nộp.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -6259,6 +6271,7 @@
     "eligibility": "Công dân Việt Nam đang sống tại Việt Nam, không quá 30 tuổi; đã hoặc đang học lớp 12 với điểm trung bình từ 8.5; IELTS 6.5 (không kỹ năng nào dưới 6.0) hoặc tương đương; có thành tích học tập, hoạt động cộng đồng và tiềm năng lãnh đạo; chưa nhận học bổng khác tại thời điểm nộp.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -6295,6 +6308,7 @@
     "eligibility": "Thí sinh quốc tịch Việt Nam đã tham gia xét tuyển vào USTH (đợt 1, đợt 2). Mỗi loại có điều kiện riêng: giải học sinh giỏi (Tài năng); GPA 3/6 môn từ 8.0 (Kiến tạo) hoặc từ 8.3/8.8 (Khuyến khích học tập); hộ nghèo/cận nghèo hoặc hoàn cảnh đặc biệt khó khăn (Vượt khó).",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -6332,6 +6346,7 @@
     "eligibility": "Học sinh lớp 12 trên toàn quốc, ứng tuyển trực tiếp hoặc được giáo viên/nhà trường/phụ huynh đề cử. Hạng mục Tinh hoa mở lối: giải học sinh giỏi quốc gia/quốc tế do Bộ GD&ĐT cử đi hoặc SAT từ 1430, kèm hồ sơ năng lực lãnh đạo, video tự giới thiệu và phỏng vấn.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -6367,6 +6382,7 @@
     "eligibility": "Tân sinh viên các chương trình cử nhân VGU. Học bổng năm nhất xét theo phương thức tuyển sinh (TestAS, giải quốc gia/tỉnh, SAT/ACT/IB/A-Level...). Học bổng toàn phần 4 năm yêu cầu IELTS Academic 7.0 và học bổng 100% học phí từ TestAS/chứng chỉ quốc tế hoặc giải quốc gia các môn Toán, Lý, Hóa, Tin.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -6438,6 +6454,7 @@
     "eligibility": "Thí sinh đáp ứng một trong bốn điều kiện: học bạ THPT lớp 11 hoặc 12 tổ hợp 3 môn (Văn, Toán, 1 môn tự chọn) từ 26 điểm; điểm thi tốt nghiệp THPT tổ hợp 3 môn từ 24 điểm; điểm thi đánh giá năng lực ĐHQG TP.HCM từ 1.000; hoặc IELTS từ 7.5.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -6509,6 +6526,7 @@
     "eligibility": "Học sinh quốc tế vào thẳng đại học từ trường phổ thông, học bằng đầu tiên, điểm toàn A hoặc tương đương, chứng minh được nhu cầu tài chính đáng kể, được trường đề cử cộng một giáo viên giới thiệu; đạt chuẩn tiếng Anh của trường.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "abroad",
@@ -6652,6 +6670,7 @@
     "eligibility": "Sinh viên tự túc cư trú chủ yếu tại Việt Nam trong ba năm gần nhất, đã có thư mời nhập học hệ toàn thời gian; đại học cần A-level, IB hoặc tương đương, thạc sĩ cần bằng cử nhân học tại Đông Nam Á.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate",
       "master"
     ],
@@ -6725,6 +6744,7 @@
     "eligibility": "Sinh viên quốc tế đã có thư mời nhập học chính thức vào chương trình đại học hoặc thạc sĩ coursework toàn thời gian tại trường; không gồm hệ online và UNSW Canberra.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate",
       "master"
     ],
@@ -6836,6 +6856,7 @@
     "eligibility": "Công dân các nước nhận hỗ trợ phát triển chính thức, trong đó có Việt Nam; sinh viên mới bậc đại học, đã có thư mời nhập học, ưu tiên người chưa học đại học, có nhu cầu tài chính và dự định về nước.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "abroad",
@@ -6983,6 +7004,7 @@
     "eligibility": "Học sinh Việt Nam muốn học đại học tại các trường chỉ định ở Nhật (chương trình cử nhân dạy bằng tiếng Anh); chi tiết điều kiện (điểm, tiếng Anh, giấy tờ) nằm trong file PDF Application Guidelines trên trang, chưa đọc.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "abroad",
@@ -7124,6 +7146,7 @@
     "eligibility": "Sinh viên không phải người Hong Kong, vào thẳng từ trung học (không nhận ứng viên đã học sau trung học); thể hiện nghị lực vượt khó và tiềm năng đóng góp; đạt yêu cầu tuyển sinh HKUST và được đề cử nhập học ở vòng Early; mức cao cần chứng minh hoàn cảnh tài chính đặc biệt khó khăn.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "abroad",
@@ -7232,6 +7255,7 @@
     "eligibility": "Sinh viên quốc tế từ mọi quốc gia nộp cho bậc cao đẳng, cử nhân, thạc sĩ, tiến sĩ; điều kiện chi tiết về tuổi và điểm số chưa có trong các trang đã đọc.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate",
       "master",
       "phd"
@@ -7308,6 +7332,7 @@
     "eligibility": "Tân sinh viên trúng tuyển đại học hoặc cao đẳng, có giấy xác nhận nhập học; ưu tiên mồ côi, hộ nghèo/cận nghèo, vùng thiên tai, khuyết tật, cha mẹ bệnh nặng, gia đình gặp biến cố và có nỗ lực vươn lên. Tự đăng ký hoặc được người khác giới thiệu qua cổng trực tuyến.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -7383,6 +7408,7 @@
     "eligibility": "Học sinh THPT đăng ký ứng tuyển và nhập học chương trình Tiêu chuẩn của Văn Lang (không áp dụng Global Elite, Global Standard, Global Partnership); mức cao nhất xét hồ sơ thành tích (giải thưởng học thuật, nghệ thuật, thể thao, dự án cộng đồng).",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -7419,6 +7445,7 @@
     "eligibility": "Học sinh đạt thành tích học thuật cấp quốc gia, quốc tế hoặc giải Nhất học sinh giỏi cấp tỉnh/thành; IELTS Academic từ 6.0 trở lên hoặc tương đương (được bổ sung trước 31/12/2026); ưu tiên người tham gia hoặc khởi xướng dự án cộng đồng, thể hiện tiềm năng lãnh đạo.",
     "recurring": "yearly",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -7455,6 +7482,7 @@
     "eligibility": "Ứng viên chương trình cử nhân Fulbright khóa nhập học 09/2026 (đã hoặc sắp nộp hồ sơ, đã có thư nhận hoặc đã nhập học); phải hoàn tất đơn tuyển sinh Fulbright và nộp video tiếng Anh 3-5 phút, đăng công khai TikTok hoặc YouTube chế độ không công khai; có phỏng vấn với hội đồng.",
     "recurring": "unknown",
     "levels": [
+      "highschool",
       "undergraduate"
     ],
     "study_in": "vietnam",
@@ -7525,5 +7553,2173 @@
     "added_at": "2026-10-09",
     "updated_at": "2026-10-09",
     "notes": "Trang tuyển dụng chính thức của Shopee Việt Nam trên Cake (ATS, đã fetch) ghi quy trình: nộp đơn rồi phỏng vấn nhân sự; đồng hành tháng 7 đến tháng 11. Chỉ ghi hạn nộp 28/06/2026, không ghi ngày mở nên opens_at null. Trang Đại học FPT (đã fetch) xác nhận cùng hạn. Kết quả tìm kiếm có tin CAP 2025 trên ybox (chưa fetch) nên đánh dấu yearly. Chưa tìm được trang trên careers.shopee.vn (JS, không đọc được)."
+  },
+  {
+    "slug": "apu-tuition-reduction-scholarship",
+    "name": "APU Tuition Reduction Scholarship for International Students",
+    "type": "scholarship",
+    "company": {
+      "name": "Ritsumeikan Asia Pacific University (APU)",
+      "slug": null,
+      "domain": "apu.ac.jp"
+    },
+    "official_url": "https://admissions.apu.ac.jp/costs_scholarships/before_enrollment/",
+    "description": "Học bổng giảm 30%, 50%, 65%, 80% hoặc 100% học phí cho sinh viên quốc tế bậc cử nhân tại APU (Nhật Bản), xét cùng hồ sơ nhập học online.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Theo thời gian học chuẩn, tối đa 8 học kỳ nếu đạt điều kiện học tập",
+    "eligibility": "Thí sinh quốc tế nộp hồ sơ vào bậc cử nhân APU với tư cách sinh viên quốc tế (visa Student); xét theo bài luận, thư giới thiệu, phỏng vấn ghi hình và hoàn cảnh tài chính; đến Nhật Bản.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Cần người kiểm tra lại bảng lịch trên application_schedule (tên đợt VNMFA1-4 chỉ thấy qua agent). Hạn nhập học 4/2027 sắp hết (14/10/2026).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding",
+      "needs_english_cert",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "sutd-rainmaker-international-scholarship",
+    "name": "SUTD Rainmaker (International) Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Singapore University of Technology and Design (SUTD)",
+      "slug": null,
+      "domain": "sutd.edu.sg"
+    },
+    "official_url": "https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/sutd-rainmaker-scholarship-intl/",
+    "description": "Học bổng chi trả học phí sau trợ cấp (Tuition Grant) tối đa 4 năm, cộng S$10,000 mỗi năm và tối đa S$5,000 hỗ trợ chương trình ở nước ngoài, không ràng buộc làm việc.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 4 năm",
+    "eligibility": "Sinh viên quốc tế hoặc thường trú nhân Singapore nộp hồ sơ vào SUTD, có kết quả xuất sắc (A-level, IB, Year 12 tương đương), năng lực lãnh đạo và hoạt động ngoại khoá nổi bật.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang chính thức không nêu ngày cho đợt 2027, cần kiểm tra lại từ tháng 1/2027. Học bổng yêu cầu nhận Tuition Grant của Chính phủ Singapore (trang ghi không có bond kèm theo học bổng).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding",
+      "needs_english_cert"
+    ]
+  },
+  {
+    "slug": "sutd-trailblazers-international-scholarship",
+    "name": "SUTD Trailblazers (International) Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Singapore University of Technology and Design (SUTD)",
+      "slug": null,
+      "domain": "sutd.edu.sg"
+    },
+    "official_url": "https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/sutd-trailblazers-scholarship-intl/",
+    "description": "Học bổng chi trả học phí sau trợ cấp (Tuition Grant) tối đa 4 năm cho sinh viên quốc tế có tiềm năng lãnh đạo, không ràng buộc làm việc.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 4 năm",
+    "eligibility": "Sinh viên quốc tế hoặc thường trú nhân Singapore nộp hồ sơ vào SUTD, có kết quả xuất sắc (A-level, IB, Year 12 tương đương), năng lực lãnh đạo và hoạt động cộng đồng nổi bật.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Cùng cơ chế với Rainmaker, không có phụ cấp tiền mặt. Cần kiểm tra lịch 2027.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "tuition_waiver"
+    ]
+  },
+  {
+    "slug": "smu-asean-undergraduate-scholarship",
+    "name": "SMU ASEAN Undergraduate Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Singapore Management University (SMU)",
+      "slug": null,
+      "domain": "smu.edu.sg"
+    },
+    "official_url": "https://admissions.smu.edu.sg/financial-aid/asean-undergraduate-scholarship",
+    "description": "Học bổng 100% học phí sau trợ cấp MOE, S$5,800 sinh hoạt phí mỗi năm, S$1,750 máy tính một lần và S$3,000 phụ cấp chỗ ở mỗi năm cho công dân ASEAN.",
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Công dân ASEAN (không tính Singapore, gồm Việt Nam) nộp hồ sơ cử nhân toàn thời gian tại SMU, có năng lực lãnh đạo, hoạt động ngoại khoá tốt và kết quả THPT xuất sắc.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Người nhận phải nhận MOE Tuition Grant nên bị ràng buộc làm việc 3 năm cho công ty đăng ký tại Singapore sau tốt nghiệp (theo trang). Cần theo dõi lịch AY2027-28.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding"
+    ]
+  },
+  {
+    "slug": "tsinghua-international-undergraduate-freshmen-scholarship",
+    "name": "Tsinghua University International Undergraduate Freshmen Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Tsinghua University",
+      "slug": null,
+      "domain": "tsinghua.edu.cn"
+    },
+    "official_url": "https://international.join-tsinghua.edu.cn/Admission1/Freshmen_Scholarships1.htm",
+    "description": "Học bổng cho sinh viên quốc tế năm nhất ở Tsinghua, năm đầu được miễn toàn phần, một nửa hoặc một phần học phí; khoảng 45% tân sinh viên quốc tế nhận năm 2026.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Năm học đầu tiên; các năm sau xét học bổng khác",
+    "eligibility": "Sinh viên quốc tế năm nhất bậc cử nhân Tsinghua nộp đơn học bổng qua hệ thống nộp hồ sơ; đến Trung Quốc.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang học bổng không nêu hạn riêng cho học bổng, ngày lấy theo lịch tuyển sinh. Học bổng Chính phủ Trung Quốc (CSC Type A) đã có trong danh sách.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding",
+      "needs_english_cert"
+    ]
+  },
+  {
+    "slug": "nthu-international-student-scholarship",
+    "name": "NTHU International Student Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "National Tsing Hua University (NTHU)",
+      "slug": null,
+      "domain": "nthu.edu.tw"
+    },
+    "official_url": "https://apply.nthu.edu.tw/en/article/102-nthu-scholarship",
+    "description": "Học bổng miễn học phí và phí tín chỉ, kèm phụ cấp NT$5,000 mỗi tháng cho sinh viên cử nhân quốc tế, nộp qua cùng hệ thống online với hồ sơ nhập học.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 4 năm kể từ khi nhập học",
+    "eligibility": "Sinh viên quốc tế mới nộp hồ sơ bậc cử nhân tại NTHU (Đài Loan), chọn mục xin học bổng trong hệ thống nộp hồ sơ online.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Mức 'miễn học phí' và 'tối đa 4 năm' lấy từ trang oga.site.nthu.edu.tw qua agent; cần kiểm tra lại. Nếu NTHU không nhận cử nhân quốc tế đợt Fall thì chương trình không khả dụng với THPT.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding"
+    ]
+  },
+  {
+    "slug": "ntu-taiwan-international-undergraduate-student-scholarship",
+    "name": "NTU International Undergraduate Student Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "National Taiwan University (NTU)",
+      "slug": null,
+      "domain": "ntu.edu.tw"
+    },
+    "official_url": "https://admissions.ntu.edu.tw/fees-scholarships/scholarships/",
+    "description": "Học bổng hỗ trợ học phí tối đa TWD 100,000 mỗi học kỳ và phụ cấp TWD 8,000 mỗi tháng cho sinh viên cử nhân quốc tế; tích chọn khi nộp hồ sơ online.",
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Mọi sinh viên quốc tế bậc cử nhân nộp hồ sơ NTU (Đài Loan) qua hệ thống đăng ký, tích chọn mục xin học bổng; không giới hạn quốc tịch.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang chính thức tải bằng JS, mức hỗ trợ và ngày lấy qua tinyfish agent. Khác với Taiwan MOE Scholarship đã có.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "zju-zibs-hai-scholarship",
+    "name": "ZIBS Hai Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Zhejiang University (International Business School, Haining)",
+      "slug": null,
+      "domain": "zju.edu.cn"
+    },
+    "official_url": "https://zibs.zju.edu.cn/enzibs/UndergraduateApplication/list.htm",
+    "description": "Học bổng RMB 5,000 đến 30,000 cho thí sinh quốc tế có tiềm năng nổi bật vào chương trình cử nhân tiếng Anh Global Communication and Management của ZIBS.",
+    "fields": [
+      "business"
+    ],
+    "duration": "4 năm chương trình",
+    "eligibility": "Thí sinh quốc tế (không mang quốc tịch Trung Quốc) nộp vào cử nhân Global Communication and Management ZIBS, điền Hai Application Form cùng hồ sơ.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Mức RMB 5,000-30,000 không nói rõ theo năm hay một lần. Học bổng trả sau khi sinh viên đến campus. Cần kiểm tra lịch 2027.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "cash_award",
+      "needs_english_cert"
+    ]
+  },
+  {
+    "slug": "sophia-benefactors-adachi-scholarship",
+    "name": "Sophia University Benefactors' (Adachi) Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Sophia University",
+      "slug": null,
+      "domain": "sophia.ac.jp"
+    },
+    "official_url": "https://piloti.sophia.ac.jp/eng/scholarships1/scholraship_e0005/",
+    "description": "Học bổng miễn toàn bộ học phí và phí nâng cao giáo dục năm đầu cho sinh viên quốc tế vào các chương trình cử nhân tiếng Anh tại Sophia (Nhật Bản).",
+    "fields": [
+      "general"
+    ],
+    "duration": "Năm học đầu tiên",
+    "eligibility": "Sinh viên quốc tế (visa Student) thi tuyển chương trình tiếng Anh năm 2027, chọn Sophia là nguyện vọng 1, điểm tốt nhưng gặp khó khăn tài chính.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Chương trình tiếng Anh gồm Faculty of Liberal Arts, Digital Green Technology (Science and Technology) và SPSF. Nhập học 4/2027 vẫn còn đợt 2 đến 2026-12-11.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "tuition_waiver",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "sophia-new-student-scholarship",
+    "name": "Sophia University New Student Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Sophia University",
+      "slug": null,
+      "domain": "sophia.ac.jp"
+    },
+    "official_url": "https://www.sophia.ac.jp/eng/admissions-and-aid/tuition/scholarship-before/",
+    "description": "Học bổng miễn một phần ba, một nửa hoặc toàn bộ học phí năm đầu cho tân sinh viên khó khăn tài chính, nộp cùng lúc đăng ký thi tuyển vào Sophia.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Năm học đầu tiên",
+    "eligibility": "Thí sinh quốc tế và Nhật Bản chọn Sophia là nguyện vọng 1, điểm xuất sắc nhưng khó khăn tài chính; nộp đơn khi đăng ký thi chương trình tiếng Anh.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Học bổng dựa trên khó khăn tài chính; dành cho cả sinh viên Nhật nên cạnh tranh hơn Adachi.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "sydney-international-student-award",
+    "name": "Sydney International Student Award",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Sydney",
+      "slug": null,
+      "domain": "sydney.edu.au"
+    },
+    "official_url": "https://www.sydney.edu.au/study/fees-and-loans/scholarships/sydney-international-student-award.html",
+    "description": "Giảm 20% học phí trong suốt khoá học cho sinh viên quốc tế từ các thị trường chọn lọc (có Việt Nam) nhập học đại học hoặc sau đại học năm 2027.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Suốt thời gian khoá học",
+    "eligibility": "Công dân các nước trong danh sách (gồm Việt Nam) nhận offer hệ coursework toàn thời gian bắt đầu 2027; nộp bài tự luận tối đa 200 từ trong hồ sơ nhập học.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Áp dụng cả bậc cử nhân và thạc sĩ coursework. Cần kiểm tra hạn nộp hồ sơ nhập học từng khoá.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "sydney-international-undergraduate-academic-excellence-scholarship",
+    "name": "Sydney International Undergraduate Academic Excellence Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Sydney",
+      "slug": null,
+      "domain": "sydney.edu.au"
+    },
+    "official_url": "https://www.sydney.edu.au/scholarships/e/sydney-international-undergraduate-academic-excellence-scholarship.html",
+    "description": "Học bổng 100% học phí và phí SSAF suốt khoá cử nhân (tối đa 4 năm) cho khoảng 20 sinh viên quốc tế xuất sắc mỗi năm trên toàn cầu.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 4 năm",
+    "eligibility": "Sinh viên quốc tế đã nộp hồ sơ nhưng chưa nhập học một chương trình cử nhân tại Sydney, tốt nghiệp THPT, chưa học đại học trước đó; nộp form online.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang nói dành cho 'diverse priority markets' nhưng không liệt kê nước; không loại trừ Việt Nam, cần xác nhận với trường.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "tuition_waiver"
+    ]
+  },
+  {
+    "slug": "uts-vice-chancellors-international-undergraduate-scholarship",
+    "name": "UTS Vice-Chancellor's International Undergraduate Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Technology Sydney (UTS)",
+      "slug": null,
+      "domain": "uts.edu.au"
+    },
+    "official_url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship",
+    "description": "Học bổng học phí UTS trong suốt thời gian chuẩn của khoá cử nhân cho sinh viên quốc tế có điểm trung bình THPT từ 85% trở lên, nhập học 2/2027.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Thời gian chuẩn của khoá học",
+    "eligibility": "Sinh viên quốc tế đủ điều kiện nhập học UTS, học toàn thời gian tại Sydney, tốt nghiệp THPT trong 3 năm gần nhất với điểm trung bình từ 85%; nộp form học bổng online.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang hiện ghi giá trị là 'UTS Tuition Fees'; tờ rơi cũ của UTS ghi 100% học phí.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "tuition_waiver"
+    ]
+  },
+  {
+    "slug": "otago-international-academic-excellence-scholarship",
+    "name": "University of Otago International Academic Excellence Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Otago",
+      "slug": null,
+      "domain": "otago.ac.nz"
+    },
+    "official_url": "https://www.otago.ac.nz/courses/scholarships/international-academic-excellence-scholarship",
+    "description": "Học bổng khoảng NZ$35,000 trong 3 năm: miễn phí ký túc xá năm đầu và NZ$7,000 học phí mỗi năm ở năm 2 và 3, cho sinh viên cử nhân quốc tế xuất sắc.",
+    "fields": [
+      "general"
+    ],
+    "duration": "3 năm",
+    "eligibility": "Sinh viên quốc tế tốt nghiệp THPT ngoài New Zealand, học toàn thời gian bậc cử nhân tại Otago từ năm nhất; được mời nộp đơn sau khi nhận offer, xét cạnh tranh.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Chỉ mời nộp sau khi nhận học bổng Global hoặc Vice-Chancellor's (tự động xét). Bài mạng xã hội nêu hạn 31/10/2026 nhưng chưa thấy trên trang chính thức.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "lester-b-pearson-international-scholarship",
+    "name": "Lester B. Pearson International Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Toronto",
+      "slug": null,
+      "domain": "utoronto.ca"
+    },
+    "official_url": "https://future.utoronto.ca/pearson-scholarships",
+    "description": "Học bổng toàn phần 4 năm của University of Toronto cho sinh viên quốc tế bậc cử nhân: học phí, sách, phí phát sinh và chi phí ký túc xá. Mỗi năm có khoảng 37 suất.",
+    "fields": [
+      "general"
+    ],
+    "duration": "4 năm",
+    "eligibility": "Học sinh quốc tế năm cuối THPT (hoặc tốt nghiệp từ 6/2026) được trường THPT đề cử, nộp đơn vào cử nhân U of T nhập học 9/2027; mỗi trường đề cử 1 học sinh/năm.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Bắt buộc có trường THPT đề cử nên học sinh Việt Nam cần hỏi trường có tham gia chương trình không; hạn đề cử của trường là ngày 9/10/2026.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "school_nomination"
+    ]
+  },
+  {
+    "slug": "mcmaster-university-award-of-excellence",
+    "name": "McMaster University Award of Excellence",
+    "type": "scholarship",
+    "company": {
+      "name": "McMaster University",
+      "slug": null,
+      "domain": "mcmaster.ca"
+    },
+    "official_url": "https://future.mcmaster.ca/internationalawards/",
+    "description": "Học bổng đầu vào danh giá của McMaster cho sinh viên quốc tế đóng học phí quốc tế, trị giá tới $200,000 trong 4 năm, xét thành tích học tập, đóng góp cộng đồng và tiềm năng.",
+    "fields": [
+      "general"
+    ],
+    "duration": "4 năm",
+    "eligibility": "Sinh viên quốc tế đóng học phí quốc tế vào năm nhất các khoa Business, Engineering, Humanities, Science hoặc Social Sciences; nộp qua AwardSpring; học bổng gia hạn các năm 2-4 nếu đạt điều kiện.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Nguồn không ghi đơn vị tiền tệ của mức $200,000 (nhiều khả năng là CAD); giá trị cuối cùng phụ thuộc khoa và số môn học.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad"
+  },
+  {
+    "slug": "sfu-international-undergraduate-scholars-entrance-scholarship",
+    "name": "International Undergraduate Scholars Entrance Scholarship (USES)",
+    "type": "scholarship",
+    "company": {
+      "name": "Simon Fraser University",
+      "slug": null,
+      "domain": "sfu.ca"
+    },
+    "official_url": "https://www.sfu.ca/students/financial-aid/entrance/highschool/uses.html",
+    "description": "Học bổng đầu vào của SFU dành cho học sinh THPT quốc tế xuất sắc về học tập và hoạt động ngoại khóa, trị giá $140,000 chi trả thành 8 đợt x $17,500.",
+    "fields": [
+      "general"
+    ],
+    "duration": "8 đợt chi trả (8 x $17,500)",
+    "eligibility": "Học sinh THPT quốc tế nộp đơn vào SFU học kỳ Fall 2027, tốt nghiệp THPT năm nhập học (hoặc năm trước, chưa học đại học), điểm tối thiểu 90% hoặc 31 điểm IB.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Nguồn không ghi đơn vị tiền tệ (SFU ở Canada); một số trường hợp có thêm $8,000/kỳ chi phí sinh hoạt nếu có nhu cầu tài chính.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "cash_award"
+    ]
+  },
+  {
+    "slug": "mcgill-major-entrance-scholarships",
+    "name": "McGill Major Entrance Scholarships",
+    "type": "scholarship",
+    "company": {
+      "name": "McGill University",
+      "slug": null,
+      "domain": "mcgill.ca"
+    },
+    "official_url": "https://www.mcgill.ca/studentaid/scholarships-aid/future-undergrads/entrance-scholarships",
+    "description": "Học bổng đầu vào lớn của McGill cho sinh viên năm nhất, xét thành tích học tập và năng lực lãnh đạo; có nhiều mức, gia hạn tối đa 4 năm nếu đạt điều kiện (mức $12,000 chỉ dành cho công dân/thường trú nhân Canada).",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 4 năm (gia hạn theo điều kiện)",
+    "eligibility": "Sinh viên năm nhất bậc cử nhân học lần đầu; thí sinh học trường ngoài Canada nộp đơn riêng qua cổng tuyển sinh kèm 2 thư giới thiệu và bài luận.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Học bổng một năm $3,000 xét tự động nên không tính. Cần người kiểm tra năm của hạn 21/1 và mức giá trị dành cho sinh viên quốc tế ($3,000-$10,000 mỗi năm theo trang).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "davidson-john-m-belk-scholarship",
+    "name": "John M. Belk Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Davidson College",
+      "slug": null,
+      "domain": "davidson.edu"
+    },
+    "official_url": "https://www.davidson.edu/admission-and-financial-aid/financial-aid/types-financial-aid/scholarships/nomination-scholarships/john-m-belk-scholarship",
+    "description": "Học bổng danh giá nhất của Davidson College: tài trợ toàn bộ học phí, lệ phí, nhà ở, ăn uống cộng $6,000 chi phí trải nghiệm đặc biệt; mỗi khóa nhận 8 Belk Scholar.",
+    "fields": [
+      "general"
+    ],
+    "duration": "4 năm",
+    "eligibility": "Học sinh THPT trong và ngoài Mỹ được trường hoặc tổ chức hỗ trợ vào đại học đề cử (tối đa 2 em/trường) rồi nộp đơn vào Davidson; sinh viên quốc tế đủ điều kiện.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Cần người kiểm tra năm của các mốc ngày. Trang cho biết Davidson cũng có thể tự đề cử dựa trên hồ sơ tuyển sinh.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "school_nomination"
+    ]
+  },
+  {
+    "slug": "emory-university-scholar-programs-woodruff",
+    "name": "Emory University Scholar Programs (Woodruff Scholars)",
+    "type": "scholarship",
+    "company": {
+      "name": "Emory University",
+      "slug": null,
+      "domain": "emory.edu"
+    },
+    "official_url": "https://apply.emory.edu/financial-aid/scholar-program",
+    "description": "Chương trình học bổng theo thành tích từ một phần đến toàn phần của Emory (gồm Woodruff Scholars ở Emory College và Oxford College), kèm đăng ký học sớm và cộng đồng học giả.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 8 học kỳ",
+    "eligibility": "Thí sinh năm nhất bậc cử nhân, kể cả thí sinh quốc tế, trả lời Yes cho câu hỏi về Scholar Programs khi nộp đơn tuyển sinh Emory.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Cần người kiểm tra năm; mức hỗ trợ không cố định (từ một phần đến toàn phần). Học bổng theo nhu cầu tài chính là quy trình riêng.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding"
+    ]
+  },
+  {
+    "slug": "ualberta-presidents-international-distinction-scholarship",
+    "name": "President's International Distinction Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Alberta",
+      "slug": null,
+      "domain": "ualberta.ca"
+    },
+    "official_url": "https://www.ualberta.ca/en/admissions/tuition-and-scholarships/international-entrance-scholarships/index.html",
+    "description": "Học bổng đầu vào của University of Alberta cho sinh viên quốc tế năm nhất có điểm đầu vào vượt trội và năng lực lãnh đạo, tối đa CAN $120,000 chi trả trong 4 năm; mỗi năm có 25 suất.",
+    "fields": [
+      "general"
+    ],
+    "duration": "4 năm",
+    "eligibility": "Sinh viên quốc tế (diện giấy phép du học) vào năm nhất bậc cử nhân, đã nộp hồ sơ vào chương trình cử nhân rồi nộp đơn học bổng chung của trường.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Cần người kiểm tra năm của hạn 10/1. Cùng đơn còn xét International Leader Scholarship (tới CAN $15,000) và học bổng khác.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad"
+  },
+  {
+    "slug": "exeter-excellence-scholarships-undergraduate",
+    "name": "Exeter Excellence Scholarships (Undergraduate)",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Exeter",
+      "slug": null,
+      "domain": "exeter.ac.uk"
+    },
+    "official_url": "https://www.exeter.ac.uk/study/funding/award/?id=5910",
+    "description": "150 suất giảm học phí £15,000 mỗi năm cho sinh viên quốc tế xuất sắc vào cử nhân tại cơ sở Vương quốc Anh của Exeter, nhập học 2027/28.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Mỗi năm học đủ điều kiện (thời gian thay đổi theo chương trình)",
+    "eligibility": "Sinh viên quốc tế tự túc đã có thư mời (có điều kiện hoặc không) vào năm nhất cử nhân Exeter 9/2027 ở các khoa được liệt kê, tương đương điểm A-level AAB; không áp dụng cho học viên dự bị ISC.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Bỏ qua các ngành loại trừ (BMBS Medicine, Medical Imaging, v.v.). Có thể có vòng sau; ngày mở đơn chưa thấy trên trang.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "durham-inspiring-excellence-undergraduate-scholarship",
+    "name": "Durham Inspiring Excellence Undergraduate Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Durham University",
+      "slug": null,
+      "domain": "durham.ac.uk"
+    },
+    "official_url": "https://www.durham.ac.uk/study/scholarships/international/durham-inspiring-excellence-scholarships/undergraduate/",
+    "description": "Học bổng cạnh tranh giảm học phí £5,000 hoặc £10,000 mỗi năm (tối đa £15,000-£30,000 trong 3 năm) cho sinh viên quốc tế tự túc vào cử nhân Durham 9/2027.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 3 năm",
+    "eligibility": "Sinh viên quốc tế tự túc nộp đơn UCAS vào chương trình cử nhân toàn thời gian, chọn Durham là Firm Choice, nhập học 9/2027 và nộp form học bổng.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Số suất có hạn; chọn dựa trên câu trả lời, thành tích học tập và sự cân bằng quốc tịch giữa các chương trình.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "leeds-undergraduate-international-excellence-scholarship",
+    "name": "Undergraduate International Excellence Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Leeds",
+      "slug": null,
+      "domain": "leeds.ac.uk"
+    },
+    "official_url": "https://www.leeds.ac.uk/scholarship/15/undergraduate-international-excellence-scholarships",
+    "description": "Học bổng giảm học phí năm nhất £3,000, £6,000 hoặc £16,000 cho sinh viên quốc tế có thành tích THPT xuất sắc và kỹ năng cá nhân nổi bật vào cử nhân Leeds 9/2027.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Năm học đầu tiên",
+    "eligibility": "Sinh viên quốc tế tự túc hoặc được tài trợ một phần, đã có thư mời cử nhân bắt đầu 9/2027 (năm nhất), nộp đơn học bổng sau khi có thư mời; trừ Medicine và Dentistry.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Người nộp phải có thư mời cho từng chương trình và nộp đơn riêng cho mỗi chương trình.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "um-nl-global-studies-scholarship",
+    "name": "UM NL Global Studies Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "Maastricht University",
+      "slug": null,
+      "domain": "maastrichtuniversity.nl"
+    },
+    "official_url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies",
+    "description": "Học bổng toàn phần (miễn học phí và trợ cấp sinh hoạt €20,150/năm) cho sinh viên cử nhân Global Studies tại Maastricht có hoàn cảnh tài chính khó khăn và tiềm năng phát triển cá nhân.",
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Công dân nước đủ điều kiện nhận ODA của OECD (không có quốc tịch EU/EEA, Thụy Sĩ hay Suriname), đã nộp đủ hồ sơ vào BSc Global Studies 2027-28 trước 10/12/2026, chưa có bằng đại học, dưới 35 tuổi.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Nguồn chỉ nói quốc gia đủ điều kiện nhận ODA của OECD, cần người kiểm tra Việt Nam nằm trong danh sách. Mỗi sinh viên chỉ được nộp một học bổng UM.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "aalto-university-excellence-scholarship-bachelors",
+    "name": "Aalto University Excellence Scholarship (Bachelor's)",
+    "type": "scholarship",
+    "company": {
+      "name": "Aalto University",
+      "slug": null,
+      "domain": "aalto.fi"
+    },
+    "official_url": "https://www.aalto.fi/en/admission-services/scholarships-and-tuition-fees",
+    "description": "Học bổng miễn toàn bộ học phí cho một số ít ứng viên xuất sắc đóng học phí (ngoài EU/EEA) vào chương trình cử nhân giảng dạy bằng tiếng Anh của Aalto; không bao gồm chi phí sinh hoạt.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Thời gian chuẩn của chương trình (cử nhân 3 năm)",
+    "eligibility": "Công dân ngoài EU/EEA phải đóng học phí, chọn nộp học bổng ngay trong đơn xin vào cử nhân Aalto (không nộp được sau kỳ nhận hồ sơ).",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Rất ít suất và ngành có thể quyết định không trao học bổng; có nguồn không chính thức nói số học bổng giảm từ 2027, cần người kiểm tra. Sinh viên mới cử nhân còn có giảm 25% học phí năm đầu nếu nhận học và đóng học phí đúng hạn (không phải học bổng).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "tuition_waiver"
+    ]
+  },
+  {
+    "slug": "bocconi4access-100-full-tuition-waivers",
+    "name": "Bocconi4Access to Education - 100% Full Tuition Waivers",
+    "type": "scholarship",
+    "company": {
+      "name": "Bocconi University",
+      "slug": null,
+      "domain": "unibocconi.it"
+    },
+    "official_url": "https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/funding/100-full-tuition-waivers-ay-2027-28",
+    "description": "Miễn 100% học phí và lệ phí cho sinh viên quốc tế năm nhất chương trình cử nhân và Luật tại Bocconi, xét theo hoàn cảnh kinh tế gia đình, gia hạn hằng năm nếu đạt điều kiện học tập.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Gia hạn hằng năm trong thời gian học chuẩn nếu đạt yêu cầu",
+    "eligibility": "Sinh viên quốc tế đã ghi danh năm nhất cử nhân hoặc Luật năm học 2027-28 và nộp đơn duy nhất Bocconi4Access to Education trong kỳ quy định.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi đang cập nhật. Xét theo điều kiện kinh tế-tài sản gia đình, không phải thuần học bổng thành tích; Bocconi sẽ xét các hỗ trợ khác nếu không đủ nguồn cho mức 100%.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "tuition_waiver",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "uwc-vietnam-national-committee-scholarship",
+    "name": "Học bổng UWC qua Ủy ban Quốc gia UWC Việt Nam (IB Diploma)",
+    "type": "scholarship",
+    "company": {
+      "name": "UWC Vietnam (United World Colleges)",
+      "slug": null,
+      "domain": "vn.uwc.org"
+    },
+    "official_url": "https://vn.uwc.org/eligibility-criteria/",
+    "description": "Ủy ban Quốc gia UWC Việt Nam tuyển học sinh THPT vào chương trình IB Diploma 2 năm tại hệ thống trường UWC; hơn 80% học sinh do ủy ban quốc gia tuyển chọn nhận hỗ trợ tài chính toàn phần hoặc một phần.",
+    "fields": [
+      "general"
+    ],
+    "duration": "2 năm (IB Diploma)",
+    "eligibility": "Công dân Việt Nam đang sống tại Việt Nam, đang học lớp 10, 11 hoặc 12 và 16-18 tuổi khi nhập học vào tháng 9; không yêu cầu chứng chỉ tiếng Anh nhưng cần giao tiếp được bằng tiếng Anh.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Mức hỗ trợ cụ thể do ủy ban quốc gia đánh giá theo khả năng tài chính; trang uwc.org nêu mỗi ủy ban tự đặt hạn nộp.",
+    "levels": [
+      "highschool"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "need_based"
+    ]
+  },
+  {
+    "slug": "new-zealand-schools-scholarships-vietnam",
+    "name": "New Zealand Schools Scholarships (NZSS) dành cho học sinh Việt Nam",
+    "type": "scholarship",
+    "company": {
+      "name": "Education New Zealand Manapou ki te Ao",
+      "slug": null,
+      "domain": "enz.govt.nz"
+    },
+    "official_url": "https://www.enz.govt.nz/news-and-research/ed-news/2026-new-zealand-school-scholarships-launched-in-viet-nam",
+    "description": "Học bổng của chính phủ New Zealand cho học sinh Việt Nam học trung học tại New Zealand; mỗi suất giảm 50% học phí năm học đầu tiên, năm 2026 có 56 suất tại 56 trường.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối thiểu 1 năm học (4 term), bắt đầu Term 3 tháng 7/2026",
+    "eligibility": "Công dân Việt Nam đang học lớp 8, 9 hoặc 10 tại Việt Nam, 13-16 tuổi, GPA từ 8.0 và tiếng Anh tương đương IELTS 5.0; học tối thiểu một năm học (4 term) tại New Zealand.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Đợt 2026 đã đóng. Cấp học là lớp 8-10 (trung học cơ sở/phổ thông), học trung học tại New Zealand.",
+    "levels": [
+      "highschool"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "new-zealand-universities-awards-vietnam",
+    "name": "New Zealand Universities Awards (NZUA) dành cho sinh viên Việt Nam",
+    "type": "scholarship",
+    "company": {
+      "name": "Education New Zealand Manapou ki te Ao",
+      "slug": null,
+      "domain": "enz.govt.nz"
+    },
+    "official_url": "https://www.enz.govt.nz/news-and-research/ed-news/supporting-university-recruitment-and-raising-new-zealands-profile-in-viet-nam",
+    "description": "Học bổng do Education New Zealand (chính phủ NZ) cấp riêng cho sinh viên Việt Nam học đại học tại New Zealand; năm 2026 có 15 suất, mỗi suất NZD 15.000 cho năm học đầu, tại sáu trường đại học.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Năm học đầu của chương trình cử nhân",
+    "eligibility": "Công dân Việt Nam đã học xong trung học tại Việt Nam, có thư mời nhập học đại học từ một trường tham gia, nộp hồ sơ trực tuyến kèm học bạ, chứng chỉ tiếng Anh và video giới thiệu ngắn.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Đợt 2026 đã đóng. Trang hocbongnzua.com bị chặn xác minh nên không đọc được; điều kiện chi tiết 2026 (ví dụ chuẩn tiếng Anh) chưa kiểm tra, điều kiện năm 2025 nằm ở cổng enzscholarships.communityforce.com.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "cash_award",
+      "needs_english_cert"
+    ]
+  },
+  {
+    "slug": "russian-government-scholarship-vietnam",
+    "name": "Học bổng Chính phủ Liên bang Nga diện Hiệp định (qua Bộ GD&ĐT)",
+    "type": "scholarship",
+    "company": {
+      "name": "Bộ Giáo dục và Đào tạo (Cục Hợp tác quốc tế)",
+      "slug": null,
+      "domain": "moet.gov.vn"
+    },
+    "official_url": "https://icd.edu.vn/372/thong-bao-tuyen-sinh-di-hoc-tai-lien-bang-nga-nam-2026.html/BPF/vi-vn/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/2406",
+    "description": "Bộ GD&ĐT tuyển 1.000 chỉ tiêu học bổng của Chính phủ Nga cho công dân Việt Nam, gồm bậc đại học, thạc sĩ, tiến sĩ: miễn học phí, học bổng hằng tháng và ký túc xá; Việt Nam cấp vé máy bay, bảo hiểm y tế và cấp bù sinh hoạt phí.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Cử nhân 4 năm, kỹ sư 5-6 năm (chưa gồm 1 năm dự bị tiếng Nga)",
+    "eligibility": "Học sinh đang học lớp 12, sinh viên năm thứ nhất hoặc người có bằng đại học, thạc sĩ, tiến sĩ; học bằng tiếng Nga, có 1 năm dự bị tiếng Nga; đi học tại Nga.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang icd.edu.vn chặn truy cập tự động nên không đọc trực tiếp; dữ kiện lấy từ bài TTXVN trên Tuổi Trẻ (trích thông báo của Bộ). Có 59 chỉ tiêu riêng ngành điện hạt nhân (Đề án 1012) kèm cam kết với EVN. Học bổng cần Bộ đề cử, không nộp thẳng cho phía Nga.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "school_nomination",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "cuba-government-scholarship-vietnam",
+    "name": "Học bổng Chính phủ Cuba diện Hiệp định (đại học)",
+    "type": "scholarship",
+    "company": {
+      "name": "Bộ Giáo dục và Đào tạo (Cục Hợp tác quốc tế)",
+      "slug": null,
+      "domain": "moet.gov.vn"
+    },
+    "official_url": "https://icd.edu.vn/372/thong-bao--tuyen-sinh-di-hoc-tai-cuba-nam-2026.html/BPF/vi-VN/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/2377",
+    "description": "Bộ GD&ĐT tuyển 15 suất học bổng toàn phần bậc đại học tại Cuba: Cuba miễn học phí, bảo hiểm y tế, chỗ ở; Việt Nam cấp vé máy bay, phí đi đường, hộ chiếu, visa và cấp bù sinh hoạt phí.",
+    "fields": [
+      "general"
+    ],
+    "duration": "5-6 năm (gồm 1 năm dự bị tiếng Tây Ban Nha)",
+    "eligibility": "Công dân Việt Nam trên 16 và dưới 25 tuổi đã tốt nghiệp THPT: học sinh tốt nghiệp THPT 2026 đã trúng tuyển đại học với học lực 3 năm từ khá, hoặc sinh viên năm nhất hệ chính quy học lực THPT từ khá.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Ngành đăng ký phải phù hợp khối ngành đang học đại học ở Việt Nam hoặc ngành đạt giải thưởng. Dữ liệu đọc bằng tinyfish agent từ trang icd.edu.vn.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "return_commitment"
+    ]
+  },
+  {
+    "slug": "kazakhstan-government-scholarship-vietnam",
+    "name": "Học bổng Chính phủ Ca-dắc-xtan diện Hiệp định (đại học)",
+    "type": "scholarship",
+    "company": {
+      "name": "Bộ Giáo dục và Đào tạo (Cục Hợp tác quốc tế)",
+      "slug": null,
+      "domain": "moet.gov.vn"
+    },
+    "official_url": "https://icd.edu.vn/372/chi-tiet-tin-nho.html/BPF/vi-VN/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/2418",
+    "description": "Bộ GD&ĐT tuyển 3 suất học bổng đại học tại Ca-dắc-xtan: phía Ca-dắc-xtan miễn phí đào tạo, bảo hiểm y tế, sinh hoạt phí và ký túc xá; Việt Nam cấp vé máy bay, phí đi đường, hộ chiếu, visa và cấp bù sinh hoạt phí.",
+    "fields": [
+      "general"
+    ],
+    "duration": "4-5 năm (chưa gồm 1 năm dự bị tiếng Nga)",
+    "eligibility": "Học sinh năm cuối THPT hoặc sinh viên năm nhất có học lực THPT mức Tốt, thuộc diện ưu tiên theo thông báo (dân tộc thiểu số, hộ nghèo, vùng núi/hải đảo, đoạt giải học sinh giỏi...) hoặc được cơ quan cử đi; học bằng tiếng Nga.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "return_commitment",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "mongolia-government-scholarship-vietnam",
+    "name": "Học bổng Chính phủ Mông Cổ diện Hiệp định (đại học, thạc sĩ, tiến sĩ)",
+    "type": "scholarship",
+    "company": {
+      "name": "Bộ Giáo dục và Đào tạo (Cục Hợp tác quốc tế)",
+      "slug": null,
+      "domain": "moet.gov.vn"
+    },
+    "official_url": "https://icd.edu.vn/372/thong-bao-tuyen-sinh-di-hoc-tai-mong-co-dien-hiep-dinh-nam-2026.html/BPF/vi-VN/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/2426",
+    "description": "Bộ GD&ĐT tuyển 5 học bổng dài hạn của Chính phủ Mông Cổ cho đại học, thạc sĩ, tiến sĩ: Mông Cổ miễn phí đào tạo và cấp học bổng hằng tháng; Việt Nam cấp vé máy bay, phí đi đường, hộ chiếu, visa, bảo hiểm y tế và cấp bù sinh hoạt phí.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Đại học 4 năm (chưa gồm 1 năm dự bị tiếng Mông Cổ nếu chưa biết tiếng)",
+    "eligibility": "Bậc đại học: sinh viên năm nhất hoặc học sinh sẽ tốt nghiệp THPT 2026 có kết quả 3 năm THPT từ khá, hoặc cán bộ nhà nước không quá 35 tuổi; học bằng tiếng Mông Cổ hoặc tiếng Anh.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "return_commitment"
+    ]
+  },
+  {
+    "slug": "cambodia-government-scholarship-vietnam",
+    "name": "Học bổng Chính phủ Campuchia diện Hiệp định (đại học và sau đại học)",
+    "type": "scholarship",
+    "company": {
+      "name": "Bộ Giáo dục và Đào tạo (Cục Hợp tác quốc tế)",
+      "slug": null,
+      "domain": "moet.gov.vn"
+    },
+    "official_url": "https://icd.edu.vn/372/thong-bao-tuyen-sinh-di-hoc-tai-vuong-quoc-campuchia-nam-2026.html/BPF/vi-VN/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/2422",
+    "description": "Bộ GD&ĐT tuyển 20 suất học bổng đại học và sau đại học tại Campuchia (kèm 15 suất học tiếng Khmer): Campuchia cấp phí đào tạo và chỗ ở ký túc xá; Việt Nam cấp sinh hoạt phí, vé máy bay, hộ chiếu, visa, bảo hiểm y tế.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Đại học 5 năm (gồm 1 năm dự bị tiếng Khmer nếu chưa biết)",
+    "eligibility": "Bậc đại học: sinh viên năm nhất hệ chính quy, học sinh đã hoặc sẽ tốt nghiệp THPT 2025-2026 có kết quả lớp 12 từ khá, hoặc cán bộ nhà nước không quá 35 tuổi; học tiếng Khmer.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "return_commitment"
+    ]
+  },
+  {
+    "slug": "poland-government-scholarship-vietnam",
+    "name": "Học bổng Chính phủ Ba Lan diện Hiệp định (đại học, thạc sĩ, tiến sĩ)",
+    "type": "scholarship",
+    "company": {
+      "name": "Bộ Giáo dục và Đào tạo (Cục Hợp tác quốc tế)",
+      "slug": null,
+      "domain": "moet.gov.vn"
+    },
+    "official_url": "https://icd.edu.vn/372/thong-bao-tuyen-sinh-di-hoc-tai-ba-lan-nam-2026.html/BPF/vi-vn/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/2410",
+    "description": "Bộ GD&ĐT tuyển 20 suất học bổng tại Ba Lan (đại học, thạc sĩ, tiến sĩ, thực tập nghiên cứu): Ba Lan đài thọ phí đào tạo và ký túc xá; Việt Nam cấp vé máy bay, phí đi đường, hộ chiếu, visa, bảo hiểm y tế và cấp bù sinh hoạt phí.",
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Bậc đại học: sinh viên năm nhất hoặc học sinh lớp 12 đáp ứng tiêu chí ưu tiên (giải thưởng quốc gia, quốc tế hoặc khu vực ưu tiên); học bằng tiếng Ba Lan, có 1 năm dự bị; không nhận ngành Y, Dược, Nghệ thuật.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang icd.edu.vn/moet.gov.vn không đọc trực tiếp được (chặn, timeout); dữ kiện lấy từ bản đăng lại của Đại học Y Dược TP.HCM. Nên đối chiếu thông báo gốc của Bộ trước khi nhập.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "thap-sang-niem-tin-scholarship",
+    "name": "Học bổng Thắp Sáng Niềm Tin",
+    "type": "scholarship",
+    "company": {
+      "name": "Quỹ học bổng Thắp Sáng Niềm Tin",
+      "slug": null,
+      "domain": "thapsangniemtin.vn"
+    },
+    "official_url": "https://thapsangniemtin.vn/",
+    "description": "Học bổng toàn phần suốt thời gian học đại học cho học sinh lớp 12 có hoàn cảnh đặc biệt khó khăn trên cả nước: tối đa 30 triệu đồng/năm học gồm học phí và sinh hoạt phí, tối đa 100 suất (năm 2026).",
+    "fields": [
+      "general"
+    ],
+    "duration": "Suốt thời gian học đại học (4-6 năm), xét theo từng học kỳ",
+    "eligibility": "Học sinh lớp 12 cả nước, gia đình đặc biệt khó khăn, học lực tiên tiến 3 năm THPT trở lên; phải trúng tuyển đại học và chưa nhận học bổng toàn phần thường kỳ khác.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang chủ thapsangniemtin.vn chưa liệt kê thông báo năm 2026 (tin mới nhất hiển thị là 2025) nên ngày lấy từ bài PVcomBank và PetroTimes (quỹ do Petrovietnam, PVcomBank, PVOIL, PTSC bảo trợ). Mức 30 triệu = học phí tối đa 24 triệu + sinh hoạt phí 6 triệu. Quỹ xác minh hoàn cảnh tại nhà. Chưa thấy thông báo đợt 2027 (đợt 2026 mở ngày 20/03).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "full_funding",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "viethope-student-development-program",
+    "name": "Học bổng Chương trình Phát triển Sinh viên VietHope (VSDP)",
+    "type": "scholarship",
+    "company": {
+      "name": "VietHope",
+      "slug": null,
+      "domain": "viethope.org"
+    },
+    "official_url": "https://viethope.org/programs/vsdp2026/",
+    "description": "Hỗ trợ tài chính theo khu vực (950 USD tại các trường đối tác ở TP.HCM, 800 USD tại ĐH Cần Thơ, 650 USD tại Huế) cùng chương trình phát triển năng lực trị giá 500 USD cho sinh viên năm nhất có hoàn cảnh khó khăn.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Hỗ trợ năm 1 và năm 2 (ngành Y đa khoa tới năm 3), duy trì theo tiêu chí",
+    "eligibility": "Sinh viên năm nhất hệ chính quy tại 9 trường đối tác ở Huế, TP.HCM và Cần Thơ, hoặc sinh viên năm nhất từng nhận học bổng MDP của VietHope; hoàn cảnh khó khăn, học lực khá giỏi; không áp dụng ngành sư phạm.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Phạm vi 9 trường đối tác (4 trường thuộc ĐH Huế, ĐH KHTN và ĐH KHXH&NV thuộc ĐHQG-HCM, UEH, ĐH Sài Gòn, ĐH Cần Thơ), không phải một địa phương duy nhất. Mức Huế/Y Dược và Điều dưỡng khác nhau (xem trang). Nộp đơn online, cần đăng nhập Google. Chương trình MDP của VietHope (cho học sinh) chỉ ở Huế và Cần Giờ nên không đưa vào.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "cash_award",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "vietseeds-scholarship",
+    "name": "Học bổng VietSeeds (Social Change-maker và Women Empowerment)",
+    "type": "scholarship",
+    "company": {
+      "name": "VietSeeds Foundation",
+      "slug": null,
+      "domain": "vietseeds.org"
+    },
+    "official_url": "https://vietseeds.org/vi/financial-support",
+    "description": "Học bổng 1.500 USD/năm (học phí, sinh hoạt phí, đào tạo) kèm mentor 1-1 cho học sinh giỏi hoàn cảnh khó khăn vào đại học ở Hà Nội, Huế, TP.HCM; có suất riêng cho nữ sinh (750 USD/năm).",
+    "tracks": [
+      "Social Change-maker Scholarship",
+      "Women Empowerment Scholarship"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "Suốt thời gian học đại học nếu duy trì kết quả đánh giá hằng năm",
+    "eligibility": "Học sinh vừa tốt nghiệp THPT học lực giỏi trở lên (suất nữ: khá trở lên), gia đình thu nhập dưới khoảng 2.500 USD/năm, sẽ học đại học ở Hà Nội, Huế hoặc TP.HCM.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang chính thức vietseeds.org chỉ nêu mức 1.500 USD và quy trình, không ghi ngày; ngày và mức 750 USD của suất nữ lấy từ bài đăng của ĐH Ngoại thương TP.HCM và bài tổng hợp hocbongchosinhvien.com. Đơn nộp qua platform.vietseeds.org.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "philip-david-gray-scholarship",
+    "name": "Học bổng Philip David Gray (PDG)",
+    "type": "scholarship",
+    "company": {
+      "name": "Quỹ tưởng nhớ Philip David Gray cho Việt Nam (PDG Trust)",
+      "slug": null,
+      "domain": "pdgtrust.org"
+    },
+    "official_url": "https://pdgtrust.org/scholarships/?lang=vi",
+    "description": "Hỗ trợ học phí đại học trong suốt chương trình cho sinh viên công lập hoàn cảnh khó khăn theo các lĩnh vực đóng góp giảm nghèo như y tế và chăm sóc xã hội, hạ tầng, môi trường, giáo dục.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Suốt chương trình đại học, xem xét lại hằng năm",
+    "eligibility": "Công dân Việt Nam học chính quy tại đại học công lập, ưu tiên hộ nghèo/cận nghèo, điểm trung bình từ 3.2/4.0 (8.0/10), ngành phù hợp mục tiêu giảm nghèo.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Vòng 2 yêu cầu bằng tốt nghiệp PTTH và giấy báo nhập học đại học nên tân sinh viên nộp được; nguồn không nói rõ có nhận sinh viên năm cuối. Quỹ đăng ký tại Scotland, phối hợp Trung tâm Đào tạo và Phát triển cộng đồng Việt Nam. Chưa có trong data/programs.json.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "tuition_waiver",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "nguyen-truong-to-scholarship-vnhelp",
+    "name": "Học bổng Nguyễn Trường Tộ (VNHelp)",
+    "type": "scholarship",
+    "company": {
+      "name": "VNHelp",
+      "slug": null,
+      "domain": "vnhelp.org"
+    },
+    "official_url": "https://vnhelp.org/nguyen-truong-to-scholarship-awards/",
+    "description": "Học bổng 5-7,5 triệu đồng/sinh viên/năm học cho tân sinh viên hoàn cảnh khó khăn, tiếp tục cấp hằng năm đến khi tốt nghiệp nếu đáp ứng điều kiện; do VNHelp và Quỹ Khuyến học Việt Nam tài trợ qua các trường.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Hằng năm đến khi tốt nghiệp nếu duy trì điều kiện",
+    "eligibility": "Tân sinh viên khóa 2026 hệ chính quy tại các trường được phân suất (ĐHQGHN, ĐH Huế...), ưu tiên hộ nghèo/cận nghèo, kết quả tuyển sinh tốt, chưa nhận học bổng khác; do trường đề cử.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Chỉ sinh viên các trường được phân suất mới nộp được, hồ sơ qua trường đề cử; mức 7,5 triệu ở ĐHQGHN, 5 triệu ở ĐH Ngoại ngữ - ĐH Huế. Trang vnhelp.org chỉ có bài cũ (2019, 2022) về chương trình, chưa có thông báo 2026; dữ kiện 2026 lấy từ trang các trường nên người kiểm tra cân nhắc độ phù hợp với phạm vi (cùng dạng đề cử như Vallet).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "cash_award",
+      "need_based",
+      "school_nomination"
+    ]
+  },
+  {
+    "slug": "phenikaa-chairman-scholarship",
+    "name": "Học bổng của Chủ tịch Tập đoàn Phenikaa",
+    "type": "scholarship",
+    "company": {
+      "name": "Đại học Phenikaa",
+      "slug": null,
+      "domain": "phenikaa-uni.edu.vn"
+    },
+    "official_url": "https://phenikaa-uni.edu.vn/vi/post/tuyen-sinh/tin-tuyen-sinh/dai-hoc-phenikaa-cong-bo-thong-tin-ve-hoc-bong-va-ho-tro-hoc-phi-he-dai-hoc-chinh-quy-nam-2026",
+    "description": "Học bổng toàn phần cho tân sinh viên đại học chính quy Phenikaa: miễn học phí toàn khóa, hỗ trợ sinh hoạt phí 80 triệu đồng/năm, miễn phí ký túc xá và tài trợ nghiên cứu. Tối thiểu 10 suất, dành cho thí sinh đạt giải HSG quốc gia hoặc quốc tế.",
+    "fields": [
+      "general"
+    ],
+    "duration": "toàn khóa học",
+    "eligibility": "Thí sinh đạt giải Nhất/Nhì/Ba HSG quốc gia một môn thuộc tổ hợp xét tuyển hoặc môn Tin học, hoặc đạt giải quốc tế được Bộ GDĐT công nhận; nộp hồ sơ xét học bổng cùng hồ sơ nhập học.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Số suất 10 là mức tối thiểu, Hội đồng tuyển sinh có thể quyết định nhiều hơn. Điều kiện duy trì: GPA năm trước từ 7,5/10 và điểm rèn luyện từ 80.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "full_funding"
+    ]
+  },
+  {
+    "slug": "ptit-star-talent-scholarship",
+    "name": "Học bổng Tài năng Tinh hoa PTIT STAR",
+    "type": "scholarship",
+    "company": {
+      "name": "Học viện Công nghệ Bưu chính Viễn thông (PTIT)",
+      "slug": null,
+      "domain": "ptit.edu.vn"
+    },
+    "official_url": "https://tainang.ptit.edu.vn/",
+    "description": "Chương trình học bổng đầu vào của PTIT gồm 5 mức từ 27,5 triệu đến 500 triệu đồng/suất (mức cao nhất gồm 100% học phí toàn khóa và sinh hoạt phí), dành cho thí sinh có thành tích HSG, Olympic hoặc điểm thi THPT cao.",
+    "fields": [
+      "general"
+    ],
+    "duration": "toàn khóa học đối với mức học bổng cao nhất",
+    "eligibility": "Thí sinh có thành tích HSG/Olympic hoặc điểm thi tốt nghiệp THPT cao (từ 29,0 điểm cho mức Tài năng Tinh hoa) và đăng ký nguyện vọng 1 vào PTIT; đăng ký xét học bổng tại tainang.ptit.edu.vn.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Các trang PTIT nêu số liệu quỹ không thống nhất (41 tỷ/480 suất trên tainang.ptit.edu.vn, 50 tỷ/530 suất trên fanpage), nên description không ghi tổng quỹ. Một phần mức học bổng xét theo điểm thi; trường yêu cầu đăng ký xét học bổng trên trang tainang.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "neu-ibd-top-recruit-scholarship",
+    "name": "Học bổng Thủ khoa đầu vào IBD@NEU",
+    "type": "scholarship",
+    "company": {
+      "name": "Viện Đào tạo Quốc tế, Đại học Kinh tế Quốc dân (ISME-NEU)",
+      "slug": null,
+      "domain": "neu.edu.vn"
+    },
+    "official_url": "https://isme.neu.edu.vn/admissions/chinh-sach-hoc-bong-dau-vao-ky-tuyen-sinh/",
+    "description": "Học bổng đầu vào của Chương trình Cử nhân Quốc tế IBD@NEU (ĐH Kinh tế Quốc dân) trị giá 15-75% học phí tối đa 3 năm đầu, xét qua đơn và phỏng vấn; kèm học bổng Lựa chọn thông minh 20 triệu đồng cấp tự động cho thí sinh đủ điểm.",
+    "fields": [
+      "business"
+    ],
+    "duration": "tối đa 3 năm đầu",
+    "eligibility": "Thí sinh trúng tuyển và nhập học IBD@NEU, đạt điểm xét tuyển quy đổi từ 24 trở lên, nộp đơn theo mẫu và đạt phỏng vấn học bổng (kỳ thu 2026: điểm phỏng vấn từ 16).",
+    "recurring": "multiple",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "official_url là trang chính sách chung (đăng 2021) của ISME; thông báo theo từng kỳ ghi mức điểm và hạn cụ thể. Chỉ áp dụng cho chương trình IBD@NEU, không phải mọi ngành NEU.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "hcmut-hoc-bong-hop-tac-va-chia-se",
+    "name": "Học bổng Hợp tác và Chia sẻ",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Bách khoa – ĐHQG-HCM",
+      "slug": null,
+      "domain": "hcmut.edu.vn"
+    },
+    "official_url": "https://hcmut.edu.vn/news/item/24585",
+    "description": "Học bổng gồm học phí 2 học kỳ chính và chi phí ký túc xá, 06 suất cho tân sinh viên khóa 2026 có hoàn cảnh khó khăn; ưu tiên ngành Kỹ thuật Hóa học.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Duy trì suốt thời gian đào tạo chuẩn nếu ĐTBTL từ 3.2/4 và điểm rèn luyện loại tốt",
+    "eligibility": "Tân sinh viên khóa 2026 hệ đại học chính quy có hoàn cảnh khó khăn, ưu tiên khoa Kỹ thuật Hóa học; nộp đơn và hồ sơ qua form online.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang hcmut.edu.vn/news/item/24585 trả rỗng với fetch thường, nội dung đọc qua tinyfish agent run (2 lần cho kết quả khớp). Người kiểm tra nên mở lại trang để xác nhận.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "tuition_waiver",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "ueh-hoc-bong-ho-tro-hoc-tap-tan-sinh-vien",
+    "name": "Học bổng Hỗ trợ học tập UEH dành cho tân sinh viên",
+    "type": "scholarship",
+    "company": {
+      "name": "Đại học Kinh tế TP.HCM (UEH)",
+      "slug": null,
+      "domain": "ueh.edu.vn"
+    },
+    "official_url": "https://dsa.ueh.edu.vn/hoc-bong/htht-hkc2026-k52dhcq/",
+    "description": "Học bổng hỗ trợ học tập của UEH cho tân sinh viên khóa 52 đại học chính quy có hoàn cảnh khó khăn: 50 suất toàn phần 18 triệu đồng và 100 suất bán phần 9 triệu đồng.",
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Thí sinh trúng tuyển UEH năm 2026 thuộc diện mồ côi, hộ nghèo, cận nghèo hoặc gia đình khó khăn, chưa nhận học bổng giá trị từ một suất toàn phần.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Học bổng chỉ cho khóa 52 ĐHCQ (trừ ISB BBus, Asean Co-op, UEH Mekong). Học bổng tuyển sinh theo điểm của UEH tự xét, không cần nộp đơn nên không đưa vào.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "cash_award",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "hutech-hoc-bong-tuyen-sinh",
+    "name": "Học bổng Tuyển sinh HUTECH",
+    "type": "scholarship",
+    "company": {
+      "name": "Đại học Công nghệ TP.HCM (HUTECH)",
+      "slug": null,
+      "domain": "hutech.edu.vn"
+    },
+    "official_url": "https://www.hutech.edu.vn/tuyensinh/tin-tuyen-sinh/14630823-hutech-cong-bo-chinh-sach-hoc-bong-tuyen-sinh-khoa-2026",
+    "description": "Học bổng 25%, 50% hoặc 100% học phí toàn khóa cho thí sinh toàn quốc có kết quả học bạ THPT tốt, đăng ký xét online.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Toàn khóa",
+    "eligibility": "Thí sinh có thành tích học bạ THPT (điểm TB 3 môn lớp 11, HK1 hoặc cả năm lớp 12) đăng ký học bổng trực tuyến và nhập học HUTECH.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Hạn nộp khác nhau giữa các bài; đã lấy theo bài mới nhất (25/06/2026). Mức theo điểm: 25% từ 20 đến dưới 26, 50% từ 26 đến dưới 29, 100% từ 29 đến 30 (theo bài 25/12/2025).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "uef-hoc-bong-tuyen-sinh",
+    "name": "Học bổng Tuyển sinh UEF",
+    "type": "scholarship",
+    "company": {
+      "name": "Đại học Kinh tế - Tài chính TP.HCM (UEF)",
+      "slug": null,
+      "domain": "uef.edu.vn"
+    },
+    "official_url": "https://www.uef.edu.vn/tin-tuyen-sinh/hoc-phi-hoc-bong",
+    "description": "Học bổng 25%, 50% hoặc 100% học phí cho thí sinh trúng tuyển UEF dựa trên học bạ, điểm thi tốt nghiệp THPT, ĐGNL, V-SAT hoặc IELTS từ 5.5; đăng ký online.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Toàn khóa, duy trì có điều kiện hằng năm (ĐTB tích lũy từ 3.2 đến 3.6 tùy mức)",
+    "eligibility": "Thí sinh trúng tuyển UEF khóa 2026 đạt ngưỡng điểm học bạ, thi tốt nghiệp THPT, ĐGNL, V-SAT hoặc có IELTS từ 5.5 và đăng ký xét học bổng.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang xettuyenhocbong.uef.edu.vn/register đã chuyển sang nội dung cho thí sinh 2K9 (tuyển sinh 2027) nhưng chưa thấy ngày mở/hạn; nên theo dõi để thêm đợt 2027.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "uef-hoc-bong-tai-nang",
+    "name": "Học bổng Tài năng UEF",
+    "type": "scholarship",
+    "company": {
+      "name": "Đại học Kinh tế - Tài chính TP.HCM (UEF)",
+      "slug": null,
+      "domain": "uef.edu.vn"
+    },
+    "official_url": "https://www.uef.edu.vn/tin-tuyen-sinh/uef-tiep-tuc-nhan-dang-ky-xet-hoc-bong-den-ngay-258-37399",
+    "description": "Học bổng 25%, 50%, 75% hoặc 100% học phí cho thí sinh đạt thành tích học thuật, nghệ thuật, thể thao cấp tỉnh trở lên hoặc học sinh THPT chuyên.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Toàn khóa",
+    "eligibility": "Thí sinh đạt giải Nhất, Nhì, Ba học thuật, nghệ thuật, thể thao cấp tỉnh/thành, quốc gia hoặc quốc tế, hoặc học sinh THPT chuyên, đăng ký xét học bổng.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 25/8 là hạn chung của đợt đăng ký học bổng; người kiểm tra nên xác nhận hạn riêng cho học bổng Tài năng.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "ufm-hoc-bong-tiep-suc-den-truong",
+    "name": "Học bổng Tiếp sức đến trường (UFM)",
+    "type": "scholarship",
+    "company": {
+      "name": "Đại học Tài chính – Marketing (UFM)",
+      "slug": null,
+      "domain": "ufm.edu.vn"
+    },
+    "official_url": "https://tuyensinh.ufm.edu.vn/vi/thong-tin-tuyen-sinh-dai-hoc-chinh-quy/thong-bao-nop-ho-so-hoc-bong-tiep-suc-den-truong-danh-cho-tan-sinh-vien-nam-2026",
+    "description": "Học bổng cho tân sinh viên khóa 26D có hoàn cảnh khó khăn đặc biệt, mức tối đa tương đương 100% học phí năm học của chương trình chuẩn.",
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Tân sinh viên khóa 26D trúng tuyển UFM từ 24 điểm trở lên (quy đổi) và có hoàn cảnh khó khăn đặc biệt về kinh tế, nộp đơn kèm xác nhận địa phương.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Ngày tháng đọc qua tinyfish agent run trên trang chính thức của UFM, khớp với bài đăng của Đoàn hội UFM.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "ou-hoc-bong-tai-nang-tan-sinh-vien",
+    "name": "Học bổng Tài năng dành cho tân sinh viên (ĐH Mở TP.HCM)",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Mở TP.HCM (OU)",
+      "slug": null,
+      "domain": "ou.edu.vn"
+    },
+    "official_url": "https://ou.edu.vn/tin_tuc/hbtn-26-27/",
+    "description": "120 suất học bổng 0,5 đến 2 triệu đồng cho tân sinh viên khóa 2026 đạt giải cấp tỉnh/thành trở lên trong năm lớp 12 về học tập, nghiên cứu, văn hóa, văn nghệ, thể thao.",
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Tân sinh viên khóa 2026 đã nhập học OU, đạt giải cấp tỉnh/thành trở lên trong năm lớp 12 và hạnh kiểm lớp 12 từ loại Khá.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang thông báo có lỗi năm ở hạn nộp bản giấy. Giá trị: giải Nhất 30 suất 2 triệu, Nhì 30 suất 1,5 triệu, Ba 30 suất 1 triệu, Khuyến khích 30 suất 0,5 triệu.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "cash_award"
+    ]
+  },
+  {
+    "slug": "ou-hoc-bong-tiep-suc-den-truong",
+    "name": "Học bổng Tiếp sức đến trường (ĐH Mở TP.HCM)",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Mở TP.HCM (OU)",
+      "slug": null,
+      "domain": "ou.edu.vn"
+    },
+    "official_url": "https://ou.edu.vn/tin_tuc/tsdt-26-27/",
+    "description": "Học bổng một lần vào học kỳ 1 năm nhất, từ 3 đến 9 triệu đồng tùy điểm TB lớp 12, dành cho tân sinh viên khóa 2026 thuộc hộ nghèo hoặc cận nghèo.",
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Tân sinh viên khóa 2026 đã nhập học OU, có giấy chứng nhận hộ nghèo/cận nghèo năm 2026, điểm TB lớp 12 từ 6.0 và hạnh kiểm từ Khá.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Ngày mở lấy theo ngày đăng thông báo 17/08/2026.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "cash_award",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "swinburne-vietnam-alliance-scholarship",
+    "name": "Học bổng Hợp tác Swinburne Việt Nam (Swinburne Vietnam Scholarship)",
+    "type": "scholarship",
+    "company": {
+      "name": "Swinburne Việt Nam",
+      "slug": null,
+      "domain": "swin.edu.vn"
+    },
+    "official_url": "https://tuyensinh.swin.edu.vn/hoptachocbong",
+    "description": "Học bổng 30–60% học phí chuyên ngành cho học sinh khối 12 tại các trường THPT đối tác; thí sinh đạt thành tích cao ở Đường lên đỉnh Olympia có học bổng Olympia 50%, 60% hoặc 100%.",
+    "fields": [
+      "general"
+    ],
+    "duration": "trừ đều vào học phí chuyên ngành trong 9 kỳ",
+    "eligibility": "Học sinh khối 12 thuộc trường THPT đối tác, điểm TB học bạ học kỳ gần nhất từ 8.5 và IELTS từ 6.0; thành tích học tập, xã hội nổi bật được ưu tiên.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Chỉ dành cho học sinh trường THPT đối tác (danh sách trường không có trên trang). Học bổng không cộng dồn với ưu đãi khác. Trang tin học bổng swinburne-vn.edu.vn trả 403 nên chưa kiểm tra được các học bổng khác của Swinburne; cần người kiểm tra thêm.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding",
+      "needs_english_cert"
+    ]
+  },
+  {
+    "slug": "siu-chu-tich-scholarship",
+    "name": "Học bổng Chủ tịch SIU toàn phần",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Quốc tế Sài Gòn (SIU)",
+      "slug": null,
+      "domain": "siu.edu.vn"
+    },
+    "official_url": "https://tuyensinh.siu.edu.vn/ChinhSachHocBong/chinh-sach-hoc-bong-2026.aspx",
+    "description": "20 suất học bổng toàn phần: 100% học phí (khoảng 285,76–776,76 triệu đồng/suất) cộng sinh hoạt phí 80 triệu đồng trong 4 năm đại học, dành cho học sinh THPT xuất sắc trên toàn quốc.",
+    "fields": [
+      "general"
+    ],
+    "duration": "4 năm",
+    "eligibility": "Học sinh tốt nghiệp THPT năm học 2025–2026 có học tập, rèn luyện loại Tốt và học sinh xuất sắc 3 năm THPT, tổng điểm 3 môn tổ hợp từ 27, có giải học sinh giỏi hoặc nghiên cứu khoa học, qua vòng xét chọn của Hội đồng SIU.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Duy trì học bổng cần GPA từ 3.6 mỗi năm. Chính sách ghi rõ chỉ áp dụng cho học sinh tốt nghiệp năm học 2025–2026.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "full_funding"
+    ]
+  },
+  {
+    "slug": "dong-a-talent-scholarship",
+    "name": "Học bổng Tài năng Đại học Đông Á (Học bổng Hoa Anh Đào)",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Đông Á",
+      "slug": null,
+      "domain": "donga.edu.vn"
+    },
+    "official_url": "https://donga.edu.vn/tuyensinh/hocbong2026",
+    "description": "Học bổng Tài năng 100%, 50% hoặc 30% học phí toàn khóa cho thí sinh có thành tích học tập, nghiên cứu, sáng tạo hoặc năng khiếu nổi bật; có thêm mức Y khoa đến 50% và mức 30% học phí năm nhất cho một số lĩnh vực.",
+    "fields": [
+      "general"
+    ],
+    "duration": "toàn khóa, tối đa 4 năm với chương trình cử nhân",
+    "eligibility": "Thí sinh nộp hồ sơ gồm đơn, bài viết về nghị lực và mục tiêu, minh chứng thành tích; có thể được phỏng vấn, Hội đồng xét từ cao xuống thấp theo suất được duyệt.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Cần người kiểm tra: trang hocbong2026 chỉ đọc được phần mở đầu, ngày tháng lấy từ trang quy chế daotao.donga.edu.vn. Học bổng Khuyến học 4–6 triệu đồng của trường tự động theo ngày nhập học nên không nhận.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "van-hien-businessman-scholarship",
+    "name": "Học bổng Doanh nhân (Đại học Văn Hiến)",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Văn Hiến",
+      "slug": null,
+      "domain": "vhu.edu.vn"
+    },
+    "official_url": "https://vhu.edu.vn/vi/thong-bao-3/truong-dai-hoc-van-hien-thong-bao-chinh-sach-hoc-phi-hoc-bong-dai-hoc-chinh-quy-nam-2026",
+    "description": "Học bổng do các doanh nhân đồng hành tài trợ: miễn 100% học phí năm nhất cho thí sinh hộ nghèo (10 suất) và 50% cho hộ cận nghèo hoặc hoàn cảnh khó khăn có xác nhận (20 suất).",
+    "fields": [
+      "general"
+    ],
+    "duration": "năm thứ nhất",
+    "eligibility": "Thí sinh có học lực lớp 12 từ Khá, thuộc hộ nghèo, cận nghèo hoặc có xác nhận địa phương, đã đăng ký học bổng trên phần mềm tuyển sinh của trường.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Số suất lấy từ bài Facebook của trường (nguồn ngày tháng); trang thông báo chính thức không nêu số suất.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "hutech-hoc-bong-tai-nang-tan-sinh-vien",
+    "name": "Học bổng Tài năng Tân sinh viên HUTECH",
+    "type": "scholarship",
+    "company": {
+      "name": "Đại học Công nghệ TP.HCM (HUTECH)",
+      "slug": null,
+      "domain": "hutech.edu.vn"
+    },
+    "official_url": "https://www.hutech.edu.vn/tuyensinh/tin-tuyen-sinh/14630823-hutech-cong-bo-chinh-sach-hoc-bong-tuyen-sinh-khoa-2026#hoc-bong-tai-nang-tan-sinh-vien",
+    "description": "Học bổng 50%, 75% hoặc 100% học phí toàn khóa cho tân sinh viên đạt giải quốc tế, quốc gia hoặc giải HSG, Olympic, văn hóa, nghệ thuật, thể thao từ cấp tỉnh trở lên thời gian học THPT.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Toàn khóa (duy trì khi rèn luyện từ 80 và điểm TB học tập từ 2.5 hoặc 3.2/4)",
+    "eligibility": "Tân sinh viên chính quy khóa 2026 đạt giải Nhất, Nhì, Ba các cuộc thi quốc tế, HSG quốc gia hoặc giải cấp tỉnh/thành trở lên trong thời gian học THPT.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Không áp dụng đồng thời với Học bổng Tuyển sinh; không có hạn riêng trong nguồn. Dùng chung trang thông báo với học bổng khác của trường; URL có phần # để phân biệt.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "siu-tiep-buoc-hanh-trinh-scholarship",
+    "name": "Học bổng Tiếp bước hành trình",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Quốc tế Sài Gòn (SIU)",
+      "slug": null,
+      "domain": "siu.edu.vn"
+    },
+    "official_url": "https://tuyensinh.siu.edu.vn/ChinhSachHocBong/chinh-sach-hoc-bong-2026.aspx#tiep-buoc-hanh-trinh",
+    "description": "50 suất học bổng 100% học phí toàn khóa (khoảng 285,76–776,76 triệu đồng/suất) cho học sinh học tốt, hoàn cảnh khó khăn, được sinh viên SIU là cựu học sinh cùng trường THPT kết nối; không có điều kiện duy trì.",
+    "fields": [
+      "general"
+    ],
+    "duration": "toàn khóa",
+    "eligibility": "Học sinh hộ nghèo, cận nghèo, mồ côi hoặc hoàn cảnh đặc biệt khó khăn, học tập rèn luyện 3 năm THPT từ Tốt, điểm TB 3 môn tổ hợp từ 21, nộp bài luận về ước mơ theo đuổi ngành học.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Chương trình khởi xướng từ 2024 (bài siu.edu.vn năm 2025 nói 50 suất). Chỉ áp dụng cho học sinh tốt nghiệp năm học 2025–2026. Dùng chung trang thông báo với học bổng khác của trường; URL có phần # để phân biệt.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "tuition_waiver",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "van-hien-global-citizen-scholarship",
+    "name": "Học bổng Công dân toàn cầu (Đại học Văn Hiến)",
+    "type": "scholarship",
+    "company": {
+      "name": "Trường Đại học Văn Hiến",
+      "slug": null,
+      "domain": "vhu.edu.vn"
+    },
+    "official_url": "https://vhu.edu.vn/vi/thong-bao-3/truong-dai-hoc-van-hien-thong-bao-chinh-sach-hoc-phi-hoc-bong-dai-hoc-chinh-quy-nam-2026#cong-dan-toan-cau",
+    "description": "Miễn 100% học phí năm nhất (tối thiểu 30 tín chỉ), 20 suất, cho thí sinh có chứng chỉ IELTS từ 6.5 hoặc chứng chỉ ngoại ngữ tương đương.",
+    "fields": [
+      "general"
+    ],
+    "duration": "năm thứ nhất",
+    "eligibility": "Thí sinh có IELTS từ 6.5 hoặc chứng chỉ ngoại ngữ khác quy đổi tương đương theo quy định của Bộ, đã đăng ký học bổng trên phần mềm tuyển sinh của trường.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Số suất (20) lấy từ bài Facebook của trường (nguồn ngày tháng). Dùng chung trang thông báo với học bổng khác của trường; URL có phần # để phân biệt.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "tuition_waiver",
+      "needs_english_cert"
+    ]
+  },
+  {
+    "slug": "warwick-undergraduate-global-excellence-scholarship",
+    "name": "Warwick Undergraduate Global Excellence Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Warwick",
+      "slug": null,
+      "domain": "warwick.ac.uk"
+    },
+    "official_url": "https://ugscholarships.warwick.ac.uk/apply/scholarship/d415d7f7-5f43-473c-a01c-e3e98fd8189d",
+    "description": "Học bổng học phí của ĐH Warwick (Anh) cho sinh viên quốc tế bậc cử nhân. Đợt 2026/27 có 6 suất miễn toàn bộ học phí, 148 suất 50% học phí, 103 suất 25% học phí và 6 suất £2.000.",
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Sinh viên diện học phí quốc tế, tự túc tài chính, đã nộp hồ sơ vào chương trình cử nhân hoặc IFP của Warwick trước 14/01/2026 và dự định nhập học mùa thu 2026.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Nộp qua cổng ugscholarships.warwick.ac.uk, cần đăng nhập bằng tài khoản ITS của ứng viên đã nộp hồ sơ vào trường.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "bristol-think-big-scholarship",
+    "name": "Think Big Scholarship (University of Bristol)",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Bristol",
+      "slug": null,
+      "domain": "bristol.ac.uk"
+    },
+    "official_url": "https://www.bristol.ac.uk/international/fees-finance/scholarships/",
+    "description": "Học bổng chính của ĐH Bristol (Anh) cho sinh viên quốc tế. Bậc cử nhân nhận £6.500 hoặc £13.000, tối đa 4 năm học; bậc thạc sĩ £6.500, £13.000 hoặc £26.000 cho năm đầu. Một đơn xét cho nhiều học bổng.",
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Ứng viên diện học phí quốc tế đã nộp hồ sơ vào chương trình cử nhân hoặc thạc sĩ đủ điều kiện của Bristol và có mã hồ sơ (ngành Nha khoa, Y không đủ điều kiện bậc cử nhân).",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Có thêm Career Accelerator (£3.000) chỉ cho bậc thạc sĩ.",
+    "levels": [
+      "highschool",
+      "undergraduate",
+      "master"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ]
+  },
+  {
+    "slug": "edinburgh-global-undergraduate-mathematics-scholarships",
+    "name": "Edinburgh Global Undergraduate Mathematics Scholarships",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Edinburgh",
+      "slug": null,
+      "domain": "ed.ac.uk"
+    },
+    "official_url": "https://registryservices.ed.ac.uk/student-funding/undergraduate/international/mathematics",
+    "description": "Học bổng £5.000 mỗi suất của ĐH Edinburgh (Anh) hỗ trợ sinh hoạt phí, trả theo đợt trong suốt thời gian học, cho sinh viên quốc tế có thành tích học tập xuất sắc vào ngành thuộc Khoa Toán.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Suốt thời gian chương trình (nếu tiến bộ học tập đạt yêu cầu)",
+    "eligibility": "Ứng viên diện học phí quốc tế/EU nhập học toàn thời gian một chương trình cử nhân của School of Mathematics, đã nộp hồ sơ qua UCAS (chưa cần có thư mời); xét theo thành tích học tập.",
+    "recurring": "unknown",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "cash_award"
+    ]
+  },
+  {
+    "slug": "edinburgh-global-talent-fund-big-scholarships",
+    "name": "Global Talent Fund BIG Scholarships (University of Edinburgh)",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Edinburgh",
+      "slug": null,
+      "domain": "ed.ac.uk"
+    },
+    "official_url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-undergraduates/international-and-eu-students/global",
+    "description": "Chương trình BIG của Global Talent Fund cấp học bổng cho người từng đoạt huy chương Olympic quốc tế vào ngành Toán của ĐH Edinburgh: gồm học phí, hỗ trợ sinh hoạt phí, quỹ học thuật ngoài lớp, tối đa 4 năm.",
+    "tracks": [
+      "BSc Applied Mathematics",
+      "BSc Mathematics",
+      "BSc Mathematics and Statistics",
+      "MMath (vào thẳng năm 2)"
+    ],
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 4 năm",
+    "eligibility": "Học sinh mọi quốc tịch đạt huy chương vàng/bạc/đồng IMO, IOI, IPhO, RMM (hoặc vàng/bạc EGMO), được nhận học toàn thời gian ngành Toán tại Edinburgh; ưu tiên theo hoàn cảnh tài chính.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Đối tượng hẹp: chỉ người đoạt huy chương Olympic quốc tế (Việt Nam có đội tuyển IMO, IOI, IPhO).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "need_based"
+    ]
+  },
+  {
+    "slug": "groningen-ucf-foundation-scholarship",
+    "name": "University College Fryslân Foundation Scholarship",
+    "type": "scholarship",
+    "company": {
+      "name": "University of Groningen (Campus Fryslân)",
+      "slug": null,
+      "domain": "rug.nl"
+    },
+    "official_url": "https://www.rug.nl/cf/education/beurzen/studiefondsen?lang=en",
+    "description": "Mỗi năm có 1 suất €30.000 hỗ trợ sinh hoạt phí 3 năm (10 kỳ €1.000 mỗi năm học) tại Leeuwarden, cho sinh viên ngoài EU/EEA học BSc Global Responsibility & Leadership; xét theo nhu cầu và năng lực.",
+    "fields": [
+      "general"
+    ],
+    "duration": "3 năm",
+    "eligibility": "Ứng viên ngoài EU/EEA nộp hồ sơ BSc Global Responsibility & Leadership và nộp riêng hồ sơ học bổng qua email, gồm bảng điểm, CV, thư động lực và thư nêu hoàn cảnh tài chính.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Là mục 1 trên trang Campus Fryslân Scholarships; các học bổng khác trên trang không thuộc phạm vi mục này.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "cash_award",
+      "need_based"
+    ]
+  },
+  {
+    "slug": "jetbrains-foundation-scholarship-constructor-university",
+    "name": "JetBrains Foundation Scholarship (BSc Software, Data and Technology)",
+    "type": "scholarship",
+    "company": {
+      "name": "Constructor University",
+      "slug": null,
+      "domain": "constructor.university"
+    },
+    "official_url": "https://constructor.university/programs/undergraduate-education/software-data-and-technology/fully-funded-scholarship-jetbrains-foundation",
+    "description": "Học bổng toàn phần của JetBrains Foundation cho tân sinh viên BSc Software, Data and Technology tại Constructor University (Bremen, Đức), gồm học phí, ăn ở, phí trường và tiền tiêu vặt năm đầu.",
+    "fields": [
+      "tech"
+    ],
+    "duration": "3 năm",
+    "eligibility": "Tân sinh viên nộp hồ sơ BSc SDT trước hạn, thắng một cuộc thi tuyển chọn (ACTS, Constructor Open Cup, JetBrains Blackbox Cup) rồi qua phỏng vấn về tin học và toán.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Không tính Talent Scholarship vì không có đơn riêng.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "needs_english_cert"
+    ]
   }
 ]
