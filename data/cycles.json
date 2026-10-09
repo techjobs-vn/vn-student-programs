@@ -2215,5 +2215,309 @@
     ],
     "updated_at": "2026-10-09",
     "notes": "Trang không ghi ngày mở/đóng đơn học bổng."
+  },
+  {
+    "program_slug": "schwarzman-scholars",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-09-09",
+    "sources": [
+      "https://connect.schwarzmanscholars.org/apply/",
+      "https://www.schwarzmanscholars.org/admissions/",
+      "https://www.schwarzmanscholars.org/admissions/application-instructions/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 3 giờ chiều EDT; trang chính thức không nêu ngày mở của đợt này nên để null."
+  },
+  {
+    "program_slug": "ubc-international-scholars-program",
+    "year": 2026,
+    "opens_at": "2026-10-05",
+    "deadline": "2026-11-15",
+    "sources": [
+      "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đợt cho khoá nhập học mùa thu năm sau; cần nộp hồ sơ nhập học trước khi nộp hồ sơ học bổng."
+  },
+  {
+    "program_slug": "eth-excellence-scholarship-esop",
+    "year": 2026,
+    "opens_at": "2026-11-01",
+    "deadline": "2026-11-30",
+    "sources": [
+      "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 11:59 giờ Trung Âu; áp dụng cho khoá thạc sĩ bắt đầu mùa thu năm sau."
+  },
+  {
+    "program_slug": "warwick-postgraduate-research-scholarships",
+    "year": 2026,
+    "opens_at": "2026-10-05",
+    "deadline": "2026-12-10",
+    "sources": [
+      "https://warwick.ac.uk/services/dc/schols_fund/applicants/competitions/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 16:59 GMT; hạn nộp hồ sơ chương trình là 2026-12-07."
+  },
+  {
+    "program_slug": "manchester-global-futures-scholarship-vietnam",
+    "year": 2027,
+    "opens_at": null,
+    "deadline": "2027-04-23",
+    "sources": [
+      "https://www.manchester.ac.uk/study/international/country-specific-information/vietnam/scholarships/",
+      "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn đại học 2027-04-23; hạn thạc sĩ 2027-05-14; ngày mở không ghi, mẫu đơn gửi từ 12/2026."
+  },
+  {
+    "program_slug": "ucl-global-masters-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-05-07",
+    "sources": [
+      "https://www.ucl.ac.uk/scholarships/ucl-global-masters-scholarship",
+      "https://www.ucl.ac.uk/scholarships/international-masters-awards"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 5 giờ chiều giờ Anh; đợt đã đóng, ngày mở không ghi."
+  },
+  {
+    "program_slug": "unsw-international-scientia-coursework-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-10-30",
+    "sources": [
+      "https://www.scholarships.unsw.edu.au/scholarships/id/1988"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Cho khoá nhập học Term 1 năm 2027, hạn 11:59 tối giờ AEST."
+  },
+  {
+    "program_slug": "aauw-international-fellowships",
+    "year": 2026,
+    "opens_at": "2026-08-17",
+    "deadline": "2026-09-17",
+    "sources": [
+      "https://www.aauw.org/resources/programs/fellowships-grants/aauw-international-fellowships/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 5 giờ chiều giờ miền Đông Mỹ; đợt đã đóng."
+  },
+  {
+    "program_slug": "lund-university-global-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-02-16",
+    "sources": [
+      "https://www.lunduniversity.lu.se/study/admission-degree-studies/scholarships-and-awards/lund-university-global-scholarship"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đợt đã đóng; ngày mở không ghi."
+  },
+  {
+    "program_slug": "reach-oxford-scholarship",
+    "year": 2027,
+    "opens_at": null,
+    "deadline": "2027-01-26",
+    "sources": [
+      "https://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/oxford-bursaries-and-scholarships/reach-oxford"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Ngày mở không ghi cụ thể, chỉ nói hướng dẫn đăng vào tháng 1/2027."
+  },
+  {
+    "program_slug": "rotary-yoneyama-overseas-candidates",
+    "year": 2026,
+    "opens_at": "2026-10-01",
+    "deadline": "2026-10-31",
+    "sources": [
+      "https://www.rotary-yoneyama.or.jp/english/overseas"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Giờ mở và đóng: 13:00 JST."
+  },
+  {
+    "program_slug": "fast-retailing-foundation-vietnam-scholarship",
+    "year": 2026,
+    "opens_at": "2026-07-01",
+    "deadline": "2026-09-01",
+    "sources": [
+      "https://www.fastretailing-foundation.or.jp/eng/scholarships/vietnam.html",
+      "https://www.fastretailing-foundation.or.jp/eng/news/20241226.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 08:00 sáng giờ Nhật ngày 1/9/2026; đợt đã đóng tại thời điểm kiểm tra."
+  },
+  {
+    "program_slug": "aflsp-kyoto-university",
+    "year": 2026,
+    "opens_at": "2026-11-04",
+    "deadline": "2026-11-13",
+    "sources": [
+      "https://www.kyoto-u.ac.jp/en/news/2026-08-21",
+      "https://www.aflsp.kyoto-u.ac.jp/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 17:00 giờ Nhật; áp dụng cho nhập học tháng 4/2027."
+  },
+  {
+    "program_slug": "yenching-scholars-peking-university",
+    "year": 2026,
+    "opens_at": "2026-09-01",
+    "deadline": "2026-11-30",
+    "sources": [
+      "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 09:00 giờ Bắc Kinh; áp dụng cho khóa 2027."
+  },
+  {
+    "program_slug": "hong-kong-phd-fellowship-scheme",
+    "year": 2026,
+    "opens_at": "2026-09-01",
+    "deadline": "2026-12-01",
+    "sources": [
+      "https://cerg1.ugc.edu.hk/hkpfs/apply.html",
+      "https://cerg1.ugc.edu.hk/hkpfs/index.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đơn ban đầu gửi RGC hạn 12:00 trưa giờ Hong Kong ngày 1/12/2026; hồ sơ vào trường hạn 23:59 cùng ngày."
+  },
+  {
+    "program_slug": "hkust-future-leaders-award",
+    "year": 2025,
+    "opens_at": "2025-10-03",
+    "deadline": "2025-11-30",
+    "sources": [
+      "https://join.hkust.edu.hk/future-leaders-award",
+      "https://join.hkust.edu.hk/intlscholarships"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Ngày lấy từ trang giải thưởng; đợt mới cho khóa 2027/28 chưa có ngày chính thức trong nguồn đã đọc."
+  },
+  {
+    "program_slug": "singapore-moe-asean-scholarship-vietnam",
+    "year": 2026,
+    "opens_at": "2026-01-05",
+    "deadline": "2026-03-09",
+    "sources": [
+      "https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarship/vietnam"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi đợt 2026 đã đóng và sẽ có đợt 2027."
+  },
+  {
+    "program_slug": "malaysian-technical-cooperation-programme-mtcp-scholarship",
+    "year": 2026,
+    "opens_at": "2026-05-04",
+    "deadline": "2026-06-12",
+    "sources": [
+      "https://mtcp.kln.gov.my/scholarship",
+      "https://www.kln.gov.my/web/vnm_hanoi/post/malaysian-technical-cooperation-programme-mtcp-scholarship-2026-2"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Nộp trực tuyến qua cổng MTCP; đợt đã đóng."
+  },
+  {
+    "program_slug": "turkiye-burslari-turkiye-scholarships",
+    "year": 2026,
+    "opens_at": "2026-01-10",
+    "deadline": "2026-02-20",
+    "sources": [
+      "https://www.turkiyeburslari.gov.tr/calendar",
+      "https://www.turkiyeburslari.gov.tr/announcements/turkiye-scholarships-2026-applications-121"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Thông báo chính thức: đợt 2026 mở cho sinh viên quốc tế từ mọi nước."
+  },
+  {
+    "program_slug": "tuoi-tre-tiep-suc-den-truong",
+    "year": 2026,
+    "opens_at": "2026-08-16",
+    "deadline": "2026-09-16",
+    "sources": [
+      "https://tuoitre.vn/dang-ky-hoc-bong-tiep-suc-den-truong.htm",
+      "https://tuoitre.vn/1200-suat-hoc-bong-tiep-suc-den-truong-2026-san-sang-vuot-kho-cung-tan-sinh-vien-34-tinh-thanh-100260813142722111.htm",
+      "https://tuoitre.vn/hoc-bong-tiep-suc-den-truong-2026-con-2-ngay-nhan-ho-so-dang-ky-cua-tan-sinh-vien-100260914151027995.htm"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "opens_at lấy từ câu 'Ngày 16-8, cổng đăng ký học bổng cũng được đổi mới' trong bài ngày 16/08/2026."
+  },
+  {
+    "program_slug": "vingroup-science-technology-phd-scholarship",
+    "year": 2027,
+    "opens_at": null,
+    "deadline": "2027-04-15",
+    "sources": [
+      "https://scholarships.vinuni.edu.vn/wp-content/uploads/2026/05/Thong-bao-nhan-ho-so_Hoc-bong-KHCN-Vingroup-nam-hoc-2027-28.pdf",
+      "https://scholarships.vinuni.edu.vn/faqs/",
+      "https://scholarships.vinuni.edu.vn/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn cho Quy trình 1 năm học 2027/28; Quy trình 2 có hạn 2026-07-30 đã qua. Ngày mở chỉ ghi 'tháng 12 năm 2026' nên để null."
+  },
+  {
+    "program_slug": "van-lang-talent-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-30",
+    "sources": [
+      "https://www.vlu.edu.vn/admissions/scholarship/hoc-bong-dai-hoc",
+      "https://tuyensinh.vlu.edu.vn/xet-tuyen/xet-hoc-bong"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn đăng ký học bổng Tài năng mức 1 cho khóa 32; trang không ghi ngày mở."
+  },
+  {
+    "program_slug": "van-lang-vgs-global-elite-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-30",
+    "sources": [
+      "https://tuyensinh.vlu.edu.vn/xet-tuyen/xet-hoc-bong"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang không ghi ngày mở."
+  },
+  {
+    "program_slug": "fulbright-khoi-tri-scholarship",
+    "year": 2026,
+    "opens_at": "2026-06-22",
+    "deadline": "2026-07-20",
+    "sources": [
+      "https://fulbright.edu.vn/khoi-tri-scholarship/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Video phải còn truy cập được đến 15/08/2026."
+  },
+  {
+    "program_slug": "samsung-galaxy-campus-friends",
+    "year": 2026,
+    "opens_at": "2026-02-25",
+    "deadline": "2026-03-15",
+    "sources": [
+      "https://www.hoasen.edu.vn/event/tim-kiem-dai-su-sinh-vien-galaxy-campus-friends-all-star-2026/",
+      "https://www.samsung.com/vn/mobile/galaxy-campus/about/",
+      "https://www.samsung.com/vn/mobile/galaxy-campus/tnc/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Mùa 3 - Galaxy Campus Friends All Star 2026. Ngày từ trang trường, không phải samsung.com."
+  },
+  {
+    "program_slug": "shopee-campus-ambassador-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-28",
+    "sources": [
+      "https://www.cake.me/companies/shopee-viet-nam/jobs/the-cap-2026-application-is-now-open",
+      "https://daihoc.fpt.edu.vn/hcm/shopee-campus-ambassador-program-2026-mo-don-ung-tuyen/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đã đóng. Đợt gần nhất là CAP 2026, hoạt động tháng 7 đến tháng 11/2026."
   }
 ]
