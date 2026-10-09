@@ -207,12 +207,17 @@ test("accepts known highlight keys on a scholarship", () => {
   assert.deepEqual(validateDataset({ programs: [p], cycles: [cycle()] }), []);
 });
 
+test("accepts the admission_based highlight next to a funding level", () => {
+  const p = program({ type: "scholarship", highlights: ["partial_funding", "admission_based"] });
+  assert.deepEqual(validateDataset({ programs: [p], cycles: [cycle()] }), []);
+});
+
 test("rejects unknown, duplicate and too many highlights", () => {
   const bad = (highlights) => validateDataset({ programs: [program({ type: "scholarship", highlights })], cycles: [cycle()] });
   assert.ok(bad(["bogus"]).some((e) => e.includes("highlights")));
   assert.ok(bad(["full_funding", "full_funding"]).some((e) => e.includes("highlights")));
   assert.ok(bad("full_funding").some((e) => e.includes("highlights")));
-  assert.ok(bad(["full_funding", "tuition_waiver", "partial_funding", "cash_award", "living_stipend", "needs_work_experience", "return_commitment", "needs_english_cert", "need_based", "school_nomination", "full_funding"]).some((e) => e.includes("highlights")));
+  assert.ok(bad(["full_funding", "tuition_waiver", "partial_funding", "cash_award", "living_stipend", "needs_work_experience", "return_commitment", "needs_english_cert", "need_based", "school_nomination", "admission_based", "full_funding"]).some((e) => e.includes("highlights")));
 });
 
 test("rejects more than one funding level", () => {

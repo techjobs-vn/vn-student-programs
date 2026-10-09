@@ -45,6 +45,7 @@ const MAX_DESCRIPTION = 280;
 export const HIGHLIGHT_KEYS = [
   "full_funding", "tuition_waiver", "partial_funding", "cash_award", "living_stipend",
   "needs_work_experience", "return_commitment", "needs_english_cert", "need_based", "school_nomination",
+  "admission_based",
 ];
 export const LEVEL_KEYS = ["highschool", "undergraduate", "master", "phd"];
 export const STUDY_IN_KEYS = ["vietnam", "abroad"];

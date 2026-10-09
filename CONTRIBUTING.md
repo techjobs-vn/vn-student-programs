@@ -87,7 +87,7 @@ Không cần cài package nào, chỉ cần Node.js ≥ 22.
 | `official_url` | ✓ | https, domain công ty/ATS; không nhận mạng xã hội |
 | `levels` | | Học bổng: bậc học, một hoặc nhiều: `highschool` (học sinh THPT, hoặc người vừa tốt nghiệp THPT nộp để vào năm nhất đại học/cao đẳng: học bổng tuyển sinh, đầu vào, tân sinh viên) · `undergraduate` (đại học, cao đẳng, cử nhân) · `master` · `phd` (tiến sĩ, nghiên cứu sinh) |
 | `study_in` | | Học bổng: `vietnam` (học trong nước) hoặc `abroad` (du học); bỏ trống nếu nguồn không nói rõ |
-| `highlights` | | Học bổng: các khoá hiển thị thành badge trên danh sách, chỉ ghi điều nguồn nói rõ. Mức hỗ trợ (tối đa một): `full_funding` · `tuition_waiver` · `partial_funding` · `cash_award`. Khác: `living_stipend` · `needs_work_experience` · `return_commitment` · `needs_english_cert` · `need_based` · `school_nomination` |
+| `highlights` | | Học bổng: các khoá hiển thị thành badge trên danh sách, chỉ ghi điều nguồn nói rõ. Mức hỗ trợ (tối đa một): `full_funding` · `tuition_waiver` · `partial_funding` · `cash_award`. Khác: `living_stipend` · `needs_work_experience` · `return_commitment` · `needs_english_cert` · `need_based` · `school_nomination` · `admission_based` (xét qua hồ sơ nhập học hoặc điểm xét tuyển, không có đơn học bổng riêng) |
 | `description` | | 1–2 câu tiếng Việt (tối đa 280 ký tự) tóm tắt chương trình và đối tượng; chỉ dùng thông tin có nguồn |
 | `tracks` | | Tên các nhánh/vị trí trong chương trình |
 | `fields` | ✓ | Lĩnh vực, một hoặc nhiều: `tech` · `finance` · `audit-consulting` · `business` · `operations` · `engineering` · `hr` · `general` (xem [phạm vi](#phạm-vi)) |
