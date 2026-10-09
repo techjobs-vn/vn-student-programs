@@ -35,7 +35,9 @@ Chương trình MT nhiều nhánh ghi đủ các lĩnh vực của các nhánh; 
 
 **Học bổng** (`scholarship`): nhận học bổng **có tên và có đợt nộp đơn** dành cho sinh viên hoặc người mới tốt nghiệp ở Việt Nam, gồm: học bổng của công ty, quỹ, tổ chức; học bổng của chính phủ hoặc tổ chức nước ngoài (Fulbright, Chevening, Australia Awards, MEXT, KGSP, DAAD, Erasmus Mundus...); học bổng của trường đại học mà người ngoài trường cũng nộp được. Trang chính thức phải là trang của đơn vị cấp học bổng. Ghi bậc học và nước đến trong `eligibility`, lĩnh vực trong `fields` (không rõ ngành thì `general`).
 
-Không nhận học bổng chỉ dành cho một địa phương, học bổng của một trường cho sinh viên của chính trường, học bổng tự động xét theo điểm không cần nộp đơn, và học bổng không có trang chính thức.
+Không nhận học bổng chỉ dành cho một địa phương, học bổng của một trường cho sinh viên đang học của chính trường, miễn giảm học phí chung chung theo điểm thi không có tên riêng, và học bổng không có trang chính thức.
+
+**Học bổng gắn với hồ sơ nhập học** (xét tự động từ hồ sơ hoặc điểm xét tuyển, hoặc chọn ô học bổng khi nộp hồ sơ, không có đơn riêng) vẫn được nhận khi: có tên riêng, trang chính thức của trường nêu điều kiện và mức hỗ trợ, và mở cho thí sinh Việt Nam. Ghi rõ vào `notes` "Xét qua hồ sơ nhập học, không có đơn riêng"; `cycle` chỉ ghi ngày khi trang gắn học bổng với một mốc nộp hồ sơ cụ thể.
 
 Không nhận: tin tuyển một vị trí lẻ, khoá học thu phí, cuộc thi không kèm tuyển dụng, chương trình trao đổi ngắn hạn do trường tổ chức (không phải học bổng).
 

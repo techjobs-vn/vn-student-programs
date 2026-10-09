@@ -3283,5 +3283,495 @@
     ],
     "updated_at": "2026-10-09",
     "notes": "Đợt nhập học 2026: hạn nộp hồ sơ vào chương trình để xét học bổng 10/03/2026 23:59 (CET); các cuộc thi tuyển chọn diễn ra từ 11/2025 đến 03/2026, kết quả cuối tháng 5/2026. Trang không nêu ngày mở đơn. Chưa công bố đợt 2027."
+  },
+  {
+    "program_slug": "nus-asean-undergraduate-scholarship",
+    "year": 2026,
+    "opens_at": "2026-12-16",
+    "deadline": "2027-02-17",
+    "sources": [
+      "https://nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/asean-undergraduate-scholarship",
+      "https://nus.edu.sg/oam/scholarships/important-dates-and-application",
+      "https://www.nus.edu.sg/oam/admissions/important-dates"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang học bổng ghi 'Based on admissions application timeline'. Dùng mốc AY2027/28 của nhóm bằng quốc tế (gồm IB Diploma) trên trang Important Dates: 16/12/2026 đến 17/2/2027. Trang đó đang gắn nhãn [Closed] cho các mốc này nên cần người kiểm tra lại ngày. Phỏng vấn dự kiến tháng 1 đến tháng 7, kết quả học bổng khoảng giữa tháng 7."
+  },
+  {
+    "program_slug": "nus-international-undergraduate-scholarship",
+    "year": 2026,
+    "opens_at": "2026-12-16",
+    "deadline": "2027-02-17",
+    "sources": [
+      "https://nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/nus-international-undergraduate-scholarship",
+      "https://nus.edu.sg/oam/scholarships/important-dates-and-application",
+      "https://www.nus.edu.sg/oam/admissions/important-dates"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang học bổng ghi 'Based on admissions application timeline'. Dùng mốc AY2027/28 của nhóm bằng quốc tế (gồm IB Diploma) trên trang Important Dates: 16/12/2026 đến 17/2/2027. Trang đó đang gắn nhãn [Closed] cho các mốc này nên cần người kiểm tra lại ngày. Phỏng vấn dự kiến tháng 1 đến tháng 7, kết quả học bổng khoảng giữa tháng 7."
+  },
+  {
+    "program_slug": "kaist-international-undergraduate-scholarship",
+    "year": 2026,
+    "opens_at": "2026-09-22",
+    "deadline": "2027-01-14",
+    "sources": [
+      "https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/",
+      "https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Học bổng có thời hạn nộp 'giống hồ sơ nhập học'. Lịch tuyển sinh 2027: Early 22/9 đến 22/10/2026 (thư giới thiệu 29/10); Regular 10/11/2026 đến 14/1/2027 (thư giới thiệu 21/1/2027). Hai khoảng nộp không liền nhau; opens_at/deadline lấy đầu Early và cuối Regular."
+  },
+  {
+    "program_slug": "korea-university-global-leader-scholarship-a",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://oia.korea.ac.kr/oia2026/KU-Scholarships.do",
+      "https://oia.korea.ac.kr/oia2026/Admission-Guide.do"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang học bổng chỉ nói xét tự động theo kết quả xét tuyển, không nêu ngày. Trang Admission Guide: nhập học Spring 2027 nộp 3/8 đến 7/9/2026; Fall 2027 mở khoảng tháng 3/2027 (chưa chốt)."
+  },
+  {
+    "program_slug": "korea-university-anam-global-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://oia.korea.ac.kr/oia2026/KU-Scholarships.do",
+      "https://oia.korea.ac.kr/oia2026/Admission-Guide.do"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang học bổng chỉ nói xét tự động theo kết quả xét tuyển, không nêu ngày. Trang Admission Guide: nhập học Spring 2027 nộp 3/8 đến 7/9/2026; Fall 2027 mở khoảng tháng 3/2027 (chưa chốt)."
+  },
+  {
+    "program_slug": "postech-international-undergraduate-tuition-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.postech.ac.kr/eng/admission-aid/scholarship_information.do",
+      "https://adm-iu.postech.ac.kr/user/index.do"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang học bổng không gắn mốc ngày; năm 2026 là kỳ tuyển sinh quốc tế đầu tiên (Fall 2026) nêu trên trang tuyển sinh."
+  },
+  {
+    "program_slug": "skku-samsung-global-sungkyun-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://admission-global.skku.edu/eng/grad/scholarship_undergrad.html",
+      "https://admission-global.skku.edu/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang học bổng không nêu ngày hay năm; dùng năm 2026 theo hướng dẫn tuyển sinh 2026 Fall trên trang chủ tuyển sinh."
+  },
+  {
+    "program_slug": "skku-global-leader-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://admission-global.skku.edu/eng/grad/scholarship_undergrad.html",
+      "https://admission-global.skku.edu/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang học bổng không nêu ngày hay năm; dùng năm 2026 theo hướng dẫn tuyển sinh 2026 Fall trên trang chủ tuyển sinh."
+  },
+  {
+    "program_slug": "waseda-spse-global-leader-international-student-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.waseda.jp/fpse/pse/en/applicants/tuition/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang Tuition and Scholarships của School of Political Science and Economics ghi 'Examples of Scholarships for AY2025 Students' và 'Programs vary every year'; bảng học phí nêu kỳ nhập học 2026 Fall. Không có ngày riêng cho học bổng."
+  },
+  {
+    "program_slug": "waseda-partial-tuition-waiver-scholarship-pre-enrollment",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.waseda.jp/fpse/pse/en/applicants/tuition/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang Tuition and Scholarships của School of Political Science and Economics ghi 'Examples of Scholarships for AY2025 Students' và 'Programs vary every year'; bảng học phí nêu kỳ nhập học 2026 Fall. Không có ngày riêng cho học bổng."
+  },
+  {
+    "program_slug": "monash-malaysia-high-achiever-award",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang chỉ ghi 'Closing dates: Per course application deadline', không nêu ngày hay năm; năm 2026 chỉ là năm xét hiện tại, cần kiểm tra."
+  },
+  {
+    "program_slug": "hku-faculty-of-engineering-global-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://admissions.hku.hk/fees-and-scholarships/scholarships/hku-faculty-of-engineering-global-scholarship"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang không nêu năm hay ngày; năm 2026 chỉ là năm xét hiện tại (các trang học bổng HKU cùng loại ghi 'pertains to the 2026 admissions'), cần kiểm tra."
+  },
+  {
+    "program_slug": "hku-tongcheng-travel-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://admissions.hku.hk/fees-and-scholarships/scholarships/tongcheng-travel-scholarship"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi 'pertains to the 2026 admissions'; không có ngày riêng."
+  },
+  {
+    "program_slug": "cuhk-admission-scholarships-non-local",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang không nêu năm hay ngày; năm 2026 chỉ là năm xét hiện tại, cần kiểm tra. Trường tự xác định người đủ điều kiện và báo riêng."
+  },
+  {
+    "program_slug": "cuhk-hksar-government-scholarship-non-local",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang không nêu năm hay ngày; năm 2026 chỉ là năm xét hiện tại, cần kiểm tra. Trường tự xác định người đủ điều kiện và báo riêng."
+  },
+  {
+    "program_slug": "haui-entrance-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://tuyensinh.haui.edu.vn/tin-tuc/hoc-bong-dai-hoc-cong-nghiep-ha-noi-nam-2026/69ca2e2995dfe0072a789cfa"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Bài đăng ngày 30/03/2026 không nêu ngày mở/hạn."
+  },
+  {
+    "program_slug": "haui-english-program-entrance-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://tuyensinh.haui.edu.vn/tin-tuc/hoc-bong-dai-hoc-cong-nghiep-ha-noi-nam-2026/69ca2e2995dfe0072a789cfa"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Bài đăng ngày 30/03/2026 không nêu ngày mở/hạn."
+  },
+  {
+    "program_slug": "duytan-talent-program-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://duytan.edu.vn/tuyen-sinh/Page/ScholarshipDetail.aspx?id=104"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang không nêu ngày mở/hạn."
+  },
+  {
+    "program_slug": "duytan-advanced-international-talent-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://duytan.edu.vn/tuyen-sinh/Page/ScholarshipDetail.aspx?id=103"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang không nêu ngày mở/hạn."
+  },
+  {
+    "program_slug": "pxu-talent-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://pxu.edu.vn/news/hoc-bong-tai-nang-pxu-2026",
+      "https://pxu.edu.vn/hoc-bong"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Bài đăng 12/07/2026, không nêu hạn."
+  },
+  {
+    "program_slug": "stu-talent-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.stu.edu.vn/chinh-sach-hoc-bong-tuyen-sinh-nam-2026-co-hoi-vang-cho-tan-sinh-vien.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Mốc 21/08/2026 và 11/09/2026 là ngày chốt danh sách xét học bổng, không phải hạn nộp đơn nên để null."
+  },
+  {
+    "program_slug": "stu-thu-khoa-nganh-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.stu.edu.vn/chinh-sach-hoc-bong-tuyen-sinh-nam-2026-co-hoi-vang-cho-tan-sinh-vien.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Mốc chốt danh sách đợt bổ sung 11/09/2026 không phải hạn nộp đơn nên để null."
+  },
+  {
+    "program_slug": "tdtu-hoc-bong-thu-khoa-dau-vao",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://admission.tdtu.edu.vn/hoc-tai-tdtu/hoc-phi-hoc-bong-2026"
+    ],
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "nttu-hoc-bong-tai-nang-nang-buoc-thu-khoa",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://tuyensinh.ntt.edu.vn/chinh-sach-hoc-bong"
+    ],
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "nttu-hoc-bong-hoc-sinh-gioi-xuat-sac",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://tuyensinh.ntt.edu.vn/chinh-sach-hoc-bong"
+    ],
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "hcmute-hoc-bong-khuyen-tai",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://ffl.hcmute.edu.vn/sites/default/files/2026-06/THONG%20TIN%20TUYEN%20SINH%20DAI%20HOC%20CHINH%20QUY%202026_FN_T%20-%20Signed%20%28up%29.pdf"
+    ],
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "uit-hoc-bong-toan-dien-sang-tao-phung-su",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://tuyensinh.uit.edu.vn/2026-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2026"
+    ],
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "uit-hoc-bong-thu-khoa",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://tuyensinh.uit.edu.vn/2026-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2026"
+    ],
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "monash-international-merit-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang không nêu hạn nộp; ghi mức áp dụng cho học bổng trao từ 2026."
+  },
+  {
+    "program_slug": "monash-international-leadership-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-leadership-scholarship-5571Z"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang không nêu hạn nộp hay năm áp dụng; year là năm kiểm tra trang (trang cập nhật 2026-10-01)."
+  },
+  {
+    "program_slug": "anu-international-achievement-award",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://study.anu.edu.au/scholarships/find-scholarship/anu-international-achievement-award"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi nhận hồ sơ mở quanh năm, không nêu năm cụ thể; year là năm kiểm tra."
+  },
+  {
+    "program_slug": "melbourne-international-undergraduate-scholarship",
+    "year": 2027,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://scholarships.unimelb.edu.au/awards/melbourne-international-undergraduate-scholarship",
+      "https://scholarships.unimelb.edu.au/eligible-countries"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang nêu thay đổi từ 2027 (20%, 225 suất); không có hạn nộp riêng."
+  },
+  {
+    "program_slug": "uq-international-excellence-scholarship",
+    "year": 2027,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://scholarships.uq.edu.au/scholarship/uq-international-excellence-scholarship"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang nêu kỳ nhập học 2027, không nêu hạn nộp riêng."
+  },
+  {
+    "program_slug": "vuw-undergraduate-international-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.wgtn.ac.nz/scholarships/current/vuw-undergraduate-international-scholarship"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi hạn trùng hạn nộp chương trình học, không nêu ngày; không nêu năm, year là năm cập nhật trang (2026-05-27)."
+  },
+  {
+    "program_slug": "otago-global-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.otago.ac.nz/courses/scholarships/global-scholarships"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang nêu mốc lặp lại hằng năm (mở 1/5 năm trước; đóng 10/12 cho kỳ tháng 2, 30/4 cho kỳ tháng 7 với thí sinh ngoài NZ) nhưng không nêu năm, nên không ghi ngày."
+  },
+  {
+    "program_slug": "sheffield-international-undergraduate-scholarship",
+    "year": 2027,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi hạn chọn Sheffield làm firm/insurance 4 giờ chiều ngày 2/6/2027 (giờ Anh); đó là hạn xác nhận chứ không phải hạn nộp học bổng nên để deadline null."
+  },
+  {
+    "program_slug": "nottingham-international-undergraduate-excellence-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.nottingham.ac.uk/studywithus/international-applicants/scholarships-funding-finance/international-undergraduate-excellence-scholarship.aspx"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang không nêu năm hay hạn nộp; year là năm kiểm tra trang."
+  },
+  {
+    "program_slug": "waterloo-international-student-entrance-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://uwaterloo.ca/future-students/financing/international-scholarships"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang không nêu năm hay hạn nộp; học bổng hiện trong cổng ứng viên từ giữa tháng 4. year là năm kiểm tra."
+  },
+  {
+    "program_slug": "boston-university-presidential-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.bu.edu/admissions/tuition-aid/scholarships-financial-aid/first-year-merit/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi hạn 1/12 nhưng không nêu năm; ghi nhận hiệu lực từ khóa mùa thu 2026 nên để deadline null."
+  },
+  {
+    "program_slug": "wright-state-vietnam-academic-merit-scholarship",
+    "year": 2025,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.wright.edu/enrollment-services/financial-aid/international-undergraduate-student-scholarships"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi 'first enrolling for the 2025–26 academic year'; không nêu hạn nộp."
+  },
+  {
+    "program_slug": "wright-state-southeast-asia-merit-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.wright.edu/enrollment-services/financial-aid/international-undergraduate-student-scholarships"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi 'first enrolling for the 2026–27 academic year'; không nêu hạn nộp."
+  },
+  {
+    "program_slug": "queens-university-deans-international-award",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.queensu.ca/registrar/financial-aid/specific-students/international"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi 'không cần nộp đơn' và không nêu năm; year là năm kiểm tra."
+  },
+  {
+    "program_slug": "constructor-university-talent-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-02-01",
+    "sources": [
+      "https://constructor.university/scholarships"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 1/2/2026 là hạn nộp hồ sơ nhập học để được xét; đã qua so với ngày kiểm tra."
+  },
+  {
+    "program_slug": "constructor-university-academic-achievement-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://constructor.university/scholarships"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang không gắn học bổng này với hạn nộp cụ thể; year là năm của đợt tuyển sinh gần nhất nêu trong trang (Fall 2026)."
   }
 ]
