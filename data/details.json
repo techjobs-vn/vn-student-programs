@@ -11095,6 +11095,120 @@
     "updated_at": "2026-10-09"
   },
   {
+    "program_slug": "nycu-international-student-scholarship",
+    "overview": "Đây là học bổng của Đại học Quốc lập Dương Minh Giao Thông (NYCU, Đài Loan) dành cho sinh viên quốc tế theo học để lấy bằng. Tân sinh viên đăng ký học bổng ngay trong hồ sơ nhập học, và hội đồng xét học bổng cùng lúc với hồ sơ. Học bổng gồm trợ cấp hằng tháng và/hoặc hỗ trợ học phí, mỗi lần cấp có hiệu lực 1 năm. Thời gian nhận tối đa là 4 năm với bậc cử nhân, 2 năm với thạc sĩ và 5 năm với tiến sĩ. Theo lịch học vụ, hệ thống nộp hồ sơ nhập học cho kỳ mùa thu 2027 mở từ ngày 20/12/2026.",
+    "eligibility": [
+      "Sinh viên quốc tế nộp hồ sơ xin học chương trình cấp bằng tại NYCU và chọn đăng ký học bổng trong đơn nhập học.",
+      "Chưa nhận học bổng hoặc khoản trợ cấp nào từ chính quyền Đài Loan.",
+      "Trong thời gian nhận học bổng, sinh viên cử nhân phải học ít nhất 4 môn tiếng Hoa, còn học viên sau đại học phải học ít nhất 2 môn.",
+      "Được miễn các môn tiếng Hoa nếu có chứng chỉ năng lực Hoa ngữ do Bộ Giáo dục Đài Loan cấp hoặc đạt bài kiểm tra của trung tâm Hoa ngữ của trường.",
+      "Muốn tiếp tục nhận học bổng, sinh viên phải nộp bảng điểm và biên lai học phí mỗi học kỳ đúng hạn.",
+      "Khi xin lại học bổng, sinh viên cử nhân cần GPA tích lũy từ 3.0 trở lên, còn thạc sĩ và tiến sĩ cần từ 3.5 trở lên."
+    ],
+    "benefits": [
+      "Trợ cấp hằng tháng, do Phòng Quốc tế chi trả cùng phần đối ứng từ khoa, viện hoặc giáo sư hướng dẫn.",
+      "Hỗ trợ học phí theo một trong hai hình thức: miễn học phí, hoặc đóng học phí theo mức của sinh viên bản địa.",
+      "Trợ cấp tháng và hỗ trợ học phí có thể được cấp cùng lúc hoặc riêng từng khoản.",
+      "Mỗi lần cấp có hiệu lực 1 năm. Thời gian nhận tối đa là 4 năm với cử nhân (tùy số năm quy định của ngành), 2 năm với thạc sĩ và 5 năm với tiến sĩ.",
+      "Người phải học kéo dài hoặc đã hết thời hạn học bổng có thể xin đóng học phí theo mức bản địa nếu đạt chuẩn học lực.",
+      "Người đang nhận học bổng NYCU vẫn được xin các học bổng khác, miễn là không đến từ cơ quan chính phủ."
+    ],
+    "selection_process": [
+      "Vòng 1: Nộp hồ sơ nhập học online và chọn \"Yes\" ở mục NYCU Scholarship.",
+      "Vòng 2: Hội đồng xét học bổng cùng lúc với khi xét điều kiện nhập học.",
+      "Vòng 3: Kết quả nhập học, gồm cả học bổng, được công bố online. Với kỳ mùa thu 2026, kết quả có vào khoảng giữa tháng 5.",
+      "Vòng 4: Người trúng tuyển xác nhận nhập học trước hạn chót. Với kỳ mùa thu 2026, hạn này là cuối tháng 5.",
+      "Sau khi nhập học: đóng học phí, làm thẻ cư trú, mở tài khoản bưu điện, rồi nộp các giấy tờ này cho Phòng Quốc tế để được giải ngân."
+    ],
+    "locations": [
+      "Đài Loan"
+    ],
+    "faq": [
+      {
+        "q": "Tân sinh viên đăng ký học bổng như thế nào?",
+        "a": "Không cần đơn riêng. Bạn chọn \"Yes\" ở mục NYCU Scholarship khi điền đơn nhập học online, và hội đồng sẽ xét học bổng cùng lúc với hồ sơ nhập học."
+      },
+      {
+        "q": "Sau khi nhập học bao lâu thì nhận được tiền học bổng?",
+        "a": "Thường mất khoảng 6–8 tuần sau khi hoàn tất nhập học, vì bạn cần làm thẻ cư trú và mở tài khoản bưu điện trước. Sau đó, tiền thường được chuyển vào ngày 10 hằng tháng."
+      },
+      {
+        "q": "Được miễn học phí thì có phải đóng khoản nào khác không?",
+        "a": "Có. Miễn học phí chỉ áp dụng cho học phí và tạp phí. Bạn vẫn phải đóng các khoản khác như ký túc xá, bảo hiểm, phí thiết bị, cũng như phí học hè."
+      },
+      {
+        "q": "Tân sinh viên chỉ nhận hỗ trợ học phí thì có xin thêm trợ cấp tháng được không?",
+        "a": "Được. Sau một học kỳ, nếu bạn đạt GPA từ 3.0 (cử nhân) hoặc 3.5 (sau đại học), bạn có thể nộp đơn xin học bổng dành cho sinh viên đang học, áp dụng từ năm thứ hai."
+      },
+      {
+        "q": "Trường hợp nào bị dừng cấp học bổng?",
+        "a": "Học bổng bị dừng nếu bạn có hành vi làm tổn hại danh tiếng của trường, rời trường hơn 30 ngày vì lý do không liên quan đến học tập hoặc nghiên cứu, tốt nghiệp, bảo lưu hoặc thôi học."
+      }
+    ],
+    "sources": [
+      "https://oia.nycu.edu.tw/oia/en/app/data/view?id=792&module=nycu0012&serno=0f046f83-4147-4ec7-8921-bbaccd8c678f",
+      "https://oia.nycu.edu.tw/oia/ch/app/data/list?module=nycu0015&id=435",
+      "https://oia.nycu.edu.tw/oia/en/app/artwebsite/view?module=artwebsite&id=785&serno=07d9ede2-e896-4efe-a671-2b86dbc2a0d8",
+      "https://www.nycu.edu.tw/nycu/en/app/artwebsite/doc?module=artwebsite&detailNo=1169090024096927744&type=s",
+      "https://oia-scholarship.nycu.edu.tw/"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "nycu-undeclared-program-international-student-scholarship",
+    "overview": "Học bổng do Đại học Quốc gia Dương Minh Giao Thông (NYCU, Đài Loan) cấp từ nguồn quyên góp của quỹ, doanh nghiệp và cá nhân, nhằm khuyến khích sinh viên quốc tế giỏi theo học chương trình cử nhân năm 1-2 chưa chia ngành. Đối tượng là sinh viên quốc tế không học y hoặc nha khoa. Học bổng được xét theo từng học kỳ, kéo dài từ tháng nhập học đến khi sinh viên tốt nghiệp, chuyển ngành, bảo lưu hoặc thôi học, tối đa 4 năm. Học bổng không được cấp trong thời gian kéo dài thời hạn học.",
+    "eligibility": [
+      "Sinh viên quốc tế trúng tuyển qua hội đồng tuyển sinh sinh viên nước ngoài của NYCU vào chương trình cử nhân năm 1-2 chưa chia ngành, áp dụng từ năm học 2022-2023.",
+      "Sinh viên quốc tế không học y hoặc nha khoa nhưng học toàn bộ các môn năm 1-2 của chương trình chưa chia ngành cũng thuộc diện được xét.",
+      "Thứ hạng học tập trong lớp của năm học trước phải nằm trong nhóm 50% đầu; nếu không đạt sẽ mất quyền nộp đơn, trừ trường hợp đặc biệt được phòng Đào tạo chấp thuận.",
+      "Phải đóng đủ học phí của học kỳ thì mới được nhận học bổng.",
+      "Không vắng mặt ở trường quá một tháng mà không rõ lý do và không vi phạm nội quy của trường."
+    ],
+    "benefits": [
+      "Mỗi học kỳ được nhận tối đa NT$120.000.",
+      "Học bổng có thể kéo dài tối đa 4 năm, tính từ tháng nhập học.",
+      "Số suất và mức học bổng năm sau được quyết định dựa trên nguồn quỹ quyên góp của năm hiện tại."
+    ],
+    "selection_process": [
+      "Bước 1: Nộp đơn mỗi học kỳ theo thời gian trường thông báo cho học kỳ đó.",
+      "Bước 2: Văn phòng chương trình cử nhân năm 1-2 chưa chia ngành xét sơ bộ điều kiện nhận học bổng.",
+      "Bước 3: Phòng Đào tạo trình Hiệu trưởng phê duyệt."
+    ],
+    "locations": [
+      "Đài Bắc, Đài Loan"
+    ],
+    "stipend": "Tối đa NT$120.000 mỗi học kỳ, trong tối đa 4 năm.",
+    "faq": [
+      {
+        "q": "Có phải nộp đơn lại mỗi học kỳ không?",
+        "a": "Có. Sinh viên phải nộp đơn mỗi học kỳ. Văn phòng chương trình xét sơ bộ điều kiện, sau đó Hiệu trưởng phê duyệt."
+      },
+      {
+        "q": "Tân sinh viên cần nộp những giấy tờ gì?",
+        "a": "Đơn xin học bổng, bản sao sổ tài khoản bưu điện đứng tên mình, bằng tốt nghiệp và bảng điểm các năm của bậc học trước, cùng danh sách môn đăng ký của học kỳ."
+      },
+      {
+        "q": "Sinh viên năm trên cần nộp gì?",
+        "a": "Đơn xin học bổng, bảng điểm học kỳ trước có ghi thứ hạng và danh sách môn đăng ký của học kỳ. Sau khi đã chia ngành thì không cần nộp danh sách môn."
+      },
+      {
+        "q": "Nếu chuyển ngành hoặc bảo lưu thì học bổng ra sao?",
+        "a": "Chuyển ngành sẽ bị dừng học bổng và mất quyền nộp đơn từ năm đó trở đi. Khi bảo lưu, học bổng cũng bị dừng; sau khi quay lại học có thể nộp đơn lại từ năm học quay lại."
+      },
+      {
+        "q": "Có được nhận học bổng trong thời gian kéo dài thời hạn học không?",
+        "a": "Không. Học bổng không được cấp trong thời gian kéo dài thời hạn học và tối đa chỉ 4 năm."
+      }
+    ],
+    "sources": [
+      "https://www.nycu.edu.tw/userfiles/ipuch/files/20260325150946930.pdf",
+      "https://www.nycu.edu.tw/userfiles/ipuch/files/20260911091810100.pdf"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-09"
+  },
+  {
     "program_slug": "ocb-fresh-bankers",
     "overview": "OCB Fresh Bankers là chương trình tuyển dụng và đào tạo nhân viên tín dụng tập sự cho mạng lưới chi nhánh và phòng giao dịch của OCB. Mùa gần nhất là mùa 4, đăng ngày 13/01/2025 và đã kết thúc. Chương trình dành cho sinh viên năm cuối và người mới tốt nghiệp có dưới 1 năm kinh nghiệm. Thời gian tập sự là 4 tháng, gồm 2 tháng học lý thuyết và 2 tháng làm việc thực tế; người hoàn thành có cơ hội trở thành nhân viên chính thức.",
     "eligibility": [

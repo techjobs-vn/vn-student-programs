@@ -3418,13 +3418,14 @@
   {
     "program_slug": "hku-faculty-of-engineering-global-scholarship",
     "year": 2026,
-    "opens_at": null,
-    "deadline": null,
+    "opens_at": "2026-09-23",
+    "deadline": "2027-08-25",
     "sources": [
+      "https://admissions.hku.hk/apply/international-qualifications",
       "https://admissions.hku.hk/fees-and-scholarships/scholarships/hku-faculty-of-engineering-global-scholarship"
     ],
     "updated_at": "2026-10-09",
-    "notes": "Trang không nêu năm hay ngày; năm 2026 chỉ là năm xét hiện tại (các trang học bổng HKU cùng loại ghi 'pertains to the 2026 admissions'), cần kiểm tra."
+    "notes": "Mốc là hồ sơ nhập học diện International/Non-JUPAS khoá 2027: mở 2026-09-23, vòng 1 hạn 2026-11-25 (12:00 trưa HKT, phỏng vấn 11/2026 đến 01/2027, kết quả từ 12/2026), sau đó xét rolling đến 2027-08-25 (12:00 trưa HKT). Hạn ghi là hạn cuối cùng. Trang học bổng nói người đủ điều kiện được xét tự động và shortlist phỏng vấn theo rolling, nhưng không nêu năm hay ngày riêng và không gắn với vòng 1. Nên nộp trước 2026-11-25 để được xét sớm. Ngày mở 2026-09-23 và các mốc khác đọc qua trình duyệt tự động trên trang tuyển sinh chính thức (trang tải bằng JS)."
   },
   {
     "program_slug": "hku-tongcheng-travel-scholarship",
@@ -3432,32 +3433,37 @@
     "opens_at": null,
     "deadline": null,
     "sources": [
-      "https://admissions.hku.hk/fees-and-scholarships/scholarships/tongcheng-travel-scholarship"
+      "https://admissions.hku.hk/fees-and-scholarships/scholarships/tongcheng-travel-scholarship",
+      "https://admissions.hku.hk/apply/international-qualifications"
     ],
     "updated_at": "2026-10-09",
-    "notes": "Trang ghi 'pertains to the 2026 admissions'; không có ngày riêng."
+    "notes": "Trang học bổng ghi 'thông tin thuộc tuyển sinh 2026, chi tiết 2027 có thể thay đổi' và không nêu ngày, nên chưa xác nhận học bổng cho khoá 2027, để null. Hồ sơ nhập học HKU khoá 2027 (International/Non-JUPAS): mở 2026-09-23, vòng 1 hạn 2026-11-25 (12:00 trưa HKT), rolling đến 2027-08-25; học bổng xét tự động theo kết quả thi tuyển công khai, không có đơn riêng. Nếu sau này trang cập nhật cho 2027 có thể điền các mốc này."
   },
   {
     "program_slug": "cuhk-admission-scholarships-non-local",
     "year": 2026,
-    "opens_at": null,
-    "deadline": null,
+    "opens_at": "2026-10-02",
+    "deadline": "2027-01-07",
     "sources": [
+      "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/",
+      "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/application-guides/",
       "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/"
     ],
     "updated_at": "2026-10-09",
-    "notes": "Trang không nêu năm hay ngày; năm 2026 chỉ là năm xét hiện tại, cần kiểm tra. Trường tự xác định người đủ điều kiện và báo riêng."
+    "notes": "Mốc là hồ sơ nhập học cử nhân diện Overseas/Other Qualifications (Non-Local) khoá 2027: mở 2026-10-02, vòng Advance Offer hạn 2026-11-12 (thông báo từ 12/2026), vòng Regular hạn 2027-01-07 (thông báo từ 02/2027). Hạn ghi là hạn Regular. Trang học bổng không nêu năm hay ngày và không gắn học bổng với vòng nào; chỉ nói trường tự xác định và báo riêng cho sinh viên đã được nhận (suy ra phải nộp hồ sơ nhập học). Nộp một đơn duy nhất, không cần đơn lại cho các vòng sau."
   },
   {
     "program_slug": "cuhk-hksar-government-scholarship-non-local",
     "year": 2026,
-    "opens_at": null,
-    "deadline": null,
+    "opens_at": "2026-10-02",
+    "deadline": "2027-01-07",
     "sources": [
+      "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/",
+      "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/application-guides/",
       "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/"
     ],
     "updated_at": "2026-10-09",
-    "notes": "Trang không nêu năm hay ngày; năm 2026 chỉ là năm xét hiện tại, cần kiểm tra. Trường tự xác định người đủ điều kiện và báo riêng."
+    "notes": "Mốc là hồ sơ nhập học cử nhân diện Overseas/Other Qualifications (Non-Local) khoá 2027: mở 2026-10-02, vòng Advance Offer hạn 2026-11-12 (thông báo từ 12/2026), vòng Regular hạn 2027-01-07 (thông báo từ 02/2027). Hạn ghi là hạn Regular. Trang học bổng không nêu năm hay ngày và không gắn học bổng với vòng nào; chỉ nói trường tự xác định và báo riêng cho sinh viên đã được nhận (suy ra phải nộp hồ sơ nhập học). Nộp một đơn duy nhất, không cần đơn lại cho các vòng sau. Học bổng HKSAR do CUHK đề cử lên Education Bureau, không cần nộp đơn."
   },
   {
     "program_slug": "haui-entrance-scholarship",
@@ -3773,5 +3779,44 @@
     ],
     "updated_at": "2026-10-09",
     "notes": "Trang không gắn học bổng này với hạn nộp cụ thể; year là năm của đợt tuyển sinh gần nhất nêu trong trang (Fall 2026)."
+  },
+  {
+    "program_slug": "nycu-international-student-scholarship",
+    "year": 2026,
+    "opens_at": "2026-12-20",
+    "deadline": null,
+    "sources": [
+      "https://www.nycu.edu.tw/nycu/en/app/artwebsite/doc?module=artwebsite&detailNo=1169090024096927744&type=s",
+      "https://oia.nycu.edu.tw/oia/en/app/data/view?id=792&module=nycu0012&serno=0f046f83-4147-4ec7-8921-bbaccd8c678f",
+      "https://oia.nycu.edu.tw/oia/ch/app/data/list?module=nycu0015&id=435",
+      "https://oia-scholarship.nycu.edu.tw/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Mốc 2026-12-20 là ngày mở nhận hồ sơ nhập học diện sinh viên quốc tế khoá Fall 2027 theo lịch học chính thức NYCU 2026-2027; hạn nộp Fall 2027 chưa được công bố trên trang chính thức (không ghi 15/03 vì chỉ thấy ở nguồn không chính thức). Đợt Spring 2027 đang mở: hồ sơ nhập học 2026-08-10 đến 2026-09-30, học bổng tân sinh Spring 2027 đến 2026-11-13, công bố 2026-11-14."
+  },
+  {
+    "program_slug": "nycu-undeclared-program-international-student-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.nycu.edu.tw/userfiles/ipuch/files/20260325150946930.pdf",
+      "https://www.nycu.edu.tw/userfiles/ipuch/files/20260911091810100.pdf",
+      "https://www.nycu.edu.tw/nycu/en/app/artwebsite/doc?module=artwebsite&detailNo=1169090024096927744&type=s"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Quy định không gắn học bổng với mốc nộp hồ sơ nhập học: thời gian nộp đơn học bổng 'theo ngày công bố của từng học kỳ'. Hồ sơ nhập học diện sinh viên quốc tế khoá Fall 2027 mở 2026-12-20 (lịch học chính thức NYCU 2026-2027), hạn chưa công bố."
+  },
+  {
+    "program_slug": "hkust-future-leaders-award",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-11-25",
+    "sources": [
+      "https://join.hkust.edu.hk/intlscholarships",
+      "https://join.hkust.edu.hk/future-leaders-award"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang join.hkust.edu.hk/intlscholarships (khoá nhập học 2027/28) liệt kê Future Leaders Award (NEW) trong mục học bổng cần nộp riêng, kèm hạn Priority Round 2026-11-25 cho ứng viên bằng cấp quốc tế. Cổng nộp hồ sơ mở 'Early Oct 2026' (không nêu ngày cụ thể trên trang) nên opens_at để null; hồ sơ thường (rolling) từ 2026-11-26, đóng 2027-06-30, thông báo offer cuối 12/2026. Trang riêng của giải thưởng vẫn hiển thị lịch đợt 2025 (hạn 2025-11-30, kết quả 2026-01-23), chưa cập nhật 2027, nên chưa biết ngày công bố kết quả và hạn nhận offer khoá 2027. Điều kiện trang giải thưởng yêu cầu được đề cử nhập học ở vòng Early, nên chỉ vòng Priority là phù hợp, mốc 2027-06-30 không áp dụng cho giải này."
   }
 ]

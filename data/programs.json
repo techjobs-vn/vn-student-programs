@@ -11221,5 +11221,69 @@
       "partial_funding",
       "admission_based"
     ]
+  },
+  {
+    "slug": "nycu-international-student-scholarship",
+    "name": "NYCU International Student Scholarship (new students)",
+    "type": "scholarship",
+    "company": {
+      "name": "National Yang Ming Chiao Tung University (NYCU)",
+      "slug": null,
+      "domain": "nycu.edu.tw"
+    },
+    "official_url": "https://oia.nycu.edu.tw/oia/en/app/data/view?id=792&module=nycu0012&serno=0f046f83-4147-4ec7-8921-bbaccd8c678f",
+    "description": "Học bổng của NYCU (Đài Loan) cho sinh viên quốc tế học lấy bằng: trợ cấp hằng tháng và/hoặc miễn học phí (hoặc đóng học phí như sinh viên bản địa), cấp 1 năm, tối đa 4 năm bậc cử nhân; xin cùng hồ sơ nhập học.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Cấp 1 năm; tối đa 4 năm bậc cử nhân (theo số năm quy định của ngành)",
+    "eligibility": "Sinh viên quốc tế nộp hồ sơ nhập học NYCU và chưa nhận học bổng của chính quyền Đài Loan; bậc cử nhân phải học ít nhất 4 môn tiếng Hoa trong thời gian nhận học bổng.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng: khi điền hồ sơ online chọn Yes ở mục NYCU Scholarship, hội đồng xét học bổng cùng lúc xét nhập học. Trang chính thức không nêu số tiền cụ thể: trợ cấp hằng tháng gồm phần của Phòng Quốc tế cộng phần đối ứng của khoa/GV hướng dẫn; học bổng học phí là miễn học phí hoặc đóng như sinh viên bản địa, vẫn đóng các phí khác (ký túc xá, bảo hiểm). Không dùng mức NT$21.000/tháng ở trang một khoa (cũ, còn ghi NCTU) và NT$33.000 là mức của học bổng chính phủ MOFA/học bổng tiến sĩ. Ngưỡng GPA 3.0 trên trang áp dụng cho sinh viên đang học xin gia hạn. Học bổng này không cộng với học bổng chính phủ Đài Loan. Cần đọc Admission Guidelines Fall 2027 khi công bố.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding",
+      "admission_based"
+    ]
+  },
+  {
+    "slug": "nycu-undeclared-program-international-student-scholarship",
+    "name": "NYCU Scholarship for Outstanding International Students in the Freshman-Sophomore Undeclared Program (學士班大一大二不分系獎勵優秀國際學生就讀獎學金)",
+    "type": "scholarship",
+    "company": {
+      "name": "National Yang Ming Chiao Tung University (NYCU)",
+      "slug": null,
+      "domain": "nycu.edu.tw"
+    },
+    "official_url": "https://www.nycu.edu.tw/userfiles/ipuch/files/20260325150946930.pdf",
+    "description": "Học bổng quyên góp của NYCU (Đài Loan) cho sinh viên quốc tế không thuộc ngành y, nha trúng tuyển chương trình cử nhân năm 1-2 chưa chia ngành: tối đa NT$120.000 mỗi học kỳ, tối đa 4 năm.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Từ tháng nhập học đến khi tốt nghiệp, chuyển ngành, nghỉ học hoặc thôi học, tối đa 4 năm (không cấp trong thời gian kéo dài)",
+    "eligibility": "Sinh viên quốc tế (không học y, nha) trúng tuyển qua hội đồng tuyển sinh sinh viên nước ngoài vào chương trình cử nhân năm 1-2 chưa chia ngành của NYCU; mỗi học kỳ phải nộp đơn và giữ thứ hạng lớp trong 50% đầu.",
+    "recurring": "yearly",
+    "tracks": [],
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-09",
+    "updated_at": "2026-10-09",
+    "notes": "Trang chính thức chỉ là văn bản quy định bằng tiếng Trung (bản 2022), không có trang tiếng Anh; tên tiếng Anh ở trên là bản dịch của người ghi. Sổ tay tân sinh khoá 115 (xuất bản 2026-09-11) vẫn đăng quy định này nên coi là còn hiệu lực. Học bổng do tiền quyên góp, số suất và mức tiền do trường quyết định hằng năm; mức NT$120.000/học kỳ là mức tối đa. Có đơn học bổng riêng mỗi học kỳ (đơn, sao kê bưu điện, bằng tốt nghiệp và bảng điểm bậc học trước, phiếu chọn môn) nên không gắn nhãn admission_based. Cần kiểm tra Admission Guidelines Fall 2027 xem chương trình chưa chia ngành có nhận sinh viên quốc tế khoá 2027.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad"
   }
 ]
