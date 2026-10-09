@@ -7413,7 +7413,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "cash_award"
+      "cash_award",
+      "admission_based"
     ],
     "active": true,
     "is_visible": true,
@@ -8148,7 +8149,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -9719,7 +9721,8 @@
     "study_in": "abroad",
     "highlights": [
       "full_funding",
-      "needs_english_cert"
+      "needs_english_cert",
+      "admission_based"
     ]
   },
   {
@@ -9752,7 +9755,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "full_funding"
+      "full_funding",
+      "admission_based"
     ]
   },
   {
@@ -9785,7 +9789,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "full_funding"
+      "full_funding",
+      "admission_based"
     ]
   },
   {
@@ -9818,7 +9823,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "full_funding"
+      "full_funding",
+      "admission_based"
     ]
   },
   {
@@ -9851,7 +9857,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "tuition_waiver"
+      "tuition_waiver",
+      "admission_based"
     ]
   },
   {
@@ -9884,7 +9891,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "tuition_waiver"
+      "tuition_waiver",
+      "admission_based"
     ]
   },
   {
@@ -9917,7 +9925,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "full_funding"
+      "full_funding",
+      "admission_based"
     ]
   },
   {
@@ -9950,7 +9959,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "full_funding"
+      "full_funding",
+      "admission_based"
     ]
   },
   {
@@ -9983,7 +9993,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10017,7 +10028,8 @@
     "study_in": "abroad",
     "highlights": [
       "cash_award",
-      "needs_english_cert"
+      "needs_english_cert",
+      "admission_based"
     ]
   },
   {
@@ -10051,7 +10063,8 @@
     "study_in": "abroad",
     "highlights": [
       "partial_funding",
-      "needs_english_cert"
+      "needs_english_cert",
+      "admission_based"
     ]
   },
   {
@@ -10084,7 +10097,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10117,7 +10131,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10149,7 +10164,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "cash_award"
+      "cash_award",
+      "admission_based"
     ]
   },
   {
@@ -10183,7 +10199,8 @@
     "study_in": "abroad",
     "highlights": [
       "partial_funding",
-      "needs_english_cert"
+      "needs_english_cert",
+      "admission_based"
     ]
   },
   {
@@ -10216,7 +10233,8 @@
     "study_in": "abroad",
     "highlights": [
       "cash_award",
-      "school_nomination"
+      "school_nomination",
+      "admission_based"
     ]
   },
   {
@@ -10249,7 +10267,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10282,7 +10301,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10315,7 +10335,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "tuition_waiver"
+      "tuition_waiver",
+      "admission_based"
     ]
   },
   {
@@ -10348,7 +10369,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "tuition_waiver"
+      "tuition_waiver",
+      "admission_based"
     ]
   },
   {
@@ -10381,7 +10403,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10414,7 +10437,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10447,7 +10471,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10480,7 +10505,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "tuition_waiver"
+      "tuition_waiver",
+      "admission_based"
     ]
   },
   {
@@ -10513,7 +10539,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10546,7 +10573,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10578,7 +10606,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "cash_award"
+      "cash_award",
+      "admission_based"
     ]
   },
   {
@@ -10611,7 +10640,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "cash_award"
+      "cash_award",
+      "admission_based"
     ]
   },
   {
@@ -10644,7 +10674,8 @@
     ],
     "study_in": "vietnam",
     "highlights": [
-      "cash_award"
+      "cash_award",
+      "admission_based"
     ]
   },
   {
@@ -10677,7 +10708,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "cash_award"
+      "cash_award",
+      "admission_based"
     ]
   },
   {
@@ -10710,7 +10742,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "tuition_waiver"
+      "tuition_waiver",
+      "admission_based"
     ]
   },
   {
@@ -10743,7 +10776,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10776,7 +10810,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10809,7 +10844,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10842,7 +10878,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10875,7 +10912,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10908,7 +10946,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10941,7 +10980,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -10974,7 +11014,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -11007,7 +11048,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -11040,7 +11082,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -11073,7 +11116,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -11106,7 +11150,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "cash_award"
+      "cash_award",
+      "admission_based"
     ]
   },
   {
@@ -11139,7 +11184,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   },
   {
@@ -11172,7 +11218,8 @@
     ],
     "study_in": "abroad",
     "highlights": [
-      "partial_funding"
+      "partial_funding",
+      "admission_based"
     ]
   }
 ]
