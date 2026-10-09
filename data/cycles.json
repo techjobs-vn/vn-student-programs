@@ -2519,5 +2519,769 @@
     ],
     "updated_at": "2026-10-09",
     "notes": "Đã đóng. Đợt gần nhất là CAP 2026, hoạt động tháng 7 đến tháng 11/2026."
+  },
+  {
+    "program_slug": "apu-tuition-reduction-scholarship",
+    "year": 2026,
+    "opens_at": "2026-09-03",
+    "deadline": "2027-03-17",
+    "sources": [
+      "https://admissions.apu.ac.jp/costs_scholarships/before_enrollment/",
+      "https://admissions.apu.ac.jp/apply_online/",
+      "https://admissions.apu.ac.jp/admissions/application_schedule/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Nhập học 9/2027, lịch dành cho thí sinh Việt Nam: 4 đợt, đợt 1 mở 2026-09-03, đợt cuối hạn 2027-03-17. Nhập học 4/2027: đợt cuối (GSP4) hạn 2026-10-14. Bảng lịch là JS nên lấy qua tinyfish agent (đọc PDF lịch)."
+  },
+  {
+    "program_slug": "sutd-rainmaker-international-scholarship",
+    "year": 2027,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/sutd-rainmaker-scholarship-intl/",
+      "https://www.sutd.edu.sg/admissions/undergraduate/other-international-qualifications/application-timeline/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Nộp cùng hồ sơ nhập học. Kỳ 2026 mở 2026-01-02 đến 2026-03-02 (đã đóng, 'See you in 2027'); lịch AY2027 chưa công bố."
+  },
+  {
+    "program_slug": "sutd-trailblazers-international-scholarship",
+    "year": 2027,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/sutd-trailblazers-scholarship-intl/",
+      "https://www.sutd.edu.sg/admissions/undergraduate/other-international-qualifications/application-timeline/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Nộp cùng hồ sơ nhập học. Kỳ 2026 mở 2026-01-02 đến 2026-03-02 (đã đóng); lịch AY2027 chưa công bố."
+  },
+  {
+    "program_slug": "smu-asean-undergraduate-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://admissions.smu.edu.sg/financial-aid/asean-undergraduate-scholarship",
+      "https://admissions.smu.edu.sg/admissions-requirements/important-dates"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Nộp đồng thời với hồ sơ nhập học qua Applicant's Self Service Portal. Kỳ AY2026-27: mở 2025-11-17, đóng 2026-03-19; lịch AY2027-28 chưa công bố."
+  },
+  {
+    "program_slug": "tsinghua-international-undergraduate-freshmen-scholarship",
+    "year": 2026,
+    "opens_at": "2026-09-30",
+    "deadline": "2027-02-28",
+    "sources": [
+      "https://international.join-tsinghua.edu.cn/Admission1/Freshmen_Scholarships1.htm",
+      "https://international.join-tsinghua.edu.cn/Admission1/Schedule.htm"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn của hồ sơ nhập học đại học: vòng 1 2026-09-30 đến 2026-11-20; vòng 2 2026-11-21 đến 2027-02-28 (giờ Bắc Kinh). Học bổng nộp qua hệ thống đăng ký."
+  },
+  {
+    "program_slug": "nthu-international-student-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://apply.nthu.edu.tw/en/article/102-nthu-scholarship",
+      "https://apply.nthu.edu.tw/en/article/210-admission"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Kỳ nhập học Spring 2027: nộp 2026-08-03 đến 2026-09-30, công bố học bổng cuối 12/2026 (đã đóng). Lịch Fall 2027 cho sinh viên quốc tế chưa thấy công bố."
+  },
+  {
+    "program_slug": "ntu-taiwan-international-undergraduate-student-scholarship",
+    "year": 2026,
+    "opens_at": "2026-09-29",
+    "deadline": "2027-01-19",
+    "sources": [
+      "https://admissions.ntu.edu.tw/fees-scholarships/scholarships/",
+      "https://admissions.ntu.edu.tw/apply/degree-students/international-students/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Nhập học 9/2027: vòng 1 mở 2026-09-29, hạn 2026-11-05; vòng 2 mở 2026-12-01, hạn 2027-01-19 (giờ trường)."
+  },
+  {
+    "program_slug": "zju-zibs-hai-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://zibs.zju.edu.cn/enzibs/UndergraduateApplication/list.htm"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Kỳ tuyển sinh 2026: Early Action 2025-12-01 đến 2026-02-28, hạn cuối 2026-05-31 (đã đóng); lịch kỳ 2027 chưa thấy công bố."
+  },
+  {
+    "program_slug": "sophia-benefactors-adachi-scholarship",
+    "year": 2026,
+    "opens_at": "2026-11-11",
+    "deadline": "2026-12-11",
+    "sources": [
+      "https://piloti.sophia.ac.jp/eng/scholarships1/scholraship_e0005/",
+      "https://www.sophia.ac.jp/eng/admissions-and-aid/tuition/scholarship-before/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Nhập học 9/2027, đợt 1: 2026-11-11 đến 2026-12-11; đợt 2: 2027-03-10 đến 2027-04-07. Nhập học 4/2027: đợt 1 2026-09-01 đến 09-16 (đã đóng), đợt 2 2026-11-11 đến 12-11. Mỗi chương trình phải nộp một đơn riêng, gửi bưu điện tách khỏi hồ sơ nhập học."
+  },
+  {
+    "program_slug": "sophia-new-student-scholarship",
+    "year": 2026,
+    "opens_at": "2026-11-11",
+    "deadline": "2026-12-11",
+    "sources": [
+      "https://piloti.sophia.ac.jp/eng/scholarships1/scholraship_e0005/",
+      "https://www.sophia.ac.jp/eng/admissions-and-aid/tuition/scholarship-before/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Cùng lịch với Adachi Scholarship: nhập học 9/2027 đợt 1 từ 2026-11-11 đến 2026-12-11; đợt 2 2027-03-10 đến 2027-04-07."
+  },
+  {
+    "program_slug": "sydney-international-student-award",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.sydney.edu.au/study/fees-and-loans/scholarships/sydney-international-student-award.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Áp dụng cho nhập học 2027; nộp bài personal statement khi nộp hồ sơ vào trường. Trang không nêu ngày mở/đóng riêng, theo hạn nhập học từng khoá."
+  },
+  {
+    "program_slug": "sydney-international-undergraduate-academic-excellence-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.sydney.edu.au/scholarships/e/sydney-international-undergraduate-academic-excellence-scholarship.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi 'Currently open', không có ngày đóng; thời gian phản hồi khoảng 5 tuần kể từ khi nộp."
+  },
+  {
+    "program_slug": "uts-vice-chancellors-international-undergraduate-scholarship",
+    "year": 2026,
+    "opens_at": "2026-10-01",
+    "deadline": "2026-11-02",
+    "sources": [
+      "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đợt Autumn 2027 (nhập học tháng 2/2027): 2026-10-01 đến 2026-11-02 23:55 AEST. Trang không liệt kê đợt Spring 2027."
+  },
+  {
+    "program_slug": "otago-international-academic-excellence-scholarship",
+    "year": 2026,
+    "opens_at": "2026-05-01",
+    "deadline": null,
+    "sources": [
+      "https://www.otago.ac.nz/courses/scholarships/international-academic-excellence-scholarship",
+      "https://www.otago.ac.nz/international/future-students/fees-scholarships/international-scholarships"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Mở 1/5 năm trước năm nhập học; hạn là 2 tuần sau khi được mời nộp đơn nên không có ngày cố định."
+  },
+  {
+    "program_slug": "lester-b-pearson-international-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-11-06",
+    "sources": [
+      "https://future.utoronto.ca/pearson-scholarships"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trường THPT đề cử hạn 9/10/2026 (trường chưa tham gia phải đăng ký trước 12:00 ET 9/10/2026); nộp hồ sơ xét tuyển U of T (OUAC) hạn 16/10/2026; hạn nộp đơn học bổng và hồ sơ 6/11/2026. Trường nhận form đề cử từ 6/7/2026."
+  },
+  {
+    "program_slug": "mcmaster-university-award-of-excellence",
+    "year": 2026,
+    "opens_at": "2026-11-01",
+    "deadline": "2027-02-19",
+    "sources": [
+      "https://future.mcmaster.ca/internationalawards/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 19/2/2027, 11:59 tối giờ ET."
+  },
+  {
+    "program_slug": "sfu-international-undergraduate-scholars-entrance-scholarship",
+    "year": 2026,
+    "opens_at": "2026-10-01",
+    "deadline": "2026-12-15",
+    "sources": [
+      "https://www.sfu.ca/students/financial-aid/entrance/highschool/uses.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn nộp đơn 15/12/2026 (23:59 PT); hạn bổ sung thư giới thiệu và hồ sơ xét tuyển 31/1/2027; thông báo giữa 3-5/2027. Cần nộp đơn xét tuyển SFU trước để có mã số sinh viên."
+  },
+  {
+    "program_slug": "mcgill-major-entrance-scholarships",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.mcgill.ca/studentaid/scholarships-aid/future-undergrads/entrance-scholarships",
+      "https://www.mcgill.ca/studentaid/scholarships-aid/future-undergrads/entrance-scholarships/application-instructions"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang chính thức ghi: đơn mở từ 1/10 trên cổng tuyển sinh, hạn 21/1 cho thí sinh học trường ngoài Canada (hạn tuyển sinh 15/1), nhưng không ghi năm nên để null; theo chu kỳ hằng năm là mở 1/10/2026, hạn 21/1/2027."
+  },
+  {
+    "program_slug": "davidson-john-m-belk-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.davidson.edu/admission-and-financial-aid/financial-aid/types-financial-aid/scholarships/nomination-scholarships/john-m-belk-scholarship",
+      "https://www.davidson.edu/admission-and-financial-aid/financial-aid/types-financial-aid/scholarships/nomination-scholarships/john-m-belk-scholarship/nomination-and-selection-process"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi: hạn đề cử 1/11, hạn nộp đơn tuyển sinh của người được đề cử 15/11 (hồ sơ bổ sung tới 30/11), kết quả trước 1/4; không ghi năm nên để null, theo chu kỳ hằng năm là 2026."
+  },
+  {
+    "program_slug": "emory-university-scholar-programs-woodruff",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://apply.emory.edu/financial-aid/scholar-program"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi hạn Scholar Program: 1/11 (Early Decision I), 15/11 (Early Decision II và Regular Decision), finalist thông báo cuối tháng 2; không ghi năm nên để null, theo chu kỳ hằng năm là 2026."
+  },
+  {
+    "program_slug": "ualberta-presidents-international-distinction-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.ualberta.ca/en/admissions/tuition-and-scholarships/international-entrance-scholarships/index.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ghi hạn đơn học bổng theo đơn đăng ký là 10/1 và không ghi năm; theo chu kỳ hằng năm là 10/1/2027."
+  },
+  {
+    "program_slug": "exeter-excellence-scholarships-undergraduate",
+    "year": 2027,
+    "opens_at": null,
+    "deadline": "2027-03-04",
+    "sources": [
+      "https://www.exeter.ac.uk/study/funding/award/?id=5910"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đây là Round 1, hạn 4/3/2027 23:59 GMT, kết quả trước hết ngày 6/4/2027. Cần đã có thư mời trước khi nộp form kèm bài luận 300 từ."
+  },
+  {
+    "program_slug": "durham-inspiring-excellence-undergraduate-scholarship",
+    "year": 2026,
+    "opens_at": "2026-10-01",
+    "deadline": "2027-05-01",
+    "sources": [
+      "https://www.durham.ac.uk/study/scholarships/international/durham-inspiring-excellence-scholarships/undergraduate/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "3 vòng: vòng 1 hạn 7/12/2026, vòng 2 hạn 15/3/2027, vòng cuối hạn 1/5/2027 (đều 23:59 GMT); deadline ghi là vòng cuối. Hạn UCAS equal consideration là 13/1/2027."
+  },
+  {
+    "program_slug": "leeds-undergraduate-international-excellence-scholarship",
+    "year": 2027,
+    "opens_at": null,
+    "deadline": "2027-04-11",
+    "sources": [
+      "https://www.leeds.ac.uk/scholarship/15/undergraduate-international-excellence-scholarships"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn cuối 11/4/2027 và mức £3,000/£6,000/£16,000 lấy từ phần tóm tắt của trang; đơn mở sau khi Leeds email thông báo cho người có thư mời; kết quả chậm nhất 10/5/2027."
+  },
+  {
+    "program_slug": "um-nl-global-studies-scholarship",
+    "year": 2026,
+    "opens_at": "2026-10-01",
+    "deadline": "2027-02-01",
+    "sources": [
+      "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đơn học bổng mở 1/10/2026 đến 1/2/2027 23:59; hạn hồ sơ tuyển sinh Global Studies là 10/12/2026. Cần có thư mời (có điều kiện) vào chương trình."
+  },
+  {
+    "program_slug": "aalto-university-excellence-scholarship-bachelors",
+    "year": 2027,
+    "opens_at": "2027-01-07",
+    "deadline": "2027-01-22",
+    "sources": [
+      "https://www.aalto.fi/en/admission-services/scholarships-and-tuition-fees",
+      "https://www.aalto.fi/en/admission-services/apply-to-bachelors-programmes-in-english"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Kỳ nhận hồ sơ cử nhân tiếng Anh 7-22/1/2027; đơn học bổng nằm trong đơn tuyển sinh; kết quả cùng lúc với kết quả tuyển sinh."
+  },
+  {
+    "program_slug": "bocconi4access-100-full-tuition-waivers",
+    "year": 2026,
+    "opens_at": "2026-11-12",
+    "deadline": "2026-11-30",
+    "sources": [
+      "https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/funding/deadlines-and-procedure-ay-2027-28",
+      "https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/funding/introduction-isu-bocconi-scholarship-ay-2027-28-timeline"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Kỳ Early Session/HEC vòng 1 (thí sinh quốc tế): 12-30/11/2026; Winter Session/HEC vòng 2: 15/3-5/4/2027; HEC vòng 3: 27/5-4/6/2027. Chỉ nộp được sau khi hoàn tất ghi danh (enrollment)."
+  },
+  {
+    "program_slug": "uwc-vietnam-national-committee-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://vn.uwc.org/eligibility-criteria/",
+      "https://vn.uwc.org/",
+      "https://uwc.org/how-to-apply/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đợt tuyển chọn vào UWC khoá 2027 (nhập học 9/2027) đã mở qua apply.uwc.org theo bài đăng của uwc_vietnam trên Instagram (khoảng 20/8/2026). Ngày đóng đơn chưa thống nhất: một đoạn trích tìm kiếm từ bài Instagram ghi 24/8-28/9/2026, một bài Facebook tổng hợp ghi 31/10/2026, trang vn.uwc.org không nêu ngày. Để null, cần kiểm tra trực tiếp."
+  },
+  {
+    "program_slug": "new-zealand-schools-scholarships-vietnam",
+    "year": 2026,
+    "opens_at": "2026-01-05",
+    "deadline": "2026-03-22",
+    "sources": [
+      "https://www.enz.govt.nz/news-and-research/ed-news/2026-new-zealand-school-scholarships-launched-in-viet-nam",
+      "https://enzscholarships.communityforce.com/Funds/FundDetails.aspx?496F49596D593768464E3537506B6F754D5442315A30625666765945377757734261495846637875764D3634616F454B5659342F6E636C472B4F6A3649486B6F57534A50372B4C67737A6B3D"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang ENZ và mô tả cổng nộp đều ghi hạn 22/3/2026 (giờ Việt Nam); trường 'Deadline Date' của cổng ghi 31/3/2026 (giờ NZ), lệch với mô tả."
+  },
+  {
+    "program_slug": "new-zealand-universities-awards-vietnam",
+    "year": 2026,
+    "opens_at": "2026-04-15",
+    "deadline": "2026-07-12",
+    "sources": [
+      "https://www.enz.govt.nz/news-and-research/ed-news/supporting-university-recruitment-and-raising-new-zealands-profile-in-viet-nam",
+      "https://ven.congthuong.vn/nzua-2026-scholarships-15-awards-for-vietnamese-students-to-study-in-new-zealand-59135.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Ngày mở 15/4 lấy từ báo Công Thương (Ven.vn); hạn 12/7/2026 có trong cả trang ENZ. Kết quả công bố đầu tháng 9/2026."
+  },
+  {
+    "program_slug": "russian-government-scholarship-vietnam",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-30",
+    "sources": [
+      "https://tuoitre.vn/tuyen-sinh-1000-chi-tieu-hoc-bong-di-dao-tao-tai-lien-bang-nga-20260316145745427.htm",
+      "https://icd.edu.vn/372/thong-bao-tuyen-sinh-di-hoc-tai-lien-bang-nga-nam-2026.html/BPF/vi-vn/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/2406"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hồ sơ tiếng Nga hạn 31/3/2026 (nộp tại Trung tâm Khoa học và Văn hoá Nga ở Hà Nội), hồ sơ tiếng Việt hạn 30/6/2026 (nộp Cục Hợp tác quốc tế); ngày ghi là hạn cuối. Thông báo 384/TB-BGDĐT ngày 12/3/2026; thông báo mùa 2027 chưa ban hành đến 7/9/2026."
+  },
+  {
+    "program_slug": "cuba-government-scholarship-vietnam",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-03-31",
+    "sources": [
+      "https://icd.edu.vn/372/thong-bao--tuyen-sinh-di-hoc-tai-cuba-nam-2026.html/BPF/vi-VN/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/2377"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn online 23h59 ngày 31/3/2026, hồ sơ giấy tính theo dấu bưu điện 31/3/2026; đăng ký tại tuyensinh.vied.vn."
+  },
+  {
+    "program_slug": "kazakhstan-government-scholarship-vietnam",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-15",
+    "sources": [
+      "https://icd.edu.vn/372/chi-tiet-tin-nho.html/BPF/vi-VN/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/2418",
+      "https://giaoducthoidai.vn/bo-gddt-thong-bao-tuyen-sinh-di-hoc-tai-ca-dac-xtan-dien-hiep-dinh-nam-2026-post776592.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Thông báo 739/TB-BGDĐT ngày 5/5/2026; hồ sơ online và giấy trước 15/6/2026; đăng ký tại tuyensinh.vied.vn."
+  },
+  {
+    "program_slug": "mongolia-government-scholarship-vietnam",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-07-05",
+    "sources": [
+      "https://icd.edu.vn/372/thong-bao-tuyen-sinh-di-hoc-tai-mong-co-dien-hiep-dinh-nam-2026.html/BPF/vi-VN/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/2426"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Thông báo 949/TB-BGDĐT ngày 3/6/2026; hồ sơ trước ngày 5/7/2026 (dấu bưu điện và thời gian hoàn thành đăng ký online)."
+  },
+  {
+    "program_slug": "cambodia-government-scholarship-vietnam",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-30",
+    "sources": [
+      "https://icd.edu.vn/372/thong-bao-tuyen-sinh-di-hoc-tai-vuong-quoc-campuchia-nam-2026.html/BPF/vi-VN/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/2422"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Thông báo 879/TB-BGDĐT ngày 25/5/2026; hồ sơ hết ngày 30/6/2026."
+  },
+  {
+    "program_slug": "poland-government-scholarship-vietnam",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-04-25",
+    "sources": [
+      "https://ump.edu.vn/hop-tac-quoc-te/hoc-bong-quoc-te/thong-bao-tuyen-sinh-di-hoc-tai-ba-lan-dien-hiep-dinh-nam-2026/10150",
+      "https://icd.edu.vn/372/thong-bao-tuyen-sinh-di-hoc-tai-ba-lan-nam-2026.html/BPF/vi-VN/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/2410"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn online và hồ sơ giấy 25/4/2026; sau sơ tuyển còn đăng ký trên hệ thống NAWA (Ba Lan) hạn 30/9/2026."
+  },
+  {
+    "program_slug": "thap-sang-niem-tin-scholarship",
+    "year": 2026,
+    "opens_at": "2026-03-20",
+    "deadline": "2026-04-30",
+    "sources": [
+      "https://www.pvcombank.com.vn/tin-tuc/tin-pvcombank/quy-hoc-bong-thap-sang-niem-tin-chinh-thuc-trien-khai-xet-cap-hoc-bong-nam-2026-tren-toan-quoc",
+      "https://petrovietnam.petrotimes.vn/xet-cap-hoc-bong-thap-sang-niem-tin-danh-cho-tan-sinh-vien-nam-hoc-2026-2027-738894.html",
+      "https://dangky.thapsangniemtin.vn/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đợt 2026 đã đóng 30/04/2026. Đăng ký online tại dangky.thapsangniemtin.vn/dang-ky-hoc-bong-thap-sang-niem-tin-2026."
+  },
+  {
+    "program_slug": "viethope-student-development-program",
+    "year": 2026,
+    "opens_at": "2026-09-21",
+    "deadline": "2026-10-20",
+    "sources": [
+      "https://viethope.org/programs/vsdp2026/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Phỏng vấn dự kiến 29/11/2026 (Huế, Cần Thơ) và 06/12/2026 (TP.HCM); công bố kết quả dự kiến 10/12/2026."
+  },
+  {
+    "program_slug": "vietseeds-scholarship",
+    "year": 2026,
+    "opens_at": "2026-07-01",
+    "deadline": "2026-08-05",
+    "sources": [
+      "https://vietseeds.org/vi/financial-support",
+      "https://hcmc.ftu.edu.vn/tin-tuc/thong-bao-tin-tuc/httt-vietseeds-chinh-thuc-mo-don-tuyen-sinh-the-he",
+      "https://www.hocbongchosinhvien.com/2026/07/hoc-bong-vietseeds-2026-2027.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Thế hệ 16. 01/07/2026 là ngày thông báo mở đơn; phỏng vấn tháng 8, thẩm định hoàn cảnh tháng 9, công bố kết quả tháng 10/2026. Đợt 2026 đã đóng."
+  },
+  {
+    "program_slug": "philip-david-gray-scholarship",
+    "year": 2026,
+    "opens_at": "2026-05-15",
+    "deadline": "2026-07-15",
+    "sources": [
+      "https://pdgtrust.org/scholarships/?lang=vi",
+      "https://pdgtrust.org/thong-tin-hoc-bong/?lang=vi",
+      "https://www.hocbongchosinhvien.com/2026/07/hoc-bong-quy-philip-david-gray-danh-cho.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Ngày của vòng 2026-27 lấy từ bài tổng hợp hocbongchosinhvien.com (nộp đến nửa đêm 15/07/2026, kết quả không muộn hơn 15/09/2026). Trang chính thức ghi vòng học bổng 2027-8 sẽ mở đơn vào mùa xuân 2027."
+  },
+  {
+    "program_slug": "nguyen-truong-to-scholarship-vnhelp",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-10-15",
+    "sources": [
+      "https://www.is.vnu.edu.vn/hoc-bong-nguyen-truong-to-danh-cho-tan-sinh-vien-nam-2026",
+      "https://uet.edu.vn/hoc-bong-nguyen-truong-to-nam-hoc-2026-2027/",
+      "https://tuyensinh.huflis.edu.vn/tin-tuc/xet-hb-nguyen-truong-to-2026-2027"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "15/10/2026 là hạn đăng ký online với VNHelp sau khi trường đề cử; hạn nội bộ của trường sớm hơn (ĐH Công nghệ - ĐHQGHN 10h30 ngày 13/10/2026, Trường Quốc tế 17h ngày 08/10/2026)."
+  },
+  {
+    "program_slug": "phenikaa-chairman-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://phenikaa-uni.edu.vn/vi/post/tuyen-sinh/tin-tuyen-sinh/dai-hoc-phenikaa-cong-bo-thong-tin-ve-hoc-bong-va-ho-tro-hoc-phi-he-dai-hoc-chinh-quy-nam-2026",
+      "https://phenikaa-uni.edu.vn/vi/post/tin-tuyen-sinh/thong-bao-tiep-nhan-ho-so-cap-hoc-bong-ho-tro-hoc-phi-cho-tan-sinh-vien-k20-tuyen-sinh-nam-2026"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Thông báo tiếp nhận hồ sơ (đăng 28/07/2026) ghi hạn nộp 17g00 ngày 05/08/2025, nhiều khả năng là lỗi năm (phải là 2026) nên để trống deadline; người kiểm tra cần xác nhận."
+  },
+  {
+    "program_slug": "ptit-star-talent-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-07-14",
+    "sources": [
+      "https://tainang.ptit.edu.vn/",
+      "https://tuyensinh.ptit.edu.vn/gioi-thieu/chinh-sach-hoc-bong/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 17h00 ngày 14/07/2026 theo bài đăng của fanpage Tuyển sinh tài năng PTIT (cho diện xét điểm thi THPT 2026); các diện khác (tuyển thẳng, ĐGNL) có thể có hạn khác."
+  },
+  {
+    "program_slug": "neu-ibd-top-recruit-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-09-08",
+    "sources": [
+      "https://isme.neu.edu.vn/chinh-sach-hoc-bong-dau-vao-cho-sinh-vien-nhap-hoc-chuong-trinh-ibd-khoa-22-mua-thu/",
+      "https://isme.neu.edu.vn/chinh-sach-hoc-bong-dau-vao-chuong-trinh-cu-nhan-quoc-te-ibdneu/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 15h00 ngày 08/09/2026 (kỳ thu, thông báo 07/09/2026); đợt tháng 5/2026 hạn 17h00 ngày 11/08/2026. Chương trình tuyển nhiều kỳ trong năm."
+  },
+  {
+    "program_slug": "hcmut-hoc-bong-hop-tac-va-chia-se",
+    "year": 2026,
+    "opens_at": "2026-08-19",
+    "deadline": "2026-09-24",
+    "sources": [
+      "https://hcmut.edu.vn/news/item/24585"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn nộp 24/09/2026 (thứ Năm); ngày mở lấy theo ngày đăng thông báo 19/08/2026."
+  },
+  {
+    "program_slug": "ueh-hoc-bong-ho-tro-hoc-tap-tan-sinh-vien",
+    "year": 2026,
+    "opens_at": "2026-08-17",
+    "deadline": "2026-09-02",
+    "sources": [
+      "https://dsa.ueh.edu.vn/hoc-bong/htht-hkc2026-k52dhcq/",
+      "https://dsa.ueh.edu.vn/hoc-bong/qd-htht-hkc2026-k52dhcq/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đăng ký online tại student.ueh.edu.vn 17/8–02/9/2026, nộp bản cứng 04/9 và 07/9/2026. Quyết định cấp học bổng cho 86 sinh viên K52 đã công bố (tờ trình 15/9/2026)."
+  },
+  {
+    "program_slug": "hutech-hoc-bong-tuyen-sinh",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-07-15",
+    "sources": [
+      "https://www.hutech.edu.vn/tuyensinh/tin-tuyen-sinh/14630823-hutech-cong-bo-chinh-sach-hoc-bong-tuyen-sinh-khoa-2026"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Bài công bố ngày 25/06/2026 ghi hạn đăng ký 15/7/2026. Các bài cũ của HUTECH ghi hạn khác (15/4, 30/6/2026)."
+  },
+  {
+    "program_slug": "uef-hoc-bong-tuyen-sinh",
+    "year": 2026,
+    "opens_at": "2026-01-15",
+    "deadline": "2026-08-25",
+    "sources": [
+      "https://www.uef.edu.vn/tin-tuyen-sinh/hoc-phi-hoc-bong",
+      "https://www.uef.edu.vn/tin-tuyen-sinh/uef-tiep-tuc-nhan-dang-ky-xet-hoc-bong-den-ngay-258-37399"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đăng ký sớm bằng điểm HK1 lớp 12 từ 15/1 đến 31/5/2026, từ 01/6 đăng ký theo các tiêu chí còn lại; bài ngày 22/07/2026 gia hạn nhận đăng ký đến 25/8/2026."
+  },
+  {
+    "program_slug": "uef-hoc-bong-tai-nang",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-08-25",
+    "sources": [
+      "https://www.uef.edu.vn/tin-tuyen-sinh/uef-tiep-tuc-nhan-dang-ky-xet-hoc-bong-den-ngay-258-37399",
+      "https://www.uef.edu.vn/tin-tuyen-sinh/hoc-phi-hoc-bong"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hạn 25/8/2026 lấy từ lời kêu gọi chung 'đăng ký xét học bổng' trong bài 22/07/2026, nêu cả thí sinh có giải thưởng."
+  },
+  {
+    "program_slug": "ufm-hoc-bong-tiep-suc-den-truong",
+    "year": 2026,
+    "opens_at": "2026-08-24",
+    "deadline": "2026-09-10",
+    "sources": [
+      "https://tuyensinh.ufm.edu.vn/vi/thong-tin-tuyen-sinh-dai-hoc-chinh-quy/thong-bao-nop-ho-so-hoc-bong-tiep-suc-den-truong-danh-cho-tan-sinh-vien-nam-2026"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Nộp hồ sơ từ 24/8 đến hết 10/9/2026 tại TP.HCM, đến hết 08/9/2026 tại các phân hiệu (Quảng Ngãi, Huế)."
+  },
+  {
+    "program_slug": "ou-hoc-bong-tai-nang-tan-sinh-vien",
+    "year": 2026,
+    "opens_at": "2026-08-17",
+    "deadline": "2026-11-05",
+    "sources": [
+      "https://ou.edu.vn/tin_tuc/hbtn-26-27/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Nộp online đến 17h ngày 05/11/2026, nộp bản giấy tại P.003 (97 Võ Văn Tần); trang ghi nhầm hạn bản giấy là 06/11/2025 và dự kiến trao tháng 01/2026, cần OU xác nhận. Ngày mở lấy theo ngày đăng thông báo 17/08/2026."
+  },
+  {
+    "program_slug": "ou-hoc-bong-tiep-suc-den-truong",
+    "year": 2026,
+    "opens_at": "2026-08-17",
+    "deadline": "2026-11-05",
+    "sources": [
+      "https://ou.edu.vn/tin_tuc/tsdt-26-27/",
+      "https://ou.edu.vn/hocbong/hbtsdtrg/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Nộp online đến 17h ngày 05/11/2026, nộp bản giấy đến 17h ngày 06/11/2026. Mức học bổng theo quy chế: 3 triệu (TB 6.0 đến 7.0), 5 triệu (7.1 đến 8.0), 7 triệu (8.1 đến 9.0), 9 triệu (9.1 đến 10)."
+  },
+  {
+    "program_slug": "swinburne-vietnam-alliance-scholarship",
+    "year": 2025,
+    "opens_at": "2025-11-01",
+    "deadline": null,
+    "sources": [
+      "https://tuyensinh.swin.edu.vn/hoptachocbong"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đợt cho khóa tuyển sinh 2026. Trang ghi bước 1 (đăng ký, nộp hồ sơ) 01/11/2025–15/03/2026, xét duyệt 16–31/03, nhận kết quả 01–15/04/2026, nhưng phần tiêu đề lại ghi 'Hạn đăng ký & hồ sơ 10/04/2026' nên để deadline là null."
+  },
+  {
+    "program_slug": "siu-chu-tich-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://tuyensinh.siu.edu.vn/ChinhSachHocBong/chinh-sach-hoc-bong-2026.aspx",
+      "https://siu.edu.vn/siu-cong-bo-nguong-dam-bao-chat-luong-dau-vao-nam-2026/",
+      "https://tuoitre.vn/hanh-trinh-san-hoc-bong-dai-hoc-tai-siu-bat-dau-tu-dau-20260522170021134.htm"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang chính sách không nêu ngày mở hay hạn nộp hồ sơ xét học bổng; đăng ký qua nút 'Đăng ký ngay' trên trang."
+  },
+  {
+    "program_slug": "dong-a-talent-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-08-25",
+    "sources": [
+      "https://donga.edu.vn/tuyensinh/hocbong2026",
+      "https://daotao.donga.edu.vn/tin-chi-tiet/tieu-chi-xet-khen-thuong-va-hoc-bong-sv-khoa-2026-44561",
+      "https://donga.edu.vn/tin-tuc/podcast-detail/dong-a-podcast-dong-a-university-talent-scholarship-2026-%7C-vietnamese-english-japanese-korean-chinese-below-44422"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Hồ sơ nhận qua email phòng tuyển sinh hoặc nộp trực tiếp, đợt 1 đến 17h00 ngày 15/07/2026, đợt 2 đến 17h00 ngày 25/08/2026."
+  },
+  {
+    "program_slug": "van-hien-businessman-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-30",
+    "sources": [
+      "https://vhu.edu.vn/vi/thong-bao-3/truong-dai-hoc-van-hien-thong-bao-chinh-sach-hoc-phi-hoc-bong-dai-hoc-chinh-quy-nam-2026",
+      "https://www.sggp.org.vn/dai-hoc-van-hien-trien-khai-nhieu-chinh-sach-hoc-bong-ho-tro-hoc-phi-cho-thi-sinh-2k8-post863553.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đăng ký trên phần mềm tuyển sinh đến hết 30/06/2026; tân sinh viên K29 bổ sung hồ sơ minh chứng từ 01/10 đến 15/10/2026."
+  },
+  {
+    "program_slug": "hutech-hoc-bong-tai-nang-tan-sinh-vien",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://www.hutech.edu.vn/tuyensinh/tin-tuyen-sinh/14630823-hutech-cong-bo-chinh-sach-hoc-bong-tuyen-sinh-khoa-2026",
+      "https://www.hutech.edu.vn/tuyensinh/tin-tuyen-sinh/14630686-dang-ky-hoc-bong-tuyen-sinh-cua-hutech-nhu-the-nao"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang không nêu riêng hạn nộp cho học bổng Tài năng; đăng ký qua cổng xethocbong.hutech.edu.vn cùng đợt đăng ký học bổng 2026."
+  },
+  {
+    "program_slug": "siu-tiep-buoc-hanh-trinh-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://tuyensinh.siu.edu.vn/ChinhSachHocBong/chinh-sach-hoc-bong-2026.aspx",
+      "https://siu.edu.vn/siu-cong-bo-nguong-dam-bao-chat-luong-dau-vao-nam-2026/",
+      "https://tuoitre.vn/hanh-trinh-san-hoc-bong-dai-hoc-tai-siu-bat-dau-tu-dau-20260522170021134.htm"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Danh sách xét theo thứ tự nộp hồ sơ cho đến khi đủ 50 suất; trang không nêu ngày mở hay hạn nộp."
+  },
+  {
+    "program_slug": "van-hien-global-citizen-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-06-30",
+    "sources": [
+      "https://vhu.edu.vn/vi/thong-bao-3/truong-dai-hoc-van-hien-thong-bao-chinh-sach-hoc-phi-hoc-bong-dai-hoc-chinh-quy-nam-2026",
+      "https://www.sggp.org.vn/dai-hoc-van-hien-trien-khai-nhieu-chinh-sach-hoc-bong-ho-tro-hoc-phi-cho-thi-sinh-2k8-post863553.html"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đăng ký trên phần mềm tuyển sinh đến hết 30/06/2026; tân sinh viên K29 nộp bản photo chứng chỉ từ 01/10 đến 15/10/2026."
+  },
+  {
+    "program_slug": "warwick-undergraduate-global-excellence-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-02-27",
+    "sources": [
+      "https://ugscholarships.warwick.ac.uk/apply/scholarship/d415d7f7-5f43-473c-a01c-e3e98fd8189d"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đợt 2026/27 đã đóng hạn 27/02/2026 12:00 (GMT), trang không nêu ngày mở đơn. Chưa công bố đợt nhập học 2027; đợt này đặt tên theo năm học (2026/2027) nên có thể mở lại theo năm, hạn nộp rơi vào đầu năm (tháng 2)."
+  },
+  {
+    "program_slug": "bristol-think-big-scholarship",
+    "year": 2025,
+    "opens_at": "2025-10-21",
+    "deadline": "2026-04-10",
+    "sources": [
+      "https://www.bristol.ac.uk/international/fees-finance/scholarships/"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đợt nhập học 9/2026: mở 21/10/2025, đóng 10/04/2026 10:00 (giờ Anh), kết quả cuối tháng 5/2026. Chưa công bố đợt 2027; đợt 2026 mở vào tháng 10 năm trước nên đợt 2027 có thể mở khoảng tháng 10/2026."
+  },
+  {
+    "program_slug": "edinburgh-global-undergraduate-mathematics-scholarships",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "closed",
+    "sources": [
+      "https://registryservices.ed.ac.uk/student-funding/undergraduate/international/mathematics"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang chính thức chỉ ghi hạn nộp đợt nhập học 2026/27 'đã qua' và kết quả báo trước 23/04/2026, không nêu ngày mở/đóng cụ thể (một số trang thứ ba ghi hạn 31/03/2026, chưa xác minh trên trang chính thức). Trang ghi kinh phí cho năm học 2027/28 'chưa được xác nhận'. Year = 2026 suy từ ngày báo kết quả."
+  },
+  {
+    "program_slug": "edinburgh-global-talent-fund-big-scholarships",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "closed",
+    "sources": [
+      "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-undergraduates/international-and-eu-students/global"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Trang chính thức chỉ ghi hạn nộp đợt 2026/27 'đã qua' và kết quả báo trước 24/04/2026, không nêu ngày mở/đóng (một số trang thứ ba ghi 31/03/2026, chưa xác minh). Trang ghi kinh phí năm học 2027/28 'chưa được xác nhận'. Year = 2026 suy từ ngày báo kết quả."
+  },
+  {
+    "program_slug": "groningen-ucf-foundation-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-05-01",
+    "sources": [
+      "https://www.rug.nl/cf/education/beurzen/studiefondsen?lang=en"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đợt nhập học 9/2026 đã đóng hạn 01/05/2026 (kết quả chậm nhất 01/06/2026); trang không nêu ngày mở. Trang ghi lời kêu gọi đợt nhập học 9/2027 sẽ công bố vào tháng 11/2026."
+  },
+  {
+    "program_slug": "jetbrains-foundation-scholarship-constructor-university",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-03-10",
+    "sources": [
+      "https://constructor.university/programs/undergraduate-education/software-data-and-technology/fully-funded-scholarship-jetbrains-foundation",
+      "https://constructor.university/scholarships"
+    ],
+    "updated_at": "2026-10-09",
+    "notes": "Đợt nhập học 2026: hạn nộp hồ sơ vào chương trình để xét học bổng 10/03/2026 23:59 (CET); các cuộc thi tuyển chọn diễn ra từ 11/2025 đến 03/2026, kết quả cuối tháng 5/2026. Trang không nêu ngày mở đơn. Chưa công bố đợt 2027."
   }
 ]
