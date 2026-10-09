@@ -1,6 +1,6 @@
 import { STATUSES } from "./status.mjs";
 
-export const PROGRAM_TYPES = ["internship", "fresher", "graduate", "management_trainee", "ambassador"];
+export const PROGRAM_TYPES = ["internship", "fresher", "graduate", "management_trainee", "ambassador", "scholarship"];
 export const RECURRING = ["yearly", "multiple", "unknown"];
 // Career fields a program recruits for; a rotation MT can list several.
 export const PROGRAM_FIELD_IDS = [

@@ -196,3 +196,8 @@ test("accepts a short description and rejects empty or overlong ones", () => {
     assert.ok(errors.some((e) => e.includes("description")), JSON.stringify(description).slice(0, 20));
   }
 });
+
+test("accepts the scholarship type", () => {
+  const errors = validateDataset({ programs: [program({ type: "scholarship" })], cycles: [cycle()] });
+  assert.deepEqual(errors, []);
+});

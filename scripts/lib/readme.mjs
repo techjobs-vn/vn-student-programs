@@ -20,6 +20,7 @@ const TYPE_LABEL = {
   graduate: "Graduate",
   management_trainee: "Quản trị viên tập sự",
   ambassador: "Đại sứ sinh viên",
+  scholarship: "Học bổng",
 };
 
 export const FIELD_LABEL = {

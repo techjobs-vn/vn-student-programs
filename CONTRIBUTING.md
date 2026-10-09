@@ -33,7 +33,11 @@ Nhận chương trình **mọi ngành**, miễn là chương trình có tên, do
 
 Chương trình MT nhiều nhánh ghi đủ các lĩnh vực của các nhánh; `tracks` liệt kê tên nhánh.
 
-Không nhận: tin tuyển một vị trí lẻ, khoá học thu phí, cuộc thi không kèm tuyển dụng, chương trình trao đổi hoặc du học do trường tổ chức.
+**Học bổng** (`scholarship`): nhận học bổng **có tên và có đợt nộp đơn** dành cho sinh viên hoặc người mới tốt nghiệp ở Việt Nam, gồm: học bổng của công ty, quỹ, tổ chức; học bổng của chính phủ hoặc tổ chức nước ngoài (Fulbright, Chevening, Australia Awards, MEXT, KGSP, DAAD, Erasmus Mundus...); học bổng của trường đại học mà người ngoài trường cũng nộp được. Trang chính thức phải là trang của đơn vị cấp học bổng. Ghi bậc học và nước đến trong `eligibility`, lĩnh vực trong `fields` (không rõ ngành thì `general`).
+
+Không nhận học bổng chỉ dành cho một địa phương, học bổng của một trường cho sinh viên của chính trường, học bổng tự động xét theo điểm không cần nộp đơn, và học bổng không có trang chính thức.
+
+Không nhận: tin tuyển một vị trí lẻ, khoá học thu phí, cuộc thi không kèm tuyển dụng, chương trình trao đổi ngắn hạn do trường tổ chức (không phải học bổng).
 
 ## Báo cập nhật
 
@@ -74,7 +78,7 @@ Không cần cài package nào, chỉ cần Node.js ≥ 22.
 | --- | :---: | --- |
 | `slug` | ✓ | kebab-case, duy nhất; nên không chứa năm vì chương trình lặp lại hằng năm |
 | `name` | ✓ | Tên chính thức của chương trình |
-| `type` | ✓ | `internship` · `fresher` · `graduate` · `management_trainee` · `ambassador` |
+| `type` | ✓ | `internship` · `fresher` · `graduate` · `management_trainee` · `ambassador` · `scholarship` |
 | `company.name` | ✓ | |
 | `company.slug` | ✓ | Slug công ty trên techjobs.vn (`techjobs.vn/companies/<slug>`), hoặc `null` |
 | `company.domain` | | Domain website công ty, không có `https://` (ví dụ `ey.com`); dùng để lấy logo khi công ty chưa có trên techjobs.vn |
