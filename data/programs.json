@@ -4799,6 +4799,10 @@
     ],
     "eligibility": "Sinh viên đại học năm 1-4 ngành Điện–Điện tử hoặc liên quan. Năm 1-2: GPA tối thiểu 7.0/10, chưa nhận học bổng công ty khác trong 2025–2026, ưu tiên hoàn cảnh khó khăn (cần xác nhận của địa phương). Năm áp cuối/cuối: GPA tối thiểu 7.5/10, tham gia nghiên cứu, nộp bài thuyết trình kỹ thuật bằng tiếng Anh.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "cash_award",
       "need_based"
@@ -4833,6 +4837,10 @@
     ],
     "eligibility": "Học viên trúng tuyển thạc sĩ định hướng nghiên cứu các ngành công nghệ mới tại trường có thỏa thuận hợp tác chiến lược với Viettel (như ĐH Bách khoa Hà Nội, ĐHQG Hà Nội, Học viện Công nghệ Bưu chính Viễn thông). Tốt nghiệp ĐH chính quy GPA từ 3.0/4 (ưu tiên giỏi/xuất sắc) hoặc có giải thưởng/thành tích nghiên cứu; chưa nhận học bổng khác từ 20 triệu đồng trở lên cho khóa thạc sĩ; duy trì GPA học kỳ từ 2.5/4.",
     "recurring": "unknown",
+    "levels": [
+      "master"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "tuition_waiver"
     ],
@@ -4866,6 +4874,10 @@
     "duration": "1 năm học, trao 2 đợt theo học kỳ",
     "eligibility": "Sinh viên trường đại học/cơ sở giáo dục nghề nghiệp công lập; đại học từ năm 2 điểm TB từ 7,5/10 (3,0/4); cao đẳng chỉ năm 1-2, điểm TB từ 7,0/10 (2,8/4); sinh viên năm nhất xét học lực khá cả 3 năm THPT và tổng 3 môn xét tuyển từ 22 điểm (đại học) hoặc 18 điểm (cao đẳng).",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "cash_award"
     ],
@@ -4897,6 +4909,10 @@
     "duration": "1 năm học",
     "eligibility": "Công dân Việt Nam, sinh viên đại học chính quy mọi ngành; điểm TB tích lũy từ 8,0/10 (3,2/4) hoặc, với diện hoàn cảnh khó khăn (thu nhập gia đình dưới 42 triệu đồng/năm), từ 7,0/10 (2,5/4); không nhận hỗ trợ tài chính khác sau khi nhận học bổng này.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "cash_award",
       "need_based"
@@ -4929,6 +4945,10 @@
     ],
     "eligibility": "Sinh viên năm 3 hoặc năm cuối các ngành kinh tế, tài chính, ngân hàng, bảo hiểm, QTKD, luật, marketing, CNTT, khoa học dữ liệu và liên quan tại các trường đại học toàn quốc; GPA từ 8,0/10 trở lên; chưa nhận học bổng VPBank trong năm học 2024-2025. Ưu tiên có kinh nghiệm lãnh đạo, thành tích học thuật/nghiên cứu, ngoại khóa, chứng chỉ tiếng Anh.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "cash_award"
     ],
@@ -4956,6 +4976,13 @@
     "duration": "Một lần cho mỗi đợt xét",
     "eligibility": "Sinh viên đại học hệ chính quy thành tích học tập xuất sắc tại các trường tham gia xét của Quỹ (nộp hồ sơ qua trường đang theo học, trường đề cử). Khối sau đại học (miền Bắc): học viên cao học/NCS khối KHTN, công nghệ, kỹ thuật, không phải cán bộ hưởng lương.",
     "recurring": "yearly",
+    "levels": [
+      "highschool",
+      "undergraduate",
+      "master",
+      "phd"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "cash_award"
     ],
@@ -4984,6 +5011,10 @@
     "duration": "Toàn khóa đại học, xét lại từng học kỳ",
     "eligibility": "Công dân Việt Nam (không hai quốc tịch) đang học đại học tại Việt Nam, điểm trung bình tích lũy từ 8.0 trở lên, tích cực hoạt động xã hội/tình nguyện, ưu tiên hoàn cảnh khó khăn. Cũng nhận học sinh lớp 12 đã trúng tuyển đại học (học bạ lớp 12 từ 9.0, hạnh kiểm Tốt, hoàn cảnh khó khăn). Không nhận sinh viên sẽ tốt nghiệp trong giai đoạn tháng 9-12 của năm tuyển.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "partial_funding",
       "need_based"
@@ -5013,6 +5044,10 @@
     "duration": "Đến hết chương trình học (sinh viên năm nhất) hoặc đến khi tốt nghiệp (sinh viên năm cuối)",
     "eligibility": "Sinh viên đại học hệ chính quy tại 12 trường đối tác (ĐHQG Hà Nội, ĐH Luật Hà Nội, ĐH Bách khoa - ĐH Đà Nẵng, ĐH Kinh tế TP.HCM, ĐH Bách khoa/KHTN/KHXH&NV/CNTT - ĐHQG-HCM, ĐH Y Dược TP.HCM, ĐH Sư phạm TP.HCM, ĐH Luật TP.HCM, ĐH Văn hóa TP.HCM). Tân sinh viên top 10% điểm đầu vào của khoa/ngành hoặc sinh viên năm cuối top 10% thành tích học tập (top 20% với sinh viên mồ côi), có hoàn cảnh kinh tế khó khăn, có hoạt động cộng đồng/lãnh đạo, không nhận học bổng toàn phần khác. Ứng viên do nhà trường đề cử.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "tuition_waiver",
       "need_based",
@@ -5043,6 +5078,10 @@
     "duration": "Một năm",
     "eligibility": "Sinh viên ĐHQG Hà Nội và ĐHQG-HCM; trường đề cử dựa trên thành tích học tập, tầm nhìn và hoàn cảnh tài chính. Tiêu chí chi tiết do ĐHQG công bố mỗi đợt (ĐHQG-HCM đợt 2026-2027: sinh viên năm cận cuối/năm cuối, học lực từ 8.0, rèn luyện từ 80, chưa nhận học bổng khác).",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "cash_award",
       "need_based",
@@ -5073,6 +5112,10 @@
     "duration": "Một năm",
     "eligibility": "Sinh viên đại học xuất sắc của ba trường đối tác tại Việt Nam (ĐHQG Hà Nội, ĐHQG-HCM, ĐH Bách khoa Hà Nội), do trường đề cử. Ví dụ đợt 2026-2027 tại ĐH Công nghệ (ĐHQGHN): sinh viên năm 2-4, kết quả học tập từ 3.0/4, rèn luyện Tốt trở lên, chưa nhận học bổng ngoài ngân sách khác.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "partial_funding",
       "need_based",
@@ -5103,6 +5146,10 @@
     ],
     "eligibility": "Sinh viên đại học đang học tại thành phố tổ chức đợt xét (đợt Hà Nội), điểm trung bình tối thiểu 7.0/10 hoặc 3.0/4.0, giao tiếp tiếng Anh tốt.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "cash_award"
     ],
@@ -5131,6 +5178,10 @@
     "duration": "Một năm học",
     "eligibility": "Sinh viên xuất sắc chuyên ngành kỹ thuật và môi trường tại các trường đại học tham gia; trường xét chọn và đề cử, Bộ GD&ĐT cùng Toyota Việt Nam duyệt. Thông báo đợt 2026-2027 (qua trường ĐH Công nghệ ĐHQGHN): sinh viên 2 năm cuối thuộc một số ngành kỹ thuật/AI, điểm trung bình từ 3.2/4, rèn luyện Tốt, ưu tiên hoàn cảnh khó khăn, dân tộc thiểu số, có thành tích nghiên cứu.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "cash_award",
       "need_based",
@@ -5164,6 +5215,10 @@
     ],
     "eligibility": "Công dân Việt Nam, cư trú tại Việt Nam trong suốt quá trình xét tuyển; có ít nhất một bằng đại học và tối thiểu 2 năm kinh nghiệm sau tốt nghiệp; TOEFL iBT 80 hoặc IELTS 6.5 hoặc Duolingo 110 hoặc TOEFL Essentials 8.5. Không yêu cầu GPA tối thiểu.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "needs_work_experience",
@@ -5197,6 +5252,10 @@
     "duration": "1 năm",
     "eligibility": "Công dân nước đủ điều kiện (có Việt Nam); tối thiểu 2 năm kinh nghiệm (tương đương 2.800 giờ) sau đại học; đã tốt nghiệp đại học ít nhất 2 năm trước hạn nộp; nộp 3 khoá thạc sĩ Anh đủ điều kiện và có ít nhất 1 thư mời vô điều kiện; cam kết về nước ít nhất 2 năm.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "needs_work_experience",
@@ -5229,6 +5288,10 @@
     ],
     "eligibility": "Công dân Việt Nam sống và nộp đơn từ Việt Nam; đã có bằng đại học chính quy; tối thiểu 24 tháng kinh nghiệm toàn thời gian (12 tháng với nhóm ưu tiên); GPA từ 6.5 (khu vực công) hoặc 7.0 (tư nhân, NGO); cam kết về Việt Nam làm việc ít nhất 2 năm; IELTS/TOEFL/PTE theo nhóm đối tượng.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "needs_work_experience",
@@ -5264,6 +5327,11 @@
     "duration": "1-2 năm (thạc sĩ)",
     "eligibility": "Công dân Việt Nam, đã sống tại Việt Nam ít nhất 2 năm trước khi nộp; từ 18 tuổi (ưu tiên dưới 40); bậc sau đại học cần 1 năm làm việc toàn thời gian hoặc 2 năm bán thời gian; đáp ứng yêu cầu đầu vào và tiếng Anh của trường (thường IELTS 6.5).",
     "recurring": "unknown",
+    "levels": [
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "needs_work_experience",
@@ -5299,6 +5367,12 @@
     ],
     "eligibility": "Công dân Việt Nam được cơ quan đối tác phía Việt Nam đề cử và nộp đơn đồng thời qua hệ thống Tempus Public Foundation; đáp ứng điều kiện đầu vào của trường Hungary; một số nhóm từng nhận học bổng này không được nộp lại.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate",
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "tuition_waiver",
       "return_commitment",
@@ -5333,6 +5407,10 @@
     "duration": "1-2 năm",
     "eligibility": "Có bằng cử nhân hoặc đang học năm cuối và tốt nghiệp trước khi khoá thạc sĩ bắt đầu; nộp trực tiếp cho từng chương trình thạc sĩ, mỗi chương trình có yêu cầu và hạn riêng.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding"
     ],
@@ -5364,6 +5442,11 @@
     ],
     "eligibility": "Công dân bất kỳ nước nào ngoài Vương quốc Anh; nộp vào PhD, MLitt hoặc khoá sau đại học một năm toàn thời gian (không nhận MBA, MFin, MASt, đại học). Ứng viên Việt Nam nộp ở vòng quốc tế.",
     "recurring": "yearly",
+    "levels": [
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding"
     ],
@@ -5395,6 +5478,11 @@
     ],
     "eligibility": "Không giới hạn quốc tịch, tuổi, ngành; phải đồng thời nộp và được nhận vào một chương trình sau đại học toàn thời gian tại Stanford; bằng cử nhân đầu tiên lấy từ tháng 1/2020 trở về sau (đối với khoá 2027).",
     "recurring": "yearly",
+    "levels": [
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "tuition_waiver",
       "needs_english_cert"
@@ -5427,6 +5515,10 @@
     "duration": "1-2 năm",
     "eligibility": "Công dân một trong 34 nước đủ điều kiện (có Việt Nam); có ít nhất 3.000 giờ kinh nghiệm làm việc và kinh nghiệm lãnh đạo; được nhận vào chương trình thạc sĩ đủ điều kiện qua University Admissions và phải đóng học phí; không phải công dân Thụy Điển/EU/EEA.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "needs_work_experience"
@@ -5460,6 +5552,10 @@
     "duration": "12 tháng (nghiên cứu), tối đa 36 tháng (tiến sĩ)",
     "eligibility": "Có bằng thạc sĩ hoặc tương đương hoàn thành trước 31/07/2027; sinh sau 31/12/1991; có kế hoạch nghiên cứu và thư bảo lãnh của giáo sư tại Thụy Sĩ. Danh sách theo nước ghi Việt Nam được nhận Research Fellowship và PhD.",
     "recurring": "yearly",
+    "levels": [
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "living_stipend"
     ],
@@ -5492,6 +5588,10 @@
     "duration": "10-24 tháng",
     "eligibility": "Đã có bằng cử nhân được Đức công nhận tính đến hạn nộp, chưa có bằng thạc sĩ; bằng gần nhất thường không quá 6 năm; thành tích học tập trên trung bình; trình độ ngôn ngữ giảng dạy tối thiểu B1; chưa ở Đức quá 15 tháng; người Việt có bằng thạc sĩ do trường Việt Nam cấp cần chứng chỉ APS.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "living_stipend",
       "needs_english_cert"
@@ -5525,6 +5625,11 @@
     "duration": "1 năm",
     "eligibility": "Có nơi cư trú gốc ngoài EU/EEA, Thụy Sĩ, Anh; đã có thư mời nhập học có điều kiện hoặc chính thức từ trường Ireland đủ điều kiện tại thời điểm nộp; chưa từng nhận học bổng này; công dân Nga và Belarus không đủ điều kiện.",
     "recurring": "yearly",
+    "levels": [
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "tuition_waiver"
     ],
@@ -5557,6 +5662,11 @@
     "duration": "Năm học đầu tiên",
     "eligibility": "Quốc tịch ngoài EEA; nộp vào chương trình cử nhân hoặc thạc sĩ toàn thời gian tại trường tham gia; đáp ứng yêu cầu của trường; chưa có bằng cấp từ cơ sở giáo dục Hà Lan.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate",
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "partial_funding"
     ],
@@ -5592,6 +5702,10 @@
     "duration": "15-24 tháng",
     "eligibility": "Có bằng cử nhân, thành thạo tiếng Anh, tối thiểu 3 năm kinh nghiệm toàn thời gian về hoà bình hoặc phát triển; cách bằng cấp gần nhất ít nhất 3 năm; học ở trung tâm ngoài nước mình; thành viên Rotary không đủ điều kiện.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "needs_work_experience",
@@ -5628,6 +5742,11 @@
     ],
     "eligibility": "Người Việt Nam. Nghiên cứu sinh: sinh sau 02/04/1992 và đã hoặc sắp tốt nghiệp đại học. Đại học, cao đẳng kỹ thuật, trung cấp chuyên nghiệp: sinh sau 02/04/2002 và đã hoặc sắp tốt nghiệp THPT.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "tuition_waiver",
       "school_nomination"
@@ -5661,6 +5780,10 @@
     "duration": "1 năm tiếng Hàn + 4-6 năm đại học (hoặc 2-3 năm cao đẳng)",
     "eligibility": "Công dân Việt Nam (nước NIIED mời), dưới 25 tuổi tính đến 01/03 của năm tuyển, tốt nghiệp THPT trước 31/12 năm tuyển, chưa tốt nghiệp THPT hay đại học ở Hàn Quốc. Điểm tổng kết từ 80/100, hoặc top 20% lớp, hoặc GPA tối thiểu 2,64/4,0. Cha mẹ không mang quốc tịch Hàn Quốc.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "partial_funding"
     ],
@@ -5693,6 +5816,12 @@
     ],
     "eligibility": "Công dân Việt Nam. Theo thông báo của Tổng lãnh sự quán Ấn Độ tại TP.HCM: tuổi 18-40 cho đại học và thạc sĩ, tối đa 50 cho tiến sĩ; không nhận ngành y, y tế phụ trợ, thời trang, luật và các khóa tích hợp 5 năm. Nộp online qua cổng A2A của ICCR.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate",
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "tuition_waiver"
     ],
@@ -5727,6 +5856,11 @@
     ],
     "eligibility": "Công dân nước trong danh sách của TaiwanICDF (có Việt Nam); không phải công dân Đài Loan hay kiều bào; đáp ứng điều kiện nhập học của trường đối tác. Bậc đại học chỉ mở cho nước có quan hệ ngoại giao với Đài Loan nên người Việt nộp bậc thạc sĩ hoặc tiến sĩ. Không có yêu cầu chứng chỉ tiếng Anh riêng của quỹ (tùy chương trình) và không giới hạn tuổi.",
     "recurring": "yearly",
+    "levels": [
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "school_nomination"
@@ -5761,6 +5895,12 @@
     "duration": "Tối đa 4 năm đại học, 2 năm thạc sĩ, 4 năm tiến sĩ",
     "eligibility": "Người nước ngoài tốt nghiệp THPT trở lên, học lực xuất sắc, phẩm chất tốt; không phải công dân hay kiều bào Đài Loan; không đang là sinh viên tại Đài Loan; không nhận học bổng khác của chính phủ Đài Loan. Phải nộp riêng hồ sơ nhập học vào trường.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate",
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "partial_funding",
       "needs_english_cert"
@@ -5793,6 +5933,10 @@
     "duration": "Theo thời gian chuẩn của chương trình",
     "eligibility": "Công dân hoặc thường trú nhân các nước ASEAN (trừ Singapore); thành tích học tập xuất sắc ở bậc phổ thông, hoạt động ngoại khóa tốt, có tố chất lãnh đạo; học chương trình đại học toàn thời gian lấy bằng đầu tiên. Phải duy trì CGPA từ 3,5/5,0.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "tuition_waiver",
       "needs_english_cert"
@@ -5825,6 +5969,11 @@
     ],
     "eligibility": "Công dân nước thuộc danh sách MIS (có Việt Nam); không quá 40 tuổi (thạc sĩ) hoặc 45 tuổi (tiến sĩ); thạc sĩ cần CGPA 3,00 hoặc bằng khá trở lên, tiến sĩ cần CGPA 3,00 ở bậc thạc sĩ; IELTS 6,0 trở lên hoặc tương đương; thạc sĩ nghiên cứu và tiến sĩ nộp đề cương từ 1.000 từ.",
     "recurring": "yearly",
+    "levels": [
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "needs_english_cert"
@@ -5858,6 +6007,11 @@
     "duration": "Gồm dự bị tiếng Trung (thường 1 năm) và thời gian học chuyên ngành",
     "eligibility": "Không mang quốc tịch Trung Quốc, sức khỏe tốt, hộ chiếu còn hạn. Thạc sĩ: có bằng cử nhân, học lực xuất sắc, thường không quá 35 tuổi. Tiến sĩ: có bằng thạc sĩ, thường không quá 40 tuổi. Cần HSK 4 nếu học bằng tiếng Trung, hoặc đạt yêu cầu ngoại ngữ của trường nếu học bằng tiếng khác. Bắt buộc có thư dự tuyển sơ bộ của trường Trung Quốc.",
     "recurring": "yearly",
+    "levels": [
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "tuition_waiver",
       "needs_english_cert"
@@ -5891,6 +6045,11 @@
     ],
     "eligibility": "Công dân ASEAN, Khối Thịnh vượng chung hoặc OIC (không chỉ giới hạn các nhóm này); 18-25 tuổi cho văn bằng và đại học, không quá 35 tuổi cho thạc sĩ; không áp dụng cho thường trú nhân Brunei. Hồ sơ cần được Bộ Ngoại giao hoặc đầu mối học bổng quốc gia xác nhận.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate",
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "tuition_waiver",
       "needs_english_cert"
@@ -5922,6 +6081,10 @@
     "duration": "toàn khóa cử nhân (duy trì theo điều kiện gia hạn)",
     "eligibility": "Ứng viên nộp hồ sơ vào chương trình cử nhân VinUni (Kinh doanh & Quản lý, Kỹ thuật & Khoa học máy tính, Khoa học sức khỏe, Nghệ thuật & Khoa học). Xét tổng thể theo 4 tiêu chí AACC (năng lực, khát vọng, sáng tạo, quyết tâm), không chỉ dựa vào điểm số/GPA.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "partial_funding"
     ],
@@ -5952,6 +6115,10 @@
     "duration": "toàn khóa cử nhân",
     "eligibility": "Công dân Việt Nam; đang học lớp 12 (dự kiến tốt nghiệp 2027) hoặc đã tốt nghiệp THPT không quá 2 năm; GPA có trọng số lớp 10-11 và học kỳ 1 lớp 12 từ 9.0/10; IELTS Academic 6.5 (không kỹ năng nào dưới 6.0) hoặc tương đương; có tố chất lãnh đạo và hoạt động ngoại khóa; đã nộp hồ sơ nhập học RMIT Việt Nam cho chương trình cử nhân.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "tuition_waiver",
       "needs_english_cert"
@@ -5983,6 +6150,10 @@
     "duration": "toàn khóa cử nhân",
     "eligibility": "Công dân Việt Nam; đang học lớp 12 (dự kiến tốt nghiệp 2027) hoặc tốt nghiệp THPT không quá 2 năm; GPA có trọng số từ 8.0/10 và điểm Toán có trọng số từ 8.0/10 (lớp 10, 11, học kỳ 1 lớp 12); IELTS Academic 6.5 (không kỹ năng nào dưới 6.0) hoặc tương đương; đã nộp hồ sơ vào Bachelor of Computer Science.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "partial_funding",
       "needs_english_cert"
@@ -6015,6 +6186,10 @@
     "duration": "4 năm",
     "eligibility": "Mọi thí sinh nộp hồ sơ vào chương trình cử nhân Fulbright đều được nộp đơn học bổng. Điều kiện nhập học: GPA THPT từ 7.0/10 (hoặc tương đương), có hoạt động ngoại khóa thể hiện một trong ba phẩm chất Fulbright tìm kiếm, IELTS 6.0 (hoặc TOEFL iBT 70, Duolingo 95).",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "partial_funding",
       "needs_english_cert"
@@ -6047,6 +6222,10 @@
     "duration": "dự bị + toàn khóa cử nhân",
     "eligibility": "Công dân Việt Nam đang sống tại Việt Nam, không quá 30 tuổi; đã hoặc đang học lớp 12 với điểm trung bình từ 8.5; IELTS 6.5 (không kỹ năng nào dưới 6.0) hoặc tương đương; có thành tích học tập, hoạt động cộng đồng và tiềm năng lãnh đạo; chưa nhận học bổng khác tại thời điểm nộp.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "partial_funding",
       "needs_english_cert"
@@ -6079,6 +6258,10 @@
     "duration": "dự bị + toàn khóa cử nhân",
     "eligibility": "Công dân Việt Nam đang sống tại Việt Nam, không quá 30 tuổi; đã hoặc đang học lớp 12 với điểm trung bình từ 8.5; IELTS 6.5 (không kỹ năng nào dưới 6.0) hoặc tương đương; có thành tích học tập, hoạt động cộng đồng và tiềm năng lãnh đạo; chưa nhận học bổng khác tại thời điểm nộp.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "tuition_waiver",
       "needs_english_cert"
@@ -6111,6 +6294,10 @@
     "duration": "toàn khóa theo thời gian đào tạo chính thức",
     "eligibility": "Thí sinh quốc tịch Việt Nam đã tham gia xét tuyển vào USTH (đợt 1, đợt 2). Mỗi loại có điều kiện riêng: giải học sinh giỏi (Tài năng); GPA 3/6 môn từ 8.0 (Kiến tạo) hoặc từ 8.3/8.8 (Khuyến khích học tập); hộ nghèo/cận nghèo hoặc hoàn cảnh đặc biệt khó khăn (Vượt khó).",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "partial_funding",
       "need_based"
@@ -6144,6 +6331,10 @@
     "duration": "toàn khóa",
     "eligibility": "Học sinh lớp 12 trên toàn quốc, ứng tuyển trực tiếp hoặc được giáo viên/nhà trường/phụ huynh đề cử. Hạng mục Tinh hoa mở lối: giải học sinh giỏi quốc gia/quốc tế do Bộ GD&ĐT cử đi hoặc SAT từ 1430, kèm hồ sơ năng lực lãnh đạo, video tự giới thiệu và phỏng vấn.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "partial_funding"
     ],
@@ -6175,6 +6366,10 @@
     "duration": "1 năm học (loại A, B, C) hoặc 4 năm (loại toàn phần)",
     "eligibility": "Tân sinh viên các chương trình cử nhân VGU. Học bổng năm nhất xét theo phương thức tuyển sinh (TestAS, giải quốc gia/tỉnh, SAT/ACT/IB/A-Level...). Học bổng toàn phần 4 năm yêu cầu IELTS Academic 7.0 và học bổng 100% học phí từ TestAS/chứng chỉ quốc tế hoặc giải quốc gia các môn Toán, Lý, Hóa, Tin.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "partial_funding",
       "needs_english_cert"
@@ -6207,6 +6402,10 @@
     "duration": "1 năm",
     "eligibility": "Sinh viên quốc tế mới từ Việt Nam bậc thạc sĩ nhận thư mời nhập học (có điều kiện hoặc không) vào kỳ Semester One hoặc Quarter Two 2027 trước 20/10/2026; được mời nộp biểu mẫu bổ sung trực tuyến.",
     "recurring": "multiple",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "partial_funding"
     ],
@@ -6238,6 +6437,10 @@
     "duration": "toàn khóa (có điều kiện duy trì)",
     "eligibility": "Thí sinh đáp ứng một trong bốn điều kiện: học bạ THPT lớp 11 hoặc 12 tổ hợp 3 môn (Văn, Toán, 1 môn tự chọn) từ 26 điểm; điểm thi tốt nghiệp THPT tổ hợp 3 môn từ 24 điểm; điểm thi đánh giá năng lực ĐHQG TP.HCM từ 1.000; hoặc IELTS từ 7.5.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "partial_funding"
     ],
@@ -6269,6 +6472,10 @@
     "duration": "1 năm",
     "eligibility": "Ứng viên 18-28 tuổi, hoàn thành đại học trước khi nhập học, mọi ngành; cần chứng chỉ tiếng Anh (TOEFL iBT 100, IELTS 7 hoặc tương đương) trừ khi đã học bằng tiếng Anh từ 2 năm; nộp qua đợt U.S./Global.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "needs_english_cert"
@@ -6301,6 +6508,10 @@
     "duration": "Thời gian chương trình cử nhân",
     "eligibility": "Học sinh quốc tế vào thẳng đại học từ trường phổ thông, học bằng đầu tiên, điểm toàn A hoặc tương đương, chứng minh được nhu cầu tài chính đáng kể, được trường đề cử cộng một giáo viên giới thiệu; đạt chuẩn tiếng Anh của trường.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "need_based",
       "school_nomination"
@@ -6333,6 +6544,10 @@
     "duration": "3-4 học kỳ",
     "eligibility": "Sinh viên đang hoàn thành cử nhân với kết quả thuộc nhóm 10% đầu (tự đánh giá), chưa học hoặc có bằng thạc sĩ tại trường; nộp qua hệ thống eApply cùng hồ sơ thạc sĩ kèm đề cương luận văn.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding"
     ],
@@ -6365,6 +6580,10 @@
     "duration": "2-4 học kỳ",
     "eligibility": "Mọi ứng viên đăng ký chương trình thạc sĩ của trường, mỗi người chỉ xin một chương trình; không áp dụng cho người đã có bằng thạc sĩ hoặc đang học thạc sĩ tại trường; cần hai thư giới thiệu từ giảng viên.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "cash_award"
     ],
@@ -6396,6 +6615,10 @@
     "duration": "Khoảng 3,5 năm",
     "eligibility": "Ứng viên mọi quốc tịch nộp hồ sơ vào chương trình nghiên cứu như PhD, MPhil/PhD hoặc EngD nhập học mùa thu năm sau, chưa là nghiên cứu sinh của trường; nộp đơn học bổng riêng qua cổng học bổng.",
     "recurring": "yearly",
+    "levels": [
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding"
     ],
@@ -6428,6 +6651,11 @@
     "duration": "3 năm (đại học) hoặc 1 năm (thạc sĩ)",
     "eligibility": "Sinh viên tự túc cư trú chủ yếu tại Việt Nam trong ba năm gần nhất, đã có thư mời nhập học hệ toàn thời gian; đại học cần A-level, IB hoặc tương đương, thạc sĩ cần bằng cử nhân học tại Đông Nam Á.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate",
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "partial_funding"
     ],
@@ -6459,6 +6687,10 @@
     "duration": "1 năm",
     "eligibility": "Sinh viên nộp phí quốc tế, thu nhập gia đình thấp, đã nộp đủ hồ sơ nhập học (kèm thư giới thiệu) vào chương trình thạc sĩ giảng dạy toàn thời gian tại trường; không áp dụng cho hệ học từ xa.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "partial_funding",
       "need_based"
@@ -6492,6 +6724,11 @@
     "duration": "Theo thời lượng tối thiểu của chương trình",
     "eligibility": "Sinh viên quốc tế đã có thư mời nhập học chính thức vào chương trình đại học hoặc thạc sĩ coursework toàn thời gian tại trường; không gồm hệ online và UNSW Canberra.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate",
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "partial_funding"
     ],
@@ -6525,6 +6762,11 @@
     "duration": "Một năm học, có thể tính theo chương trình",
     "eligibility": "Nữ giới không phải công dân hoặc thường trú nhân Mỹ, theo học chương trình thạc sĩ, tiến sĩ học thuật hoặc chuyên ngành STEM toàn thời gian tại Mỹ; một số ít suất cho nước khác ngoài nước của mình.",
     "recurring": "yearly",
+    "levels": [
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "cash_award",
       "needs_english_cert"
@@ -6557,6 +6799,10 @@
     "duration": "Theo thời lượng chương trình",
     "eligibility": "Công dân ngoài EU/EEA phải đóng học phí, nộp qua đợt tuyển chính thức vào thạc sĩ (hiếm khi là vài chương trình cử nhân), chọn chương trình của trường là nguyện vọng đầu trên universityadmissions.se.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "partial_funding",
       "needs_english_cert"
@@ -6589,6 +6835,10 @@
     "duration": "3-4 năm",
     "eligibility": "Công dân các nước nhận hỗ trợ phát triển chính thức, trong đó có Việt Nam; sinh viên mới bậc đại học, đã có thư mời nhập học, ưu tiên người chưa học đại học, có nhu cầu tài chính và dự định về nước.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "need_based"
@@ -6622,6 +6872,11 @@
     "duration": "Tối đa 4 năm",
     "eligibility": "Công dân hoặc cư dân Việt Nam ít nhất 7 năm, giai đoạn đầu sự nghiệp, đã được một trong các college đối tác nhận; xét cả thành tích, tiềm năng lãnh đạo, đóng góp cộng đồng và nhu cầu tài chính.",
     "recurring": "yearly",
+    "levels": [
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "need_based"
@@ -6653,6 +6908,10 @@
     ],
     "eligibility": "Sinh viên giữ hộ chiếu ngoài EU/EEA đã nộp hồ sơ vào chương trình thạc sĩ của trường; tiêu chí cụ thể và cách nộp khác nhau theo từng khoa.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "living_stipend"
     ],
@@ -6685,6 +6944,12 @@
     ],
     "eligibility": "Sinh viên nước ngoài sắp nhập học đại học hoặc cao học tại Nhật; có JLPT N3 trở lên; tự nộp hồ sơ vào trường và đính kèm bản sao hồ sơ nhập học; bậc cao học cần thư giới thiệu của giáo sư; không nhận research student.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate",
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "living_stipend",
       "needs_english_cert"
@@ -6717,6 +6982,10 @@
     "duration": "Đến khi tốt nghiệp đại học",
     "eligibility": "Học sinh Việt Nam muốn học đại học tại các trường chỉ định ở Nhật (chương trình cử nhân dạy bằng tiếng Anh); chi tiết điều kiện (điểm, tiếng Anh, giấy tờ) nằm trong file PDF Application Guidelines trên trang, chưa đọc.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding"
     ],
@@ -6748,6 +7017,10 @@
     "duration": "2 năm",
     "eligibility": "Công dân một trong các nước/vùng được liệt kê (có Việt Nam); đang nộp vào chương trình thạc sĩ chính quy của Đại học Kyoto; xem thêm Eligibility and Selection Criteria trên trang AFLSP@KU.",
     "recurring": "multiple",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding"
     ],
@@ -6778,6 +7051,10 @@
     ],
     "eligibility": "Công dân không mang quốc tịch Trung Quốc, có hộ chiếu hợp lệ; tốt nghiệp đại học hoặc sắp tốt nghiệp vào tháng 8 năm nhập học; thành tích học tập xuất sắc; quan tâm nghiên cứu liên ngành về Trung Quốc; tiếng Anh IELTS 7.0 hoặc TOEFL iBT 100 (miễn nếu tốt nghiệp chương trình dạy bằng tiếng Anh).",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "needs_english_cert",
@@ -6811,6 +7088,10 @@
     "duration": "Tối đa 3 năm",
     "eligibility": "Ứng viên mới vào chương trình PhD toàn thời gian tại một trong tám trường tham gia (CityU, HKBU, Lingnan, CUHK, EdUHK, PolyU, HKUST, HKU), không phân biệt quốc tịch; học lực, tiềm năng nghiên cứu, kỹ năng giao tiếp và khả năng lãnh đạo xuất sắc.",
     "recurring": "yearly",
+    "levels": [
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "living_stipend",
       "needs_english_cert"
@@ -6842,6 +7123,10 @@
     ],
     "eligibility": "Sinh viên không phải người Hong Kong, vào thẳng từ trung học (không nhận ứng viên đã học sau trung học); thể hiện nghị lực vượt khó và tiềm năng đóng góp; đạt yêu cầu tuyển sinh HKUST và được đề cử nhập học ở vòng Early; mức cao cần chứng minh hoàn cảnh tài chính đặc biệt khó khăn.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "partial_funding",
       "need_based"
@@ -6874,6 +7159,10 @@
     "duration": "4 năm (từ Secondary 3 đến Pre-University 2)",
     "eligibility": "Công dân Việt Nam sinh từ 2/1/2010 đến 1/1/2013, hiện học lớp 8, 9 hoặc 10; tiếng Anh tốt; kết quả học tập ổn định; có thành tích hoạt động ngoại khóa. Gia hạn hằng năm theo kết quả học tập.",
     "recurring": "yearly",
+    "levels": [
+      "highschool"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding"
     ],
@@ -6905,6 +7194,10 @@
     "duration": "24-36 tháng",
     "eligibility": "Công dân các nước thuộc diện MTCP; không quá 45 tuổi vào ngày nộp; tốt nghiệp đại học loại Second Class Upper hoặc CGPA 3.00 trở lên; IELTS 6.0, TOEFL iBT 60 hoặc đã học bằng tiếng Anh.",
     "recurring": "yearly",
+    "levels": [
+      "master"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "needs_english_cert"
@@ -6938,6 +7231,12 @@
     ],
     "eligibility": "Sinh viên quốc tế từ mọi quốc gia nộp cho bậc cao đẳng, cử nhân, thạc sĩ, tiến sĩ; điều kiện chi tiết về tuổi và điểm số chưa có trong các trang đã đọc.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate",
+      "master",
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "needs_english_cert"
@@ -6971,6 +7270,10 @@
     "duration": "1 năm (thạc sĩ gia hạn tối đa 2 năm, tiến sĩ tối đa 3 năm)",
     "eligibility": "Sinh viên không mang quốc tịch Hàn Quốc, đang theo học thạc sĩ hoặc tiến sĩ ngành Hàn Quốc học (loại trừ khoa học tự nhiên, y, kỹ thuật, MBA, luật, biên phiên dịch); với Việt Nam nộp qua trường hoặc cơ quan có thỏa thuận với KF.",
     "recurring": "yearly",
+    "levels": [
+      "master",
+      "phd"
+    ],
     "highlights": [
       "partial_funding",
       "school_nomination"
@@ -7004,6 +7307,10 @@
     ],
     "eligibility": "Tân sinh viên trúng tuyển đại học hoặc cao đẳng, có giấy xác nhận nhập học; ưu tiên mồ côi, hộ nghèo/cận nghèo, vùng thiên tai, khuyết tật, cha mẹ bệnh nặng, gia đình gặp biến cố và có nỗ lực vươn lên. Tự đăng ký hoặc được người khác giới thiệu qua cổng trực tuyến.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "cash_award",
       "need_based"
@@ -7038,6 +7345,10 @@
     "duration": "toàn thời gian chương trình tiến sĩ theo đại học tiếp nhận",
     "eligibility": "Công dân Việt Nam không quá 35 tuổi khi bắt đầu tiến sĩ; đã hoặc sắp tốt nghiệp đại học, GPA chuyên ngành tối thiểu 8/10; IELTS Academic 6.5 hoặc TOEFL iBT 79 (hoặc bằng từ nước nói tiếng Anh); 2 thư giới thiệu, bài luận, CV. Phải về Việt Nam làm việc theo thời gian bằng thời gian nhận học bổng.",
     "recurring": "yearly",
+    "levels": [
+      "phd"
+    ],
+    "study_in": "abroad",
     "highlights": [
       "full_funding",
       "return_commitment",
@@ -7071,6 +7382,10 @@
     ],
     "eligibility": "Học sinh THPT đăng ký ứng tuyển và nhập học chương trình Tiêu chuẩn của Văn Lang (không áp dụng Global Elite, Global Standard, Global Partnership); mức cao nhất xét hồ sơ thành tích (giải thưởng học thuật, nghệ thuật, thể thao, dự án cộng đồng).",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "cash_award"
     ],
@@ -7103,6 +7418,10 @@
     "duration": "toàn khóa",
     "eligibility": "Học sinh đạt thành tích học thuật cấp quốc gia, quốc tế hoặc giải Nhất học sinh giỏi cấp tỉnh/thành; IELTS Academic từ 6.0 trở lên hoặc tương đương (được bổ sung trước 31/12/2026); ưu tiên người tham gia hoặc khởi xướng dự án cộng đồng, thể hiện tiềm năng lãnh đạo.",
     "recurring": "yearly",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "tuition_waiver",
       "needs_english_cert"
@@ -7135,6 +7454,10 @@
     ],
     "eligibility": "Ứng viên chương trình cử nhân Fulbright khóa nhập học 09/2026 (đã hoặc sắp nộp hồ sơ, đã có thư nhận hoặc đã nhập học); phải hoàn tất đơn tuyển sinh Fulbright và nộp video tiếng Anh 3-5 phút, đăng công khai TikTok hoặc YouTube chế độ không công khai; có phỏng vấn với hội đồng.",
     "recurring": "unknown",
+    "levels": [
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
     "highlights": [
       "partial_funding"
     ],

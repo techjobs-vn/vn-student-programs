@@ -46,13 +46,15 @@ export const HIGHLIGHT_KEYS = [
   "full_funding", "tuition_waiver", "partial_funding", "cash_award", "living_stipend",
   "needs_work_experience", "return_commitment", "needs_english_cert", "need_based", "school_nomination",
 ];
+export const LEVEL_KEYS = ["highschool", "undergraduate", "master", "phd"];
+export const STUDY_IN_KEYS = ["vietnam", "abroad"];
 const FUNDING_KEYS = ["full_funding", "tuition_waiver", "partial_funding", "cash_award"];
 // Bare hostname of the company website, used to fetch a logo when the company has no techjobs.vn slug.
 const DOMAIN_RE = /^(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z]{2,}$/;
 
 const PROGRAM_FIELDS = new Set([
   "slug", "name", "type", "company", "official_url", "description", "tracks", "fields", "duration",
-  "eligibility", "recurring", "highlights", "active", "is_visible", "source", "added_at",
+  "eligibility", "recurring", "highlights", "levels", "study_in", "active", "is_visible", "source", "added_at",
   "updated_at", "notes",
 ]);
 const CYCLE_FIELDS = new Set([
@@ -123,6 +125,15 @@ function validateProgram(p) {
     errors.push(`${label}: tracks must be an array of strings`);
   }
 
+  if (p.levels !== undefined) {
+    const list = p.levels;
+    if (!Array.isArray(list) || list.length === 0 || list.some((k) => !LEVEL_KEYS.includes(k)) || new Set(list).size !== list.length) {
+      errors.push(`${label}: levels must be a non-empty list of unique keys from ${LEVEL_KEYS.join(", ")}`);
+    }
+  }
+  if (p.study_in !== undefined && !STUDY_IN_KEYS.includes(p.study_in)) {
+    errors.push(`${label}: study_in must be one of ${STUDY_IN_KEYS.join(", ")}`);
+  }
   if (p.highlights !== undefined) {
     const list = p.highlights;
     if (!Array.isArray(list) || list.some((k) => !HIGHLIGHT_KEYS.includes(k)) || new Set(list).size !== list.length || list.length > HIGHLIGHT_KEYS.length) {
