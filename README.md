@@ -13,7 +13,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 09/10/2026 · 355 chương trình · 67 đang mở_
+_Cập nhật dữ liệu: 09/10/2026 · 355 chương trình · 65 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -28,8 +28,6 @@ _Cập nhật dữ liệu: 09/10/2026 · 355 chương trình · 67 đang mở_
 | Gates Cambridge Trust \(Đại học Cambridge\) | [Gates Cambridge Scholarship](https://www.gatescambridge.org/apply/eligibility/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 11/09/2026 | — |
 | [TPBank](https://techjobs.vn/companies/tpbank?utm_source=github&utm_medium=vn-student-programs) | [TPBank Tập sự tiềm năng \(Công nghệ\)](https://tuyendung.tpb.vn/vi/jobs/RkV54P) | Fresher | Công nghệ | 🟢 Đang mở | 2026 | 15/09/2026 | — |
 | Swire Coca-Cola Việt Nam | [Chương trình Thực tập Coca-Cola STEMX](https://careersvn.app.swirecocacola.com/job/Ch%C6%B0%C6%A1ng-Tr%C3%ACnh-Th%E1%BB%B1c-T%E1%BA%ADp-Coca-Cola-STEMX-2026-Nh%C3%A0-M%C3%A1y-Mi%E1%BB%81n-B%E1%BA%AFc-%28H%C3%A0-N%E1%BB%99i%29/1283-vi_VN/) | Thực tập | Kỹ thuật, Vận hành | 🟢 Đang mở | 2026 | 17/09/2026 | — |
-| EPI Technologies \(Công ty CP Tập đoàn Công nghệ EPI Việt Nam\) | [EPI Internship Program](https://epi-tech.com.vn/en/careers/epi-internship-program-2026/) | Thực tập | Kinh doanh – Marketing, Vận hành, Nhân sự, Tài chính, Kỹ thuật | 🟢 Đang mở | 2026 | — | 09/10/2026 |
-| Highlands Coffee | [Highlands Coffee Store Manager Trainee Program](https://careers.highlandscoffee.com.vn/store-manager-trainee/) | Quản trị viên tập sự | Vận hành, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 09/10/2026 |
 | SCG | [SCG Sharing The Dream](https://scgsharingthedream.vn/) | Học bổng | Kỹ thuật, Kinh doanh – Marketing, Vận hành | 🟢 Đang mở | 2026 | — | 11/10/2026 |
 | Hãng Kiểm toán AASC | [Chương trình Sinh viên thực tập Hãng Kiểm toán AASC](https://aasc.com.vn/web/index.php/tuyen-dung/thong-tin-thuc-tap/item/952-chuong-trinh-sinh-vien-thuc-tap-nam-2026-2027-cua-hang-kiem-toan-aasc) | Thực tập | Kiểm toán – Tư vấn | 🟢 Đang mở | 2026 | 09/09/2026 | 15/10/2026 |
 | Công ty TNHH Kiểm toán VACO | [Chương trình thực tập sinh VACO](https://vaco.com.vn/vi/tuyen-dung/co-hoi-nghe-nghiep/chuong-trinh-thuc-tap-sinh-nam-2027-n31) | Thực tập | Kiểm toán – Tư vấn, Tài chính, Kỹ thuật | 🟢 Đang mở | 2026 | 10/09/2026 | 15/10/2026 |
@@ -185,10 +183,12 @@ _Cập nhật dữ liệu: 09/10/2026 · 355 chương trình · 67 đang mở_
 | Zhejiang University \(International Business School, Haining\) | [ZIBS Hai Scholarship](https://zibs.zju.edu.cn/enzibs/UndergraduateApplication/list.htm) | Học bổng | Kinh doanh – Marketing | ⚪ Chưa rõ | 2026 | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (189) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (191) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
+| EPI Technologies \(Công ty CP Tập đoàn Công nghệ EPI Việt Nam\) | [EPI Internship Program](https://epi-tech.com.vn/en/careers/epi-internship-program-2026/) | Thực tập | Kinh doanh – Marketing, Vận hành, Nhân sự, Tài chính, Kỹ thuật | 🔴 Đã đóng | 2026 | — | 09/10/2026 |
+| Highlands Coffee | [Highlands Coffee Store Manager Trainee Program](https://careers.highlandscoffee.com.vn/store-manager-trainee/) | Quản trị viên tập sự | Vận hành, Kinh doanh – Marketing | 🔴 Đã đóng | 2026 | — | 09/10/2026 |
 | Crowe Việt Nam | [Crowe Vietnam Internship Program](https://brochure.crowevietnam.vn/en/careers/internship-program-2026-2027/) | Thực tập | Kiểm toán – Tư vấn | 🔴 Đã đóng | 2026 | — | 07/10/2026 |
 | [FPT \(Viện QACI\)](https://techjobs.vn/companies/fpt-ai?utm_source=github&utm_medium=vn-student-programs) | [FPT Frontier Innovators](https://fpt.com/en/news/fpt-frontier-innovators-a-new-program-for-young-talent-pioneering-emerging-technologies) | Graduate | Công nghệ | 🔴 Đã đóng | 2026 | 11/09/2026 | 07/10/2026 |
 | Stanford University \(Knight-Hennessy Scholars\) | [Knight-Hennessy Scholars](https://knight-hennessy.stanford.edu/admission) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | — | 06/10/2026 |
