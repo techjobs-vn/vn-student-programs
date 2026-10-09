@@ -219,3 +219,17 @@ test("rejects more than one funding level", () => {
   const errors = validateDataset({ programs: [program({ type: "scholarship", highlights: ["full_funding", "partial_funding"] })], cycles: [cycle()] });
   assert.ok(errors.some((e) => e.includes("highlights") && e.includes("funding")));
 });
+
+test("accepts levels and study_in on a scholarship", () => {
+  const p = program({ type: "scholarship", levels: ["undergraduate", "master"], study_in: "abroad" });
+  assert.deepEqual(validateDataset({ programs: [p], cycles: [cycle()] }), []);
+});
+
+test("rejects unknown, duplicate or empty levels and an unknown study_in", () => {
+  const bad = (extra) => validateDataset({ programs: [program({ type: "scholarship", ...extra })], cycles: [cycle()] });
+  assert.ok(bad({ levels: ["bogus"] }).some((e) => e.includes("levels")));
+  assert.ok(bad({ levels: ["master", "master"] }).some((e) => e.includes("levels")));
+  assert.ok(bad({ levels: [] }).some((e) => e.includes("levels")));
+  assert.ok(bad({ levels: "master" }).some((e) => e.includes("levels")));
+  assert.ok(bad({ study_in: "mars" }).some((e) => e.includes("study_in")));
+});
