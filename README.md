@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 09/10/2026 · 355 chương trình · 65 đang mở_
+_Cập nhật dữ liệu: 10/10/2026 · 356 chương trình · 66 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -44,6 +44,7 @@ _Cập nhật dữ liệu: 09/10/2026 · 355 chương trình · 65 đang mở_
 | [Tập đoàn Golden Gate](https://techjobs.vn/companies/golden-gate?utm_source=github&utm_medium=vn-student-programs) | [Golden Gate Brand Manager Trainee Program](https://tuyendung.ggg.com.vn/brand-manager-trainee/) | Quản trị viên tập sự | Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/10/2026 |
 | Rotary Yoneyama Memorial Foundation | [Rotary Yoneyama Memorial Scholarship \(diện ứng viên ở nước ngoài\)](https://www.rotary-yoneyama.or.jp/english/overseas) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 31/10/2026 |
 | [Sea \(Shopee / Monee / Garena\)](https://techjobs.vn/companies/shopee?utm_source=github&utm_medium=vn-student-programs) | [Sea Global Management Associate Program \(Sea Global MAP\)](https://seagmap.sea.com/) | Quản trị viên tập sự | Tổng hợp, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/10/2026 |
+| Vietbank | [Thực tập sinh tại Chi nhánh/Phòng Giao dịch Vietbank](https://ehiring-tuyendung.vietbank.com.vn) | Thực tập | Tài chính, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/10/2026 |
 | Hyosung & HS Hyosung Việt Nam | [Hyosung & HS Hyosung Gongchae Program](https://hyosungjobs.com/gongchae-program) | Fresher | Kỹ thuật, Vận hành, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | 28/09/2026 | 02/11/2026 |
 | University of Technology Sydney \(UTS\) | [UTS Vice-Chancellor's International Undergraduate Scholarship](https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 02/11/2026 |
 | Trường Đại học Mở TP.HCM \(OU\) | [Học bổng Tài năng dành cho tân sinh viên \(ĐH Mở TP.HCM\)](https://ou.edu.vn/tin_tuc/hbtn-26-27/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 17/08/2026 | 05/11/2026 |

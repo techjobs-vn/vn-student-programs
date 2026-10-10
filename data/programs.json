@@ -11285,5 +11285,33 @@
       "undergraduate"
     ],
     "study_in": "abroad"
+  },
+  {
+    "slug": "vietbank-thuc-tap-sinh-chi-nhanh",
+    "name": "Thực tập sinh tại Chi nhánh/Phòng Giao dịch Vietbank",
+    "type": "internship",
+    "company": {
+      "name": "Vietbank",
+      "slug": null,
+      "domain": "vietbank.com.vn"
+    },
+    "official_url": "https://ehiring-tuyendung.vietbank.com.vn",
+    "description": "Vietbank tuyển thực tập sinh toàn quốc tại chi nhánh/phòng giao dịch cho các vị trí khách hàng cá nhân, khách hàng doanh nghiệp và giao dịch viên, có người hướng dẫn và cơ hội tiếp tục làm việc sau kỳ thực tập.",
+    "tracks": [
+      "Khách hàng cá nhân",
+      "Khách hàng doanh nghiệp",
+      "Giao dịch viên"
+    ],
+    "fields": [
+      "finance",
+      "business"
+    ],
+    "eligibility": "Sinh viên hoặc người đi làm quan tâm đến ngân hàng bán lẻ.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-10",
+    "updated_at": "2026-10-10"
   }
 ]

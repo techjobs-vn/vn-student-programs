@@ -20405,5 +20405,58 @@
     ],
     "confidence": "high",
     "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "vietbank-thuc-tap-sinh-chi-nhanh",
+    "overview": "Chương trình tuyển thực tập sinh tại các chi nhánh và phòng giao dịch Vietbank trên toàn quốc, gồm ba hướng: khách hàng cá nhân, khách hàng doanh nghiệp và giao dịch viên. Thực tập sinh hỗ trợ bán hàng, chăm sóc khách hàng và tư vấn sản phẩm ngân hàng. Người hoàn thành được xác nhận thực tập và có cơ hội tiếp tục làm việc tại Vietbank.",
+    "eligibility": [
+      "Sinh viên hoặc người đang đi làm đều có thể ứng tuyển.",
+      "Không yêu cầu kinh nghiệm."
+    ],
+    "benefits": [
+      "Hỗ trợ thực tập 1 triệu đồng mỗi tháng, chi trả theo tháng.",
+      "Có người hướng dẫn về chuyên môn, nghiệp vụ và kỹ năng mềm.",
+      "Được tham gia chương trình đào tạo E-learning phù hợp với vị trí.",
+      "Có thể nhận hoa hồng nếu đạt kết quả kinh doanh.",
+      "Được xác nhận hoàn thành thực tập và hỗ trợ đóng dấu hồ sơ.",
+      "Có cơ hội tiếp tục làm việc tại Vietbank sau kỳ thực tập."
+    ],
+    "selection_process": [
+      "Ứng tuyển: gửi CV theo kênh tuyển dụng được nêu trong tin đăng."
+    ],
+    "locations": [
+      "Các chi nhánh và phòng giao dịch Vietbank trên toàn quốc."
+    ],
+    "stipend": "Hỗ trợ thực tập 1 triệu đồng mỗi tháng; có thể nhận thêm hoa hồng theo kết quả kinh doanh.",
+    "faq": [
+      {
+        "q": "Chương trình có những vị trí nào?",
+        "a": "Ba vị trí gồm khách hàng cá nhân, khách hàng doanh nghiệp và giao dịch viên."
+      },
+      {
+        "q": "Ứng viên chưa có kinh nghiệm có thể tham gia không?",
+        "a": "Có. Tin tuyển dụng ghi rõ không yêu cầu kinh nghiệm."
+      },
+      {
+        "q": "Thực tập sinh có người hướng dẫn không?",
+        "a": "Có. Người hướng dẫn hỗ trợ về chuyên môn, nghiệp vụ và kỹ năng mềm."
+      },
+      {
+        "q": "Sau kỳ thực tập có được xác nhận không?",
+        "a": "Có. Vietbank xác nhận hoàn thành thực tập và hỗ trợ đóng dấu hồ sơ theo quy định."
+      },
+      {
+        "q": "Hạn ứng tuyển của đợt gần nhất là khi nào?",
+        "a": "Tin đăng gần nhất ghi hạn ứng tuyển ngày 31/10/2026."
+      }
+    ],
+    "sources": [
+      "https://youth.neu.edu.vn/vi/thong-tin-tuyen-dung-2657/thuc-tap-sinh-tai-cac-chi-nhanh-phong-giao-dich",
+      "https://jobs.neu.edu.vn/jobs/thuc-tap-sinh-tai-cac-chi-nhanhphong-giao-dich-vietbank-1202610091405",
+      "https://vieclam.hub.edu.vn/portal/bai-viet/chuong-trinh-thuc-tap-sinh-vietbank-NDk.html",
+      "https://www.uef.edu.vn/qhdn/thong-tin-thuc-tap/co-hoi-thuc-tap-tai-ngan-hang-tmcp-viet-nam-thuong-tin-vietbank-34413"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-10"
   }
 ]
