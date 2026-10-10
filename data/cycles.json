@@ -3818,5 +3818,16 @@
     ],
     "updated_at": "2026-10-09",
     "notes": "Trang join.hkust.edu.hk/intlscholarships (khoá nhập học 2027/28) liệt kê Future Leaders Award (NEW) trong mục học bổng cần nộp riêng, kèm hạn Priority Round 2026-11-25 cho ứng viên bằng cấp quốc tế. Cổng nộp hồ sơ mở 'Early Oct 2026' (không nêu ngày cụ thể trên trang) nên opens_at để null; hồ sơ thường (rolling) từ 2026-11-26, đóng 2027-06-30, thông báo offer cuối 12/2026. Trang riêng của giải thưởng vẫn hiển thị lịch đợt 2025 (hạn 2025-11-30, kết quả 2026-01-23), chưa cập nhật 2027, nên chưa biết ngày công bố kết quả và hạn nhận offer khoá 2027. Điều kiện trang giải thưởng yêu cầu được đề cử nhập học ở vòng Early, nên chỉ vòng Priority là phù hợp, mốc 2027-06-30 không áp dụng cho giải này."
+  },
+  {
+    "program_slug": "vietbank-thuc-tap-sinh-chi-nhanh",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-10-31",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/thuc-tap-sinh-tai-cac-chi-nhanhphong-giao-dich-vietbank-1202610091405",
+      "https://youth.neu.edu.vn/vi/thong-tin-tuyen-dung-2657/thuc-tap-sinh-tai-cac-chi-nhanh-phong-giao-dich"
+    ],
+    "updated_at": "2026-10-10"
   }
 ]

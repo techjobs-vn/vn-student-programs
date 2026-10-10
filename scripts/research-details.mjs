@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-// Research detail-page content for each program with cursor-agent + its TinyFish MCP, then merge.
+// Research detail-page content for each program with cursor-agent (default) or codex, both via the TinyFish MCP, then merge.
 //
-//   node scripts/research-details.mjs [--concurrency 3] [--limit N] [--only slug,slug] [--force]
+//   node scripts/research-details.mjs [--agent cursor|codex] [--concurrency 3] [--limit N] [--only slug,slug] [--force]
 //   node scripts/research-details.mjs --merge
 //
 // Research writes raw answers to .cache/details/<slug>.json (gitignored, resumable).
@@ -19,11 +19,12 @@ const AGENT_TIMEOUT_MS = 10 * 60 * 1000;
 const PROMPT_ITEM_CHARS = 200;
 
 function parseArgs(argv) {
-  const args = { concurrency: 3, limit: 0, only: null, force: false, merge: false };
+  const args = { agent: "cursor", concurrency: 3, limit: 0, only: null, force: false, merge: false };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (a === "--merge") args.merge = true;
     else if (a === "--force") args.force = true;
+    else if (a === "--agent") args.agent = argv[++i];
     else if (a === "--concurrency") args.concurrency = Number(argv[++i]);
     else if (a === "--limit") args.limit = Number(argv[++i]);
     else if (a === "--only") args.only = new Set(argv[++i].split(","));
@@ -70,14 +71,23 @@ QUY TẮC: chỉ ghi dữ kiện có trong nguồn đã đọc, ưu tiên đợt
 Trả lời DUY NHẤT một JSON object, không markdown, không giải thích.`;
 }
 
-function runAgent(prompt) {
+const AGENTS = {
+  cursor: (prompt) => ({
+    command: "cursor-agent",
+    args: ["-p", "--trust", "--force", "--approve-mcps", "--output-format", "text", prompt],
+  }),
+  // codex reads its TinyFish MCP from ~/.codex/config.toml; read-only sandbox, the answer comes back on stdout.
+  codex: (prompt) => ({
+    command: "codex",
+    args: ["exec", "--skip-git-repo-check", "--ephemeral", "--sandbox", "read-only", prompt],
+  }),
+};
+
+function runAgent(agent, prompt) {
   return new Promise(async (resolve) => {
     const cwd = await mkdtemp(path.join(os.tmpdir(), "program-research-"));
-    const child = spawn(
-      "cursor-agent",
-      ["-p", "--trust", "--force", "--approve-mcps", "--output-format", "text", prompt],
-      { cwd, stdio: ["ignore", "pipe", "pipe"] },
-    );
+    const { command, args } = AGENTS[agent](prompt);
+    const child = spawn(command, args, { cwd, stdio: ["ignore", "pipe", "pipe"] });
     let out = "";
     let err = "";
     child.stdout.on("data", (d) => (out += d));
@@ -119,6 +129,7 @@ async function research(args) {
       const program = todo[next++];
       const started = Date.now();
       const { code, out, err } = await runAgent(
+        args.agent,
         buildPrompt(program, cycles.filter((c) => c.program_slug === program.slug)),
       );
       const raw = extractJson(out);
@@ -165,6 +176,7 @@ async function merge() {
 }
 
 const args = parseArgs(process.argv.slice(2));
+if (!(args.agent in AGENTS)) throw new Error(`unknown agent ${args.agent} (use ${Object.keys(AGENTS).join(" or ")})`);
 try {
   await (args.merge ? merge() : research(args));
 } catch (err) {
