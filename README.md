@@ -1,4 +1,6 @@
-# 🇻🇳 Chương trình cho sinh viên tại Việt Nam
+# 🇻🇳 Chương trình thực tập, fresher, graduate cho sinh viên Việt Nam (2026)
+
+> **English:** an open, daily-updated dataset of internships, graduate programs, management trainee schemes and scholarships for students and new graduates in Vietnam, all fields, with open/closed status and deadlines. Machine-readable: [`data/programs.json`](data/programs.json) · [`data/cycles.json`](data/cycles.json) · licensed CC BY 4.0. Maintained by [techjobs.vn](https://techjobs.vn/?utm_source=github&utm_medium=vn-student-programs).
 
 Danh sách **chương trình thực tập, fresher, graduate, quản trị viên tập sự, học bổng kèm thực tập và đại sứ sinh viên** của các công ty tại Việt Nam, mọi ngành — tổng hợp một chỗ, có trạng thái mở/đóng và hạn nộp.
 
@@ -405,6 +407,6 @@ Xem [CONTRIBUTING.md](CONTRIBUTING.md) để biết schema và cách đóng góp
 
 ## Giấy phép
 
-Mã nguồn: [MIT](LICENSE). Dữ liệu trong `data/`: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.vi) — dùng thoải mái, chỉ cần ghi nguồn **vn-student-programs / techjobs.vn**.
+Mã nguồn: [MIT](LICENSE). Dữ liệu trong `data/`: [CC BY 4.0](LICENSE-DATA) ([tóm tắt](https://creativecommons.org/licenses/by/4.0/deed.vi)) — dùng thoải mái, chỉ cần ghi nguồn **vn-student-programs / techjobs.vn**.
 
 Repo chỉ lưu thông tin dạng dữ kiện (tên, ngày, link). Mô tả chi tiết thuộc về trang chính thức của từng công ty.
