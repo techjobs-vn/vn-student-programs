@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 14/10/2026 · 357 chương trình · 66 đang mở_
+_Cập nhật dữ liệu: 14/10/2026 · 358 chương trình · 66 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -100,6 +100,7 @@ _Cập nhật dữ liệu: 14/10/2026 · 357 chương trình · 66 đang mở_
 | Aalto University | [Aalto University Excellence Scholarship \(Bachelor's\)](https://www.aalto.fi/en/admission-services/scholarships-and-tuition-fees) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2027 | 07/01/2027 | 22/01/2027 |
 | [Qualcomm AI Research Vietnam](https://techjobs.vn/companies/qualcomm?utm_source=github&utm_medium=vn-student-programs) | [Qualcomm AI Residency Program \(Việt Nam\)](https://www.qualcomm.com/research/artificial-intelligence/ai-residency-program) | Graduate | Công nghệ | 🟡 Sắp mở | 2026 | — | — |
 | Constructor University | [Academic Achievement Scholarship \(Constructor University\)](https://constructor.university/scholarships#academic-achievement-scholarship) | Học bổng | Tổng hợp | ⚪ Chưa rõ | 2026 | — | — |
+| AEON Việt Nam | [AEON Future Leaders 2026](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cpe4vuE_4kSCP4DqqeDCYDkVWcmQkRdJtSNQKAXB7ZdUN0Q3UENNTTJZOFBUTjNHMEtRS1pCRURITy4u) | Quản trị viên tập sự | Kinh doanh – Marketing, Vận hành | ⚪ Chưa rõ | 2026 | — | — |
 | AmCham Vietnam \(Hiệp hội Thương mại Hoa Kỳ tại Việt Nam\) | [AmCham Scholarship Program](https://amchamvietnam.com/programs-services) | Học bổng | Kinh doanh – Marketing, Tổng hợp | ⚪ Chưa rõ | 2026 | — | — |
 | University of Amsterdam | [Amsterdam Merit Scholarship](https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/amsterdam-merit-scholarship/amsterdam-merit-scholarship.html) | Học bổng | Tổng hợp | ⚪ Chưa rõ | — | — | — |
 | Korea University | [Anam Global Scholarship \(Korea University\)](https://oia.korea.ac.kr/oia2026/KU-Scholarships.do#anam-global-scholarship) | Học bổng | Tổng hợp | ⚪ Chưa rõ | 2026 | — | — |
