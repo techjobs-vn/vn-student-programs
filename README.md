@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 14/10/2026 · 358 chương trình · 66 đang mở_
+_Cập nhật dữ liệu: 14/10/2026 · 358 chương trình · 67 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -63,6 +63,7 @@ _Cập nhật dữ liệu: 14/10/2026 · 358 chương trình · 66 đang mở_
 | The Chinese University of Hong Kong \(CUHK\) | [HKSAR Government Scholarship \(CUHK nomination, non-local\)](https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/#hksar-government-scholarship) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/10/2026 | 07/01/2027 |
 | Korea Advanced Institute of Science and Technology \(KAIST\) | [KAIST Scholarship \(International Undergraduate\)](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 22/09/2026 | 14/01/2027 |
 | National Taiwan University \(NTU\) | [NTU International Undergraduate Student Scholarship](https://admissions.ntu.edu.tw/fees-scholarships/scholarships/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 29/09/2026 | 19/01/2027 |
+| Đại học Công nghệ Nanyang \(NTU\), Singapore | [NTU ASEAN Undergraduate Scholarship](https://www.ntu.edu.sg/admissions/ug/scholarships/scholarship-opportunities/detail/asean-undergraduate-scholarship) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 15/10/2026 | 20/01/2027 |
 | University of Oxford | [Reach Oxford Scholarship](https://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/oxford-bursaries-and-scholarships/reach-oxford) | Học bổng | Tổng hợp | 🟢 Đang mở | 2027 | — | 26/01/2027 |
 | Maastricht University | [UM NL Global Studies Scholarship](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 01/02/2027 |
 | Tsinghua University | [Tsinghua University International Undergraduate Freshmen Scholarship](https://international.join-tsinghua.edu.cn/Admission1/Freshmen_Scholarships1.htm) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 30/09/2026 | 28/02/2027 |
@@ -85,7 +86,6 @@ _Cập nhật dữ liệu: 14/10/2026 · 358 chương trình · 66 đang mở_
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-student-programs) | [TinyFish Ambassador Program](https://www.tinyfish.ai/ambassadors) | Đại sứ sinh viên | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-student-programs) | [TinyFish Student Program](https://www.tinyfish.ai/students) | Đại sứ sinh viên | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [WorldQuant](https://techjobs.vn/companies/worldquant?utm_source=github&utm_medium=vn-student-programs) | [WorldQuant BRAIN Research Consultant Program](https://worldquantbrain.com/consultant) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | — |
-| Đại học Công nghệ Nanyang \(NTU\), Singapore | [NTU ASEAN Undergraduate Scholarship](https://www.ntu.edu.sg/admissions/ug/scholarships/scholarship-opportunities/detail/asean-undergraduate-scholarship) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 15/10/2026 | 20/01/2027 |
 | The University of Auckland | [University of Auckland Vietnam High Achievers Scholarship](https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-vietnam-high-achievers-scholarship-1244-all.html) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 21/10/2026 | 04/11/2026 |
 | ETH Zürich | [Excellence Scholarship & Opportunity Programme \(ESOP\)](https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 01/11/2026 | 30/11/2026 |
 | McMaster University | [McMaster University Award of Excellence](https://future.mcmaster.ca/internationalawards/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 01/11/2026 | 19/02/2027 |
