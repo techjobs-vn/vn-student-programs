@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 10/10/2026 · 356 chương trình · 65 đang mở_
+_Cập nhật dữ liệu: 14/10/2026 · 357 chương trình · 66 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -41,6 +41,7 @@ _Cập nhật dữ liệu: 10/10/2026 · 356 chương trình · 65 đang mở_
 | Công ty TNHH Tư vấn và Kiểm toán Anh \(ACAC\) | [Chương trình Tuyển dụng Thực tập sinh ACAC 2026–2027](https://acacvn.com/) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🟢 Đang mở | 2026 | 01/10/2026 | 30/10/2026 |
 | UNSW Sydney | [International Scientia Coursework Scholarship](https://www.scholarships.unsw.edu.au/scholarships/id/1988) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | — | 30/10/2026 |
 | [Tập đoàn Golden Gate](https://techjobs.vn/companies/golden-gate?utm_source=github&utm_medium=vn-student-programs) | [Golden Gate Brand Manager Trainee Program](https://tuyendung.ggg.com.vn/brand-manager-trainee/) | Quản trị viên tập sự | Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/10/2026 |
+| P&G Việt Nam | [P&G LEAD GEN 2027](https://www.pgcareers.com/apac/en/locations/vietnam) | Thực tập | Kinh doanh – Marketing, Công nghệ | 🟢 Đang mở | 2026 | — | 31/10/2026 |
 | Rotary Yoneyama Memorial Foundation | [Rotary Yoneyama Memorial Scholarship \(diện ứng viên ở nước ngoài\)](https://www.rotary-yoneyama.or.jp/english/overseas) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 31/10/2026 |
 | [Sea \(Shopee / Monee / Garena\)](https://techjobs.vn/companies/shopee?utm_source=github&utm_medium=vn-student-programs) | [Sea Global Management Associate Program \(Sea Global MAP\)](https://seagmap.sea.com/) | Quản trị viên tập sự | Tổng hợp, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/10/2026 |
 | Vietbank | [Thực tập sinh tại Chi nhánh/Phòng Giao dịch Vietbank](https://ehiring-tuyendung.vietbank.com.vn) | Thực tập | Tài chính, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/10/2026 |

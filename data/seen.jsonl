@@ -950,3 +950,6 @@
 {"url": "https://www.scholarshiptab.com/scholarships/nycu-international-students-scholarship-2027", "first_seen": "2026-10-09", "verdict": "rejected", "reason": "Trang tổng hợp bên thứ ba, không phải domain nycu.edu.tw; các trang scholarshipcentral, instagram, facebook cùng nhóm cũng bị loại và không dùng làm nguồn ngày hay mức tiền."}
 {"url": "https://www.nycu.edu.tw/userfiles/aach/files/20260611161434848.pdf", "first_seen": "2026-10-09", "verdict": "rejected", "reason": "Chưa đọc toàn văn, chỉ thấy đoạn trích trong kết quả tìm kiếm (học bổng tân sinh và trao đổi theo đợt tuyển trong nước); không xác nhận mở cho sinh viên quốc tế nên không ghi."}
 {"url": "https://youth.neu.edu.vn/vi/thong-tin-tuyen-dung-2657/thuc-tap-sinh-tai-cac-chi-nhanh-phong-giao-dich", "first_seen": "2026-10-10", "verdict": "added", "program_slug": "vietbank-thuc-tap-sinh-chi-nhanh"}
+{"url": "https://www.pgcareers.com/apac/en/locations/vietnam", "first_seen": "2026-10-14", "verdict": "added", "program_slug": "pg-lead-gen"}
+{"url": "https://jobs.neu.edu.vn/jobs/chuong-trinh-thuc-tap-sinh-pg-lead-gen-2027-pg-vietnam-1202610131637", "first_seen": "2026-10-14", "verdict": "added", "program_slug": "pg-lead-gen"}
+{"url": "https://builtin.com/job/p-g-lead-gen-brand-intern/11567655", "first_seen": "2026-10-14", "verdict": "added", "program_slug": "pg-lead-gen"}

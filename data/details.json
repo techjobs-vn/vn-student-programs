@@ -20458,5 +20458,65 @@
     ],
     "confidence": "high",
     "updated_at": "2026-10-10"
+  },
+  {
+    "program_slug": "pg-lead-gen",
+    "overview": "P&G LEAD GEN 2027 là chương trình thực tập toàn thời gian kéo dài 6 tháng dành cho sinh viên chưa tốt nghiệp tại Việt Nam. Thực tập sinh phụ trách dự án thực tế thuộc Sales, Brand hoặc Data & Automation. Người thể hiện tốt có thể được cân nhắc vào vị trí quản lý chính thức sau chương trình.",
+    "eligibility": [
+      "Sinh viên chưa tốt nghiệp hoặc đã hoàn thành chương trình học và đang chờ nhận bằng.",
+      "Có thể làm việc toàn thời gian từ tháng 12/2026.",
+      "Thành thạo tiếng Anh viết và nói.",
+      "Kinh nghiệm thực tập trước đó là lợi thế đối với vị trí Brand.",
+      "Có tư duy phân tích, chiến lược và kỹ năng giải quyết vấn đề.",
+      "Có khả năng xử lý nhiều ưu tiên và phối hợp trong môi trường đa chức năng."
+    ],
+    "benefits": [
+      "Phụ trách dự án thực tế từ phân tích, xây dựng chiến lược đến triển khai và đo lường tác động.",
+      "Được lãnh đạo cấp cao hướng dẫn 1:1.",
+      "Được đào tạo chuyên sâu về chuyên môn và kỹ năng lãnh đạo.",
+      "Làm việc cùng các bộ phận như Sales, Brand, Finance, Media và đội ngũ khu vực.",
+      "Có trợ cấp cạnh tranh và các phúc lợi dành cho thực tập sinh.",
+      "Có cơ hội được cân nhắc vào vị trí quản lý chính thức sau 6 tháng."
+    ],
+    "selection_process": [
+      "Vòng 1: Nộp hồ sơ trực tuyến; hồ sơ được xem xét cuốn chiếu.",
+      "Vòng 2: Làm bài đánh giá năng lực trực tuyến.",
+      "Vòng 3: Phỏng vấn qua điện thoại.",
+      "Vòng 4: Tham gia 3 cuộc phỏng vấn với giám đốc và lãnh đạo cấp cao."
+    ],
+    "locations": [
+      "TP.HCM"
+    ],
+    "faq": [
+      {
+        "q": "Chương trình kéo dài bao lâu?",
+        "a": "Chương trình kéo dài 6 tháng và yêu cầu làm việc toàn thời gian."
+      },
+      {
+        "q": "Khi nào thực tập sinh bắt đầu làm việc?",
+        "a": "Ứng viên phải có thể làm việc toàn thời gian từ tháng 12/2026."
+      },
+      {
+        "q": "Sinh viên đã học xong nhưng chưa nhận bằng có thể ứng tuyển không?",
+        "a": "Có. Nguồn tuyển dụng chấp nhận người đã hoàn thành chương trình học và đang chờ nhận bằng."
+      },
+      {
+        "q": "Có bắt buộc từng thực tập trước đây không?",
+        "a": "Không bắt buộc; với vị trí Brand, kinh nghiệm thực tập trước đó được xem là một lợi thế."
+      },
+      {
+        "q": "Hồ sơ được xét sau khi hết hạn hay xét sớm?",
+        "a": "Hồ sơ được đánh giá và liên hệ theo hình thức cuốn chiếu."
+      }
+    ],
+    "sources": [
+      "https://www.pgcareers.com/apac/en/locations/vietnam",
+      "https://www.pgcareers.com/br/en/job/R000160368/P-G-LEAD-GEN-Sales-Intern",
+      "https://www.pgcareers.com/eu/en/job/R000160369/P-G-LEAD-GEN-Data-Automation-Intern",
+      "https://jobs.neu.edu.vn/jobs/chuong-trinh-thuc-tap-sinh-pg-lead-gen-2027-pg-vietnam-1202610131637",
+      "https://builtin.com/job/p-g-lead-gen-brand-intern/11567655"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-14"
   }
 ]
