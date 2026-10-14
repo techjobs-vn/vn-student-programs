@@ -11313,5 +11313,34 @@
     "source": "routine",
     "added_at": "2026-10-10",
     "updated_at": "2026-10-10"
+  },
+  {
+    "slug": "pg-lead-gen",
+    "name": "P&G LEAD GEN 2027",
+    "type": "internship",
+    "company": {
+      "name": "P&G Việt Nam",
+      "slug": null,
+      "domain": "pg.com"
+    },
+    "official_url": "https://www.pgcareers.com/apac/en/locations/vietnam",
+    "description": "Chương trình thực tập 6 tháng của P&G Việt Nam cho sinh viên chưa tốt nghiệp: dẫn dắt dự án thật, được lãnh đạo cấp cao mentor 1:1 và có cơ hội lên vị trí quản lý chính thức sau chương trình.",
+    "tracks": [
+      "Sales",
+      "Brand",
+      "Data & Automation"
+    ],
+    "fields": [
+      "business",
+      "tech"
+    ],
+    "duration": "6 tháng, làm toàn thời gian từ tháng 12/2026",
+    "eligibility": "Sinh viên chưa tốt nghiệp hoặc đã hoàn thành chương trình học và đang chờ nhận bằng; tiếng Anh tốt; có thể làm toàn thời gian từ tháng 12/2026.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-14",
+    "updated_at": "2026-10-14"
   }
 ]
