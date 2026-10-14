@@ -20518,5 +20518,61 @@
     ],
     "confidence": "high",
     "updated_at": "2026-10-14"
+  },
+  {
+    "program_slug": "aeon-future-leaders",
+    "overview": "AEON Future Leaders 2026 là chương trình phát triển tài năng trẻ cho lĩnh vực vận hành bán lẻ và quản lý cửa hàng. Chương trình hướng đến sinh viên năm cuối hoặc ứng viên có dưới 2 năm kinh nghiệm, sẵn sàng làm việc thực tế tại siêu thị. Người trúng tuyển được đào tạo theo lộ trình quản lý và bắt đầu nhận việc từ cuối năm 2026 hoặc đầu năm 2027 tùy khu vực.",
+    "eligibility": [
+      "Sinh viên năm cuối sắp tốt nghiệp cao đẳng, đại học hoặc ứng viên có dưới 2 năm kinh nghiệm.",
+      "Không giới hạn ngành học.",
+      "Thành thạo tiếng Anh ở cả bốn kỹ năng.",
+      "Có thể làm việc theo ca luân phiên linh hoạt.",
+      "Yêu thích dịch vụ, bán lẻ và định hướng phát triển thành quản lý.",
+      "Sẵn sàng luân chuyển và làm việc tại các cửa hàng mới theo nhu cầu công ty."
+    ],
+    "benefits": [
+      "Lương, thưởng cạnh tranh; có lương tháng 13 và thưởng theo hiệu quả.",
+      "Phụ cấp xăng xe, bữa ăn, đào tạo và phụ cấp theo tính chất công việc.",
+      "Được đào tạo về vận hành, giải quyết vấn đề, phối hợp và lãnh đạo đội nhóm.",
+      "Tham gia chương trình cố vấn cá nhân theo mô hình mentor–mentee 1:1.",
+      "Trải nghiệm trực tiếp các tình huống và bài toán vận hành bán lẻ.",
+      "Có lộ trình phát triển, cơ hội điều chuyển và thăng tiến."
+    ],
+    "selection_process": [
+      "Vòng 1: Phỏng vấn và quan sát; miền Bắc 30/09–21/10/2026, miền Nam 04/11–25/11/2026.",
+      "Vòng 2: AEON Camp; miền Bắc 22–29/10/2026, miền Nam 26/11–03/12/2026.",
+      "Vòng 3: Phỏng vấn cuối; miền Bắc 02–23/11/2026, miền Nam 04–24/12/2026.",
+      "Vòng 4: Nhận việc; miền Bắc 30/11/2026, miền Nam 04/01/2027."
+    ],
+    "faq": [
+      {
+        "q": "Sinh viên chưa tốt nghiệp có thể ứng tuyển không?",
+        "a": "Có. Chương trình nhận sinh viên năm cuối sắp tốt nghiệp tại các trường cao đẳng và đại học."
+      },
+      {
+        "q": "Chương trình có giới hạn ngành học không?",
+        "a": "Không. Nguồn tuyển dụng năm 2026 nêu chương trình không giới hạn ngành học."
+      },
+      {
+        "q": "Ứng viên đã đi làm có đủ điều kiện không?",
+        "a": "Có, nếu kinh nghiệm làm việc dưới 2 năm."
+      },
+      {
+        "q": "Có bắt buộc làm việc theo ca không?",
+        "a": "Có. Ứng viên phải có khả năng xoay ca linh hoạt."
+      },
+      {
+        "q": "Ứng viên có phải chấp nhận luân chuyển địa điểm không?",
+        "a": "Có. Ứng viên cần sẵn sàng luân chuyển hoặc làm việc tại cửa hàng mới theo nhu cầu phát triển."
+      }
+    ],
+    "sources": [
+      "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cpe4vuE_4kSCP4DqqeDCYDkVWcmQkRdJtSNQKAXB7ZdUN0Q3UENNTTJZOFBUTjNHMEtRS1pCRURITy4u",
+      "https://www.facebook.com/growwithaeon/posts/-ch%C3%ADnh-th%E1%BB%A9c-m%E1%BB%9F-%C4%91%C6%A1n-%C4%91%C4%83ng-k%C3%BD-ch%C6%B0%C6%A1ng-tr%C3%ACnh-nh%C3%A0-l%C3%A3nh-%C4%91%E1%BA%A1o-t%C6%B0%C6%A1ng-lai-aeon-future-leade/1391681703128322/",
+      "https://jobs.neu.edu.vn/jobs/chuong-trinh-nha-lanh-dao-tuong-lai-aeon-future-leader-2026-aeon-viet-nam-1202610131556",
+      "https://youth.neu.edu.vn/vi/thong-tin-tuyen-dung-2657/aeon-future-leader-2026"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-14"
   }
 ]

@@ -11342,5 +11342,32 @@
     "source": "routine",
     "added_at": "2026-10-14",
     "updated_at": "2026-10-14"
+  },
+  {
+    "slug": "aeon-future-leaders",
+    "name": "AEON Future Leaders 2026",
+    "type": "management_trainee",
+    "company": {
+      "name": "AEON Việt Nam",
+      "slug": null,
+      "domain": "aeon.com.vn"
+    },
+    "official_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cpe4vuE_4kSCP4DqqeDCYDkVWcmQkRdJtSNQKAXB7ZdUN0Q3UENNTTJZOFBUTjNHMEtRS1pCRURITy4u",
+    "description": "Chương trình lãnh đạo tương lai của AEON Việt Nam cho sinh viên năm cuối ngành bán lẻ: tuyển qua phỏng vấn, AEON Camp và phỏng vấn cuối, làm việc tại các trung tâm bách hóa tổng hợp và siêu thị mở mới.",
+    "tracks": [
+      "Bán lẻ",
+      "Quản lý cửa hàng"
+    ],
+    "fields": [
+      "business",
+      "operations"
+    ],
+    "eligibility": "Sinh viên năm cuối sắp tốt nghiệp cao đẳng, đại học (dưới 2 năm kinh nghiệm); thành thạo tiếng Anh; xoay ca linh hoạt; đam mê ngành bán lẻ.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-14",
+    "updated_at": "2026-10-14"
   }
 ]
