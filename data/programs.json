@@ -6076,7 +6076,7 @@
       "name": "VinUniversity",
       "slug": "vinuni"
     },
-    "official_url": "https://admissions.vinuni.edu.vn/vinuniversity-scholarship-program-academic-year-2026-2027/",
+    "official_url": "https://admissions.vinuni.edu.vn/undergraduate/key-dates/",
     "description": "Gói học bổng từ 50% đến toàn phần học phí (mức cao nhất kèm sinh hoạt phí), xét theo tiêu chí AACC cho ứng viên vào các chương trình cử nhân tại Hà Nội.",
     "tracks": [
       "Đại học",
@@ -6100,8 +6100,8 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-09",
-    "updated_at": "2026-10-09",
-    "notes": "Trang admissions.vinuni.edu.vn (đăng 10/12/2025): President's Excellence (100% học phí + sinh hoạt phí), Provost's Merit (100%), Dean's Distinction (80-90%), Discipline's Honor (50-70%); mọi sinh viên nhập học 2025-2030 được trợ cấp học phí 35% từ Vingroup (đã gồm trong mức merit). Có học bổng cộng thêm (WIT, Special Academic 5%...). Ba đợt: Early 15/10/2025-15/01/2026, Regular 15/02/2026-15/05/2026, Rolling 15/06/2026-15/08/2026; opens_at là ngày mở đợt Early, deadline là ngày đóng đợt Rolling cuối. Miễn phí hồ sơ 2.000.000 VND cho ứng viên dự Open Day/sự kiện tuyển sinh. Chưa thấy trang công bố đợt cho khóa tiếp theo."
+    "updated_at": "2026-10-15",
+    "notes": "Trang Key Dates công bố chương trình học bổng năm học 2027-2028: President's Excellence (100% học phí + sinh hoạt phí), Provost's Merit (100%), Dean's Distinction (80-90%), Discipline's Honor (50-70%); mọi sinh viên nhập học 2025-2030 được trợ cấp học phí 35% từ Vingroup. Có học bổng cộng thêm (Special Academic 5%, WIT 5%, Dean Choi Grant 10%) và hỗ trợ tài chính theo nhu cầu tới 100% học phí. Ba đợt: Early 15/10/2026-15/01/2027, Regular 15/02-15/05/2027, Rolling 15/06-15/08/2027; opens_at là ngày mở đợt Early, deadline là ngày đóng đợt Rolling cuối. Miễn lệ phí hồ sơ 2.000.000 VND cho ứng viên đợt Early dự Open Day/sự kiện tuyển sinh."
   },
   {
     "slug": "rmit-vietnam-vice-chancellors-scholars",
@@ -6209,8 +6209,8 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-09",
-    "updated_at": "2026-10-09",
-    "notes": "Trang tuition-and-aid ghi hơn 100 suất mỗi năm: President (100% học phí), Vice President (80%), Dean (60%), Breakthrough (50%), Pioneering (40%), Foundation (20%), áp dụng cả chương trình cử nhân. Duy trì: GPA tối thiểu 3.0/4.0 và nộp báo cáo thường niên. Đơn học bổng tách riêng với đơn nhập học, chỉ nộp được sau khi nộp đơn nhập học; hạn nộp hai đơn như nhau; lệ phí hồ sơ 2.000.000 VND (miễn ở vòng Priority). Fulbright còn có học bổng riêng khác (STEM Excellence, Aspiration, Bright Futures...) cần xem thêm tại trang học bổng."
+    "updated_at": "2026-10-15",
+    "notes": "Trang tuition-and-aid ghi hơn 100 suất mỗi năm: President (100% học phí), Vice President (80%), Dean (60%), Breakthrough (50%), Pioneering (40%), Foundation (20%), áp dụng cả chương trình cử nhân. Duy trì: GPA tối thiểu 3.0/4.0 và nộp báo cáo thường niên. Đơn học bổng tách riêng với đơn nhập học, chỉ nộp được sau khi nộp đơn nhập học; hạn nộp hai đơn như nhau; lệ phí hồ sơ 3.000.000 VND (niên khoá 2027-2031). Fulbright còn có học bổng riêng khác (STEM Excellence, Aspiration, Bright Futures...) cần xem thêm tại trang học bổng."
   },
   {
     "slug": "buv-vice-chancellors-scholarship",
@@ -7135,7 +7135,7 @@
       "domain": "hkust.edu.hk"
     },
     "official_url": "https://join.hkust.edu.hk/future-leaders-award",
-    "description": "Học bổng cho sinh viên quốc tế xuất sắc có hoàn cảnh tài chính khó khăn, mức một lần hoặc toàn phần học phí kèm trợ cấp sinh hoạt, nộp riêng cùng hồ sơ nhập học.",
+    "description": "Học bổng cho sinh viên quốc tế xuất sắc có hoàn cảnh tài chính khó khăn, mức hỗ trợ theo nhu cầu tới toàn phần học phí kèm trợ cấp sinh hoạt, nộp đơn riêng sau khi nộp hồ sơ nhập học vòng Priority.",
     "tracks": [
       "Đại học",
       "Hong Kong"
@@ -7158,8 +7158,8 @@
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-09",
-    "updated_at": "2026-10-09",
-    "notes": "Trang chính thức ghi hai mức: HK$50.000 một lần, hoặc toàn bộ học phí kèm trợ cấp sinh hoạt (có thể gia hạn) cho diện cực khó khăn. Thời hạn hiển thị trên trang là của đợt 2025; trang join.hkust.edu.hk/intlscholarships ghi cổng nộp cho khóa vào 2027/28 sắp mở, nên cần kiểm tra lại ngày. Hồ sơ gồm Statement of Circumstance, Declaration on Family Finances và thư giới thiệu."
+    "updated_at": "2026-10-15",
+    "notes": "Trang chính thức (khoá 2027/28) ghi mức hỗ trợ theo nhu cầu tài chính, tối đa toàn phần học phí kèm trợ cấp sinh hoạt, có thể gia hạn với diện cực khó khăn; tổng các học bổng không vượt 'Full Tuition Fee + HK$65,000 allowance' mỗi năm. Hồ sơ gồm Statement of Circumstance, Declaration on Family Finances và thư giới thiệu."
   },
   {
     "slug": "singapore-moe-asean-scholarship-vietnam",
@@ -11456,5 +11456,360 @@
     "added_at": "2026-10-15",
     "updated_at": "2026-10-15",
     "notes": "Nhánh Supply Chain của NextGen, tách khỏi nhánh Sales/Marketing (heineken-vietnam-nextgen)."
+  },
+  {
+    "type": "scholarship",
+    "tracks": [],
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15",
+    "slug": "ntu-nanyang-global-scholarship",
+    "name": "Nanyang Global Scholarship (NTU Singapore)",
+    "company": {
+      "name": "Đại học Công nghệ Nanyang (NTU), Singapore",
+      "slug": null,
+      "domain": "ntu.edu.sg"
+    },
+    "official_url": "https://www.ntu.edu.sg/admissions/ug/scholarships/scholarship-opportunities/detail/nanyang-scholarship",
+    "description": "Học bổng bậc cử nhân cao nhất của NTU Singapore, mở cho mọi quốc tịch: toàn bộ học phí sau Tuition Grant, sinh hoạt phí 6.500 SGD/năm, chỗ ở, trợ cấp đi nước ngoài và vào NTU Honours College.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Theo thời gian chuẩn của chương trình",
+    "eligibility": "Tân sinh viên mọi quốc tịch học cử nhân toàn thời gian, kết quả học tập xuất sắc (A-level, IB hoặc tương đương lớp 12), hoạt động ngoại khoá tốt và tố chất lãnh đạo; duy trì CGPA từ 3,5/5,0.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "living_stipend",
+      "return_commitment",
+      "needs_english_cert"
+    ],
+    "notes": "Trang NTU ghi quyền lợi: toàn bộ học phí sau Tuition Grant, sinh hoạt phí 6.500 SGD/năm, chỗ ở tối đa 2.000 SGD/năm (chỉ khi ở ký túc xá NTU), trợ cấp chương trình nước ngoài tối đa 8.000 SGD, máy tính 2.000 SGD một lần. Không ràng buộc riêng ngoài nghĩa vụ làm việc 3 năm tại Singapore của Tuition Grant. Phải nộp hồ sơ nhập học trước rồi nộp đơn học bổng (bài luận tối đa 250 từ, ảnh, đánh giá của giáo viên); với bằng tương đương lớp 12, thời gian nộp học bổng trùng thời gian nộp hồ sơ nhập học. Không giữ cùng lúc học bổng khác."
+  },
+  {
+    "type": "scholarship",
+    "tracks": [],
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15",
+    "slug": "gist-undergraduate-scholarship",
+    "name": "GIST College Scholarship (International Undergraduate)",
+    "company": {
+      "name": "Gwangju Institute of Science and Technology (GIST)",
+      "slug": null,
+      "domain": "gist.ac.kr"
+    },
+    "official_url": "https://ipa.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf",
+    "description": "GIST (Hàn Quốc) cấp học bổng toàn phần do chính phủ tài trợ cho mọi sinh viên trúng tuyển hệ cử nhân, kèm các học bổng bổ sung; xét qua hồ sơ nhập học quốc tế.",
+    "fields": [
+      "tech",
+      "engineering"
+    ],
+    "duration": "Toàn khoá cử nhân",
+    "eligibility": "Thí sinh quốc tế nộp hồ sơ cử nhân GIST College. Cần ít nhất một trong SAT, ACT, A-Level, IB, AP, chứng nhận Olympiad quốc tế hoặc kỳ thi quốc gia; chứng nhận Olympiad cấp quốc gia không được chấp nhận.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "admission_based",
+      "needs_english_cert"
+    ],
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Hướng dẫn tuyển sinh Fall 2027 ghi 'GIST grants every admitted student a full government-funded scholarship'. Cần điểm tiếng Anh (không nêu mức tối thiểu, nhận Duolingo). Hướng dẫn cảnh báo thí sinh tốt nghiệp sau đầu tháng 7 không nộp được, cần kiểm tra ngày cấp bằng THPT."
+  },
+  {
+    "type": "scholarship",
+    "tracks": [],
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15",
+    "slug": "unist-international-undergraduate-scholarship",
+    "name": "UNIST Scholarship (International Undergraduate)",
+    "company": {
+      "name": "Ulsan National Institute of Science and Technology (UNIST)",
+      "slug": null,
+      "domain": "unist.ac.kr"
+    },
+    "official_url": "https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do",
+    "description": "UNIST (Hàn Quốc) miễn toàn bộ học phí kỳ đầu cho mọi tân sinh viên quốc tế (các kỳ sau theo GPA), kèm học bổng sinh hoạt Global Uni-Star 130.000 đến 630.000 KRW/tháng, bữa ăn và bảo hiểm y tế.",
+    "fields": [
+      "tech",
+      "engineering",
+      "business"
+    ],
+    "duration": "Toàn khoá cử nhân (xét lại mỗi kỳ theo tín chỉ và GPA)",
+    "eligibility": "Sinh viên quốc tế trúng tuyển cử nhân UNIST; giữ học bổng học phí toàn phần cần ít nhất 12 tín chỉ và GPA từ 2,7 kỳ trước.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "living_stipend",
+      "admission_based",
+      "needs_english_cert"
+    ],
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Mức học bổng sinh hoạt (Gold 630.000, Silver 330.000, Dream 130.000 KRW/tháng) do UNIST quyết định theo kết quả đánh giá khi trúng tuyển. Hướng dẫn Fall 2027 yêu cầu điểm TOEFL, IELTS, TEPS hoặc TOEIC, không nêu mức tối thiểu; mọi giấy tờ phải tải lên trước hạn."
+  },
+  {
+    "type": "scholarship",
+    "tracks": [],
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15",
+    "slug": "dgist-international-undergraduate-scholarship",
+    "name": "DGIST Scholarship (International Undergraduate)",
+    "company": {
+      "name": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
+      "slug": null,
+      "domain": "dgist.ac.kr"
+    },
+    "official_url": "https://www.dgist.ac.kr/iuadm/sub04_01.do",
+    "description": "DGIST (Hàn Quốc) miễn toàn bộ học phí 8 học kỳ cho sinh viên cử nhân quốc tế, kèm trợ cấp 328.500 và 330.000 KRW/tháng, học bổng xuất sắc và khoản hỗ trợ ổn định 500.000 KRW.",
+    "fields": [
+      "tech",
+      "engineering"
+    ],
+    "duration": "8 học kỳ",
+    "eligibility": "Sinh viên quốc tế trúng tuyển cử nhân DGIST; trợ cấp hằng tháng cần tích luỹ trên 10 tín chỉ và không bị cảnh báo học vụ.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "full_funding",
+      "living_stipend",
+      "admission_based"
+    ],
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Trang DGIST ghi học phí được miễn cho mọi sinh viên quốc tế, tổng hỗ trợ năm nhất tới khoảng 17,5 triệu KRW. Học bổng xuất sắc DGISTep-S 1.500.000 KRW/kỳ từ kỳ 2 nếu GPA đạt mức trường đặt ra. Điểm tiếng Anh là giấy tờ tuỳ chọn trong hồ sơ."
+  },
+  {
+    "type": "scholarship",
+    "tracks": [],
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15",
+    "slug": "kyoto-iup-scholarship",
+    "name": "Kyoto iUP (Kyoto University International Undergraduate Program) – miễn học phí và học bổng",
+    "company": {
+      "name": "Đại học Kyoto",
+      "slug": null,
+      "domain": "kyoto-u.ac.jp"
+    },
+    "official_url": "https://www.iup.kyoto-u.ac.jp/apply/",
+    "description": "Chương trình cử nhân quốc tế của Đại học Kyoto: mọi sinh viên Kyoto iUP được miễn phí nhập học và miễn toàn phần hoặc một phần học phí trong 4,5 năm, có trợ cấp tối đa 120.000 yên/tháng trong 6 tháng dự bị.",
+    "fields": [
+      "general"
+    ],
+    "duration": "4,5 năm (gồm 6 tháng dự bị tiếng Nhật)",
+    "eligibility": "Thí sinh quốc tế nộp hồ sơ Kyoto iUP; bắt buộc có bài thi chuẩn hoá (SAT, ACT, EJU, A-Level, IB, AP hoặc kỳ thi quốc gia trong danh sách) và điểm tiếng Anh.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "tuition_waiver",
+      "admission_based",
+      "needs_english_cert"
+    ],
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Trang tin chính thức ghi 'full admission fee waivers and full or partial tuition fee waivers for four-and-a-half years are available for all Kyoto iUP students'; khoảng 40 chỉ tiêu cho kỳ tháng 10/2027. Việt Nam không có trong danh sách kỳ thi quốc gia được nhận; muốn dùng bài thi khác phải hỏi văn phòng trước hạn trong hướng dẫn tuyển sinh."
+  },
+  {
+    "type": "scholarship",
+    "tracks": [],
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15",
+    "slug": "yonsei-uic-admissions-scholarship",
+    "name": "Yonsei UIC Admissions Scholarship",
+    "company": {
+      "name": "Underwood International College, Đại học Yonsei",
+      "slug": null,
+      "domain": "yonsei.ac.kr"
+    },
+    "official_url": "https://uic.yonsei.ac.kr/admission.php?mid=m04_03",
+    "description": "Học bổng toàn phần học phí 4 năm cho tân sinh viên quốc tế của Underwood International College (Đại học Yonsei), xét tự động từ hồ sơ nhập học theo thành tích học tập.",
+    "fields": [
+      "general"
+    ],
+    "duration": "4 năm (duy trì theo GPA mỗi kỳ)",
+    "eligibility": "Sinh viên quốc tế mới trúng tuyển UIC; trường chọn người nhận trong số thí sinh trúng tuyển theo thành tích học tập, cần giữ GPA mỗi kỳ.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "tuition_waiver",
+      "admission_based"
+    ],
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Thư mời học bổng gửi kèm hồ sơ trúng tuyển. Số suất không công bố."
+  },
+  {
+    "type": "scholarship",
+    "tracks": [],
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15",
+    "slug": "imperial-inspires-scholarship",
+    "name": "Imperial Inspires Scholarship",
+    "company": {
+      "name": "Imperial College London",
+      "slug": null,
+      "domain": "imperial.ac.uk"
+    },
+    "official_url": "https://www.imperial.ac.uk/study/fees-and-funding/imperial-inspires-scholarships/",
+    "description": "Ít nhất 300 suất 15.000 bảng Anh mỗi năm học cho sinh viên quốc tế vào cử nhân hoặc một số thạc sĩ các khoa Kỹ thuật, Khoa học tự nhiên, Y và Business School của Imperial College London, khoá 2027.",
+    "fields": [
+      "tech",
+      "engineering",
+      "business",
+      "general"
+    ],
+    "duration": "Mỗi năm của khoá học",
+    "eligibility": "Sinh viên quốc tế đóng học phí mức Overseas, nộp hồ sơ cử nhân toàn thời gian (qua UCAS) hoặc thạc sĩ được chọn, vào ngành có học bổng này; đạt điều kiện đầu vào tối thiểu thì được mời nộp thêm bài luận.",
+    "levels": [
+      "highschool",
+      "undergraduate",
+      "master"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding"
+    ],
+    "notes": "Học bổng mới cho khoá nhập học mùa thu 2027. Ứng viên đủ điều kiện được mời trả lời một câu luận tuỳ chọn từ tháng 10/2026. Trang không nêu hạn riêng của học bổng. Chưa kiểm tra Imperial có nhận bằng THPT Việt Nam cho cử nhân trực tiếp hay không."
+  },
+  {
+    "type": "scholarship",
+    "tracks": [],
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15",
+    "slug": "ubc-international-major-entrance-scholarship",
+    "name": "UBC International Major Entrance Scholarship (IMES)",
+    "company": {
+      "name": "University of British Columbia (UBC)",
+      "slug": null,
+      "domain": "ubc.ca"
+    },
+    "official_url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/",
+    "description": "Học bổng đầu vào theo thành tích của UBC (Canada) cho sinh viên quốc tế vào thẳng từ THPT, 10.000 đến 25.000 CAD mỗi năm, gia hạn thêm tối đa 3 năm; xét tự động khi có thư mời nhập học.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Tối đa 4 năm",
+    "eligibility": "Sinh viên quốc tế mới vào UBC thẳng từ THPT, học bằng giấy phép du học Canada, thành tích học tập và ngoại khoá xuất sắc, nộp hồ sơ trước hạn tuyển sinh; không đồng thời được đề cử International Scholars.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "abroad",
+    "highlights": [
+      "partial_funding",
+      "admission_based"
+    ],
+    "notes": "Xét qua hồ sơ nhập học, không có đơn riêng. Mức 10.000-25.000 CAD/năm ghi cho năm học 2026/2027. Cùng trang có Outstanding International Student Award (một lần, 10.000-25.000 CAD) xét theo cùng cách. Quyết định học bổng từ giữa tháng 2 đến cuối tháng 4; không xét nhu cầu tài chính."
+  },
+  {
+    "type": "scholarship",
+    "tracks": [],
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15",
+    "slug": "rmit-vietnam-professor-nguyen-van-dao-scholarship",
+    "name": "Professor Nguyen Van Dao Scholarship - RMIT Việt Nam",
+    "company": {
+      "name": "Đại học RMIT Việt Nam",
+      "slug": null,
+      "domain": "rmit.edu.vn"
+    },
+    "official_url": "https://www.rmit.edu.vn/study-at-rmit/scholarships/future-undergraduate-student-scholarships/professor-nguyen-van-dao-scholarship",
+    "description": "Một suất học bổng 50% học phí chương trình cử nhân RMIT Việt Nam cho thí sinh có điểm Toán THPT cao nhất trong số người nộp đơn.",
+    "fields": [
+      "general"
+    ],
+    "duration": "Toàn khoá cử nhân, áp dụng từ học kỳ 3/2027",
+    "eligibility": "Công dân Việt Nam đang học lớp 12 hoặc tốt nghiệp THPT không quá 2 năm; GPA lớp 10, 11 và kỳ 1 lớp 12 từ 8,0 và điểm Toán từ 9,0; IELTS 6.5 (không kỹ năng dưới 6.0); đã nộp hồ sơ cử nhân RMIT Việt Nam.",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "partial_funding",
+      "needs_english_cert"
+    ],
+    "notes": "Xếp hạng theo điểm Toán quy đổi (40% kỳ 1 lớp 12, 30% lớp 11, 30% lớp 10). Phải giữ điểm Toán kỳ 2 lớp 12 từ 9,0 và nộp kết quả thi tốt nghiệp trước 18/08/2027. Kết quả trước 28/05/2027."
+  },
+  {
+    "type": "scholarship",
+    "tracks": [],
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15",
+    "slug": "fulbright-stem-excellence-scholarship",
+    "name": "STEM Excellence Scholarship - Đại học Fulbright Việt Nam",
+    "company": {
+      "name": "Đại học Fulbright Việt Nam",
+      "slug": null,
+      "domain": "fulbright.edu.vn"
+    },
+    "official_url": "https://fulbright.edu.vn/tuition-and-aid-scholarships",
+    "description": "8 suất học bổng 100% học phí 4 năm cử nhân tại Fulbright Việt Nam dành riêng cho thí sinh đạt giải Khuyến khích trở lên kỳ thi học sinh giỏi quốc gia môn Toán, Tin, Lý, Hoá hoặc Sinh.",
+    "fields": [
+      "tech",
+      "general"
+    ],
+    "duration": "4 năm",
+    "eligibility": "Đạt giải Khuyến khích trở lên kỳ thi HSG quốc gia môn Toán, Lý, Hoá, Sinh hoặc Tin; GPA THPT từ 7,0/10; IELTS 6.0 (hoặc TOEFL iBT 70, Duolingo 95).",
+    "levels": [
+      "highschool",
+      "undergraduate"
+    ],
+    "study_in": "vietnam",
+    "highlights": [
+      "tuition_waiver",
+      "needs_english_cert"
+    ],
+    "notes": "Nộp qua cổng apply.fulbright.edu.vn; ứng viên vào danh sách ngắn được phỏng vấn với Giám đốc Tuyển sinh và đại diện giảng viên. Trang ghi 8 suất 'for this academic year' mà không nêu niên khoá; hạn dùng theo lịch tuyển sinh và học bổng niên khoá 2027-2031. Fulbright cho bổ sung chứng chỉ tiếng Anh sau khi nộp hồ sơ hoặc thi Cambridge Placement Test miễn phí."
   }
 ]
