@@ -3786,15 +3786,13 @@
     "program_slug": "nycu-international-student-scholarship",
     "year": 2026,
     "opens_at": "2026-12-20",
-    "deadline": null,
+    "deadline": "2027-03-15",
     "sources": [
-      "https://www.nycu.edu.tw/nycu/en/app/artwebsite/doc?module=artwebsite&detailNo=1169090024096927744&type=s",
-      "https://oia.nycu.edu.tw/oia/en/app/data/view?id=792&module=nycu0012&serno=0f046f83-4147-4ec7-8921-bbaccd8c678f",
-      "https://oia.nycu.edu.tw/oia/ch/app/data/list?module=nycu0015&id=435",
-      "https://oia-scholarship.nycu.edu.tw/"
+      "https://oia.nycu.edu.tw/oia/en/app/artwebsite/view?module=artwebsite&id=785&serno=07d9ede2-e896-4efe-a671-2b86dbc2a0d8",
+      "https://oia.nycu.edu.tw/oia/en/app/data/view?id=792&module=nycu0012&serno=0f046f83-4147-4ec7-8921-bbaccd8c678f"
     ],
-    "updated_at": "2026-10-09",
-    "notes": "Mốc 2026-12-20 là ngày mở nhận hồ sơ nhập học diện sinh viên quốc tế khoá Fall 2027 theo lịch học chính thức NYCU 2026-2027; hạn nộp Fall 2027 chưa được công bố trên trang chính thức (không ghi 15/03 vì chỉ thấy ở nguồn không chính thức). Đợt Spring 2027 đang mở: hồ sơ nhập học 2026-08-10 đến 2026-09-30, học bổng tân sinh Spring 2027 đến 2026-11-13, công bố 2026-11-14."
+    "updated_at": "2026-10-15",
+    "notes": "Trang Important Dates của Phòng Quốc tế NYCU (cập nhật 12/10/2026), kỳ Fall 2027: hệ thống online mở 20/12/2026, hạn 11:59 sáng 15/03/2027 (giờ Đài Loan), công bố kết quả gồm học bổng giữa tháng 5/2027."
   },
   {
     "program_slug": "nycu-undeclared-program-international-student-scholarship",
@@ -3812,14 +3810,14 @@
   {
     "program_slug": "hkust-future-leaders-award",
     "year": 2026,
-    "opens_at": null,
-    "deadline": "2026-11-25",
+    "opens_at": "2026-10-02",
+    "deadline": "2026-12-02",
     "sources": [
-      "https://join.hkust.edu.hk/intlscholarships",
-      "https://join.hkust.edu.hk/future-leaders-award"
+      "https://join.hkust.edu.hk/future-leaders-award",
+      "https://join.hkust.edu.hk/intlscholarships"
     ],
-    "updated_at": "2026-10-09",
-    "notes": "Trang join.hkust.edu.hk/intlscholarships (khoá nhập học 2027/28) liệt kê Future Leaders Award (NEW) trong mục học bổng cần nộp riêng, kèm hạn Priority Round 2026-11-25 cho ứng viên bằng cấp quốc tế. Cổng nộp hồ sơ mở 'Early Oct 2026' (không nêu ngày cụ thể trên trang) nên opens_at để null; hồ sơ thường (rolling) từ 2026-11-26, đóng 2027-06-30, thông báo offer cuối 12/2026. Trang riêng của giải thưởng vẫn hiển thị lịch đợt 2025 (hạn 2025-11-30, kết quả 2026-01-23), chưa cập nhật 2027, nên chưa biết ngày công bố kết quả và hạn nhận offer khoá 2027. Điều kiện trang giải thưởng yêu cầu được đề cử nhập học ở vòng Early, nên chỉ vòng Priority là phù hợp, mốc 2027-06-30 không áp dụng cho giải này."
+    "updated_at": "2026-10-15",
+    "notes": "Trang giải thưởng: hệ thống online mở 02/10/2026, hạn đơn Future Leaders Award 02/12/2026, kết quả cuối 12/2026 đến đầu 01/2027, hạn nhận offer cuối 01/2027. Hồ sơ nhập học phải nộp trước hạn vòng Priority (25/11/2026)."
   },
   {
     "program_slug": "vietbank-thuc-tap-sinh-chi-nhanh",
@@ -3890,5 +3888,132 @@
     ],
     "updated_at": "2026-10-15",
     "notes": "Tuyển NextGen 2027; hạn chót 23:59 ngày 20/11/2026 theo tin trên cổng NEU, nộp qua form trực tuyến của HEINEKEN."
+  },
+  {
+    "program_slug": "ntu-nanyang-global-scholarship",
+    "year": 2026,
+    "opens_at": "2026-10-15",
+    "deadline": "2027-01-20",
+    "sources": [
+      "https://www.ntu.edu.sg/admissions/undergraduate/important-links/important-dates",
+      "https://www.ntu.edu.sg/admissions/ug/scholarships/scholarship-opportunities/detail/nanyang-scholarship"
+    ],
+    "notes": "Ngày của cửa sổ xin nhập học dành cho Vietnam High School Graduation Certificate (AY2027); đơn học bổng nộp trong cùng thời gian.",
+    "updated_at": "2026-10-15"
+  },
+  {
+    "program_slug": "gist-undergraduate-scholarship",
+    "year": 2026,
+    "opens_at": "2026-12-01",
+    "deadline": "2027-01-29",
+    "sources": [
+      "https://ipa.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf"
+    ],
+    "notes": "Lịch nộp hồ sơ online và giấy tờ cho kỳ Fall 2027.",
+    "updated_at": "2026-10-15"
+  },
+  {
+    "program_slug": "unist-international-undergraduate-scholarship",
+    "year": 2026,
+    "opens_at": "2026-12-02",
+    "deadline": "2027-01-22",
+    "sources": [
+      "https://admu-intl.unist.ac.kr/_attach/unist/file/2026/08/ZPKdOcrcvGhdnIBqrOMzYdBxNb.pdf"
+    ],
+    "notes": "Hồ sơ Fall 2027 nộp qua studyinkorea.go.kr đến 16:00 KST 22/01/2027; phỏng vấn 29/03-09/04/2027, kết quả dự kiến 07/05/2027.",
+    "updated_at": "2026-10-15"
+  },
+  {
+    "program_slug": "dgist-international-undergraduate-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "upcoming",
+    "sources": [
+      "https://www.dgist.ac.kr/iuadm/sub02_02.do"
+    ],
+    "notes": "Trang DGIST ghi hạn nộp hồ sơ Fall là 'Early December ~ Late January', chưa nêu ngày cụ thể cho 2027.",
+    "updated_at": "2026-10-15"
+  },
+  {
+    "program_slug": "kyoto-iup-scholarship",
+    "year": 2026,
+    "opens_at": "2026-11-02",
+    "deadline": "2026-12-03",
+    "sources": [
+      "https://www.iup.kyoto-u.ac.jp/apply/"
+    ],
+    "notes": "Hồ sơ nhập học tháng 10/2027 nộp qua hệ thống online đến 17:00 giờ Nhật ngày 03/12/2026.",
+    "updated_at": "2026-10-15"
+  },
+  {
+    "program_slug": "yonsei-uic-admissions-scholarship",
+    "year": 2027,
+    "opens_at": null,
+    "deadline": null,
+    "status": "upcoming",
+    "sources": [
+      "https://uic.yonsei.ac.kr/admission.php?mid=m04_02_02"
+    ],
+    "notes": "Đợt 2 (nhập học Fall 2027) nộp trong tháng 3/2027, ngày cụ thể chưa công bố; đợt 1 cho Spring 2027 đã đóng 22/09/2026.",
+    "updated_at": "2026-10-15"
+  },
+  {
+    "program_slug": "imperial-inspires-scholarship",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "status": "open",
+    "sources": [
+      "https://www.imperial.ac.uk/study/fees-and-funding/imperial-inspires-scholarships/"
+    ],
+    "notes": "Ứng viên cử nhân khoá mùa thu 2027 được mời trả lời câu luận từ tháng 10/2026 sau khi nộp UCAS; trang không nêu hạn riêng của học bổng.",
+    "updated_at": "2026-10-15"
+  },
+  {
+    "program_slug": "rmit-vietnam-professor-nguyen-van-dao-scholarship",
+    "year": 2026,
+    "opens_at": "2026-10-01",
+    "deadline": "2027-03-05",
+    "sources": [
+      "https://www.rmit.edu.vn/study-at-rmit/scholarships/future-undergraduate-student-scholarships/professor-nguyen-van-dao-scholarship"
+    ],
+    "notes": "Hạn 17:00 (GMT+7) 05/03/2027, kết quả trước 28/05/2027.",
+    "updated_at": "2026-10-15"
+  },
+  {
+    "program_slug": "fulbright-stem-excellence-scholarship",
+    "year": 2026,
+    "opens_at": "2026-10-03",
+    "deadline": "2027-05-15",
+    "sources": [
+      "https://fulbright.edu.vn/vi/apply-to-us",
+      "https://fulbright.edu.vn/tuition-and-aid-scholarships"
+    ],
+    "notes": "Niên khoá 2027-2031. Kỳ Mùa Thu 03/10/2026 đến 17:00 26/01/2027; Kỳ Mùa Xuân 17/02 đến 17:00 15/05/2027. Hồ sơ học bổng cùng hạn với hồ sơ tuyển sinh; deadline lấy theo kỳ Mùa Xuân.",
+    "updated_at": "2026-10-15"
+  },
+  {
+    "program_slug": "vinuni-undergraduate-merit-scholarship",
+    "year": 2026,
+    "opens_at": "2026-10-15",
+    "deadline": "2027-08-15",
+    "sources": [
+      "https://admissions.vinuni.edu.vn/undergraduate/key-dates/"
+    ],
+    "notes": "Cho năm học 2027-2028; 3 đợt (Early 15/10/2026-15/01/2027, Regular 15/02-15/05/2027, Rolling 15/06-15/08/2027), deadline lấy theo đợt Rolling cuối.",
+    "updated_at": "2026-10-15"
+  },
+  {
+    "program_slug": "fulbright-university-scholarship",
+    "year": 2026,
+    "opens_at": "2026-10-03",
+    "deadline": "2027-05-15",
+    "sources": [
+      "https://fulbright.edu.vn/vi/apply-to-us",
+      "https://fulbright.edu.vn/fulbright-university-scholarship"
+    ],
+    "notes": "Niên khoá 2027-2031. Kỳ Mùa Thu 03/10/2026 đến 17:00 26/01/2027; Kỳ Mùa Xuân 17/02 đến 17:00 15/05/2027. Hồ sơ học bổng nộp sau hồ sơ tuyển sinh, cùng hạn; deadline lấy theo kỳ Mùa Xuân.",
+    "updated_at": "2026-10-15"
   }
 ]
