@@ -11369,5 +11369,92 @@
     "source": "routine",
     "added_at": "2026-10-14",
     "updated_at": "2026-10-14"
+  },
+  {
+    "slug": "uniqlo-management-candidate",
+    "name": "UNIQLO Management Candidate (UMC) 2027",
+    "type": "management_trainee",
+    "company": {
+      "name": "UNIQLO Việt Nam",
+      "slug": null,
+      "domain": "uniqlo.com"
+    },
+    "official_url": "https://uniqlo.pasona.vn/",
+    "description": "Chương trình quản lý tập sự của UNIQLO Việt Nam cho sinh viên mới tốt nghiệp: vận hành cửa hàng, dẫn dắt đội ngũ và có lộ trình lên Cửa hàng Trưởng sau khoảng 1–2 năm.",
+    "tracks": [
+      "Quản lý cửa hàng",
+      "Bán lẻ thời trang"
+    ],
+    "fields": [
+      "business",
+      "operations"
+    ],
+    "eligibility": "Sinh viên mới tốt nghiệp đại học mọi ngành hoặc dưới 3 năm kinh nghiệm; GPA từ 7.0/10; tiếng Anh lưu loát (IELTS 6.5 hoặc TOEIC 750); làm ca linh động và luân chuyển toàn quốc.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15"
+  },
+  {
+    "slug": "hdbank-future-banker",
+    "name": "HDBank Future Banker 2026",
+    "type": "internship",
+    "company": {
+      "name": "HDBank",
+      "slug": null,
+      "domain": "hdbank.com.vn"
+    },
+    "official_url": "https://hdbank.com.vn/",
+    "description": "Chương trình thực tập sinh tiềm năng toàn quốc của HDBank cho sinh viên năm cuối và tân cử nhân khối kinh tế, tài chính – ngân hàng: thực tập 3 tháng tại đơn vị kinh doanh hoặc hội sở, lộ trình lên nhân viên chính thức.",
+    "tracks": [
+      "Quan hệ khách hàng doanh nghiệp",
+      "Quan hệ khách hàng cá nhân",
+      "Giao dịch viên",
+      "Hội sở"
+    ],
+    "fields": [
+      "finance",
+      "business"
+    ],
+    "duration": "3 tháng, tối thiểu 6 buổi/tuần",
+    "eligibility": "Sinh viên năm cuối hoặc tân cử nhân khối Kinh tế, Tài chính – Ngân hàng, Quản trị Kinh doanh; sinh viên năm 3 có thể tham gia đào tạo theo quy định.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15"
+  },
+  {
+    "slug": "heineken-vietnam-nextgen-supply-chain",
+    "name": "HEINEKEN Vietnam NextGen 2027 – Supply Chain",
+    "type": "management_trainee",
+    "company": {
+      "name": "HEINEKEN Việt Nam",
+      "slug": null,
+      "domain": "theheinekencompany.com"
+    },
+    "official_url": "https://careers.theheinekencompany.com/English/HEINEKEN-Vietnam#supply-chain",
+    "description": "Chương trình quản trị viên tập sự 18 tháng của HEINEKEN Việt Nam ở mảng Chuỗi cung ứng: luân chuyển qua các phòng ban, ba hướng Công nghệ & Nấu bia, Kỹ thuật & Đóng gói, Dịch vụ Khách hàng – Kho vận – Kế hoạch.",
+    "tracks": [
+      "Công nghệ & Nấu bia",
+      "Kỹ thuật & Đóng gói",
+      "Dịch vụ Khách hàng, Kho vận & Kế hoạch"
+    ],
+    "fields": [
+      "operations",
+      "engineering"
+    ],
+    "duration": "18 tháng",
+    "eligibility": "Tốt nghiệp cử nhân hoặc thạc sĩ ngành liên quan vị trí, GPA từ 7.0/10 (2.8/4.0), mới ra trường hoặc có ít kinh nghiệm.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-15",
+    "updated_at": "2026-10-15",
+    "notes": "Nhánh Supply Chain của NextGen, tách khỏi nhánh Sales/Marketing (heineken-vietnam-nextgen)."
   }
 ]

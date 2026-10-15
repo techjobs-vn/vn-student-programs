@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 14/10/2026 · 358 chương trình · 67 đang mở_
+_Cập nhật dữ liệu: 15/10/2026 · 361 chương trình · 71 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -51,6 +51,8 @@ _Cập nhật dữ liệu: 14/10/2026 · 358 chương trình · 67 đang mở_
 | Trường Đại học Mở TP.HCM \(OU\) | [Học bổng Tiếp sức đến trường \(ĐH Mở TP.HCM\)](https://ou.edu.vn/tin_tuc/tsdt-26-27/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 17/08/2026 | 05/11/2026 |
 | University of Toronto | [Lester B. Pearson International Scholarship](https://future.utoronto.ca/pearson-scholarships) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | — | 06/11/2026 |
 | University of British Columbia | [UBC International Scholars Program](https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 05/10/2026 | 15/11/2026 |
+| HEINEKEN Việt Nam | [HEINEKEN Vietnam NextGen 2027 – Supply Chain](https://careers.theheinekencompany.com/English/HEINEKEN-Vietnam#supply-chain) | Quản trị viên tập sự | Vận hành, Kỹ thuật | 🟢 Đang mở | 2026 | — | 20/11/2026 |
+| UNIQLO Việt Nam | [UNIQLO Management Candidate \(UMC\) 2027](https://uniqlo.pasona.vn/) | Quản trị viên tập sự | Kinh doanh – Marketing, Vận hành | 🟢 Đang mở | 2026 | 14/10/2026 | 23/11/2026 |
 | Chính phủ Thụy Sĩ \(SERI / Federal Commission for Scholarships for Foreign Students\) | [Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 20/08/2026 | 24/11/2026 |
 | Hong Kong University of Science and Technology \(HKUST\) | [HKUST Future Leaders Award](https://join.hkust.edu.hk/future-leaders-award) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | — | 25/11/2026 |
 | TikTok Shop | [TikTok Shop Graduate Development Program \(Vietnam\)](https://lifeattiktok.com/search/7670922017126074677) | Graduate | Kinh doanh – Marketing, Vận hành | 🟢 Đang mở | 2026 | — | 30/11/2026 |
@@ -59,6 +61,7 @@ _Cập nhật dữ liệu: 14/10/2026 · 358 chương trình · 67 đang mở_
 | University of Warwick | [Warwick Postgraduate Research Scholarships \(Chancellor's\)](https://warwick.ac.uk/services/dc/schols_fund/applicants/competitions/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 05/10/2026 | 10/12/2026 |
 | [Ngân hàng TMCP Á Châu \(ACB\)](https://techjobs.vn/companies/acb?utm_source=github&utm_medium=vn-student-programs) | [The Next Banker](https://www.acbjobs.com.vn/pages/the-next-banker) | Thực tập | Tài chính | 🟢 Đang mở | 2026 | 01/10/2026 | 12/12/2026 |
 | Simon Fraser University | [International Undergraduate Scholars Entrance Scholarship \(USES\)](https://www.sfu.ca/students/financial-aid/entrance/highschool/uses.html) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 15/12/2026 |
+| HDBank | [HDBank Future Banker 2026](https://hdbank.com.vn/) | Thực tập | Tài chính, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/12/2026 |
 | The Chinese University of Hong Kong \(CUHK\) | [CUHK Admission Scholarships \(non-local undergraduates\)](https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/10/2026 | 07/01/2027 |
 | The Chinese University of Hong Kong \(CUHK\) | [HKSAR Government Scholarship \(CUHK nomination, non-local\)](https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/#hksar-government-scholarship) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/10/2026 | 07/01/2027 |
 | Korea Advanced Institute of Science and Technology \(KAIST\) | [KAIST Scholarship \(International Undergraduate\)](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 22/09/2026 | 14/01/2027 |
@@ -76,6 +79,7 @@ _Cập nhật dữ liệu: 14/10/2026 · 358 chương trình · 67 đang mở_
 | The University of Manchester | [Global Futures Scholarship \(Đông Nam Á - Việt Nam\)](https://www.manchester.ac.uk/study/international/country-specific-information/vietnam/scholarships/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2027 | — | 23/04/2027 |
 | Durham University | [Durham Inspiring Excellence Undergraduate Scholarship](https://www.durham.ac.uk/study/scholarships/international/durham-inspiring-excellence-scholarships/undergraduate/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 01/05/2027 |
 | The University of Hong Kong \(HKU\) | [HKU Faculty of Engineering Global Scholarship](https://admissions.hku.hk/fees-and-scholarships/scholarships/hku-faculty-of-engineering-global-scholarship) | Học bổng | Kỹ thuật | 🟢 Đang mở | 2026 | 23/09/2026 | 25/08/2027 |
+| Algotrade | [Algotrade Internship Program](https://www.algotrade.vn/vi/internship) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [Canonical](https://techjobs.vn/companies/canonical?utm_source=github&utm_medium=vn-student-programs) | [Canonical Early Careers](https://canonical.com/careers/early-careers) | Graduate | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | CMC Global | [CMC Global Fresher Techie](https://fresher.cmcglobal.com.vn/) | Fresher | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [GeoComply](https://techjobs.vn/companies/geocomply?utm_source=github&utm_medium=vn-student-programs) | [GeoComply Internship Program](https://www.geocomply.com/careers/internship/) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | — |
@@ -187,7 +191,7 @@ _Cập nhật dữ liệu: 14/10/2026 · 358 chương trình · 67 đang mở_
 | Zhejiang University \(International Business School, Haining\) | [ZIBS Hai Scholarship](https://zibs.zju.edu.cn/enzibs/UndergraduateApplication/list.htm) | Học bổng | Kinh doanh – Marketing | ⚪ Chưa rõ | 2026 | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (192) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (191) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -371,7 +375,6 @@ _Cập nhật dữ liệu: 14/10/2026 · 358 chương trình · 67 đang mở_
 | [Prudential Việt Nam](https://techjobs.vn/companies/prudential?utm_source=github&utm_medium=vn-student-programs) | [The Strivers – Management Trainee & Functional Trainee](https://www.prudential.com.vn/vi/co-hoi-nghe-nghiep/tai-prudential/chuong-trinh-quan-tri-vien-tap-su/) | Quản trị viên tập sự | Công nghệ | 🔴 Đã đóng | 2025 | 10/02/2025 | 10/03/2025 |
 | Generali Việt Nam | [Genext Challenge – Management Trainee Program](https://generali.talent.vn/job/genext-2025-management-trainee-program-generali-vietnam-2025-8268) | Quản trị viên tập sự | Tài chính, Kinh doanh – Marketing, Vận hành | 🔴 Đã đóng | 2024 | 18/12/2024 | 24/01/2025 |
 | [GEM Corporation](https://techjobs.vn/companies/gem-corp?utm_source=github&utm_medium=vn-student-programs) | [GEM Internship Program \(GIP\)](https://gem-corp.tech/event/gem-internship-program-2022/) | Thực tập | Công nghệ | 🔴 Đã đóng | 2025 | — | 07/01/2025 |
-| Algotrade | [Algotrade Internship Program](https://www.algotrade.vn/vi/internship) | Thực tập | Công nghệ | 🔴 Đã đóng | 2026 | — | — |
 | University of Edinburgh | [Edinburgh Global Undergraduate Mathematics Scholarships](https://registryservices.ed.ac.uk/student-funding/undergraduate/international/mathematics) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | — | — |
 | [Endava \(DEK Technologies\)](https://techjobs.vn/companies/endava?utm_source=github&utm_medium=vn-student-programs) | [Endava Internship Programme: Vietnam](https://www.endava.com/careers/early-careers/internship-programmes/vietnam) | Thực tập | Công nghệ | 🔴 Đã đóng | 2026 | — | — |
 | [GEEK Up](https://techjobs.vn/companies/geek-up?utm_source=github&utm_medium=vn-student-programs) | [Geek Internship](https://geekadventure.vn/internship) | Thực tập | Công nghệ | 🔴 Đã đóng | 2026 | — | — |

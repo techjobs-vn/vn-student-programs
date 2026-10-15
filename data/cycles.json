@@ -1010,12 +1010,14 @@
     "year": 2026,
     "opens_at": null,
     "deadline": null,
-    "status": "closed",
     "sources": [
-      "https://www.algotrade.vn/vi/internship"
+      "https://www.algotrade.vn/vi/internship",
+      "https://www.fit.hcmus.edu.vn/tin-tuc/d/chuong-trinh-thuc-tap-sinh-algotrade-2026-17607",
+      "https://forum.uit.edu.vn/t/algotrade-chuong-trinh-thuc-tap-sinh-algotrade-ky-thang-12-2026/164581"
     ],
-    "updated_at": "2026-10-03",
-    "notes": "Kỳ thực tập tháng 06/2026 nhận hồ sơ từ 15/04/2026; trang chưa công bố kỳ tiếp theo."
+    "updated_at": "2026-10-15",
+    "notes": "Kỳ tuyển sinh tháng 12/2026 đã khởi động theo thông báo của khoa CNTT ĐH KHTN và diễn đàn UIT (thực tập 5 tháng); chưa nêu hạn nộp, trang algotrade.vn vẫn hiển thị kỳ tháng 06/2026. Kỳ tháng 06/2026 nhận hồ sơ từ 15/04/2026.",
+    "status": "open"
   },
   {
     "program_slug": "worldquant-brain-research-consultant",
@@ -3853,5 +3855,40 @@
     ],
     "updated_at": "2026-10-14",
     "notes": "Form không nêu hạn nộp. Lịch tuyển: phỏng vấn 1 từ 30/09/2026 (Miền Bắc đến 21/10, Miền Nam 04–25/11), AEON Camp 22–29/10 (Bắc) và 26/11–03/12 (Nam), phỏng vấn cuối 02–23/11 (Bắc) và 04–24/12 (Nam), nhận việc 30/11/2026 (Bắc) và 04/01/2027 (Nam)."
+  },
+  {
+    "program_slug": "uniqlo-management-candidate",
+    "year": 2026,
+    "opens_at": "2026-10-14",
+    "deadline": "2026-11-23",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/uniqlo-management-candidate-2027-uniqlo-1202610141404",
+      "https://uniqlo.pasona.vn/"
+    ],
+    "updated_at": "2026-10-15",
+    "notes": "Tuyển cho đợt nhận việc 2027; trang uniqlo.pasona.vn chưa cập nhật lên đợt 2027 khi kiểm tra ngày 15/10/2026, hạn 23/11/2026 lấy từ cổng NEU. Vòng 2 (kiểm tra năng lực và hội thảo giới thiệu) tháng 10–11/2026, phỏng vấn tháng 12/2026."
+  },
+  {
+    "program_slug": "hdbank-future-banker",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-12-31",
+    "sources": [
+      "https://hvnh.edu.vn/ctsv/vn/cohoivieclam/khoi-dong-dot-2-hd-bank-future-banker-2026-thuc-tap-sinh-san-sang-vung-vang-su-nghiep-978.html",
+      "https://scc.hub.edu.vn/thong-bao/thong-bao-chuong-trinh-hdbank-future-banker-2026-228822.html"
+    ],
+    "updated_at": "2026-10-15",
+    "notes": "Đợt 2 khởi động ngày 14/10/2026; ứng tuyển và tham gia trực tiếp tại các ngày hội tuyển dụng ở trường đến 31/12/2026, lịch từng trường do ban tổ chức thông báo."
+  },
+  {
+    "program_slug": "heineken-vietnam-nextgen-supply-chain",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-11-20",
+    "sources": [
+      "https://jobs.neu.edu.vn/jobs/heineken-vietnam-nextgen-2027-supply-chain-heineken-vietnam-1202610141418"
+    ],
+    "updated_at": "2026-10-15",
+    "notes": "Tuyển NextGen 2027; hạn chót 23:59 ngày 20/11/2026 theo tin trên cổng NEU, nộp qua form trực tuyến của HEINEKEN."
   }
 ]
