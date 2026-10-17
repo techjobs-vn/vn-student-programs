@@ -21331,5 +21331,60 @@
     ],
     "confidence": "high",
     "updated_at": "2026-10-09"
+  },
+  {
+    "program_slug": "vietvalues-thuc-tap-sinh-kiem-toan",
+    "overview": "Chương trình thực tập kiểm toán của VIETVALUES dành cho khoảng 50 sinh viên năm cuối ngành kế toán, kiểm toán và tài chính. Sinh viên tham gia dự án kiểm toán thực tế và được hướng dẫn bởi đội ngũ chuyên môn. Nhận hồ sơ từ 01/10 đến 31/10/2026; bắt đầu thực tập từ 01/12/2026. Sau kỳ thực tập có thể được xét tuyển chính thức theo kết quả và nhu cầu công ty.",
+    "eligibility": [
+      "Sinh viên năm cuối",
+      "Ngành: Kế toán, Kiểm toán, Tài chính doanh nghiệp, Quản trị Tài chính hoặc Quản trị Kế toán",
+      "Kỹ năng giao tiếp tốt",
+      "Ưu tiên tiếng Anh đủ bốn kỹ năng nghe, nói, đọc, viết",
+      "Năng động, trung thực, có trách nhiệm và thái độ cầu tiến"
+    ],
+    "benefits": [
+      "Phụ cấp thực tập hằng tháng; thanh toán công tác phí khi đi tỉnh theo quy định công ty",
+      "Được hướng dẫn, đào tạo trực tiếp bởi nhân sự chuyên môn có kinh nghiệm",
+      "Tham gia dự án kiểm toán thực tế, nâng cao kiến thức và kỹ năng nghề",
+      "Cơ hội được xét tuyển nhân viên chính thức sau thực tập theo kết quả và nhu cầu",
+      "Làm việc trong môi trường chuyên nghiệp, tiếp cận quy trình và nghiệp vụ thực tế",
+      "Nhận áo thun phiên bản đặc biệt kỷ niệm 25 năm thành lập VIETVALUES"
+    ],
+    "selection_process": [
+      "Điền đơn đăng ký trực tuyến",
+      "Chuẩn bị đơn đăng ký thực tập (viết tay hoặc đánh máy)",
+      "Nộp bảng điểm đại học, sơ yếu lý lịch, bản sao CCCD/CMND và 04 ảnh thẻ 3×4",
+      "Bổ sung giấy giới thiệu của nhà trường khi chính thức tham gia thực tập"
+    ],
+    "faq": [
+      {
+        "q": "Chương trình tuyển bao nhiêu thực tập sinh?",
+        "a": "Số lượng tuyển dụng là 50 sinh viên."
+      },
+      {
+        "q": "Thời gian nhận hồ sơ là khi nào?",
+        "a": "Từ ngày 01/10/2026 đến hết ngày 31/10/2026."
+      },
+      {
+        "q": "Thực tập bắt đầu từ khi nào?",
+        "a": "Thời gian bắt đầu thực tập là ngày 01/12/2026."
+      },
+      {
+        "q": "Có phụ cấp thực tập không?",
+        "a": "Có phụ cấp thực tập hằng tháng và được thanh toán công tác phí khi đi tỉnh theo quy định công ty."
+      },
+      {
+        "q": "Sau thực tập có cơ hội làm chính thức không?",
+        "a": "Có thể được xét tuyển nhân viên chính thức sau khi hoàn thành kỳ thực tập, dựa trên kết quả và nhu cầu công ty."
+      }
+    ],
+    "sources": [
+      "https://vietvalues.com/tin-tuc/tuyen-dung-nhan-vien/vietvalues-group-tuyen-dung-thuc-tap-sinh-kiem-toan-2027-100221",
+      "https://www.ueh.edu.vn/college/soa/vi/vietvalues-group-trien-khai-chuong-trinh-tuyen-dung-sinh-vien-thuc-tap-nam-2027-79022",
+      "https://khoaktkt.hub.edu.vn/nguoi-hoc-va-doanh-nghiep/thong-tin-hoc-bong-thuc-tap-tuyen-dung/tuyen-dung/vietvalues-group-tuyen-dung-thuc-tap-sinh-kiem-toan-2027-230531.html",
+      "https://khoaketoan.ufm.edu.vn/cong-ty-vietvalues-group-tuyen-dung-thuc-tap-sinh-kiem-toan-2027-366.html"
+    ],
+    "confidence": "high",
+    "updated_at": "2026-10-17"
   }
 ]

@@ -11811,5 +11811,32 @@
       "needs_english_cert"
     ],
     "notes": "Nộp qua cổng apply.fulbright.edu.vn; ứng viên vào danh sách ngắn được phỏng vấn với Giám đốc Tuyển sinh và đại diện giảng viên. Trang ghi 8 suất 'for this academic year' mà không nêu niên khoá; hạn dùng theo lịch tuyển sinh và học bổng niên khoá 2027-2031. Fulbright cho bổ sung chứng chỉ tiếng Anh sau khi nộp hồ sơ hoặc thi Cambridge Placement Test miễn phí."
+  },
+  {
+    "slug": "vietvalues-thuc-tap-sinh-kiem-toan",
+    "name": "VIETVALUES thực tập sinh kiểm toán 2027",
+    "type": "internship",
+    "company": {
+      "name": "VIETVALUES (Kiểm toán và Tư vấn Chuẩn Việt)",
+      "slug": null,
+      "domain": "vietvalues.com"
+    },
+    "official_url": "https://vietvalues.com/tin-tuc/tuyen-dung-nhan-vien/vietvalues-group-tuyen-dung-thuc-tap-sinh-kiem-toan-2027-100221",
+    "description": "Chương trình thực tập kiểm toán thường niên của VIETVALUES cho 50 sinh viên năm cuối ngành kế toán, kiểm toán, tài chính; tham gia dự án kiểm toán thực tế và có cơ hội được xét tuyển chính thức.",
+    "tracks": [
+      "Kiểm toán",
+      "Kế toán"
+    ],
+    "fields": [
+      "audit-consulting",
+      "finance"
+    ],
+    "eligibility": "Sinh viên năm cuối ngành Kế toán, Kiểm toán, Tài chính doanh nghiệp, Quản trị Tài chính hoặc Quản trị Kế toán; giao tiếp tốt, ưu tiên tiếng Anh bốn kỹ năng.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-17",
+    "updated_at": "2026-10-17"
   }
 ]
