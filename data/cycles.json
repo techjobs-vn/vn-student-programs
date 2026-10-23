@@ -4028,5 +4028,17 @@
     ],
     "updated_at": "2026-10-17",
     "notes": "Tuyển 50 sinh viên; bắt đầu thực tập 01/12/2026."
+  },
+  {
+    "program_slug": "sacombank-headstart",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2026-12-31",
+    "sources": [
+      "https://docs.google.com/forms/d/1Be8FXEnhmVNnktja35ZSwuaDj73SwNCyJ0MaXQ_VqKM/viewform",
+      "https://hvnh.edu.vn/ctsv/vn/cohoivieclam/-sacombank-headstart-2026-khoi-dong-su-nghiep-tu-giang-duong-980.html"
+    ],
+    "updated_at": "2026-10-23",
+    "notes": "Ưu tiên 400 hồ sơ đầu tiên; thực tập 9/2026–4/2027, tối thiểu 4 buổi/tuần."
   }
 ]

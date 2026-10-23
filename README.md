@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 23/10/2026 · 372 chương trình · 74 đang mở_
+_Cập nhật dữ liệu: 23/10/2026 · 373 chương trình · 75 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -59,6 +59,7 @@ _Cập nhật dữ liệu: 23/10/2026 · 372 chương trình · 74 đang mở_
 | Simon Fraser University | [International Undergraduate Scholars Entrance Scholarship \(USES\)](https://www.sfu.ca/students/financial-aid/entrance/highschool/uses.html) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 15/12/2026 |
 | [TMA Tech Group](https://techjobs.vn/companies/tma-solutions?utm_source=github&utm_medium=vn-student-programs) | [TMA Industry Internship](https://www.tma.vn/tuyen-dung/thuc-tap) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | 25/12/2026 |
 | HDBank | [HDBank Future Banker 2026](https://hdbank.com.vn/) | Thực tập | Tài chính, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/12/2026 |
+| [Sacombank](https://techjobs.vn/companies/sacombank?utm_source=github&utm_medium=vn-student-programs) | [Sacombank HeadStart](https://sacombankcareer.com) | Thực tập | Tài chính, Công nghệ | 🟢 Đang mở | 2026 | — | 31/12/2026 |
 | The Chinese University of Hong Kong \(CUHK\) | [CUHK Admission Scholarships \(non-local undergraduates\)](https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/10/2026 | 07/01/2027 |
 | The Chinese University of Hong Kong \(CUHK\) | [HKSAR Government Scholarship \(CUHK nomination, non-local\)](https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/#hksar-government-scholarship) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/10/2026 | 07/01/2027 |
 | Korea Advanced Institute of Science and Technology \(KAIST\) | [KAIST Scholarship \(International Undergraduate\)](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 22/09/2026 | 14/01/2027 |

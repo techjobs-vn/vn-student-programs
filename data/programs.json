@@ -11838,5 +11838,35 @@
     "source": "routine",
     "added_at": "2026-10-17",
     "updated_at": "2026-10-17"
+  },
+  {
+    "slug": "sacombank-headstart",
+    "name": "Sacombank HeadStart",
+    "type": "internship",
+    "company": {
+      "name": "Sacombank",
+      "slug": "sacombank"
+    },
+    "official_url": "https://sacombankcareer.com",
+    "description": "Kỳ thực tập có đào tạo nghiệp vụ ngân hàng, bán hàng và dự án công nghệ, có mentor kèm, cấp chứng nhận hoàn thành và có thể xét tuyển chính thức; tuyển sinh viên trên toàn quốc.",
+    "tracks": [
+      "Chuyên viên khách hàng doanh nghiệp",
+      "Chuyên viên khách hàng cá nhân",
+      "Chuyên viên dịch vụ khách hàng",
+      "Chuyên viên CNTT",
+      "Một số đơn vị Hội sở"
+    ],
+    "fields": [
+      "finance",
+      "tech"
+    ],
+    "eligibility": "Sinh viên dự kiến tốt nghiệp 2026–2027 khối Kinh tế, Tài chính – Ngân hàng, Luật hoặc CNTT.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-23",
+    "updated_at": "2026-10-23",
+    "notes": "Link đăng ký là Google Form (nằm trong sources của đợt) do người duy trì cung cấp; chưa thấy trang HeadStart trên domain Sacombank. Thời lượng ghi 3 tháng nhưng kỳ thực tập 9/2026–4/2027: cần xác nhận."
   }
 ]
