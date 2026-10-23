@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 17/10/2026 · 372 chương trình · 74 đang mở_
+_Cập nhật dữ liệu: 23/10/2026 · 372 chương trình · 74 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -30,8 +30,6 @@ _Cập nhật dữ liệu: 17/10/2026 · 372 chương trình · 74 đang mở_
 | Gates Cambridge Trust \(Đại học Cambridge\) | [Gates Cambridge Scholarship](https://www.gatescambridge.org/apply/eligibility/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 11/09/2026 | — |
 | [TPBank](https://techjobs.vn/companies/tpbank?utm_source=github&utm_medium=vn-student-programs) | [TPBank Tập sự tiềm năng \(Công nghệ\)](https://tuyendung.tpb.vn/vi/jobs/RkV54P) | Fresher | Công nghệ | 🟢 Đang mở | 2026 | 15/09/2026 | — |
 | Swire Coca-Cola Việt Nam | [Chương trình Thực tập Coca-Cola STEMX](https://careersvn.app.swirecocacola.com/job/Ch%C6%B0%C6%A1ng-Tr%C3%ACnh-Th%E1%BB%B1c-T%E1%BA%ADp-Coca-Cola-STEMX-2026-Nh%C3%A0-M%C3%A1y-Mi%E1%BB%81n-B%E1%BA%AFc-%28H%C3%A0-N%E1%BB%99i%29/1283-vi_VN/) | Thực tập | Kỹ thuật, Vận hành | 🟢 Đang mở | 2026 | 17/09/2026 | — |
-| VietHope | [Học bổng Chương trình Phát triển Sinh viên VietHope \(VSDP\)](https://viethope.org/programs/vsdp2026/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 21/09/2026 | 20/10/2026 |
-| DAAD \(Cơ quan Trao đổi Hàn lâm Đức\) | [DAAD Study Scholarships for STEM Disciplines](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742130) | Học bổng | Công nghệ, Kỹ thuật | 🟢 Đang mở | 2026 | 01/06/2026 | 21/10/2026 |
 | [EY Việt Nam](https://techjobs.vn/companies/ey?utm_source=github&utm_medium=vn-student-programs) | [EY Compass Scholarship Program](https://careers.ey.com/ey/job/Ho-Chi-Minh-City-EY-Compass-2026-Scholarship-Program-HCMC-Office/1439857133/) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🟢 Đang mở | 2026 | — | 23/10/2026 |
 | [EY Việt Nam](https://techjobs.vn/companies/ey?utm_source=github&utm_medium=vn-student-programs) | [Pathway to Strategic Business Leader \(SBL\)](https://careers.ey.com/ey/job/Ha-Noi-Pathway-to-Strategic-Business-Leader-2026-2027/1442864833/) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🟢 Đang mở | 2026 | — | 23/10/2026 |
 | Công ty TNHH Tư vấn và Kiểm toán Anh \(ACAC\) | [Chương trình Tuyển dụng Thực tập sinh ACAC 2026–2027](https://acacvn.com/) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🟢 Đang mở | 2026 | 01/10/2026 | 30/10/2026 |
@@ -44,6 +42,7 @@ _Cập nhật dữ liệu: 17/10/2026 · 372 chương trình · 74 đang mở_
 | VIETVALUES \(Kiểm toán và Tư vấn Chuẩn Việt\) | [VIETVALUES thực tập sinh kiểm toán 2027](https://vietvalues.com/tin-tuc/tuyen-dung-nhan-vien/vietvalues-group-tuyen-dung-thuc-tap-sinh-kiem-toan-2027-100221) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🟢 Đang mở | 2026 | 01/10/2026 | 31/10/2026 |
 | Hyosung & HS Hyosung Việt Nam | [Hyosung & HS Hyosung Gongchae Program](https://hyosungjobs.com/gongchae-program) | Fresher | Kỹ thuật, Vận hành, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | 28/09/2026 | 02/11/2026 |
 | University of Technology Sydney \(UTS\) | [UTS Vice-Chancellor's International Undergraduate Scholarship](https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 02/11/2026 |
+| The University of Auckland | [University of Auckland Vietnam High Achievers Scholarship](https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-vietnam-high-achievers-scholarship-1244-all.html) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 21/10/2026 | 04/11/2026 |
 | Trường Đại học Mở TP.HCM \(OU\) | [Học bổng Tài năng dành cho tân sinh viên \(ĐH Mở TP.HCM\)](https://ou.edu.vn/tin_tuc/hbtn-26-27/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 17/08/2026 | 05/11/2026 |
 | Trường Đại học Mở TP.HCM \(OU\) | [Học bổng Tiếp sức đến trường \(ĐH Mở TP.HCM\)](https://ou.edu.vn/tin_tuc/tsdt-26-27/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 17/08/2026 | 05/11/2026 |
 | University of Toronto | [Lester B. Pearson International Scholarship](https://future.utoronto.ca/pearson-scholarships) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | — | 06/11/2026 |
@@ -58,6 +57,7 @@ _Cập nhật dữ liệu: 17/10/2026 · 372 chương trình · 74 đang mở_
 | University of Warwick | [Warwick Postgraduate Research Scholarships \(Chancellor's\)](https://warwick.ac.uk/services/dc/schols_fund/applicants/competitions/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 05/10/2026 | 10/12/2026 |
 | [Ngân hàng TMCP Á Châu \(ACB\)](https://techjobs.vn/companies/acb?utm_source=github&utm_medium=vn-student-programs) | [The Next Banker](https://www.acbjobs.com.vn/pages/the-next-banker) | Thực tập | Tài chính | 🟢 Đang mở | 2026 | 01/10/2026 | 12/12/2026 |
 | Simon Fraser University | [International Undergraduate Scholars Entrance Scholarship \(USES\)](https://www.sfu.ca/students/financial-aid/entrance/highschool/uses.html) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 15/12/2026 |
+| [TMA Tech Group](https://techjobs.vn/companies/tma-solutions?utm_source=github&utm_medium=vn-student-programs) | [TMA Industry Internship](https://www.tma.vn/tuyen-dung/thuc-tap) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | 25/12/2026 |
 | HDBank | [HDBank Future Banker 2026](https://hdbank.com.vn/) | Thực tập | Tài chính, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/12/2026 |
 | The Chinese University of Hong Kong \(CUHK\) | [CUHK Admission Scholarships \(non-local undergraduates\)](https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/10/2026 | 07/01/2027 |
 | The Chinese University of Hong Kong \(CUHK\) | [HKSAR Government Scholarship \(CUHK nomination, non-local\)](https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/#hksar-government-scholarship) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/10/2026 | 07/01/2027 |
@@ -93,7 +93,6 @@ _Cập nhật dữ liệu: 17/10/2026 · 372 chương trình · 74 đang mở_
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-student-programs) | [TinyFish Ambassador Program](https://www.tinyfish.ai/ambassadors) | Đại sứ sinh viên | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-student-programs) | [TinyFish Student Program](https://www.tinyfish.ai/students) | Đại sứ sinh viên | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [WorldQuant](https://techjobs.vn/companies/worldquant?utm_source=github&utm_medium=vn-student-programs) | [WorldQuant BRAIN Research Consultant Program](https://worldquantbrain.com/consultant) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | — |
-| The University of Auckland | [University of Auckland Vietnam High Achievers Scholarship](https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-vietnam-high-achievers-scholarship-1244-all.html) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 21/10/2026 | 04/11/2026 |
 | ETH Zürich | [Excellence Scholarship & Opportunity Programme \(ESOP\)](https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 01/11/2026 | 30/11/2026 |
 | McMaster University | [McMaster University Award of Excellence](https://future.mcmaster.ca/internationalawards/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 01/11/2026 | 19/02/2027 |
 | Đại học Kyoto | [Kyoto iUP \(Kyoto University International Undergraduate Program\) – miễn học phí và học bổng](https://www.iup.kyoto-u.ac.jp/apply/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 02/11/2026 | 03/12/2026 |
@@ -200,10 +199,12 @@ _Cập nhật dữ liệu: 17/10/2026 · 372 chương trình · 74 đang mở_
 | Zhejiang University \(International Business School, Haining\) | [ZIBS Hai Scholarship](https://zibs.zju.edu.cn/enzibs/UndergraduateApplication/list.htm) | Học bổng | Kinh doanh – Marketing | ⚪ Chưa rõ | 2026 | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (193) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (194) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
+| DAAD \(Cơ quan Trao đổi Hàn lâm Đức\) | [DAAD Study Scholarships for STEM Disciplines](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742130) | Học bổng | Công nghệ, Kỹ thuật | 🔴 Đã đóng | 2026 | 01/06/2026 | 21/10/2026 |
+| VietHope | [Học bổng Chương trình Phát triển Sinh viên VietHope \(VSDP\)](https://viethope.org/programs/vsdp2026/) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | 21/09/2026 | 20/10/2026 |
 | Hãng Kiểm toán AASC | [Chương trình Sinh viên thực tập Hãng Kiểm toán AASC](https://aasc.com.vn/web/index.php/tuyen-dung/thong-tin-thuc-tap/item/952-chuong-trinh-sinh-vien-thuc-tap-nam-2026-2027-cua-hang-kiem-toan-aasc) | Thực tập | Kiểm toán – Tư vấn | 🔴 Đã đóng | 2026 | 09/09/2026 | 15/10/2026 |
 | Công ty TNHH Kiểm toán VACO | [Chương trình thực tập sinh VACO](https://vaco.com.vn/vi/tuyen-dung/co-hoi-nghe-nghiep/chuong-trinh-thuc-tap-sinh-nam-2027-n31) | Thực tập | Kiểm toán – Tư vấn, Tài chính, Kỹ thuật | 🔴 Đã đóng | 2026 | 10/09/2026 | 15/10/2026 |
 | [VinUni \(Vingroup\)](https://techjobs.vn/companies/vinuni?utm_source=github&utm_medium=vn-student-programs) | [Đào tạo Nhân tài AI thực chiến \(Vingroup × VinUni\)](https://vinuni.edu.vn/aithucchien/) | Fresher | Công nghệ | 🔴 Đã đóng | 2026 | — | 15/10/2026 |
@@ -226,7 +227,6 @@ _Cập nhật dữ liệu: 17/10/2026 · 372 chương trình · 74 đang mở_
 | [OnPoint](https://techjobs.vn/companies/onpoint?utm_source=github&utm_medium=vn-student-programs) | [OnPoint Trailblazers \(Management Trainee\)](https://www.onpoint.vn/management-trainee-program/) | Quản trị viên tập sự | Công nghệ, Kinh doanh – Marketing | 🔴 Đã đóng | 2026 | 24/08/2026 | 25/09/2026 |
 | Trường Đại học Bách khoa – ĐHQG-HCM | [Học bổng Hợp tác và Chia sẻ](https://hcmut.edu.vn/news/item/24585) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | 19/08/2026 | 24/09/2026 |
 | [Bosch Global Software Technologies Vietnam](https://techjobs.vn/companies/bosch?utm_source=github&utm_medium=vn-student-programs) | [Bosch Internship Program \(BGSV\)](https://careers.smartrecruiters.com/BoschGroup/vietnam) | Thực tập | Công nghệ | 🔴 Đã đóng | 2026 | 07/08/2026 | 23/09/2026 |
-| [TMA Tech Group](https://techjobs.vn/companies/tma-solutions?utm_source=github&utm_medium=vn-student-programs) | [TMA Industry Internship](https://www.tma.vn/tuyen-dung/thuc-tap) | Thực tập | Công nghệ | 🔴 Đã đóng | 2026 | — | 20/09/2026 |
 | Milwaukee Tool Việt Nam | [Milwaukee Leadership Development Program \(EDP/ODP\)](https://www.milwaukeetool.com.vn/leadership-development-program) | Graduate | Kỹ thuật, Vận hành | 🔴 Đã đóng | 2026 | — | 18/09/2026 |
 | American Association of University Women \(AAUW\) | [AAUW International Fellowships](https://www.aauw.org/resources/programs/fellowships-grants/aauw-international-fellowships/) | Học bổng | Công nghệ, Kỹ thuật | 🔴 Đã đóng | 2026 | 17/08/2026 | 17/09/2026 |
 | Grant Thornton Việt Nam | [Grant Thornton Vietnam Internship Program](https://www.grantthornton.com.vn/careers/Internship-program-2027/) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🔴 Đã đóng | 2026 | — | 17/09/2026 |
