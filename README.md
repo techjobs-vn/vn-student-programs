@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 23/10/2026 · 373 chương trình · 73 đang mở_
+_Cập nhật dữ liệu: 29/10/2026 · 376 chương trình · 76 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -44,8 +44,10 @@ _Cập nhật dữ liệu: 23/10/2026 · 373 chương trình · 73 đang mở_
 | Trường Đại học Mở TP.HCM \(OU\) | [Học bổng Tài năng dành cho tân sinh viên \(ĐH Mở TP.HCM\)](https://ou.edu.vn/tin_tuc/hbtn-26-27/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 17/08/2026 | 05/11/2026 |
 | Trường Đại học Mở TP.HCM \(OU\) | [Học bổng Tiếp sức đến trường \(ĐH Mở TP.HCM\)](https://ou.edu.vn/tin_tuc/tsdt-26-27/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 17/08/2026 | 05/11/2026 |
 | University of Toronto | [Lester B. Pearson International Scholarship](https://future.utoronto.ca/pearson-scholarships) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | — | 06/11/2026 |
+| Xipat | [Xipat Product Owner Trainee Program](https://xipat.com/careers/po-trainee-2026) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | 26/10/2026 | 08/11/2026 |
 | University of British Columbia | [UBC International Scholars Program](https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 05/10/2026 | 15/11/2026 |
 | HEINEKEN Việt Nam | [HEINEKEN Vietnam NextGen 2027 – Supply Chain](https://careers.theheinekencompany.com/English/HEINEKEN-Vietnam#supply-chain) | Quản trị viên tập sự | Vận hành, Kỹ thuật | 🟢 Đang mở | 2026 | — | 20/11/2026 |
+| [Công ty Chứng khoán SSI](https://techjobs.vn/companies/ssi?utm_source=github&utm_medium=vn-student-programs) | [SSI Gen S](https://event.ssi.com.vn/gen-s) | Quản trị viên tập sự | Tài chính, Tổng hợp | 🟢 Đang mở | 2026 | 19/10/2026 | 22/11/2026 |
 | UNIQLO Việt Nam | [UNIQLO Management Candidate \(UMC\) 2027](https://uniqlo.pasona.vn/) | Quản trị viên tập sự | Kinh doanh – Marketing, Vận hành | 🟢 Đang mở | 2026 | 14/10/2026 | 23/11/2026 |
 | Chính phủ Thụy Sĩ \(SERI / Federal Commission for Scholarships for Foreign Students\) | [Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 20/08/2026 | 24/11/2026 |
 | TikTok Shop | [TikTok Shop Graduate Development Program \(Vietnam\)](https://lifeattiktok.com/search/7670922017126074677) | Graduate | Kinh doanh – Marketing, Vận hành | 🟢 Đang mở | 2026 | — | 30/11/2026 |
@@ -65,6 +67,7 @@ _Cập nhật dữ liệu: 23/10/2026 · 373 chương trình · 73 đang mở_
 | Đại học Công nghệ Nanyang \(NTU\), Singapore | [Nanyang Global Scholarship \(NTU Singapore\)](https://www.ntu.edu.sg/admissions/ug/scholarships/scholarship-opportunities/detail/nanyang-scholarship) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 15/10/2026 | 20/01/2027 |
 | Đại học Công nghệ Nanyang \(NTU\), Singapore | [NTU ASEAN Undergraduate Scholarship](https://www.ntu.edu.sg/admissions/ug/scholarships/scholarship-opportunities/detail/asean-undergraduate-scholarship) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 15/10/2026 | 20/01/2027 |
 | University of Oxford | [Reach Oxford Scholarship](https://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/oxford-bursaries-and-scholarships/reach-oxford) | Học bổng | Tổng hợp | 🟢 Đang mở | 2027 | — | 26/01/2027 |
+| UrBox | [UrBox Internship Program \(Future Talent Program\)](https://talent.urbox.vn/job/hn-urbox-internship-program-2026-2027-4208) | Thực tập | Công nghệ, Kinh doanh – Marketing, Vận hành | 🟢 Đang mở | 2026 | — | 31/01/2027 |
 | Maastricht University | [UM NL Global Studies Scholarship](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 01/02/2027 |
 | Tsinghua University | [Tsinghua University International Undergraduate Freshmen Scholarship](https://international.join-tsinghua.edu.cn/Admission1/Freshmen_Scholarships1.htm) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 30/09/2026 | 28/02/2027 |
 | University of Exeter | [Exeter Excellence Scholarships \(Undergraduate\)](https://www.exeter.ac.uk/study/funding/award/?id=5910) | Học bổng | Tổng hợp | 🟢 Đang mở | 2027 | — | 04/03/2027 |
