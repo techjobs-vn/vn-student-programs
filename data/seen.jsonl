@@ -971,3 +971,18 @@
 {"url":"https://www.rmit.edu.vn/study-at-rmit/scholarships/future-undergraduate-student-scholarships/professor-nguyen-van-dao-scholarship","first_seen":"2026-10-15","verdict":"added","program_slug":"rmit-vietnam-professor-nguyen-van-dao-scholarship"}
 {"url":"https://vietvalues.com/tin-tuc/tuyen-dung-nhan-vien/vietvalues-group-tuyen-dung-thuc-tap-sinh-kiem-toan-2027-100221","first_seen":"2026-10-17","verdict":"added","program_slug":"vietvalues-thuc-tap-sinh-kiem-toan"}
 {"url":"https://www.ueh.edu.vn/college/soa/vi/vietvalues-group-trien-khai-chuong-trinh-tuyen-dung-sinh-vien-thuc-tap-nam-2027-79022","first_seen":"2026-10-17","verdict":"added","program_slug":"vietvalues-thuc-tap-sinh-kiem-toan"}
+{"url":"https://jobs.neu.edu.vn/jobs/ssi-gen-s-2027-cong-ty-chung-khoan-ssi-1202610271626","first_seen":"2026-10-29","verdict":"added","program_slug":"ssi-gen-s"}
+{"url":"https://youth.neu.edu.vn/vi/thong-tin-tuyen-dung-2657/ssi-gen-s-2027","first_seen":"2026-10-29","verdict":"duplicate","program_slug":"ssi-gen-s"}
+{"url":"https://event.ssi.com.vn/gen-s","first_seen":"2026-10-29","verdict":"added","program_slug":"ssi-gen-s"}
+{"url":"https://jobs.neu.edu.vn/jobs/xipat-product-owner-trainee-program-2026-xipat-flexible-solutions-1202610271619","first_seen":"2026-10-29","verdict":"added","program_slug":"xipat-product-owner-trainee"}
+{"url":"https://youth.neu.edu.vn/vi/thong-tin-tuyen-dung-2657/xipat-product-owner-trainee-program-2026","first_seen":"2026-10-29","verdict":"duplicate","program_slug":"xipat-product-owner-trainee"}
+{"url":"https://xipat.com/careers/po-trainee-2026","first_seen":"2026-10-29","verdict":"added","program_slug":"xipat-product-owner-trainee"}
+{"url":"https://jobs.neu.edu.vn/jobs/urbox-internship-program-2026-2027-urbox-1202610281505","first_seen":"2026-10-29","verdict":"added","program_slug":"urbox-internship-program"}
+{"url":"https://talent.urbox.vn/job/hn-urbox-internship-program-2026-2027-4208","first_seen":"2026-10-29","verdict":"added","program_slug":"urbox-internship-program"}
+{"url":"https://vieclam.tmu.edu.vn/uniqlo-management-candidate-2027-ung-vien-quan-ly-linh-vuc-kinh-doanh-thoi-trang-ban-le-jxi6805007","first_seen":"2026-10-29","verdict":"duplicate","program_slug":"uniqlo-management-candidate"}
+{"url":"https://forum.uit.edu.vn/t/algotrade-chuong-trinh-thuc-tap-sinh-algotrade-ky-thang-12-2026/164581/1","first_seen":"2026-10-29","verdict":"duplicate","program_slug":"algotrade-internship-program"}
+{"url":"https://soict.hust.edu.vn/truong-cntttt-to-chuc-lunch-seminar-thang-10-ve-world-models-va-hoc-may-cho-robot.html","first_seen":"2026-10-29","verdict":"rejected","reason":"Sự kiện seminar"}
+{"url":"https://forum.uit.edu.vn/latest","first_seen":"2026-10-29","verdict":"rejected","reason":"Trang danh sách diễn đàn"}
+{"url":"https://tmu.joboko.com/","first_seen":"2026-10-29","verdict":"rejected","reason":"Trang chủ cổng việc làm"}
+{"url":"https://vieclam.uet.vnu.edu.vn/hn-devops-engineer-jxi6798256","first_seen":"2026-10-29","verdict":"rejected","reason":"Tin tuyển một vị trí lẻ"}
+{"url":"https://vieclam.uet.vnu.edu.vn/network-engineer-trainee-2026-jxi6799300","first_seen":"2026-10-29","verdict":"rejected","reason":"Tin tuyển một vị trí lẻ"}

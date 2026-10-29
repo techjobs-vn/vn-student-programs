@@ -11868,5 +11868,85 @@
     "added_at": "2026-10-23",
     "updated_at": "2026-10-23",
     "notes": "Link đăng ký là Google Form (nằm trong sources của đợt) do người duy trì cung cấp; chưa thấy trang HeadStart trên domain Sacombank. Thời lượng ghi 3 tháng nhưng kỳ thực tập 9/2026–4/2027: cần xác nhận."
+  },
+  {
+    "slug": "ssi-gen-s",
+    "name": "SSI Gen S",
+    "type": "management_trainee",
+    "company": {
+      "name": "Công ty Chứng khoán SSI",
+      "slug": "ssi"
+    },
+    "official_url": "https://event.ssi.com.vn/gen-s",
+    "description": "Chương trình 24 tháng với bốn kỳ luân chuyển qua các khối nghiệp vụ tại SSI, dành cho sinh viên năm cuối hoặc người có tối đa 2 năm kinh nghiệm.",
+    "fields": [
+      "finance",
+      "general"
+    ],
+    "duration": "24 tháng",
+    "eligibility": "Công dân Việt Nam 21–27 tuổi, sinh viên tốt nghiệp 2027 hoặc dưới 2 năm kinh nghiệm, GPA từ 3.0/4.0; làm toàn thời gian tại Hà Nội.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-29",
+    "updated_at": "2026-10-29"
+  },
+  {
+    "slug": "xipat-product-owner-trainee",
+    "name": "Xipat Product Owner Trainee Program",
+    "type": "internship",
+    "company": {
+      "name": "Xipat",
+      "slug": null,
+      "domain": "xipat.com"
+    },
+    "official_url": "https://xipat.com/careers/po-trainee-2026",
+    "description": "Hành trình trainee 6 tháng làm Product Owner trên dự án thật có mentor kèm, dành cho sinh viên năm 3–4 hoặc mới tốt nghiệp tại Hà Nội.",
+    "tracks": [
+      "Product Owner"
+    ],
+    "fields": [
+      "tech"
+    ],
+    "duration": "6 tháng",
+    "eligibility": "Sinh viên năm 3–4 hoặc mới tốt nghiệp tại Hà Nội, tiếng Anh tốt, tối thiểu 5 buổi mỗi tuần.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-29",
+    "updated_at": "2026-10-29"
+  },
+  {
+    "slug": "urbox-internship-program",
+    "name": "UrBox Internship Program (Future Talent Program)",
+    "type": "internship",
+    "company": {
+      "name": "UrBox",
+      "slug": null,
+      "domain": "urbox.vn"
+    },
+    "official_url": "https://talent.urbox.vn/job/hn-urbox-internship-program-2026-2027-4208",
+    "description": "Chương trình thực tập 6 tháng tại UrBox với ba nhánh Business, Operations, Technology & Product, dành cho sinh viên tốt nghiệp 2027 hoặc mới tốt nghiệp.",
+    "tracks": [
+      "Business",
+      "Operations",
+      "Technology & Product"
+    ],
+    "fields": [
+      "tech",
+      "business",
+      "operations"
+    ],
+    "duration": "6 tháng",
+    "eligibility": "Sinh viên năm cuối tốt nghiệp 2027 hoặc mới tốt nghiệp, mọi ngành phù hợp nhánh ứng tuyển.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-29",
+    "updated_at": "2026-10-29",
+    "notes": "Trang ghi bắt đầu toàn thời gian 04/01/2027 nhưng hạn 31/01/2027: cần xác nhận."
   }
 ]

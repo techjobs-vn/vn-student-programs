@@ -4040,5 +4040,35 @@
     ],
     "updated_at": "2026-10-23",
     "notes": "Ưu tiên 400 hồ sơ đầu tiên; thực tập 9/2026–4/2027, tối thiểu 4 buổi/tuần."
+  },
+  {
+    "program_slug": "ssi-gen-s",
+    "year": 2026,
+    "opens_at": "2026-10-19",
+    "deadline": "2026-11-22",
+    "sources": [
+      "https://event.ssi.com.vn/gen-s"
+    ],
+    "updated_at": "2026-10-29"
+  },
+  {
+    "program_slug": "xipat-product-owner-trainee",
+    "year": 2026,
+    "opens_at": "2026-10-26",
+    "deadline": "2026-11-08",
+    "sources": [
+      "https://xipat.com/careers/po-trainee-2026"
+    ],
+    "updated_at": "2026-10-29"
+  },
+  {
+    "program_slug": "urbox-internship-program",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": "2027-01-31",
+    "sources": [
+      "https://talent.urbox.vn/job/hn-urbox-internship-program-2026-2027-4208"
+    ],
+    "updated_at": "2026-10-29"
   }
 ]
