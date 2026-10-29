@@ -350,10 +350,11 @@
     "deadline": "2026-12-25",
     "sources": [
       "https://fit.huflit.edu.vn/tma-industry-internship-tuyen-thuc-tap-sinh-khoa-53-thang-07-2026/",
-      "https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh---industry-internship-MTI2Ng.html"
+      "https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh---industry-internship-MTI2Ng.html",
+      "https://www.fit.hcmus.edu.vn/tin-tuc/d/tma-tech-group-tuyen-dung-thuc-tap-sinh-cong-nghe-thong-tin-batch-54"
     ],
-    "updated_at": "2026-10-23",
-    "notes": "Đợt thực tập từ 10/2026, hạn hồ sơ 25/12/2026 (theo tin ĐH Ngân hàng TP.HCM; trang tma.vn không ghi hạn)."
+    "updated_at": "2026-10-29",
+    "notes": "Batch 54 (đăng 27/10/2026): nộp qua intern@tma.com.vn, sinh viên từ cuối năm 3, GPA > 7.5, tối thiểu 3 tháng. Hạn hồ sơ 25/12/2026 theo tin ĐH Ngân hàng TP.HCM; trang tma.vn và bài batch 54 không ghi hạn."
   },
   {
     "program_slug": "rikkei-tech-internship",
@@ -4070,5 +4071,29 @@
       "https://talent.urbox.vn/job/hn-urbox-internship-program-2026-2027-4208"
     ],
     "updated_at": "2026-10-29"
+  },
+  {
+    "program_slug": "huawei-vietnam-campus-recruitment",
+    "year": 2026,
+    "opens_at": null,
+    "deadline": null,
+    "sources": [
+      "https://tel.ptit.edu.vn/huawei-vietnam-campus-recruitment-2026-2027/"
+    ],
+    "updated_at": "2026-10-29",
+    "notes": "Mùa tuyển 2026–2027; chưa có hạn nộp."
+  },
+  {
+    "program_slug": "unilever-cdfresh",
+    "year": 2026,
+    "opens_at": "2026-10-22",
+    "deadline": "2026-11-15",
+    "sources": [
+      "https://vieclam.ueh.edu.vn/cong-viec/cdfresh-program-giam-sat-kinh-doanh-tai-nang-2027_187585",
+      "https://jobs.neu.edu.vn/jobs/cdfresh-program-giam-sat-kinh-doanh-tai-nang-2027-unilever-viet-nam-1202610261535",
+      "https://bit.ly/CDFresh2027"
+    ],
+    "updated_at": "2026-10-29",
+    "notes": "Làm việc full-time từ 1/2027; 4 vòng: hồ sơ, bài kiểm tra kỹ năng, khảo sát thị trường theo nhóm, thuyết trình và phỏng vấn."
   }
 ]

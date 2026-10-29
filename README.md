@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 29/10/2026 · 376 chương trình · 76 đang mở_
+_Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 77 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -46,6 +46,7 @@ _Cập nhật dữ liệu: 29/10/2026 · 376 chương trình · 76 đang mở_
 | University of Toronto | [Lester B. Pearson International Scholarship](https://future.utoronto.ca/pearson-scholarships) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | — | 06/11/2026 |
 | Xipat | [Xipat Product Owner Trainee Program](https://xipat.com/careers/po-trainee-2026) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | 26/10/2026 | 08/11/2026 |
 | University of British Columbia | [UBC International Scholars Program](https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 05/10/2026 | 15/11/2026 |
+| [Unilever Vietnam](https://techjobs.vn/companies/unilever-vietnam?utm_source=github&utm_medium=vn-student-programs) | [Unilever CDFresh Program](https://www.unilever.com.vn/) | Graduate | Kinh doanh – Marketing | 🟢 Đang mở | 2026 | 22/10/2026 | 15/11/2026 |
 | HEINEKEN Việt Nam | [HEINEKEN Vietnam NextGen 2027 – Supply Chain](https://careers.theheinekencompany.com/English/HEINEKEN-Vietnam#supply-chain) | Quản trị viên tập sự | Vận hành, Kỹ thuật | 🟢 Đang mở | 2026 | — | 20/11/2026 |
 | [Công ty Chứng khoán SSI](https://techjobs.vn/companies/ssi?utm_source=github&utm_medium=vn-student-programs) | [SSI Gen S](https://event.ssi.com.vn/gen-s) | Quản trị viên tập sự | Tài chính, Tổng hợp | 🟢 Đang mở | 2026 | 19/10/2026 | 22/11/2026 |
 | UNIQLO Việt Nam | [UNIQLO Management Candidate \(UMC\) 2027](https://uniqlo.pasona.vn/) | Quản trị viên tập sự | Kinh doanh – Marketing, Vận hành | 🟢 Đang mở | 2026 | 14/10/2026 | 23/11/2026 |
@@ -154,6 +155,7 @@ _Cập nhật dữ liệu: 29/10/2026 · 376 chương trình · 76 đang mở_
 | Trường Đại học Công nghệ Thông tin, ĐHQG-HCM | [Học bổng Toàn diện – Sáng tạo – Phụng sự \(UIT\)](https://tuyensinh.uit.edu.vn/2026-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2026) | Học bổng | Tổng hợp | ⚪ Chưa rõ | 2026 | — | — |
 | UWC Vietnam \(United World Colleges\) | [Học bổng UWC qua Ủy ban Quốc gia UWC Việt Nam \(IB Diploma\)](https://vn.uwc.org/eligibility-criteria/) | Học bổng | Tổng hợp | ⚪ Chưa rõ | 2026 | — | — |
 | Quỹ Học bổng RVN-Vallet \(Tổ chức Khoa học & Giáo dục Gặp gỡ Việt Nam\) | [Học bổng Vallet \(Odon Vallet\)](https://rvn-vallet.org/) | Học bổng | Tổng hợp | ⚪ Chưa rõ | 2026 | — | — |
+| [Huawei Vietnam](https://techjobs.vn/companies/huawei-vietnam?utm_source=github&utm_medium=vn-student-programs) | [Huawei Vietnam Campus Recruitment](https://career.huawei.com/reccampportal/portal5/index.html) | Graduate | Công nghệ, Kỹ thuật | ⚪ Chưa rõ | 2026 | — | — |
 | University of Waterloo | [International Student Entrance Scholarship \(University of Waterloo\)](https://uwaterloo.ca/future-students/financing/international-scholarships) | Học bổng | Tổng hợp | ⚪ Chưa rõ | 2026 | — | — |
 | Jardine Foundation | [Jardine Foundation Oxford & Cambridge Postgraduate Scheme](https://www.jardine-foundation.org/scholarship-schemes) | Học bổng | Tổng hợp | ⚪ Chưa rõ | — | — | — |
 | Davidson College | [John M. Belk Scholarship](https://www.davidson.edu/admission-and-financial-aid/financial-aid/types-financial-aid/scholarships/nomination-scholarships/john-m-belk-scholarship) | Học bổng | Tổng hợp | ⚪ Chưa rõ | 2026 | — | — |
