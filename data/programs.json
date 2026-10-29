@@ -1197,7 +1197,7 @@
       "slug": "tma-solutions"
     },
     "official_url": "https://www.tma.vn/tuyen-dung/thuc-tap",
-    "description": "Kỳ thực tập full-time tối thiểu 3 tháng cho sinh viên CNTT từ năm 3, GPA từ 7.0, với các nhánh Tester, AI Engineer, Full Stack, Mobile và DevOps, tuyển nhiều khoá mỗi năm.",
+    "description": "Kỳ thực tập full-time tối thiểu 3 tháng cho sinh viên CNTT từ năm 3, GPA từ 7.5, với các nhánh Tester, AI Engineer, Full Stack, Mobile và DevOps, tuyển nhiều khoá mỗi năm.",
     "tracks": [
       "Tester",
       "AI Engineer",
@@ -1210,13 +1210,13 @@
       "tech"
     ],
     "duration": "Tối thiểu 3 tháng",
-    "eligibility": "Sinh viên từ năm 3 ngành CNTT, thực tập full-time tối thiểu 3 tháng, GPA từ 7.0.",
+    "eligibility": "Sinh viên từ năm 3 ngành CNTT, thực tập full-time tối thiểu 3 tháng, GPA từ 7.5.",
     "recurring": "multiple",
     "active": true,
     "is_visible": true,
     "source": "routine",
     "added_at": "2026-10-01",
-    "updated_at": "2026-10-04",
+    "updated_at": "2026-10-29",
     "notes": "Tuyển theo khoá nhiều lần mỗi năm."
   },
   {
@@ -11948,5 +11948,59 @@
     "added_at": "2026-10-29",
     "updated_at": "2026-10-29",
     "notes": "Trang ghi bắt đầu toàn thời gian 04/01/2027 nhưng hạn 31/01/2027: cần xác nhận."
+  },
+  {
+    "slug": "huawei-vietnam-campus-recruitment",
+    "name": "Huawei Vietnam Campus Recruitment",
+    "type": "graduate",
+    "company": {
+      "name": "Huawei Vietnam",
+      "slug": "huawei-vietnam"
+    },
+    "official_url": "https://career.huawei.com/reccampportal/portal5/index.html",
+    "description": "Tuyển sinh viên năm cuối và sinh viên mới tốt nghiệp vào các vị trí fresher về mạng doanh nghiệp, vô tuyến 4G/5G, giải pháp lưu trữ và máy tính, năng lượng cho hạ tầng viễn thông; có đào tạo tại Việt Nam và Trung Quốc.",
+    "tracks": [
+      "Mạng và giải pháp viễn thông",
+      "Giải pháp CNTT và trung tâm dữ liệu",
+      "Năng lượng và hạ tầng viễn thông"
+    ],
+    "fields": [
+      "tech",
+      "engineering"
+    ],
+    "eligibility": "Sinh viên tốt nghiệp hoặc dự kiến tốt nghiệp 2026–2027 ngành Điện tử – Viễn thông, CNTT, Khoa học máy tính, Khoa học dữ liệu, Kỹ thuật điện và liên quan; dùng được tiếng Anh.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-29",
+    "updated_at": "2026-10-29",
+    "notes": "Nộp CV qua email đầu mối tuyển dụng nêu trong bài của PTIT; bài không ghi hạn nộp."
+  },
+  {
+    "slug": "unilever-cdfresh",
+    "name": "Unilever CDFresh Program",
+    "type": "graduate",
+    "company": {
+      "name": "Unilever Vietnam",
+      "slug": "unilever-vietnam"
+    },
+    "official_url": "https://www.unilever.com.vn/",
+    "description": "Chương trình 6 tháng phát triển tăng tốc cho vị trí Giám sát kinh doanh tài năng kênh Truyền thống, làm việc thực địa với mạng lưới phân phối và xoay vòng địa bàn.",
+    "tracks": [
+      "Giám sát kinh doanh kênh Truyền thống"
+    ],
+    "fields": [
+      "business"
+    ],
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp, quốc tịch Việt Nam, đi làm full-time từ tháng 1/2027 và sẵn sàng xoay vòng địa bàn.",
+    "duration": "6 tháng",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "manual",
+    "added_at": "2026-10-29",
+    "updated_at": "2026-10-29",
+    "notes": "Chưa thấy trang CDFresh trên domain Unilever; ngày lấy từ tin của UEH và NEU. Đăng ký qua bit.ly/CDFresh2027."
   }
 ]
