@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 77 đang mở_
+_Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 75 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -30,8 +30,6 @@ _Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 77 đang mở_
 | Gates Cambridge Trust \(Đại học Cambridge\) | [Gates Cambridge Scholarship](https://www.gatescambridge.org/apply/eligibility/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 11/09/2026 | — |
 | [TPBank](https://techjobs.vn/companies/tpbank?utm_source=github&utm_medium=vn-student-programs) | [TPBank Tập sự tiềm năng \(Công nghệ\)](https://tuyendung.tpb.vn/vi/jobs/RkV54P) | Fresher | Công nghệ | 🟢 Đang mở | 2026 | 15/09/2026 | — |
 | Swire Coca-Cola Việt Nam | [Chương trình Thực tập Coca-Cola STEMX](https://careersvn.app.swirecocacola.com/job/Ch%C6%B0%C6%A1ng-Tr%C3%ACnh-Th%E1%BB%B1c-T%E1%BA%ADp-Coca-Cola-STEMX-2026-Nh%C3%A0-M%C3%A1y-Mi%E1%BB%81n-B%E1%BA%AFc-%28H%C3%A0-N%E1%BB%99i%29/1283-vi_VN/) | Thực tập | Kỹ thuật, Vận hành | 🟢 Đang mở | 2026 | 17/09/2026 | — |
-| Công ty TNHH Tư vấn và Kiểm toán Anh \(ACAC\) | [Chương trình Tuyển dụng Thực tập sinh ACAC 2026–2027](https://acacvn.com/) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🟢 Đang mở | 2026 | 01/10/2026 | 30/10/2026 |
-| UNSW Sydney | [International Scientia Coursework Scholarship](https://www.scholarships.unsw.edu.au/scholarships/id/1988) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | — | 30/10/2026 |
 | [Tập đoàn Golden Gate](https://techjobs.vn/companies/golden-gate?utm_source=github&utm_medium=vn-student-programs) | [Golden Gate Brand Manager Trainee Program](https://tuyendung.ggg.com.vn/brand-manager-trainee/) | Quản trị viên tập sự | Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/10/2026 |
 | P&G Việt Nam | [P&G LEAD GEN 2027](https://www.pgcareers.com/apac/en/locations/vietnam) | Thực tập | Kinh doanh – Marketing, Công nghệ | 🟢 Đang mở | 2026 | — | 31/10/2026 |
 | Rotary Yoneyama Memorial Foundation | [Rotary Yoneyama Memorial Scholarship \(diện ứng viên ở nước ngoài\)](https://www.rotary-yoneyama.or.jp/english/overseas) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 31/10/2026 |
@@ -203,10 +201,12 @@ _Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 77 đang mở_
 | Zhejiang University \(International Business School, Haining\) | [ZIBS Hai Scholarship](https://zibs.zju.edu.cn/enzibs/UndergraduateApplication/list.htm) | Học bổng | Kinh doanh – Marketing | ⚪ Chưa rõ | 2026 | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (196) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (198) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
+| Công ty TNHH Tư vấn và Kiểm toán Anh \(ACAC\) | [Chương trình Tuyển dụng Thực tập sinh ACAC 2026–2027](https://acacvn.com/) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🔴 Đã đóng | 2026 | 01/10/2026 | 30/10/2026 |
+| UNSW Sydney | [International Scientia Coursework Scholarship](https://www.scholarships.unsw.edu.au/scholarships/id/1988) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | — | 30/10/2026 |
 | [EY Việt Nam](https://techjobs.vn/companies/ey?utm_source=github&utm_medium=vn-student-programs) | [EY Compass Scholarship Program](https://careers.ey.com/ey/job/Ho-Chi-Minh-City-EY-Compass-2026-Scholarship-Program-HCMC-Office/1439857133/) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🔴 Đã đóng | 2026 | — | 23/10/2026 |
 | [EY Việt Nam](https://techjobs.vn/companies/ey?utm_source=github&utm_medium=vn-student-programs) | [Pathway to Strategic Business Leader \(SBL\)](https://careers.ey.com/ey/job/Ha-Noi-Pathway-to-Strategic-Business-Leader-2026-2027/1442864833/) | Thực tập | Kiểm toán – Tư vấn, Tài chính | 🔴 Đã đóng | 2026 | — | 23/10/2026 |
 | DAAD \(Cơ quan Trao đổi Hàn lâm Đức\) | [DAAD Study Scholarships for STEM Disciplines](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742130) | Học bổng | Công nghệ, Kỹ thuật | 🔴 Đã đóng | 2026 | 01/06/2026 | 21/10/2026 |
