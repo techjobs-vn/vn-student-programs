@@ -1050,3 +1050,6 @@
 {"url":"https://youth.neu.edu.vn/vi/tin-tuc-2590/tong-bi-thu-chu-tich-nuoc-to-lam-giao-5-nhiem-vu-cho-dh-kinh-te-tphcm","first_seen":"2026-10-31","verdict":"rejected","reason":"tin tức, không phải chương trình"}
 {"url":"https://youth.neu.edu.vn/vi/tin-tuc-2590/thanh-nien-viet-nam-tham-du-hoi-nghi-thuong-dinh-thanh-nien-nga-asean-nam-2026","first_seen":"2026-10-31","verdict":"rejected","reason":"tin tức, không phải chương trình"}
 {"url":"https://youth.neu.edu.vn/vi/tin-tuc-2590/bi-thu-thuong-truc-tw-doan-gan-su-truong-thanh-cua-moi-sinh-vien-voi-su-phat-trien-cua-tphcm-va-dat-nuoc","first_seen":"2026-10-31","verdict":"rejected","reason":"tin tức, không phải chương trình"}
+{"url":"https://vieclam.ueh.edu.vn/cong-viec/ufresh-finance-audit_187610","first_seen":"2026-10-31","verdict":"added","program_slug":"unilever-ufresh"}
+{"url":"https://vieclam.ueh.edu.vn/cong-viec/chuong-trinh-phat-trien-lanh-dao-tuong-lai-flp_187595","first_seen":"2026-10-31","verdict":"added","program_slug":"cp-vietnam-future-leaders-program"}
+{"url":"https://www.fit.hcmus.edu.vn/tin-tuc/d/social-challenge-nhanh-tay-ung-tuyen-rinh-ve-qua-xin-cung-ai-builder-residency","first_seen":"2026-10-31","verdict":"rejected","reason":"không có trang chính thức trên domain VNG (chỉ link bit.ly), bài không nêu đối tượng sinh viên hoặc mới tốt nghiệp"}

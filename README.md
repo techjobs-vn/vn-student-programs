@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 75 đang mở_
+_Cập nhật dữ liệu: 31/10/2026 · 380 chương trình · 77 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -49,7 +49,9 @@ _Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 75 đang mở_
 | [Công ty Chứng khoán SSI](https://techjobs.vn/companies/ssi?utm_source=github&utm_medium=vn-student-programs) | [SSI Gen S](https://event.ssi.com.vn/gen-s) | Quản trị viên tập sự | Tài chính, Tổng hợp | 🟢 Đang mở | 2026 | 19/10/2026 | 22/11/2026 |
 | UNIQLO Việt Nam | [UNIQLO Management Candidate \(UMC\) 2027](https://uniqlo.pasona.vn/) | Quản trị viên tập sự | Kinh doanh – Marketing, Vận hành | 🟢 Đang mở | 2026 | 14/10/2026 | 23/11/2026 |
 | Chính phủ Thụy Sĩ \(SERI / Federal Commission for Scholarships for Foreign Students\) | [Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 20/08/2026 | 24/11/2026 |
+| C.P. Vietnam Livestock | [Chương trình Phát triển Lãnh đạo Tương lai \(FLP\) của C.P. Việt Nam](https://www.cp.com.vn/) | Quản trị viên tập sự | Tổng hợp | 🟢 Đang mở | 2026 | 28/10/2026 | 30/11/2026 |
 | TikTok Shop | [TikTok Shop Graduate Development Program \(Vietnam\)](https://lifeattiktok.com/search/7670922017126074677) | Graduate | Kinh doanh – Marketing, Vận hành | 🟢 Đang mở | 2026 | — | 30/11/2026 |
+| [Unilever Vietnam](https://techjobs.vn/companies/unilever-vietnam?utm_source=github&utm_medium=vn-student-programs) | [Unilever UFresh](https://uniquelyuvn.com/) | Fresher | Kinh doanh – Marketing, Tài chính, Vận hành | 🟢 Đang mở | 2026 | 29/10/2026 | 30/11/2026 |
 | Yenching Academy, Đại học Bắc Kinh | [Yenching Scholars \(Yenching Academy, Đại học Bắc Kinh\)](https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/09/2026 | 30/11/2026 |
 | Research Grants Council \(UGC\), Hong Kong | [Hong Kong PhD Fellowship Scheme \(HKPFS\)](https://cerg1.ugc.edu.hk/hkpfs/index.html) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/09/2026 | 01/12/2026 |
 | Hong Kong University of Science and Technology \(HKUST\) | [HKUST Future Leaders Award](https://join.hkust.edu.hk/future-leaders-award) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/10/2026 | 02/12/2026 |
