@@ -12002,5 +12002,63 @@
     "added_at": "2026-10-29",
     "updated_at": "2026-10-29",
     "notes": "Chưa thấy trang CDFresh trên domain Unilever; ngày lấy từ tin của UEH và NEU. Đăng ký qua bit.ly/CDFresh2027."
+  },
+  {
+    "slug": "unilever-ufresh",
+    "name": "Unilever UFresh",
+    "type": "fresher",
+    "company": {
+      "name": "Unilever Vietnam",
+      "slug": "unilever-vietnam"
+    },
+    "official_url": "https://uniquelyuvn.com/",
+    "description": "Chương trình tuyển người mới tốt nghiệp của Unilever Việt Nam, gồm nhiều vị trí ở các mảng tài chính, kinh doanh, marketing và chuỗi cung ứng, làm việc tại TP.HCM.",
+    "tracks": [
+      "Net Revenue Management",
+      "Finance Audit",
+      "Finance Supply Chain",
+      "Customer Business Development",
+      "Marketing Brand Clear",
+      "Customer Strategy Planning"
+    ],
+    "fields": [
+      "business",
+      "finance",
+      "operations"
+    ],
+    "eligibility": "Người mới tốt nghiệp đại học; vị trí Finance Audit yêu cầu ngành kiểm toán, kế toán hoặc tương đương.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-31",
+    "updated_at": "2026-10-31",
+    "notes": "Chưa thấy trang UFresh riêng; official_url là trang tuyển dụng uniquelyuvn.com (có vẻ của Unilever VN, chưa xác nhận chính thức). Ngày lấy từ tin của UEH. Đăng ký qua uniquelyuvn.com/register."
+  },
+  {
+    "slug": "cp-vietnam-future-leaders-program",
+    "name": "Chương trình Phát triển Lãnh đạo Tương lai (FLP) của C.P. Việt Nam",
+    "type": "management_trainee",
+    "company": {
+      "name": "C.P. Vietnam Livestock",
+      "slug": null,
+      "domain": "cp.com.vn"
+    },
+    "official_url": "https://www.cp.com.vn/",
+    "description": "Chương trình phát triển lãnh đạo trẻ của C.P. Việt Nam cho người mới tốt nghiệp, làm việc tại TP.HCM và Đồng Nai, dự án Feed Ingredients Trading khu vực miền Nam.",
+    "tracks": [
+      "Feed Ingredients Trading - FIT miền Nam"
+    ],
+    "fields": [
+      "general"
+    ],
+    "eligibility": "Người mới tốt nghiệp đại học ngành quản trị kinh doanh, kinh doanh quốc tế, logistics, nông nghiệp hoặc liên quan; GPA từ 2.75/4.",
+    "recurring": "unknown",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-10-31",
+    "updated_at": "2026-10-31",
+    "notes": "Chưa thấy trang chương trình trên cp.com.vn (website đang bảo trì khi kiểm tra); thông tin lấy từ tin của UEH. Nộp hồ sơ qua email."
   }
 ]

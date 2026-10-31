@@ -4095,5 +4095,25 @@
     ],
     "updated_at": "2026-10-29",
     "notes": "Làm việc full-time từ 1/2027; 4 vòng: hồ sơ, bài kiểm tra kỹ năng, khảo sát thị trường theo nhóm, thuyết trình và phỏng vấn."
+  },
+  {
+    "program_slug": "unilever-ufresh",
+    "year": 2026,
+    "opens_at": "2026-10-29",
+    "deadline": "2026-11-30",
+    "sources": [
+      "https://vieclam.ueh.edu.vn/cong-viec/ufresh-finance-audit_187610"
+    ],
+    "updated_at": "2026-10-31"
+  },
+  {
+    "program_slug": "cp-vietnam-future-leaders-program",
+    "year": 2026,
+    "opens_at": "2026-10-28",
+    "deadline": "2026-11-30",
+    "sources": [
+      "https://vieclam.ueh.edu.vn/cong-viec/chuong-trinh-phat-trien-lanh-dao-tuong-lai-flp_187595"
+    ],
+    "updated_at": "2026-10-31"
   }
 ]
