@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 71 đang mở_
+_Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 72 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -48,6 +48,7 @@ _Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 71 đang mở_
 | Yenching Academy, Đại học Bắc Kinh | [Yenching Scholars \(Yenching Academy, Đại học Bắc Kinh\)](https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/09/2026 | 30/11/2026 |
 | Research Grants Council \(UGC\), Hong Kong | [Hong Kong PhD Fellowship Scheme \(HKPFS\)](https://cerg1.ugc.edu.hk/hkpfs/index.html) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/09/2026 | 01/12/2026 |
 | Hong Kong University of Science and Technology \(HKUST\) | [HKUST Future Leaders Award](https://join.hkust.edu.hk/future-leaders-award) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/10/2026 | 02/12/2026 |
+| Đại học Kyoto | [Kyoto iUP \(Kyoto University International Undergraduate Program\) – miễn học phí và học bổng](https://www.iup.kyoto-u.ac.jp/apply/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/11/2026 | 03/12/2026 |
 | University of Warwick | [Warwick Postgraduate Research Scholarships \(Chancellor's\)](https://warwick.ac.uk/services/dc/schols_fund/applicants/competitions/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 05/10/2026 | 10/12/2026 |
 | [Ngân hàng TMCP Á Châu \(ACB\)](https://techjobs.vn/companies/acb?utm_source=github&utm_medium=vn-student-programs) | [The Next Banker](https://www.acbjobs.com.vn/pages/the-next-banker) | Thực tập | Tài chính | 🟢 Đang mở | 2026 | 01/10/2026 | 12/12/2026 |
 | Simon Fraser University | [International Undergraduate Scholars Entrance Scholarship \(USES\)](https://www.sfu.ca/students/financial-aid/entrance/highschool/uses.html) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 15/12/2026 |
@@ -90,7 +91,6 @@ _Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 71 đang mở_
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-student-programs) | [TinyFish Ambassador Program](https://www.tinyfish.ai/ambassadors) | Đại sứ sinh viên | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-student-programs) | [TinyFish Student Program](https://www.tinyfish.ai/students) | Đại sứ sinh viên | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [WorldQuant](https://techjobs.vn/companies/worldquant?utm_source=github&utm_medium=vn-student-programs) | [WorldQuant BRAIN Research Consultant Program](https://worldquantbrain.com/consultant) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | — |
-| Đại học Kyoto | [Kyoto iUP \(Kyoto University International Undergraduate Program\) – miễn học phí và học bổng](https://www.iup.kyoto-u.ac.jp/apply/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 02/11/2026 | 03/12/2026 |
 | Đại học Kyoto \(chương trình của Bai Xian Asia Institute\) | [Asian Future Leaders Scholarship Program \(AFLSP\) tại Đại học Kyoto](https://www.aflsp.kyoto-u.ac.jp/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 04/11/2026 | 13/11/2026 |
 | Sophia University | [Sophia University Benefactors' \(Adachi\) Scholarship](https://piloti.sophia.ac.jp/eng/scholarships1/scholraship_e0005/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 11/11/2026 | 11/12/2026 |
 | Sophia University | [Sophia University New Student Scholarship](https://www.sophia.ac.jp/eng/admissions-and-aid/tuition/scholarship-before/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 11/11/2026 | 11/12/2026 |
