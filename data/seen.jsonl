@@ -1050,3 +1050,16 @@
 {"url":"https://youth.neu.edu.vn/vi/tin-tuc-2590/tong-bi-thu-chu-tich-nuoc-to-lam-giao-5-nhiem-vu-cho-dh-kinh-te-tphcm","first_seen":"2026-10-31","verdict":"rejected","reason":"tin tức, không phải chương trình"}
 {"url":"https://youth.neu.edu.vn/vi/tin-tuc-2590/thanh-nien-viet-nam-tham-du-hoi-nghi-thuong-dinh-thanh-nien-nga-asean-nam-2026","first_seen":"2026-10-31","verdict":"rejected","reason":"tin tức, không phải chương trình"}
 {"url":"https://youth.neu.edu.vn/vi/tin-tuc-2590/bi-thu-thuong-truc-tw-doan-gan-su-truong-thanh-cua-moi-sinh-vien-voi-su-phat-trien-cua-tphcm-va-dat-nuoc","first_seen":"2026-10-31","verdict":"rejected","reason":"tin tức, không phải chương trình"}
+{"url": "https://hvnh.edu.vn/medias/avatar.png", "first_seen": "2026-11-02", "verdict": "rejected", "reason": "ảnh avatar, không phải tin tuyển dụng"}
+{"url": "https://hvnh.edu.vn/medias//ctsv/vi/08.2026/system/avatar/thumb.24466114-f68d-4d67-9ff7-3424bdb1a52f.jpg", "first_seen": "2026-11-02", "verdict": "rejected", "reason": "ảnh avatar, không phải tin tuyển dụng"}
+{"url": "https://www.facebook.com/UET.FIT/", "first_seen": "2026-11-02", "verdict": "rejected", "reason": "trang Facebook chung của khoa"}
+{"url": "https://jobs.neu.edu.vn/jobs?tagJob=31", "first_seen": "2026-11-02", "verdict": "rejected", "reason": "trang lọc theo thẻ, không phải một chương trình"}
+{"url": "https://hcmc.ftu.edu.vn/suc-khoe-hoc-duong/nao-mo-cau-nhan-biet-som-phong-benh-chu-dong/", "first_seen": "2026-11-02", "verdict": "rejected", "reason": "bài sức khoẻ học đường, không liên quan tuyển dụng"}
+{"url": "https://jobs.neu.edu.vn/jobs?tagJob=38", "first_seen": "2026-11-02", "verdict": "rejected", "reason": "trang lọc theo thẻ, không phải một chương trình"}
+{"url": "https://vieclam.tmu.edu.vn/chuyen-vien-khach-hang-ca-nhan-vay-the-chap-vpbank-jxi6801892", "first_seen": "2026-11-02", "verdict": "rejected", "reason": "tin tuyển một vị trí lẻ"}
+{"url": "https://vieclam.tmu.edu.vn/cong-tac-vien-goi-data-dat-lich-hen-lam-online-jxi6798677", "first_seen": "2026-11-02", "verdict": "rejected", "reason": "cộng tác viên online"}
+{"url": "https://soict.hust.edu.vn/sinh-vien-viet-chien-thang-cuoc-thi-viet-phan-mem-cua-apple.html", "first_seen": "2026-11-02", "verdict": "rejected", "reason": "bài tin về cuộc thi, không phải tuyển dụng"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-kiem-toan-[audit-intern]-MTMwNA.html", "first_seen": "2026-11-02", "verdict": "rejected", "reason": "tin thực tập một vị trí lẻ"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-phong-khach-hang-ca-nhan-[khcn]-MTMwMw.html", "first_seen": "2026-11-02", "verdict": "rejected", "reason": "tin thực tập một vị trí lẻ"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/[dong-nai]-thuc-tap-sinh-quan-he-khach-hang-doanh-nghiep---chuong-trinh-hdbank-future-banker-MTI5Ng.html", "first_seen": "2026-11-02", "verdict": "duplicate", "program_slug": "hdbank-future-banker"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/[dong-nai]-thuc-tap-sinh-quan-he-khach-hang-doanh-nghiep---chuong-trinh-hdbank-future-banker-MTI5Nw.html", "first_seen": "2026-11-02", "verdict": "duplicate", "program_slug": "hdbank-future-banker"}
