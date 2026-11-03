@@ -21,4 +21,6 @@ crontab -e   # thêm dòng dưới
 
 Script tự `git reset --hard origin/main` trong clone riêng này, nên chính nó cũng tự cập nhật. Không trỏ `REPO_DIR` vào clone đang làm việc.
 
+Telegram: tạo `~/.config/vsp-bot/telegram.env` (`TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`). Chỉ bắn khi PR đã merge và có chương trình được thêm; chưa cấu hình thì bỏ qua.
+
 Biến môi trường: `REPO_DIR`, `JOB_HUB_DIR`, `GH_USER`, `DAYS`, `CLAUDE_MODEL`, `KUBECONFIG`, `DRY_RUN=1` (commit local, không push).
