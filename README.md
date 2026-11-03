@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 70 đang mở_
+_Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 71 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -35,6 +35,7 @@ _Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 70 đang mở_
 | Trường Đại học Mở TP.HCM \(OU\) | [Học bổng Tiếp sức đến trường \(ĐH Mở TP.HCM\)](https://ou.edu.vn/tin_tuc/tsdt-26-27/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 17/08/2026 | 05/11/2026 |
 | University of Toronto | [Lester B. Pearson International Scholarship](https://future.utoronto.ca/pearson-scholarships) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | — | 06/11/2026 |
 | Xipat | [Xipat Product Owner Trainee Program](https://xipat.com/careers/po-trainee-2026) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | 26/10/2026 | 08/11/2026 |
+| Đại học Kyoto \(chương trình của Bai Xian Asia Institute\) | [Asian Future Leaders Scholarship Program \(AFLSP\) tại Đại học Kyoto](https://www.aflsp.kyoto-u.ac.jp/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 04/11/2026 | 13/11/2026 |
 | University of British Columbia | [UBC International Scholars Program](https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 05/10/2026 | 15/11/2026 |
 | [Unilever Vietnam](https://techjobs.vn/companies/unilever-vietnam?utm_source=github&utm_medium=vn-student-programs) | [Unilever CDFresh Program](https://www.unilever.com.vn/) | Graduate | Kinh doanh – Marketing | 🟢 Đang mở | 2026 | 22/10/2026 | 15/11/2026 |
 | HEINEKEN Việt Nam | [HEINEKEN Vietnam NextGen 2027 – Supply Chain](https://careers.theheinekencompany.com/English/HEINEKEN-Vietnam#supply-chain) | Quản trị viên tập sự | Vận hành, Kỹ thuật | 🟢 Đang mở | 2026 | — | 20/11/2026 |
@@ -89,7 +90,6 @@ _Cập nhật dữ liệu: 29/10/2026 · 378 chương trình · 70 đang mở_
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-student-programs) | [TinyFish Ambassador Program](https://www.tinyfish.ai/ambassadors) | Đại sứ sinh viên | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-student-programs) | [TinyFish Student Program](https://www.tinyfish.ai/students) | Đại sứ sinh viên | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [WorldQuant](https://techjobs.vn/companies/worldquant?utm_source=github&utm_medium=vn-student-programs) | [WorldQuant BRAIN Research Consultant Program](https://worldquantbrain.com/consultant) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | — |
-| Đại học Kyoto \(chương trình của Bai Xian Asia Institute\) | [Asian Future Leaders Scholarship Program \(AFLSP\) tại Đại học Kyoto](https://www.aflsp.kyoto-u.ac.jp/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 04/11/2026 | 13/11/2026 |
 | Sophia University | [Sophia University Benefactors' \(Adachi\) Scholarship](https://piloti.sophia.ac.jp/eng/scholarships1/scholraship_e0005/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 11/11/2026 | 11/12/2026 |
 | Sophia University | [Sophia University New Student Scholarship](https://www.sophia.ac.jp/eng/admissions-and-aid/tuition/scholarship-before/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 11/11/2026 | 11/12/2026 |
 | Bocconi University | [Bocconi4Access to Education - 100% Full Tuition Waivers](https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/funding/100-full-tuition-waivers-ay-2027-28) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 12/11/2026 | 30/11/2026 |
