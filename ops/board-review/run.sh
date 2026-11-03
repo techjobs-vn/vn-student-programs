@@ -11,6 +11,7 @@ DAYS="${DAYS:-3}"                                         # look-back window for
 CLAUDE_BIN="${CLAUDE_BIN:-claude}"
 CLAUDE_MODEL="${CLAUDE_MODEL:-sonnet}"
 PYTHON="${PYTHON:-python3}"
+TELEGRAM_ENV_FILE="${TELEGRAM_ENV_FILE:-$HOME/.config/vsp-bot/telegram.env}"
 DRY_RUN="${DRY_RUN:-0}"                                   # 1 = review and commit locally, never push
 export KUBECONFIG="${KUBECONFIG:-$HOME/.kube/personal-infra.yaml}"
 export GH_TOKEN="${GH_TOKEN:-$(gh auth token --user "$GH_USER")}"
@@ -30,6 +31,16 @@ case "$(git config user.email)" in
   *@users.noreply.github.com) ;;
   *) log "git user.email must be a GitHub noreply address"; exit 1 ;;
 esac
+
+# Telegram ping, only when a program was actually added. Credentials: TELEGRAM_BOT_TOKEN and
+# TELEGRAM_CHAT_ID from the environment or from $TELEGRAM_ENV_FILE. Skipped silently when unset.
+notify_telegram() {
+  [[ -f "$TELEGRAM_ENV_FILE" ]] && { set -a; . "$TELEGRAM_ENV_FILE"; set +a; }
+  [[ -n "${TELEGRAM_BOT_TOKEN:-}" && -n "${TELEGRAM_CHAT_ID:-}" ]] || { log "telegram not configured, skipping"; return 0; }
+  curl -fsS -m 15 "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+    --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" --data-urlencode "text=$1" \
+    --data-urlencode "disable_web_page_preview=true" >/dev/null || log "telegram send failed"
+}
 
 reset_main() {
   git fetch -q origin
@@ -131,6 +142,10 @@ if [[ -n "$pr_url" ]]; then
   if gh pr checks "$pr_url" --watch --fail-fast >/dev/null; then
     gh pr merge "$pr_url" --squash --delete-branch
     log "merged $pr_url"
+    added="$("$PYTHON" -c 'import json,sys
+for a in json.load(open(sys.argv[1])).get("added", []):
+    print("• %s (%s): %s" % (a.get("program_slug"), a.get("kind"), a.get("summary")))' "$CACHE/result.json")"
+    if [[ -n "$added" ]]; then notify_telegram "🎓 Program mới được thêm vào techjobs.vn"$'\n'"$added"$'\n'"$pr_url"; fi
   else
     gh pr comment "$pr_url" --body "CI không pass, để lại cho người duyệt."
     gh pr ready "$pr_url" --undo || true
