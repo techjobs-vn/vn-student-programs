@@ -1083,3 +1083,56 @@
 {"url": "https://hcmc.ftu.edu.vn/gioi-thieu/co-cau-to-chuc/ban-thu-vien/", "first_seen": "2026-11-03", "verdict": "rejected", "reason": "trang giới thiệu đơn vị của trường"}
 {"url": "https://hcmc.ftu.edu.vn/gioi-thieu/co-cau-to-chuc/ban-truyen-thong-va-quan-he-doi-ngoai/", "first_seen": "2026-11-03", "verdict": "rejected", "reason": "trang giới thiệu đơn vị của trường"}
 {"url": "https://soict.hust.edu.vn/ke-hoach-nop-ho-so-va-bao-ve-luan-van-cao-hoc-dot-thang-12-2026.html", "first_seen": "2026-11-03", "verdict": "rejected", "reason": "thông báo luận văn cao học, không liên quan tuyển dụng"}
+{"url": "https://fetel.hcmus.edu.vn/ke-hoach-dang-ky-xet-chuyen-nganh-nam-2026-nganh-ky-thuat-dien-tu-vien-thong-chuong-trinh-chuan/", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "thông báo học vụ của trường"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/[sacombank]-tuyen-dung-thuc-tap-sinh-headstart-2026-tren-toan-quoc-MTMzNg.html", "first_seen": "2026-11-07", "verdict": "duplicate", "program_slug": "sacombank-headstart"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-ke-toan-[khong-luong]-MTMzMw.html", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin thực tập một vị trí lẻ"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-phong-logistic-MTMzMg.html", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin thực tập một vị trí lẻ"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/internal-communication-intern-MTMzMQ.html", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin thực tập một vị trí lẻ"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/hr-intern-fresher-MTMzMA.html", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin thực tập một vị trí lẻ"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/human-resources-intern-MTMyOQ.html", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin thực tập một vị trí lẻ"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-ke-toan---kiem-toan-MTMyOA.html", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin thực tập một vị trí lẻ"}
+{"url": "https://www.fit.hcmus.edu.vn/tin-tuc/d/lang-nghe-chuyen-nghe-kham-pha-tat-tan-tat-ve-ai-engineer-cung-cac-chuyen-gia-tai-webinar-from-ai-learner-to-ai-engineer-build-your-career-with-ai-builder-residency", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "webinar, không phải chương trình"}
+{"url": "https://vieclam.uet.vnu.edu.vn/tester-intern-co-tieng-nhat-jxi6821167", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin thực tập một vị trí lẻ"}
+{"url": "https://vieclam.tmu.edu.vn/thuc-tap-sinh-ctv-marketing-fulltime-jxi6823023", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin thực tập/CTV một vị trí lẻ"}
+{"url": "https://vieclam.tmu.edu.vn/hn-hcm-dn-he-thong-trung-tam-anh-ngu-zim-tuyen-dung-nhan-vien-tu-van-khoa-hoc-full-time-2026-jxi6821914", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin tuyển nhân viên một vị trí lẻ"}
+{"url": "https://hvnh.edu.vn/ctsv/vn/cohoivieclam/-hdbank-future-banker-2026-hen-gap-sinh-vien-hoc-vien-ngan-hang-tai-buoi-phong-van-996.html", "first_seen": "2026-11-07", "verdict": "duplicate", "program_slug": "hdbank-future-banker"}
+{"url": "https://youth.neu.edu.vn/vi/tin-tuc-2590/ban-tin-thang-10-hoi-sinh-vien-neu", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "bản tin hội sinh viên, không phải tuyển dụng"}
+{"url": "https://youth.neu.edu.vn/vi/tin-tuc-2590/tu-hao-tuoi-tre-kinh-te-quoc-dan-tren-ban-do-phong-trao-doan-hoi-thu-do", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin phong trào đoàn hội"}
+{"url": "https://youth.neu.edu.vn/vi/tin-tuc-2590/ban-hoa-tau-cua-van-hoa-nghe-thuat-huong-toi-ky-niem-70-nam-thanh-lap-neu", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin sự kiện văn nghệ của trường"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-marketing-MTMyNQ.html", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin thực tập một vị trí lẻ"}
+{"url": "https://vieclam.hub.edu.vn/cdn-cgi/l/email-protection", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "link bảo vệ email, không phải tin"}
+{"url": "https://vku.udn.vn/vi/khoa-kinh-te-so/", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "trang giới thiệu khoa"}
+{"url": "https://vku.udn.vn/vi/notice/thong-bao-ve-nhu-cau-bo-nhiem-chuc-danh-giao-su-pho-giao-su-nam-hoc-2026-2027/", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "thông báo bổ nhiệm giáo sư, không liên quan"}
+{"url": "https://forum.uit.edu.vn/t/cty-motorola-solutions-vietnam-r-d-center-tran-trong-moi-ban-den-tham-du-su-kien-cua-chung-toi/164999", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "mời tham dự sự kiện"}
+{"url": "https://forum.uit.edu.vn/u/NhungHoang86", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "trang hồ sơ người dùng"}
+{"url": "https://fetel.hcmus.edu.vn/thong-bao-dang-ky-le-tot-nghiep-khoa-dien-tu-vien-thong-2026/", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "thông báo lễ tốt nghiệp của trường"}
+{"url": "https://vieclam.tmu.edu.vn/tro-ly-assistant-jxi6817893", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin tuyển một vị trí lẻ"}
+{"url": "https://vieclam.tmu.edu.vn/nhan-vien-phat-trien-thi-truong-jxi6816079", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin tuyển một vị trí lẻ"}
+{"url": "https://vieclam.tmu.edu.vn/nhan-vien-thi-truong-cham-soc-khach-hang-jxi6816070", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin tuyển một vị trí lẻ"}
+{"url": "https://httt.uit.edu.vn/kltn-nop-bao-cao-tien-do-giua-ky-kltn-hk-1-2026-2027/", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "thông báo học vụ KLTN"}
+{"url": "https://vieclam.uet.vnu.edu.vn/tro-ly-assistant-jxi6819498", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin tuyển một vị trí lẻ"}
+{"url": "https://vieclam.uet.vnu.edu.vn/hn-cong-ty-mor-software-tuyen-dung-thuc-tap-sinh-sale-admin-thi-truong-nhat-ban-n1-nhan-vien-phat-trien-kinh-doanh-tieng-nhat-account-manager-it-staffing-full-time-2026-jxi6819485", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin tuyển nhiều vị trí lẻ, không phải chương trình có tên"}
+{"url": "https://vieclam.uet.vnu.edu.vn/it-support-intern-jxi6819334", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin thực tập một vị trí lẻ"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/tap-su-tu-van-dau-tu---kh-ca-nhan-MTMyNA.html", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin tập sự một vị trí lẻ"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/tap-su-tu-van-dau-tu-khach-hang-ca-nhan-MTMyMA.html", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin tập sự một vị trí lẻ"}
+{"url": "https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-kinh-doanh-MTMxOQ.html", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin thực tập một vị trí lẻ"}
+{"url": "https://youth.neu.edu.vn/vi/thong-tin-tuyen-dung-2657/nhan-vien-hanh-chinh-xuat-nhap-khau", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin tuyển nhân viên một vị trí lẻ"}
+{"url": "https://youth.neu.edu.vn/vi/thong-tin-tuyen-dung-2657/urbox-internship-program-2026-2027", "first_seen": "2026-11-07", "verdict": "duplicate", "program_slug": "urbox-internship-program"}
+{"url": "https://youth.neu.edu.vn/vi/tin-tuc-2590/lua-dao-viec-lam-phuc-tap-doan-hoi-phai-giup-sinh-vien", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin cảnh báo lừa đảo việc làm"}
+{"url": "https://youth.neu.edu.vn/vi/tin-tuc-2590/t-u-doan-mo-cong-dang-ky-ton-vinh-100-nha-sang-tao-noi-dung-so", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin vinh danh phong trào đoàn"}
+{"url": "https://youth.neu.edu.vn/vi/tin-tuc-2590/ho-tro-hoc-sinh-sinh-vien-phat-trien-y-tuong-nghien-cuu-gan-voi-nhom-cong-nghe-chien-luoc", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin hỗ trợ ý tưởng nghiên cứu, không phải chương trình tuyển dụng"}
+{"url": "https://youth.neu.edu.vn/vi/tin-tuc-2590/xet-chon-100-nha-giao-tre-tieu-bieu-cap-trung-uong-nam-2026-3750", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin xét chọn danh hiệu nhà giáo"}
+{"url": "https://youth.neu.edu.vn/vi/tin-tuc-2590/dua-sang-kien-cua-nguoi-tre-vao-giai-quyet-nhung-bai-toan-thuc-tien-0947", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin phong trào đoàn"}
+{"url": "https://jobs.neu.edu.vn/categories/neu-career-path-club", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "trang danh mục câu lạc bộ"}
+{"url": "https://jobs.neu.edu.vn/companies/s8nr8qftdz1zkpn", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "trang công ty chung"}
+{"url": "https://jobs.neu.edu.vn/jobs/hdbank-future-banker-2026-hdbank-1202611041502", "first_seen": "2026-11-07", "verdict": "duplicate", "program_slug": "hdbank-future-banker"}
+{"url": "https://career.hdbank.com.vn/", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "trang tuyển dụng chung của HDBank"}
+{"url": "https://jobs.neu.edu.vn/companies/zd51sy89vhzq4e9", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "trang công ty chung"}
+{"url": "https://jobs.neu.edu.vn/jobs/sacombank-headstart-2026-sacombank-1202611041616", "first_seen": "2026-11-07", "verdict": "duplicate", "program_slug": "sacombank-headstart"}
+{"url": "https://sacombankcareer.com/", "first_seen": "2026-11-07", "verdict": "duplicate", "program_slug": "sacombank-headstart"}
+{"url": "https://jobs.neu.edu.vn/companies/oelblbvaqyjjwdw", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "trang công ty chung"}
+{"url": "https://jobs.neu.edu.vn/jobs/acb-the-next-banker-2027-thang-12027-ngan-hang-a-chau-acb-1202611041613", "first_seen": "2026-11-07", "verdict": "duplicate", "program_slug": "acb-the-next-banker"}
+{"url": "https://www.acbjobs.com.vn/", "first_seen": "2026-11-07", "verdict": "duplicate", "program_slug": "acb-the-next-banker"}
+{"url": "https://forum.uit.edu.vn/t/dang-ky-soda125-chu-ky-3-thang-nhan-ngay-ve-fanzone/164986", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "quảng cáo, không phải tuyển dụng"}
+{"url": "https://forum.uit.edu.vn/t/hiring-microchip-technology-viet-nam-ho-chi-minh-city-engineer-i-cad/164984", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "tin tuyển một vị trí lẻ"}
+{"url": "https://forum.uit.edu.vn/u/19521510", "first_seen": "2026-11-07", "verdict": "rejected", "reason": "trang hồ sơ người dùng"}
