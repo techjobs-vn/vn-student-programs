@@ -116,11 +116,11 @@ export function renderTables({ programs, cycles, today }) {
   const active = rows.filter((r) => r.status !== "closed");
   const closed = rows.filter((r) => r.status === "closed");
 
-  // Use the newest data date rather than `today`, otherwise the daily job would commit every day.
+  // `lastUpdated` = newest data change; `today` = when statuses were last recomputed (the daily job commits anyway as open/closed flips).
   const lastUpdated = [...programs, ...cycles].map((x) => x.updated_at).sort().at(-1);
   const openCount = active.filter((r) => r.status === "open").length;
   const parts = [
-    `_Cập nhật dữ liệu: ${formatDate(lastUpdated)} · ${rows.length} chương trình · ${openCount} đang mở_`,
+    `_Kiểm tra: ${formatDate(today)} · dữ liệu thay đổi lần cuối: ${formatDate(lastUpdated)} · ${rows.length} chương trình · ${openCount} đang mở_`,
     "",
     active.length ? renderTable(active) : "_Chưa có chương trình nào đang mở hoặc sắp mở._",
   ];

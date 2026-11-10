@@ -78,10 +78,10 @@ test("uses the latest cycle per program", () => {
   assert.ok(!md.includes("01/03/2025"));
 });
 
-test("header date is the latest data update, not today, so the README only changes with data or status", () => {
+test("header shows both the check date (today) and the latest data change", () => {
   const md = renderTables({ programs, cycles, today: "2026-12-25" });
-  assert.ok(md.includes("Cập nhật dữ liệu: 01/10/2026"));
-  assert.ok(!md.includes("25/12/2026"));
+  assert.ok(md.includes("Kiểm tra: 25/12/2026"));
+  assert.ok(md.includes("dữ liệu thay đổi lần cuối: 01/10/2026"));
 });
 
 test("escapes markdown link syntax in names so rows cannot inject links", () => {
