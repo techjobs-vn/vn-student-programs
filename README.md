@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Kiểm tra: 10/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 66 đang mở_
+_Kiểm tra: 11/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 68 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -44,6 +44,8 @@ _Kiểm tra: 10/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | Hong Kong University of Science and Technology \(HKUST\) | [HKUST Future Leaders Award](https://join.hkust.edu.hk/future-leaders-award) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/10/2026 | 02/12/2026 |
 | Đại học Kyoto | [Kyoto iUP \(Kyoto University International Undergraduate Program\) – miễn học phí và học bổng](https://www.iup.kyoto-u.ac.jp/apply/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/11/2026 | 03/12/2026 |
 | University of Warwick | [Warwick Postgraduate Research Scholarships \(Chancellor's\)](https://warwick.ac.uk/services/dc/schols_fund/applicants/competitions/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 05/10/2026 | 10/12/2026 |
+| Sophia University | [Sophia University Benefactors' \(Adachi\) Scholarship](https://piloti.sophia.ac.jp/eng/scholarships1/scholraship_e0005/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 11/11/2026 | 11/12/2026 |
+| Sophia University | [Sophia University New Student Scholarship](https://www.sophia.ac.jp/eng/admissions-and-aid/tuition/scholarship-before/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 11/11/2026 | 11/12/2026 |
 | [Ngân hàng TMCP Á Châu \(ACB\)](https://techjobs.vn/companies/acb?utm_source=github&utm_medium=vn-student-programs) | [The Next Banker](https://www.acbjobs.com.vn/pages/the-next-banker) | Thực tập | Tài chính | 🟢 Đang mở | 2026 | 01/10/2026 | 12/12/2026 |
 | Simon Fraser University | [International Undergraduate Scholars Entrance Scholarship \(USES\)](https://www.sfu.ca/students/financial-aid/entrance/highschool/uses.html) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 15/12/2026 |
 | [TMA Tech Group](https://techjobs.vn/companies/tma-solutions?utm_source=github&utm_medium=vn-student-programs) | [TMA Industry Internship](https://www.tma.vn/tuyen-dung/thuc-tap) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | 25/12/2026 |
@@ -85,8 +87,6 @@ _Kiểm tra: 10/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-student-programs) | [TinyFish Ambassador Program](https://www.tinyfish.ai/ambassadors) | Đại sứ sinh viên | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-student-programs) | [TinyFish Student Program](https://www.tinyfish.ai/students) | Đại sứ sinh viên | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [WorldQuant](https://techjobs.vn/companies/worldquant?utm_source=github&utm_medium=vn-student-programs) | [WorldQuant BRAIN Research Consultant Program](https://worldquantbrain.com/consultant) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | — |
-| Sophia University | [Sophia University Benefactors' \(Adachi\) Scholarship](https://piloti.sophia.ac.jp/eng/scholarships1/scholraship_e0005/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 11/11/2026 | 11/12/2026 |
-| Sophia University | [Sophia University New Student Scholarship](https://www.sophia.ac.jp/eng/admissions-and-aid/tuition/scholarship-before/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 11/11/2026 | 11/12/2026 |
 | Bocconi University | [Bocconi4Access to Education - 100% Full Tuition Waivers](https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/funding/100-full-tuition-waivers-ay-2027-28) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 12/11/2026 | 30/11/2026 |
 | Gwangju Institute of Science and Technology \(GIST\) | [GIST College Scholarship \(International Undergraduate\)](https://ipa.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf) | Học bổng | Công nghệ, Kỹ thuật | 🟡 Sắp mở | 2026 | 01/12/2026 | 29/01/2027 |
 | Quỹ Hợp tác và Phát triển Quốc tế Đài Loan \(TaiwanICDF\) | [TaiwanICDF International Higher Education Scholarship](https://www.icdf.org.tw/wSite/ct?xItem=12505&ctNode=31562&mp=2) | Học bổng | Kinh doanh – Marketing, Kỹ thuật, Công nghệ, Tổng hợp | 🟡 Sắp mở | 2026 | 01/12/2026 | 15/03/2027 |
