@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Kiểm tra: 11/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 68 đang mở_
+_Kiểm tra: 12/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 69 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -37,6 +37,7 @@ _Kiểm tra: 11/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | [Công ty Chứng khoán SSI](https://techjobs.vn/companies/ssi?utm_source=github&utm_medium=vn-student-programs) | [SSI Gen S](https://event.ssi.com.vn/gen-s) | Quản trị viên tập sự | Tài chính, Tổng hợp | 🟢 Đang mở | 2026 | 19/10/2026 | 22/11/2026 |
 | UNIQLO Việt Nam | [UNIQLO Management Candidate \(UMC\) 2027](https://uniqlo.pasona.vn/) | Quản trị viên tập sự | Kinh doanh – Marketing, Vận hành | 🟢 Đang mở | 2026 | 14/10/2026 | 23/11/2026 |
 | Chính phủ Thụy Sĩ \(SERI / Federal Commission for Scholarships for Foreign Students\) | [Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 20/08/2026 | 24/11/2026 |
+| Bocconi University | [Bocconi4Access to Education - 100% Full Tuition Waivers](https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/funding/100-full-tuition-waivers-ay-2027-28) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 12/11/2026 | 30/11/2026 |
 | ETH Zürich | [Excellence Scholarship & Opportunity Programme \(ESOP\)](https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/11/2026 | 30/11/2026 |
 | TikTok Shop | [TikTok Shop Graduate Development Program \(Vietnam\)](https://lifeattiktok.com/search/7670922017126074677) | Graduate | Kinh doanh – Marketing, Vận hành | 🟢 Đang mở | 2026 | — | 30/11/2026 |
 | Yenching Academy, Đại học Bắc Kinh | [Yenching Scholars \(Yenching Academy, Đại học Bắc Kinh\)](https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/09/2026 | 30/11/2026 |
@@ -87,7 +88,6 @@ _Kiểm tra: 11/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-student-programs) | [TinyFish Ambassador Program](https://www.tinyfish.ai/ambassadors) | Đại sứ sinh viên | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [TinyFish](https://techjobs.vn/companies/tinyfish?utm_source=github&utm_medium=vn-student-programs) | [TinyFish Student Program](https://www.tinyfish.ai/students) | Đại sứ sinh viên | Công nghệ | 🟢 Đang mở | 2026 | — | — |
 | [WorldQuant](https://techjobs.vn/companies/worldquant?utm_source=github&utm_medium=vn-student-programs) | [WorldQuant BRAIN Research Consultant Program](https://worldquantbrain.com/consultant) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | — |
-| Bocconi University | [Bocconi4Access to Education - 100% Full Tuition Waivers](https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/funding/100-full-tuition-waivers-ay-2027-28) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 12/11/2026 | 30/11/2026 |
 | Gwangju Institute of Science and Technology \(GIST\) | [GIST College Scholarship \(International Undergraduate\)](https://ipa.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf) | Học bổng | Công nghệ, Kỹ thuật | 🟡 Sắp mở | 2026 | 01/12/2026 | 29/01/2027 |
 | Quỹ Hợp tác và Phát triển Quốc tế Đài Loan \(TaiwanICDF\) | [TaiwanICDF International Higher Education Scholarship](https://www.icdf.org.tw/wSite/ct?xItem=12505&ctNode=31562&mp=2) | Học bổng | Kinh doanh – Marketing, Kỹ thuật, Công nghệ, Tổng hợp | 🟡 Sắp mở | 2026 | 01/12/2026 | 15/03/2027 |
 | Ulsan National Institute of Science and Technology \(UNIST\) | [UNIST Scholarship \(International Undergraduate\)](https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do) | Học bổng | Công nghệ, Kỹ thuật, Kinh doanh – Marketing | 🟡 Sắp mở | 2026 | 02/12/2026 | 22/01/2027 |
