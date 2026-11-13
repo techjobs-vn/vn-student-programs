@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Kiểm tra: 13/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 69 đang mở_
+_Kiểm tra: 14/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 68 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -30,7 +30,6 @@ _Kiểm tra: 13/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | Gates Cambridge Trust \(Đại học Cambridge\) | [Gates Cambridge Scholarship](https://www.gatescambridge.org/apply/eligibility/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 11/09/2026 | — |
 | [TPBank](https://techjobs.vn/companies/tpbank?utm_source=github&utm_medium=vn-student-programs) | [TPBank Tập sự tiềm năng \(Công nghệ\)](https://tuyendung.tpb.vn/vi/jobs/RkV54P) | Fresher | Công nghệ | 🟢 Đang mở | 2026 | 15/09/2026 | — |
 | Swire Coca-Cola Việt Nam | [Chương trình Thực tập Coca-Cola STEMX](https://careersvn.app.swirecocacola.com/job/Ch%C6%B0%C6%A1ng-Tr%C3%ACnh-Th%E1%BB%B1c-T%E1%BA%ADp-Coca-Cola-STEMX-2026-Nh%C3%A0-M%C3%A1y-Mi%E1%BB%81n-B%E1%BA%AFc-%28H%C3%A0-N%E1%BB%99i%29/1283-vi_VN/) | Thực tập | Kỹ thuật, Vận hành | 🟢 Đang mở | 2026 | 17/09/2026 | — |
-| Đại học Kyoto \(chương trình của Bai Xian Asia Institute\) | [Asian Future Leaders Scholarship Program \(AFLSP\) tại Đại học Kyoto](https://www.aflsp.kyoto-u.ac.jp/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 04/11/2026 | 13/11/2026 |
 | University of British Columbia | [UBC International Scholars Program](https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 05/10/2026 | 15/11/2026 |
 | [Unilever Vietnam](https://techjobs.vn/companies/unilever-vietnam?utm_source=github&utm_medium=vn-student-programs) | [Unilever CDFresh Program](https://www.unilever.com.vn/) | Graduate | Kinh doanh – Marketing | 🟢 Đang mở | 2026 | 22/10/2026 | 15/11/2026 |
 | HEINEKEN Việt Nam | [HEINEKEN Vietnam NextGen 2027 – Supply Chain](https://careers.theheinekencompany.com/English/HEINEKEN-Vietnam#supply-chain) | Quản trị viên tập sự | Vận hành, Kỹ thuật | 🟢 Đang mở | 2026 | — | 20/11/2026 |
@@ -188,10 +187,11 @@ _Kiểm tra: 13/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | Zhejiang University \(International Business School, Haining\) | [ZIBS Hai Scholarship](https://zibs.zju.edu.cn/enzibs/UndergraduateApplication/list.htm) | Học bổng | Kinh doanh – Marketing | ⚪ Chưa rõ | 2026 | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (211) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (212) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
+| Đại học Kyoto \(chương trình của Bai Xian Asia Institute\) | [Asian Future Leaders Scholarship Program \(AFLSP\) tại Đại học Kyoto](https://www.aflsp.kyoto-u.ac.jp/) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | 04/11/2026 | 13/11/2026 |
 | Xipat | [Xipat Product Owner Trainee Program](https://xipat.com/careers/po-trainee-2026) | Thực tập | Công nghệ | 🔴 Đã đóng | 2026 | 26/10/2026 | 08/11/2026 |
 | University of Toronto | [Lester B. Pearson International Scholarship](https://future.utoronto.ca/pearson-scholarships) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | — | 06/11/2026 |
 | Trường Đại học Mở TP.HCM \(OU\) | [Học bổng Tài năng dành cho tân sinh viên \(ĐH Mở TP.HCM\)](https://ou.edu.vn/tin_tuc/hbtn-26-27/) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | 17/08/2026 | 05/11/2026 |
