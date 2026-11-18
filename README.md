@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Kiểm tra: 18/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 66 đang mở_
+_Kiểm tra: 18/11/2026 · dữ liệu thay đổi lần cuối: 18/11/2026 · 379 chương trình · 66 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -178,6 +178,7 @@ _Kiểm tra: 18/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | [Viettel Cyber Security](https://techjobs.vn/companies/viettel?utm_source=github&utm_medium=vn-student-programs) | [VCS Passport \(Viettel Cyber Security\)](https://tuyendung.viettelsecurity.com/vi/program/vcs-passport-2/) | Thực tập | Công nghệ | ⚪ Chưa rõ | — | — | — |
 | Wright State University | [Vietnam Academic Merit Scholarship \(Wright State University\)](https://www.wright.edu/enrollment-services/financial-aid/international-undergraduate-student-scholarships#vietnam-academic-merit-scholarship) | Học bổng | Tổng hợp | ⚪ Chưa rõ | 2025 | — | — |
 | [Viettel](https://techjobs.vn/companies/viettel?utm_source=github&utm_medium=vn-student-programs) | [Viettel Research Excellence Scholarship](https://tuyendung.viettel.vn/scholarship/research-excellence) | Học bổng | Công nghệ, Kỹ thuật | ⚪ Chưa rõ | — | — | — |
+| Vincom Retail | [Vincom Retail Management Trainee](https://vincom.com.vn/tuyen-dung) | Quản trị viên tập sự | Kinh doanh – Marketing, Vận hành | ⚪ Chưa rõ | — | — | — |
 | [VNPT](https://techjobs.vn/companies/vnpt?utm_source=github&utm_medium=vn-student-programs) | [VNPT Fresher](https://tuyendung.vnpt.vn/tin-fresher.html) | Fresher | Công nghệ | ⚪ Chưa rõ | — | — | — |
 | [VNPT](https://techjobs.vn/companies/vnpt?utm_source=github&utm_medium=vn-student-programs) | [VNPT Thực tập sinh](https://tuyendung.vnpt.vn/tin-thuc-tap-sinh.html) | Thực tập | Công nghệ | ⚪ Chưa rõ | — | — | — |
 | Victoria University of Wellington | [VUW Undergraduate International Scholarship](https://www.wgtn.ac.nz/scholarships/current/vuw-undergraduate-international-scholarship) | Học bổng | Tổng hợp | ⚪ Chưa rõ | 2026 | — | — |
