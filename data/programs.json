@@ -12002,5 +12002,31 @@
     "added_at": "2026-10-29",
     "updated_at": "2026-10-29",
     "notes": "Chưa thấy trang CDFresh trên domain Unilever; ngày lấy từ tin của UEH và NEU. Đăng ký qua bit.ly/CDFresh2027."
+  },
+  {
+    "slug": "vincom-retail-management-trainee",
+    "name": "Vincom Retail Management Trainee",
+    "type": "management_trainee",
+    "company": {
+      "name": "Vincom Retail",
+      "slug": null,
+      "domain": "vincom.com.vn"
+    },
+    "official_url": "https://vincom.com.vn/tuyen-dung",
+    "tracks": [
+      "Kinh doanh",
+      "Vận hành"
+    ],
+    "fields": [
+      "business",
+      "operations"
+    ],
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-11-18",
+    "updated_at": "2026-11-18",
+    "notes": "Trang chính thức chỉ là danh sách tuyển dụng chung, chưa có trang riêng của chương trình. Chưa ghi đợt vì ngày hạn mâu thuẫn giữa nguồn (Vincom: 2026-12-31; NEU: 2026-12-06)."
   }
 ]

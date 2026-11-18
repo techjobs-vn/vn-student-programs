@@ -1183,3 +1183,6 @@
 {"url": "https://vieclam.tmu.edu.vn/tro-ly-assistant-jxi6841747", "first_seen": "2026-11-18", "verdict": "rejected", "reason": "tin tuyển một vị trí lẻ"}
 {"url": "https://vieclam.tmu.edu.vn/nhan-vien-tu-van-du-an-co-ho-tro-dau-thuc-tap-viec-lam-hot-jxi6841477", "first_seen": "2026-11-18", "verdict": "rejected", "reason": "tin tuyển một vị trí lẻ"}
 {"url": "https://hcmc.ftu.edu.vn/uncategorised/cong-bo-quoc-te/", "first_seen": "2026-11-18", "verdict": "rejected", "reason": "bài công bố quốc tế của trường, không phải chương trình"}
+{"url": "https://vieclam.ueh.edu.vn/cong-viec/asia-azpire-graduate-program-vietnam_187713", "first_seen": "2026-11-18", "verdict": "rejected", "reason": "không tìm được trang chính thức trên domain AstraZeneca/ATS, chỉ có bài đăng lại của trường"}
+{"url": "https://jobs.neu.edu.vn/jobs/fia-fasttrack-2026-ngan-hang-an-binh-1202611171456", "first_seen": "2026-11-18", "verdict": "rejected", "reason": "tin tuyển một vị trí (chuyên viên tư vấn tài chính và đầu tư), không xác minh được là chương trình có tên"}
+{"url": "https://jobs.neu.edu.vn/jobs/management-trainee-vcr2027-vincom-retail-1202611161613", "first_seen": "2026-11-18", "verdict": "added", "program_slug": "vincom-retail-management-trainee"}
