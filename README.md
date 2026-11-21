@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Kiểm tra: 21/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 65 đang mở_
+_Kiểm tra: 22/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 65 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
