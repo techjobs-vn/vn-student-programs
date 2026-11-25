@@ -12002,5 +12002,48 @@
     "added_at": "2026-10-29",
     "updated_at": "2026-10-29",
     "notes": "Chưa thấy trang CDFresh trên domain Unilever; ngày lấy từ tin của UEH và NEU. Đăng ký qua bit.ly/CDFresh2027."
+  },
+  {
+    "slug": "nestle-sparkthenext-leaders",
+    "name": "Nestlé #SparkTheNext Leaders Program",
+    "type": "management_trainee",
+    "company": {
+      "name": "Nestlé Việt Nam",
+      "slug": null,
+      "domain": "nestle.com.vn"
+    },
+    "official_url": "https://www.nestle.com.vn/vi/jobs/students-graduates/nestle-spark-the-next-leaders-program",
+    "description": "Chương trình quản trị viên tập sự của Nestlé Việt Nam cho sinh viên năm cuối hoặc mới tốt nghiệp, với các nhánh kinh doanh, marketing, IT, tài chính, chuỗi cung ứng và nhà máy.",
+    "tracks": [
+      "Sales Field",
+      "E-commerce",
+      "Trade Marketing",
+      "Brand Marketing",
+      "Consumer Marketing & Services",
+      "Information Technology",
+      "Engineering",
+      "Finance & Control",
+      "Supply Chain",
+      "Factory Supply Chain",
+      "Factory Human Resources",
+      "Production",
+      "Quality Assurance"
+    ],
+    "fields": [
+      "tech",
+      "engineering",
+      "finance",
+      "business",
+      "operations",
+      "hr"
+    ],
+    "eligibility": "Sinh viên năm cuối hoặc mới tốt nghiệp dưới 1 năm kinh nghiệm, GPA từ 2.8/4, đi làm full-time từ tháng 5/2027.",
+    "recurring": "yearly",
+    "active": true,
+    "is_visible": true,
+    "source": "routine",
+    "added_at": "2026-11-25",
+    "updated_at": "2026-11-25",
+    "notes": "Ngày lấy từ tin trên jobs.neu.edu.vn; chưa đọc được trang chính thức của Nestlé (HTTP 403 khi fetch), link lấy từ nút đăng ký nes.tl/NSLP2027 trên tin."
   }
 ]

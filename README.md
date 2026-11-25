@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Kiểm tra: 25/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 62 đang mở_
+_Kiểm tra: 25/11/2026 · dữ liệu thay đổi lần cuối: 25/11/2026 · 379 chương trình · 63 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -42,6 +42,7 @@ _Kiểm tra: 25/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | Sophia University | [Sophia University New Student Scholarship](https://www.sophia.ac.jp/eng/admissions-and-aid/tuition/scholarship-before/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 11/11/2026 | 11/12/2026 |
 | [Ngân hàng TMCP Á Châu \(ACB\)](https://techjobs.vn/companies/acb?utm_source=github&utm_medium=vn-student-programs) | [The Next Banker](https://www.acbjobs.com.vn/pages/the-next-banker) | Thực tập | Tài chính | 🟢 Đang mở | 2026 | 01/10/2026 | 12/12/2026 |
 | Simon Fraser University | [International Undergraduate Scholars Entrance Scholarship \(USES\)](https://www.sfu.ca/students/financial-aid/entrance/highschool/uses.html) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 15/12/2026 |
+| Nestlé Việt Nam | [Nestlé #SparkTheNext Leaders Program](https://www.nestle.com.vn/vi/jobs/students-graduates/nestle-spark-the-next-leaders-program) | Quản trị viên tập sự | Công nghệ, Kỹ thuật, Tài chính, Kinh doanh – Marketing, Vận hành, Nhân sự | 🟢 Đang mở | 2026 | — | 19/12/2026 |
 | [TMA Tech Group](https://techjobs.vn/companies/tma-solutions?utm_source=github&utm_medium=vn-student-programs) | [TMA Industry Internship](https://www.tma.vn/tuyen-dung/thuc-tap) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | 25/12/2026 |
 | HDBank | [HDBank Future Banker 2026](https://hdbank.com.vn/) | Thực tập | Tài chính, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/12/2026 |
 | [Sacombank](https://techjobs.vn/companies/sacombank?utm_source=github&utm_medium=vn-student-programs) | [Sacombank HeadStart](https://sacombankcareer.com) | Thực tập | Tài chính, Công nghệ | 🟢 Đang mở | 2026 | — | 31/12/2026 |
