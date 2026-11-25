@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Kiểm tra: 24/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 63 đang mở_
+_Kiểm tra: 25/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 62 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -30,7 +30,6 @@ _Kiểm tra: 24/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | Gates Cambridge Trust \(Đại học Cambridge\) | [Gates Cambridge Scholarship](https://www.gatescambridge.org/apply/eligibility/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 11/09/2026 | — |
 | [TPBank](https://techjobs.vn/companies/tpbank?utm_source=github&utm_medium=vn-student-programs) | [TPBank Tập sự tiềm năng \(Công nghệ\)](https://tuyendung.tpb.vn/vi/jobs/RkV54P) | Fresher | Công nghệ | 🟢 Đang mở | 2026 | 15/09/2026 | — |
 | Swire Coca-Cola Việt Nam | [Chương trình Thực tập Coca-Cola STEMX](https://careersvn.app.swirecocacola.com/job/Ch%C6%B0%C6%A1ng-Tr%C3%ACnh-Th%E1%BB%B1c-T%E1%BA%ADp-Coca-Cola-STEMX-2026-Nh%C3%A0-M%C3%A1y-Mi%E1%BB%81n-B%E1%BA%AFc-%28H%C3%A0-N%E1%BB%99i%29/1283-vi_VN/) | Thực tập | Kỹ thuật, Vận hành | 🟢 Đang mở | 2026 | 17/09/2026 | — |
-| Chính phủ Thụy Sĩ \(SERI / Federal Commission for Scholarships for Foreign Students\) | [Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 20/08/2026 | 24/11/2026 |
 | Bocconi University | [Bocconi4Access to Education - 100% Full Tuition Waivers](https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/funding/100-full-tuition-waivers-ay-2027-28) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 12/11/2026 | 30/11/2026 |
 | ETH Zürich | [Excellence Scholarship & Opportunity Programme \(ESOP\)](https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/11/2026 | 30/11/2026 |
 | TikTok Shop | [TikTok Shop Graduate Development Program \(Vietnam\)](https://lifeattiktok.com/search/7670922017126074677) | Graduate | Kinh doanh – Marketing, Vận hành | 🟢 Đang mở | 2026 | — | 30/11/2026 |
@@ -182,10 +181,11 @@ _Kiểm tra: 24/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | Zhejiang University \(International Business School, Haining\) | [ZIBS Hai Scholarship](https://zibs.zju.edu.cn/enzibs/UndergraduateApplication/list.htm) | Học bổng | Kinh doanh – Marketing | ⚪ Chưa rõ | 2026 | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (217) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (218) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
+| Chính phủ Thụy Sĩ \(SERI / Federal Commission for Scholarships for Foreign Students\) | [Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | 20/08/2026 | 24/11/2026 |
 | UNIQLO Việt Nam | [UNIQLO Management Candidate \(UMC\) 2027](https://uniqlo.pasona.vn/) | Quản trị viên tập sự | Kinh doanh – Marketing, Vận hành | 🔴 Đã đóng | 2026 | 14/10/2026 | 23/11/2026 |
 | [Công ty Chứng khoán SSI](https://techjobs.vn/companies/ssi?utm_source=github&utm_medium=vn-student-programs) | [SSI Gen S](https://event.ssi.com.vn/gen-s) | Quản trị viên tập sự | Tài chính, Tổng hợp | 🔴 Đã đóng | 2026 | 19/10/2026 | 22/11/2026 |
 | HEINEKEN Việt Nam | [HEINEKEN Vietnam NextGen 2027 – Supply Chain](https://careers.theheinekencompany.com/English/HEINEKEN-Vietnam#supply-chain) | Quản trị viên tập sự | Vận hành, Kỹ thuật | 🔴 Đã đóng | 2026 | — | 20/11/2026 |
