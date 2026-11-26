@@ -4095,5 +4095,25 @@
     ],
     "updated_at": "2026-10-29",
     "notes": "Làm việc full-time từ 1/2027; 4 vòng: hồ sơ, bài kiểm tra kỹ năng, khảo sát thị trường theo nhóm, thuyết trình và phỏng vấn."
+  },
+  {
+    "program_slug": "bristol-think-big-scholarship",
+    "year": 2026,
+    "opens_at": "2026-10-27",
+    "deadline": "2027-03-19",
+    "sources": [
+      "https://www.bristol.ac.uk/international/fees-finance/scholarships/"
+    ],
+    "updated_at": "2026-11-26"
+  },
+  {
+    "program_slug": "si-scholarship-for-global-professionals",
+    "year": 2027,
+    "opens_at": "2027-02-08",
+    "deadline": "2027-02-24",
+    "sources": [
+      "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/"
+    ],
+    "updated_at": "2026-11-26"
   }
 ]

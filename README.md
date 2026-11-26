@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Kiểm tra: 26/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 378 chương trình · 62 đang mở_
+_Kiểm tra: 26/11/2026 · dữ liệu thay đổi lần cuối: 26/11/2026 · 378 chương trình · 63 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -61,6 +61,7 @@ _Kiểm tra: 26/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | Đại học RMIT Việt Nam | [Professor Nguyen Van Dao Scholarship - RMIT Việt Nam](https://www.rmit.edu.vn/study-at-rmit/scholarships/future-undergraduate-student-scholarships/professor-nguyen-van-dao-scholarship) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 05/03/2027 |
 | [RMIT Việt Nam](https://techjobs.vn/companies/rmit?utm_source=github&utm_medium=vn-student-programs) | [Vice-Chancellor's Scholars - RMIT Việt Nam](https://www.rmit.edu.vn/study-at-rmit/scholarships/future-undergraduate-student-scholarships/vice-chancellors-scholars) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 01/10/2026 | 05/03/2027 |
 | Ritsumeikan Asia Pacific University \(APU\) | [APU Tuition Reduction Scholarship for International Students](https://admissions.apu.ac.jp/costs_scholarships/before_enrollment/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 03/09/2026 | 17/03/2027 |
+| University of Bristol | [Think Big Scholarship \(University of Bristol\)](https://www.bristol.ac.uk/international/fees-finance/scholarships/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 27/10/2026 | 19/03/2027 |
 | University of Leeds | [Undergraduate International Excellence Scholarship](https://www.leeds.ac.uk/scholarship/15/undergraduate-international-excellence-scholarships) | Học bổng | Tổng hợp | 🟢 Đang mở | 2027 | — | 11/04/2027 |
 | Vingroup \(do VinUniversity vận hành\) | [Học bổng Khoa học Công nghệ đào tạo Tiến sĩ du học nước ngoài của Vingroup](https://scholarships.vinuni.edu.vn/) | Học bổng | Công nghệ, Kỹ thuật | 🟢 Đang mở | 2027 | — | 15/04/2027 |
 | The University of Manchester | [Global Futures Scholarship \(Đông Nam Á - Việt Nam\)](https://www.manchester.ac.uk/study/international/country-specific-information/vietnam/scholarships/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2027 | — | 23/04/2027 |
@@ -88,6 +89,7 @@ _Kiểm tra: 26/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | National University of Singapore \(NUS\) | [NUS International Undergraduate Scholarship](https://nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/nus-international-undergraduate-scholarship) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 16/12/2026 | 17/02/2027 |
 | National Yang Ming Chiao Tung University \(NYCU\) | [NYCU International Student Scholarship \(new students\)](https://oia.nycu.edu.tw/oia/en/app/data/view?id=792&module=nycu0012&serno=0f046f83-4147-4ec7-8921-bbaccd8c678f) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 20/12/2026 | 15/03/2027 |
 | Aalto University | [Aalto University Excellence Scholarship \(Bachelor's\)](https://www.aalto.fi/en/admission-services/scholarships-and-tuition-fees) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2027 | 07/01/2027 | 22/01/2027 |
+| Swedish Institute \(Viện Thụy Điển\) | [Swedish Institute Scholarship for Global Professionals](https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2027 | 08/02/2027 | 24/02/2027 |
 | Daegu Gyeongbuk Institute of Science and Technology \(DGIST\) | [DGIST Scholarship \(International Undergraduate\)](https://www.dgist.ac.kr/iuadm/sub04_01.do) | Học bổng | Công nghệ, Kỹ thuật | 🟡 Sắp mở | 2026 | — | — |
 | [Qualcomm AI Research Vietnam](https://techjobs.vn/companies/qualcomm?utm_source=github&utm_medium=vn-student-programs) | [Qualcomm AI Residency Program \(Việt Nam\)](https://www.qualcomm.com/research/artificial-intelligence/ai-residency-program) | Graduate | Công nghệ | 🟡 Sắp mở | 2026 | — | — |
 | Underwood International College, Đại học Yonsei | [Yonsei UIC Admissions Scholarship](https://uic.yonsei.ac.kr/admission.php?mid=m04_03) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2027 | — | — |
@@ -181,7 +183,7 @@ _Kiểm tra: 26/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | Zhejiang University \(International Business School, Haining\) | [ZIBS Hai Scholarship](https://zibs.zju.edu.cn/enzibs/UndergraduateApplication/list.htm) | Học bổng | Kinh doanh – Marketing | ⚪ Chưa rõ | 2026 | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (218) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (216) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -341,7 +343,6 @@ _Kiểm tra: 26/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | Chứng khoán Bảo Việt \(BVSC\) | [BVSC Next Gen](https://www.bvsc.com.vn/danhsachbaiviet/next-gen-2026-tu-chung-khoan-bao-viet-chinh-thuc-quay-tro-lai-voi-pham-vi-tuyen-dung-rong-hon/) | Fresher | Tài chính, Kinh doanh – Marketing | 🔴 Đã đóng | 2026 | — | 18/04/2026 |
 | U.S. Mission Vietnam \(Fulbright Program in Vietnam\) | [Fulbright Vietnamese Student Program](https://vn.usembassy.gov/fulbright-vietnamese-student-program/) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | — | 15/04/2026 |
 | [FPT Smart Cloud & Viện QACI](https://techjobs.vn/companies/fpt-ai?utm_source=github&utm_medium=vn-student-programs) | [FPT FutureTech Talents](https://futuretechtalents.fpt.com/) | Thực tập | Công nghệ | 🔴 Đã đóng | 2026 | 26/03/2026 | 10/04/2026 |
-| University of Bristol | [Think Big Scholarship \(University of Bristol\)](https://www.bristol.ac.uk/international/fees-finance/scholarships/) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2025 | 21/10/2025 | 10/04/2026 |
 | [VNG ZingPlay Game Studios \(VNG\)](https://techjobs.vn/companies/vng?utm_source=github&utm_medium=vn-student-programs) | [VNG Business Development Fresher \(BDF\)](https://career.vng.com.vn/danh-cho-sinh-vien/business-development-fresher-2026/) | Fresher | Kinh doanh – Marketing | 🔴 Đã đóng | 2026 | 15/03/2026 | 06/04/2026 |
 | Bộ Giáo dục Đại học Malaysia \(MOHE\) | [Malaysia International Scholarship \(MIS\)](https://biasiswa.mohe.gov.my/INTER/index.php) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | — | 03/04/2026 |
 | [Masan Group](https://techjobs.vn/companies/masan?utm_source=github&utm_medium=vn-student-programs) | [Masan Young Entrepreneur – Technology \(MYE-Tech\)](https://www.masangroup.com/news/masan-news/people-a-strategic-investment-for-masans-next-phase-of-growth/) | Quản trị viên tập sự | Công nghệ | 🔴 Đã đóng | 2026 | 16/03/2026 | 03/04/2026 |
@@ -366,7 +367,6 @@ _Kiểm tra: 26/11/2026 · dữ liệu thay đổi lần cuối: 29/10/2026 · 3
 | UpBase | [UpBase Management Trainee](https://upbase.asia/careers) | Quản trị viên tập sự | Kinh doanh – Marketing, Công nghệ, Vận hành | 🔴 Đã đóng | 2026 | — | 03/03/2026 |
 | Ngân hàng Bản Việt \(BVBank\) | [Thực tập sinh tiềm năng New Plus Banker](https://bvbank.talent.vn/job/thuc-tap-sinh-tiem-nang-new-plus-banker-53374) | Thực tập | Tài chính, Kinh doanh – Marketing | 🔴 Đã đóng | 2026 | — | 01/03/2026 |
 | University of Warwick | [Warwick Undergraduate Global Excellence Scholarship](https://ugscholarships.warwick.ac.uk/apply/scholarship/d415d7f7-5f43-473c-a01c-e3e98fd8189d) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | — | 27/02/2026 |
-| Swedish Institute \(Viện Thụy Điển\) | [Swedish Institute Scholarship for Global Professionals](https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | 09/02/2026 | 25/02/2026 |
 | Apero Technologies Group | [17FIPO – Fresher Product Owner Program](https://17fipo.apero.vn/) | Fresher | Công nghệ | 🔴 Đã đóng | 2026 | — | 24/02/2026 |
 | Tập đoàn Sun Group \(Khối Hàng không\) | [TECH GEN – Tài năng trẻ Kỹ thuật Hàng không \(Aircraft Maintenance Management Trainee Program\)](https://tuyendung.sungroup.com.vn/job/tech-gen-2026-tai-nang-tre-ky-thuat-hang-khong-aircraft-maintenance-management-trainee-program-10759) | Fresher | Kỹ thuật | 🔴 Đã đóng | 2026 | — | 23/02/2026 |
 | [Marvell Technology Vietnam](https://techjobs.vn/companies/marvell?utm_source=github&utm_medium=vn-student-programs) | [Marvell Vietnam Excellence Scholarship](https://www.marvell.com/company/careers/university-recruiting.html) | Thực tập | Công nghệ | 🔴 Đã đóng | 2025 | 17/11/2025 | 22/02/2026 |
