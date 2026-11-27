@@ -15,7 +15,7 @@ Phần lớn các chương trình này **không nằm trên trang tuyển dụng
 ## Danh sách
 
 <!-- PROGRAMS:START — tự sinh bởi scripts/render-readme.mjs, đừng sửa tay -->
-_Kiểm tra: 26/11/2026 · dữ liệu thay đổi lần cuối: 26/11/2026 · 378 chương trình · 63 đang mở_
+_Kiểm tra: 27/11/2026 · dữ liệu thay đổi lần cuối: 27/11/2026 · 378 chương trình · 64 đang mở_
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -45,6 +45,7 @@ _Kiểm tra: 26/11/2026 · dữ liệu thay đổi lần cuối: 26/11/2026 · 3
 | [TMA Tech Group](https://techjobs.vn/companies/tma-solutions?utm_source=github&utm_medium=vn-student-programs) | [TMA Industry Internship](https://www.tma.vn/tuyen-dung/thuc-tap) | Thực tập | Công nghệ | 🟢 Đang mở | 2026 | — | 25/12/2026 |
 | HDBank | [HDBank Future Banker 2026](https://hdbank.com.vn/) | Thực tập | Tài chính, Kinh doanh – Marketing | 🟢 Đang mở | 2026 | — | 31/12/2026 |
 | [Sacombank](https://techjobs.vn/companies/sacombank?utm_source=github&utm_medium=vn-student-programs) | [Sacombank HeadStart](https://sacombankcareer.com) | Thực tập | Tài chính, Công nghệ | 🟢 Đang mở | 2026 | — | 31/12/2026 |
+| Suntory PepsiCo Việt Nam | [Suntory PepsiCo Management Trainee Program](https://careers.suntorypepsico.vn/intro?id=171&meta_title=MT2026) | Quản trị viên tập sự | Kinh doanh – Marketing, Vận hành, Tài chính, Nhân sự | 🟢 Đang mở | 2026 | 23/11/2026 | 31/12/2026 |
 | The Chinese University of Hong Kong \(CUHK\) | [CUHK Admission Scholarships \(non-local undergraduates\)](https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/10/2026 | 07/01/2027 |
 | The Chinese University of Hong Kong \(CUHK\) | [HKSAR Government Scholarship \(CUHK nomination, non-local\)](https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/#hksar-government-scholarship) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 02/10/2026 | 07/01/2027 |
 | Korea Advanced Institute of Science and Technology \(KAIST\) | [KAIST Scholarship \(International Undergraduate\)](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/) | Học bổng | Tổng hợp | 🟢 Đang mở | 2026 | 22/09/2026 | 14/01/2027 |
@@ -85,6 +86,7 @@ _Kiểm tra: 26/11/2026 · dữ liệu thay đổi lần cuối: 26/11/2026 · 3
 | Gwangju Institute of Science and Technology \(GIST\) | [GIST College Scholarship \(International Undergraduate\)](https://ipa.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf) | Học bổng | Công nghệ, Kỹ thuật | 🟡 Sắp mở | 2026 | 01/12/2026 | 29/01/2027 |
 | Quỹ Hợp tác và Phát triển Quốc tế Đài Loan \(TaiwanICDF\) | [TaiwanICDF International Higher Education Scholarship](https://www.icdf.org.tw/wSite/ct?xItem=12505&ctNode=31562&mp=2) | Học bổng | Kinh doanh – Marketing, Kỹ thuật, Công nghệ, Tổng hợp | 🟡 Sắp mở | 2026 | 01/12/2026 | 15/03/2027 |
 | Ulsan National Institute of Science and Technology \(UNIST\) | [UNIST Scholarship \(International Undergraduate\)](https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do) | Học bổng | Công nghệ, Kỹ thuật, Kinh doanh – Marketing | 🟡 Sắp mở | 2026 | 02/12/2026 | 22/01/2027 |
+| Crystal International Group \(Việt Nam\) | [Crystal Associate Programme \(Chương trình Nhà lãnh đạo Tương lai Tập đoàn Crystal\)](https://crystalcareers.vn/) | Quản trị viên tập sự | Vận hành, Kỹ thuật, Kinh doanh – Marketing | 🟡 Sắp mở | 2026 | 10/12/2026 | 20/01/2027 |
 | National University of Singapore \(NUS\) | [ASEAN Undergraduate Scholarship](https://nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/asean-undergraduate-scholarship) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 16/12/2026 | 17/02/2027 |
 | National University of Singapore \(NUS\) | [NUS International Undergraduate Scholarship](https://nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/nus-international-undergraduate-scholarship) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 16/12/2026 | 17/02/2027 |
 | National Yang Ming Chiao Tung University \(NYCU\) | [NYCU International Student Scholarship \(new students\)](https://oia.nycu.edu.tw/oia/en/app/data/view?id=792&module=nycu0012&serno=0f046f83-4147-4ec7-8921-bbaccd8c678f) | Học bổng | Tổng hợp | 🟡 Sắp mở | 2026 | 20/12/2026 | 15/03/2027 |
@@ -183,7 +185,7 @@ _Kiểm tra: 26/11/2026 · dữ liệu thay đổi lần cuối: 26/11/2026 · 3
 | Zhejiang University \(International Business School, Haining\) | [ZIBS Hai Scholarship](https://zibs.zju.edu.cn/enzibs/UndergraduateApplication/list.htm) | Học bổng | Kinh doanh – Marketing | ⚪ Chưa rõ | 2026 | — | — |
 
 <details>
-<summary>Đã đóng đợt gần nhất (216) — thường mở lại hằng năm</summary>
+<summary>Đã đóng đợt gần nhất (214) — thường mở lại hằng năm</summary>
 
 | Công ty | Chương trình | Loại | Lĩnh vực | Trạng thái | Đợt | Mở đơn | Hạn nộp |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: |
@@ -376,11 +378,9 @@ _Kiểm tra: 26/11/2026 · dữ liệu thay đổi lần cuối: 26/11/2026 · 3
 | [FPT Telecom](https://techjobs.vn/companies/fpt-telecom?utm_source=github&utm_medium=vn-student-programs) | [FPT Telecom Embedded Bootcamp](https://fptjobs.com/su-kien-khao-sat/fpt-telecom-embedded-bootcamp-2026-tu-zero-den-tu-tay-viet-he-dieu-hanh-rtos-90) | Thực tập | Công nghệ | 🔴 Đã đóng | 2026 | — | 06/02/2026 |
 | Constructor University | [Talent Scholarship \(Constructor University\)](https://constructor.university/scholarships#talent-scholarship) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2026 | — | 01/02/2026 |
 | Hanwha Finance \(Hanwha Life / Pinetree Securities\) | [Hanwha Finance Global Internship Program \(GIP\)](https://www.hanwhafinancetalent.com/en/gip) | Thực tập | Công nghệ | 🔴 Đã đóng | 2025 | 30/12/2025 | 26/01/2026 |
-| Crystal International Group \(Việt Nam\) | [Crystal Associate Programme \(Chương trình Nhà lãnh đạo Tương lai Tập đoàn Crystal\)](https://crystalcareers.vn/) | Quản trị viên tập sự | Vận hành, Kỹ thuật, Kinh doanh – Marketing | 🔴 Đã đóng | 2025 | 10/12/2025 | 25/01/2026 |
 | [Renesas Design Vietnam](https://techjobs.vn/companies/renesas?utm_source=github&utm_medium=vn-student-programs) | [Renesas Campus Ambassador](https://jobs.renesas.com/campus-ambassador) | Đại sứ sinh viên | Công nghệ | 🔴 Đã đóng | 2025 | — | 25/01/2026 |
 | Chính phủ Hungary \(Tempus Public Foundation\) | [Stipendium Hungaricum Scholarship Programme](https://stipendiumhungaricum.hu/country/vietnam/) | Học bổng | Tổng hợp | 🔴 Đã đóng | 2025 | — | 15/01/2026 |
 | [Axon Active](https://techjobs.vn/companies/axon-active?utm_source=github&utm_medium=vn-student-programs) | [Axon Active Java Fresher Program](https://www.edu.axonactive.com/software-fresher-program) | Fresher | Công nghệ | 🔴 Đã đóng | 2025 | — | 31/12/2025 |
-| Suntory PepsiCo Việt Nam | [Suntory PepsiCo Management Trainee Program](https://careers.suntorypepsico.vn/intro?id=171&meta_title=MT2026) | Quản trị viên tập sự | Kinh doanh – Marketing, Vận hành, Tài chính, Nhân sự | 🔴 Đã đóng | 2025 | 25/11/2025 | 31/12/2025 |
 | Giảng dạy vì Việt Nam \(Teach For Viet Nam\) | [Đại sứ Sinh viên Teach For Viet Nam \(Leadership Development Fellowship\)](https://teachforvietnam.org/mo-don-ung-tuyen-dai-su-sinh-vien-2026-chuong-trinh-leadership-development-fellowship-batch-10/) | Đại sứ sinh viên | Tổng hợp | 🔴 Đã đóng | 2025 | 12/11/2025 | 24/11/2025 |
 | [DNSE](https://techjobs.vn/companies/dnse?utm_source=github&utm_medium=vn-student-programs) | [DNSE Talent Program – Tech Pioneer](https://talent.dnse.com.vn/happy-dnse/tin-tuc/dnse-talent-program) | Fresher | Công nghệ | 🔴 Đã đóng | 2025 | 18/06/2025 | 30/06/2025 |
 | [Ngân hàng TMCP Hàng Hải Việt Nam \(MSB\)](https://techjobs.vn/companies/msb?utm_source=github&utm_medium=vn-student-programs) | [MSB Management Trainee](https://talent.msb.com.vn/) | Quản trị viên tập sự | Công nghệ | 🔴 Đã đóng | 2025 | 19/05/2025 | 21/06/2025 |
