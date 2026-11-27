@@ -4115,5 +4115,27 @@
       "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/"
     ],
     "updated_at": "2026-11-26"
+  },
+  {
+    "program_slug": "crystal-associate-programme",
+    "year": 2026,
+    "opens_at": "2026-12-10",
+    "deadline": "2027-01-20",
+    "sources": [
+      "https://crystalcareers.vn/",
+      "https://jobs.neu.edu.vn/jobs/crystal-associate-programme-2027-crystal-international-group-limited-1202611261449"
+    ],
+    "updated_at": "2026-11-27"
+  },
+  {
+    "program_slug": "suntory-pepsico-management-trainee",
+    "year": 2026,
+    "opens_at": "2026-11-23",
+    "deadline": "2026-12-31",
+    "sources": [
+      "https://careers.suntorypepsico.vn/apply-mt-2027-management-trainee",
+      "https://jobs.neu.edu.vn/jobs/suntory-pepsico-management-trainee-2027-suntory-pepsico-viet-nam-1202611251431"
+    ],
+    "updated_at": "2026-11-27"
   }
 ]

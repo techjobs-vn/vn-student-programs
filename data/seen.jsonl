@@ -1240,3 +1240,44 @@
 {"url":"https://vieclam.uet.vnu.edu.vn/nhan-vien-ky-thuat-jxi6847059","first_seen":"2026-11-25","verdict":"rejected","reason":"tin tuyển một vị trí lẻ"}
 {"url":"https://vieclam.uet.vnu.edu.vn/game-tester-jxi6852958","first_seen":"2026-11-25","verdict":"rejected","reason":"tin tuyển một vị trí lẻ"}
 {"url":"https://www.fit.hcmus.edu.vn/nghien-cuu/g/ptn-tri-tue-nhan-tao-da-tac-tu-va-tin-cay","first_seen":"2026-11-25","verdict":"rejected","reason":"trang phòng thí nghiệm, không phải chương trình"}
+{"url":"https://jobs.neu.edu.vn/jobs/crystal-associate-programme-2027-crystal-international-group-limited-1202611261449","first_seen":"2026-11-27","verdict":"added","program_slug":"crystal-associate-programme"}
+{"url":"https://jobs.neu.edu.vn/jobs/suntory-pepsico-management-trainee-2027-suntory-pepsico-viet-nam-1202611251431","first_seen":"2026-11-27","verdict":"added","program_slug":"suntory-pepsico-management-trainee"}
+{"url":"https://www.suntorypepsico.vn/","first_seen":"2026-11-27","verdict":"rejected","reason":"trang công ty chung"}
+{"url":"https://www.fit.hcmus.edu.vn/tin-tuc/d/internship-q1-geocomply-machine-learning-engineer-intern","first_seen":"2026-11-27","verdict":"duplicate","program_slug":"geocomply-internship-program"}
+{"url":"https://www.fit.hcmus.edu.vn/tin-tuc/d/internship-q1-geocomply-software-engineer-intern-infrastructure-platform","first_seen":"2026-11-27","verdict":"duplicate","program_slug":"geocomply-internship-program"}
+{"url":"https://www.fit.hcmus.edu.vn/tin-tuc/d/internship-q1-geocomply-android-security-engineer-intern","first_seen":"2026-11-27","verdict":"duplicate","program_slug":"geocomply-internship-program"}
+{"url":"https://www.fit.hcmus.edu.vn/tin-tuc/d/internship-q1-geocomply-qa-intern-anti-spoofing-testing","first_seen":"2026-11-27","verdict":"duplicate","program_slug":"geocomply-internship-program"}
+{"url":"https://www.fit.hcmus.edu.vn/tin-tuc/d/internship-q1-geocomply-data-analyst-intern","first_seen":"2026-11-27","verdict":"duplicate","program_slug":"geocomply-internship-program"}
+{"url":"https://forum.uit.edu.vn/t/internship-q1-geocomply-android-security-engineer-intern/165208","first_seen":"2026-11-27","verdict":"duplicate","program_slug":"geocomply-internship-program"}
+{"url":"https://forum.uit.edu.vn/t/internship-q1-geocomply-data-analyst-intern/165206","first_seen":"2026-11-27","verdict":"duplicate","program_slug":"geocomply-internship-program"}
+{"url":"https://forum.uit.edu.vn/t/internship-q1-geocomply-machine-learning-engineer-intern/165205","first_seen":"2026-11-27","verdict":"duplicate","program_slug":"geocomply-internship-program"}
+{"url":"https://forum.uit.edu.vn/t/internship-q1-geocomply-qa-intern-anti-spoofing-testing/165204","first_seen":"2026-11-27","verdict":"duplicate","program_slug":"geocomply-internship-program"}
+{"url":"https://www.fit.hcmus.edu.vn/tin-tuc/d/chuong-trinh-thuc-tap-nghien-cuu-2027-tai-vien-ky-thuat-toyota-tti-nhat-ban","first_seen":"2026-11-27","verdict":"rejected","reason":"thực tập nghiên cứu cho sinh viên đang học qua trường (nộp tại phòng đối ngoại), không có trang chính thức của TTI"}
+{"url":"https://www.fit.hcmus.edu.vn/tin-tuc/tag/sdgs4-giao-duc-co-chat-luong","first_seen":"2026-11-27","verdict":"rejected","reason":"trang tag, không phải chương trình"}
+{"url":"https://www.fit.hcmus.edu.vn/tin-tuc/tag/sdgs17-quan-he-doi-tac-vi-cac-muc-tieu","first_seen":"2026-11-27","verdict":"rejected","reason":"trang tag, không phải chương trình"}
+{"url":"https://www.fit.hcmus.edu.vn/tin-tuc/d/lam-research-taiwan-to-chuc-phong-van-tuyen-dung-tai-viet-nam-12-2026","first_seen":"2026-11-27","verdict":"rejected","reason":"sự kiện phỏng vấn tuyển dụng, không phải chương trình có tên"}
+{"url":"https://www.fit.hcmus.edu.vn/tin-tuc/d/ban-nhan-duoc-gi-voi-vi-tri-global-service-engineer-tai-lam-research-taiwan","first_seen":"2026-11-27","verdict":"rejected","reason":"tin tuyển một vị trí lẻ"}
+{"url":"https://jobs.neu.edu.vn/companies/uxybncsk6qqi87u","first_seen":"2026-11-27","verdict":"rejected","reason":"trang công ty chung"}
+{"url":"https://jobs.neu.edu.vn/companies/xxxlbhytqyf19y8","first_seen":"2026-11-27","verdict":"rejected","reason":"trang công ty chung"}
+{"url":"https://jobs.neu.edu.vn/companies/6hlkrqinkqkj421","first_seen":"2026-11-27","verdict":"rejected","reason":"trang công ty chung"}
+{"url":"https://fetel.hcmus.edu.vn/thong-bao-ve-viec-bao-ve-luan-van-cao-hoc-dot-thang-12-2026/","first_seen":"2026-11-27","verdict":"rejected","reason":"thông báo bảo vệ luận văn"}
+{"url":"https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-quan-he-khach-hang-doanh-nghiep-MTQwMQ.html","first_seen":"2026-11-27","verdict":"rejected","reason":"tin thực tập một vị trí lẻ"}
+{"url":"https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-MTM5OA.html","first_seen":"2026-11-27","verdict":"rejected","reason":"tin thực tập một vị trí lẻ"}
+{"url":"https://vieclam.hub.edu.vn/portal/viec-lam/telesales-[ban-thoi-gian]-MTM5OQ.html","first_seen":"2026-11-27","verdict":"rejected","reason":"việc bán thời gian, vị trí lẻ"}
+{"url":"https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-quan-he-khcn-va-khdn-MTM5Nw.html","first_seen":"2026-11-27","verdict":"rejected","reason":"tin thực tập một vị trí lẻ"}
+{"url":"https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-phong-khach-hang-ca-nhan-[khcn]-MTM4OA.html","first_seen":"2026-11-27","verdict":"rejected","reason":"tin thực tập một vị trí lẻ"}
+{"url":"https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-ke-toan-MTM5Ng.html","first_seen":"2026-11-27","verdict":"rejected","reason":"tin thực tập một vị trí lẻ"}
+{"url":"https://vieclam.hub.edu.vn/portal/viec-lam/thuc-tap-sinh-kiem-toan-MTM5NQ.html","first_seen":"2026-11-27","verdict":"rejected","reason":"tin thực tập một vị trí lẻ"}
+{"url":"https://vieclam.tmu.edu.vn/circle-k-tuyen-dung-nhan-vien-ban-hang-jxi6858241","first_seen":"2026-11-27","verdict":"rejected","reason":"tin tuyển nhân viên một vị trí lẻ"}
+{"url":"https://vieclam.tmu.edu.vn/nhan-vien-khu-vui-choi-jxi6856483","first_seen":"2026-11-27","verdict":"rejected","reason":"tin tuyển nhân viên một vị trí lẻ"}
+{"url":"https://vieclam.tmu.edu.vn/co-hoi-nghe-nghiep?tt=41,42","first_seen":"2026-11-27","verdict":"rejected","reason":"trang danh sách, không phải chương trình"}
+{"url":"https://vieclam.tmu.edu.vn/nhan-vien-tu-van-tuyen-sinh-jxi6746147","first_seen":"2026-11-27","verdict":"rejected","reason":"tin tuyển nhân viên một vị trí lẻ"}
+{"url":"https://vieclam.tmu.edu.vn/thuc-tap-sinh-seo-marketing-jxi6668121","first_seen":"2026-11-27","verdict":"rejected","reason":"tin thực tập một vị trí lẻ"}
+{"url":"https://vieclam.uet.vnu.edu.vn/senior-application-architect-ai-insurtech-industry-jxi6853614","first_seen":"2026-11-27","verdict":"rejected","reason":"tin tuyển một vị trí lẻ (senior)"}
+{"url":"https://vieclam.ueh.edu.vn/cong-viec/nhan-vien-phuc-vu-f-b_187716","first_seen":"2026-11-27","verdict":"rejected","reason":"tin tuyển nhân viên một vị trí lẻ"}
+{"url":"https://vieclam.ueh.edu.vn/cong-viec/digital-executive-havas-group-vietnam_187728","first_seen":"2026-11-27","verdict":"rejected","reason":"tin tuyển một vị trí lẻ"}
+{"url":"https://vieclam.ueh.edu.vn/cong-viec/danh-sach-cong-viec?page=2&sort=0&limit=20&time=0&province=0&search=program","first_seen":"2026-11-27","verdict":"rejected","reason":"trang danh sách, không phải chương trình"}
+{"url":"https://youth.neu.edu.vn/vi/tin-tuc-2590/gap-neu-cuoi-tuan-so-36-mua-3","first_seen":"2026-11-27","verdict":"rejected","reason":"tin sự kiện của trường"}
+{"url":"https://youth.neu.edu.vn/vi/tin-tuc-2590/ca-si-phuong-my-chi-gui-thong-diep-y-nghia-den-nguoi-tre-tai-hoi-nghi-van-hoa","first_seen":"2026-11-27","verdict":"rejected","reason":"tin tức, không phải chương trình"}
+{"url":"https://youth.neu.edu.vn/vi/tin-tuc-2590/100-nha-sang-tao-noi-dung-ti-view-lan-toa-dieu-tich-cuc","first_seen":"2026-11-27","verdict":"rejected","reason":"tin phong trào đoàn"}
+{"url":"https://youth.neu.edu.vn/vi/tin-tuc-2590/lam-the-nao-de-nghe-sang-tao-noi-dung-so-tao-dau-an-gia-tri-that-thoi-ai","first_seen":"2026-11-27","verdict":"rejected","reason":"tin phong trào đoàn"}
